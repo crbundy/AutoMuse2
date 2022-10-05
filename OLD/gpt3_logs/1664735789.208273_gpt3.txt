@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: confidence. It wasnt like that, Marcos, Franc said. We didnt want to put you in a dangerous position. No, instead you used me. Both of you did. If Caden and Marcos kept going at it, soon the proverbial fur would be flying. I took Marcos by the hand, pulling him away from Caden and toward a bedroom. Enough talk. We all need some sleep if were going to be up early in the morning. The panther shifter dug in his heels, his lip raised like a snarl, like he was about to attack. I got up in his face and appealed to an altogether different animal nature. Can I trust you to watch over me while I sleep, or do I need to ask someone else? Marcos snarl disappeared, replaced by shock. Of course you can trust me. I threaded my fingers around his arm, loving his boxer-like build, and dragged him along to the bedroom. Marcos could have resisted, but Id bet on his protective shifter instincts kicking in. When we got to the door, I looked back at the others, and for a moment, I wanted the safety of all of them cuddled up against me. No, that could wait. Right now, Marcos needed me. Franc and Caden didnt seem to notice my furtive glance, but Liam did. He arched a brow, as if asking if I wanted more company. I shook my head, and the wolf gave a single nod. I closed the door behind Marcos and myself and got ready for bed.  Marcos watched me pull my hair up into a ponytail, his eyes full of questions as he sat down on one bed in the simple room.  I planted myself next to him,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a situation where someone is being pulled away by someone else to a bedroom, against their will. The person being pulled away could have resisted, but didn't. The reason given is that they needed protection while they sleep. The person doing the pulling then gets ready for bed, with the other person still watching.

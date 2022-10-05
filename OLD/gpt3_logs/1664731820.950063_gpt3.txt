@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: and I hoped we looked like two party attendees just taking in the gardens. I passed over the scarf and the portal stone and grabbed the handful of marbles Id stuffed in there earlier.  Jax cocked her head to the side. "I hear nothing?" "Duh, it's ultrasonic jazz. Shouldnt my fox ears pick that up? I guess not? You know Ive never quite understood how that works for supes who shift, be they animal or demonic forms. Do you have your animal powers all the time or just when youre in that form? As we passed in front of the fountain, I dropped in the marbles one by one, and then fluffed my voluminous skirts one more time. With the bubbling of the water, I was fairly certain the vampire guards wouldnt have noticed the slight noise. Jax arched her brow, but didnt comment.  I think it depends on the species? I know most shifters have enhanced perceptions, but its magnified when theyre in their beast forms. I sauntered in the alcove's direction, listening to the ambient music and bubbling fountain. Waiting. Looking normal. And you? I pressed. I prefer to remain an enigma, my dear fae, she said, dramatically batting her eyes. I let out a genuine laugh, enjoying myself more than I had in a long time. Fine, keep your secrets. Says the fae, Jax bantered back. We shared a smile, not just of the moment, but of the shenanigans to come. When the rasping, slithering noise started behind me, I pretended interest in a lovely carved faun on a pedestal to one side of the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Two partygoers explore the gardens, dropping marbles into the fountain to make a noise. They discuss how shifters work, and then the slithering noise behind them signals that their prank has been successful.

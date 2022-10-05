@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: he not heard of their legacies being stolen? Maybe not, since it was his night off? Either way, Jax and I had to escape while we still could. It would be a total waste of this perfect opportunity if the guys got their legacies back before I made my escape. Id spent so long planning their comeuppance, I couldnt back down now. I pulled Jax close, wanting to make sure I didnt leave her by accident when I got the opportunity to portal.  Give the craptacular five my regards, I said to Marcos. He squinted his eyes like he had a headache. You mean the other four? Cause Im right here. Whatever, panther boy, I taunted him. Marcos moved a step closer, and I knew it was now or never. I threw my glass at him, which he reflexively grabbed at.  Bomb! I commanded my dress.  Petals exploded from the dress like a massive glitter bomb, filling the air with a cacophony of color. I dragged Jax around Marcos and through the exit with me, flicking my fingers to open a portal just steps outside of the club. We passed through and I closed the portal before anyone could follow, leaving Jax and I alone in a fog of petal rain in a secluded park down the street from my place. We both took a few moments to catch our breath. Jax let out a giggle. That was amazing, although it looks like your dress is missing that lovely train now.  I checked the hemline which had risen to calf-height after the release of the petal bomb. Its the sad cost of using the dresss flower smokescreen enchantment,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist and Jax escape from the club while the other guys are distracted. The protagonist reflects on how long they've been planning this moment, and how satisfying it is to finally be doing it. The protagonist's dress is destroyed in the process, but they don't mind.

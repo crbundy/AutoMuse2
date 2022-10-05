@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: clucked at me as he passed by. Youre not our doorman, Marcos. I shook my head, following him into the building. Dont sass me, demon. I thought I caught a pained look in Cadens eyes, but it quickly transformed into a look of stoic resignation. Whatever. Have it your way, kitty cat. I gritted my teeth, but tamped down my desire to snap back at him. Even if the timing had been better, the incubus wasnt about to listen to me.  The bowling alley was pretty quiet, but then it was a small town. An older, grizzled man with a touch of grey in his beard sat behind the main counter, shining shoes as he watched maybe a dozen patrons bowl and throw back beers. Liam and Caden hung back while Sera strode right up to the counter, Emrys at her side. Wanting to be involved in the discussion, I moved forward and joined them at the counter. Hello, do you know where we can find Jasper Jeanneau? Sera asked. The man stood, and I instantly recognized him as a bear shifter. I guessed he might even be the local patriarch, too, by the way he carried himself. Burly, tall, and solid as a boulder, I wouldnt have wanted to square off against him. Despite his years, Id wager he could more than hold his own. Youve found him. Yous all can stay, but the demon has got to go. Caden rolled his eyes. Whatever, mister creaky cranky pants.  Jasper raised a brow. Boy, I could chew you up and spit you out. Caden smirked, and then headed out the door. Thats what she said. Or was it he said?
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a scene in which the speaker and two others are speaking to an older man behind a counter. The man tells them that they can stay, but the demon (Caden) has to go. Caden leaves, smirking.

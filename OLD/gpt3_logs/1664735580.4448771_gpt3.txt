@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: coming and bolt. Why do you need it? Sera asked. Ambers face lit up. Its the best fertilizer, and its the only one that will force these Altruscan orchids to flower and make little baby plants. I ran out a few weeks ago, so this is serendipity that you all came along. Lucky us. Dont pixies bite? Marcos asked. Oh yes. Venomous, too. But Im sure by working together you can outsmart the little pests and get me what I need. And when I have what I need, you can have your flower. For Jasper, right? Right, Sera replied. Okay, well do it. Is there a local pixie hangout youd recommend for this endeavor? Amber nodded vigorously, pulled a notepad and pen out of her pocket, and scratched out an address. Try here. Its a spot a little way out of town in a protected supernatural wilderness habitat. Theres a visitor center and everything. You cant miss it. Amber held out the note and Sera took it. Sera offered her hand. They shook on it, and the deal was made.  Well be back first thing in the morning, so plan to be here early. Id stay up all night for a chance at pixie poop. Good luck! Amber said, waving us goodbye.   The Runaround Sera Not having a car, we walked across town, down a nature trail path, and across a wide bridge to reach the visitors center. I couldnt help but keep in mind how long everything was taking us to navigate, knowing wed have to retrace our steps to get back to the orchid, and then the Eye, in order to meet Taneishas deadline of
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A group of friends agree to help a woman collect pixie feces in order to receive a flower in return. They walk to the location and plan to come back the next morning.

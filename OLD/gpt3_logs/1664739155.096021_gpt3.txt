@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: had conveniently left the outbuilding unlocked, and although it was pretty large, theyd packed it with excess equipment. Stacks of benches and chairs lined the room, as well as gardening equipment and tools packed on shelves that lined the walls. It was orderly enough to leave an aisle running down the middle, which was the space Id been using to pace. Liam had taken up watch near the lone window, while Marcos stood at the door, peering out as he held it barely open. I stopped pacing and rubbed my temples, wishing I hadnt followed Emrys and the boys through that portal. Im just impatient. Im no longer behind this plan, Liam said, a deep frown creasing his brow as he watched me. Weve been out here for half an hour, and Im no good at sitting around. Agreed, Marcos said. The others should be here soon. I vote we shift and go scouting for pixies to save time. Done, Liam replied with a decisive nod. Our beasts will smell them out in no time. Didnt Greyson say shifters scared the pixies off? I asked. He did, but that works for us, Marcos replied. We dont want them, just to know where they hang out. Wait a sec, I didnt get a vote? I asked, planting my hands on my hips. In our little democracy, majority rules, Liam replied. Unless youre in charge now? he asked me, his playful smile daring me to challenge him. A flicker of light flared at my fingertips, and by Liams frown, I knew hed seen it. Again. No, of course not. Its just I stammered,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes three people who are waiting for others to arrive. They are in a large room that is packed with equipment. Liam and Marcos are discussing their plan to find pixies. I interrupts them to ask a question.

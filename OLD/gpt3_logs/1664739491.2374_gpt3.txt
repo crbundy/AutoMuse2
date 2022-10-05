@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: that the entire posse were all mated to me wasnt something the others agreed with. Heck, it wasnt something Id bought into either. There was no magical promise that things would all work out or that everyone would come around. Not that I needed or wanted them to. Sure, Id like a partner to spend my life with, but I wasnt looking for a mate. Certainly not multiple mates. I sighed. So why hadnt I taken Taneisha up on her offer to send me back home? Oh yeah, because despite the danger and the sometimes temperamental demi-gods, I was having fun. Imagine that. Taneisha had joked that I needed time to work out my childhood attractions. Was that all this was? If so, was that bad? Was there any harm in enjoying the time together? I steeled my nerves, pulled the door open wide, and entered the cave, relieved to have the safety of this simple, wooden door separating us from the wilds of the Netherworld, if only for one night.  Liam followed me in, sweeping his flashlight around the space. Near the door was a gas lamp, which he lit while I held his flashlight. Once it was going, the dim lamplight illuminated the space which held a pair of couches framing a central fireplace. Off to one side was a tiny kitchenette with a sink, cupboard, and a small table with a couple more lamps. There werent any decorations or personal items lying around. When Liam turned up the lamp, four doors on the far wall came into view, all of them open to the rooms beyond. We should search those rooms
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's thoughts on their current situation, in which they are living with multiple mates in a dangerous place. They reflect on why they have not taken an offer to return home, and realize that they are enjoying their time with their mates, even though it may be just a childhood attraction. They enter a cave with one of their mates, and find that it is a safe place for the night.

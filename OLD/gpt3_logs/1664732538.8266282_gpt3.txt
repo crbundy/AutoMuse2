@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: of the gardens. Francs space has the standard bacchanals too, but I doubt those are the area of Velvet where were headed tonight. Over there, she pointed to a dome-shaped building with an arched entryway, is the Temple. Then there, in that low building at the far end of the garden, is the Den of Iniquity. This place is huge, I wouldnt have guessed that from the outside. Jax nodded. I havent even seen all of it, just the highlights. Is there a pool too? This club would be off the hook with a pool! Nope, no pool, T. Whats the story with the bowling pin? Oh, thats a funny story. Back at Briarwood Academy there was this popular bowling hang out. Marcos and I were both there one night, each with our own friends. He was, of course, killing it and leading the scoreboard, not just with his team, but with all the bowlers that night. Someone must have cursed me because I couldnt hit a single pin. So, during the final set I enchanted Marcos pins to run away from his balls. I dont think they ever caught all of them. Jax frowned. So, when Marcos sees that pin, hell know its from you? When it takes off into the crowd, you bet he will. Itll cause havoc and hell know without a doubt that I was here! Marcos knowing youre here is a good plan, why? He needs to know Im coming for him. For all of them. Done dallying with the tour, I pulled Jax aside. You got me inside the club, as promised, fox, so Ill pay up on that favor when you call it in. Now, it might
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the different areas of a club, and how one of the areas is a homage to a prank that was pulled on a person named Marcos. The person who pulled the prank (possibly named T?) says they will call in their favor from Jax, who got them into the club.

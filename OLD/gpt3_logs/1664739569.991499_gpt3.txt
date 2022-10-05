@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: seems she could use my help. Seras fine, Em said, pulling Sera behind him and moving between her and Ella. Weve got her covered. Ellas eyes widened as a beat of silence passed between all of us. A look of understanding passed over Ellas face as she looked back and forth between us, and I knew that the siren innately understood our dynamic, perhaps even better than we did. Ella held up her hands in mock surrender and stepped back beside Mikael. I meant no overstep. None taken, Ella. Its been a long day for all of us, I replied. How ironic was it that the siren could read the room, yet Sera remained in denial over us being her mates? Where did you say youve been this past week on this so-called job? Chadwick asked, his expression full of contempt, glancing between Sera and the rest of us. And whats going on with your magic? Neither of those is any of your business, Sera snapped back, planting her still-glowing hands on her hips. Veins of raw magical power erupted under her feet as she spoke, but Sera appeared not to notice. The lines invaded the cement and grass in a series of growths, all aimed directly at Chadwick. I was torn between feeling relieved that she wasnt worried about her friends seeing her wielding magic and worried that she was about to further lose control. I said Im fine, Chad, she said, saying his name like an insult, and frankly, weve got bigger things to worry about right now than my social calendar. Mikael and I shared a look,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a situation where the protagonist's friend is being threatened by another person. The protagonist steps in to protect their friend, and the other person backs down. The protagonist's friend is a siren, and the other person is a human. The siren is able to understand the situation better than the human, and the human is resentful of the siren. The protagonist is worried that the siren is going to lose control of her magic.

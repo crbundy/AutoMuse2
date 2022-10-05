@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: better reason. Look, Ive been studying the map, and we need to get a move on, especially if we hope to get lucky with another safer spot to camp when night falls. Sera glanced around the cave and then relented. Fine. We can walk and talk and plan. Now that we have daylight, what goodies is everyone finding in the backpacks Taneisha gave us? Each of us dug into our bags, doing a quick inventory. Ive got a water bottle, a folding knife, some protein bars, a spare set of clothing, a jacket, and a lightweight blanket, Liam said. There are some general toiletries, including sunscreen and bug spray. And a white bandana? Same, Marcos said. At least we wont starve or freeze to death. I nodded, as did Franc and Sera. Theres a box of matches and a flashlight too in my gear, Liam added. Thats just you. I have binoculars, Franc added. And gum? I dont have those, but Ive got a hatchet, some rope, and a first aid kit, Marcos said.  Ive got a multi-tool, hand sanitizer, and a tarp, I added. Am I the only one who got condoms? No, but youre the only one to mention them. I also have duct tape, Sera said, barking out a laugh. Everythings better with duct tape. Everything? I asked. The word slipped out before I could stop myself. Hell, Caden! I thought I wasnt flirting with the little mage. Seras mouth formed a little "o" as she digested my question. Uh, no. Definitely not everything. Liam grabbed some snack bars and passed them around as we picked out
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+We inventory our supplies and find that we have enough to survive, but not much else. Sera has a sense of humor about her duct tape.

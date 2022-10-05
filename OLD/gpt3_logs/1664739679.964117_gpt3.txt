@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: space to focus, I said. Caden leaned close, his hand brushing across my back. Youve got this. We shared a look, one where I was pretty sure he was more confident than I, and then he took a step back.  I stood before the glowing box of woven magic, trying to decide on a tactic. Taneisha had said only I could solve this puzzle. I knew the fae couldnt lie outright, so I trusted in those words. I reached out and tentatively touched the vines, relieved when the magic didnt burn. Instead of the electric heat Id expected after seeing Sera thrown across the room after touching the same box, my fingers met with a cool chill. To my surprise, I could manipulate the threads, pulling and testing them. I spent a few minutes working at the box, fascinated as the magical vines behaved like they were practically alive. Just as Id freed one tendril, the tip would seek another and coil back up like bindweed. Id created an opening, although it wasnt yet big enough to pull out the mask. I knew with enough time Id get there. Cadens leg brushed up against me, and I cursed at the distraction. Uh, Franc? Caden stammered. The natives are getting restless. I couldnt tear my eyes away from the puzzle before me. I need more time. A scream rang through the room and the tinge of something feral laced with fear shot through the air. I tried to maintain focus, but suddenly I was losing the battle against the magical vines. I felt the energy in the room like another limb, and for the first
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes someone trying to solve a puzzle, with the help of Caden. They are eventually successful, despite some distraction.

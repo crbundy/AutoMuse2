@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: fae arrived a moment later dressed in a sheath dress of pale green moss. Had she been expecting our summons? Giving up so soon? Taneisha pouted blood-red lips, but there was a glint of triumph in her eyes. Im not, but Seras ill, I said. You promised to remove any of us who became injured. Please take her with you and heal her. Is she? Taneisha looked down at Sera, and then back at me, her nose wrinkled up like shed smelled something nasty. Whats that goo? Residual wraith components? Caden said, his tone more query than answer. Sera opened her eyes, and Marcos backed away from her and stood, his movements suddenly wary. A tarry blackness covered her arm, and when she stood and turned to us, we could see her eyes were fully black. Taneisha shuddered. Caden stood dumbfounded.  How were we going to fix this? I had to hope the fae would have an answer. Sera said youd agreed to remove us from the maze and heal us. Prevent anything that happens here from causing permanent damage, I said to the fae. Whatever this is, its clearly a medical crisis. Taneisha raised a finger. Yes, thats correct. I didnt expect this. She tapped her finger against her lips. I agree. Its not at all natural. I let out a breath I didnt realize Id been holding. So you can fix this?  Taneisha pursed her lips and arched a brow. I will take Sera with me if she asks to go. What new fae trickery was this?  And heal her? Marcos asked, coming to stand near me. Taneisha rolled her
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The fae arrives, and Taneisha is unimpressed. Sera is ill, and I ask the fae to take her and heal her. Taneisha agrees to take Sera and heal her.

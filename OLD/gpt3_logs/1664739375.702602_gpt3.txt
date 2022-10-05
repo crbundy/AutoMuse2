@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: do we kill them? Marcos asked Caden. Separate them from their heads, Caden explained. Also, dont get bitten or clawed, or you could get infected. Did anyone see any weapons in the bags? Marcos asked.  Only the folding knives, Caden replied. Tink had to know what she was throwing us into, Franc said, his tone full of frustration. She really doesnt like me, Caden replied, sounding disappointed.  You think? I asked.  We reached the other side of the river, and I looked back across the water. I couldnt see the beasts, but their hooting cries meant they werent far off. How much further to the cave? Its just past the second switchback, Marcos replied.  We need a distraction, mage, Franc said. Something to slow them down. Please tell us you have something up your sleeve? I looked from Franc to Marcos, who already knew my secret. Marcos expression was grim, but he shrugged, which I took to mean why not just try something. What could go wrong? Like, a lot with my chaotic magic. At least here there werent any structures around for me to destroy. While I debated my options, the beasts cries were only getting closer.  Whatever youre going to do, do it now, Caden added.  Head up the trail, I ordered. Franc and Caden listened, booking their way up the trail. Im not leaving you alone here, Marcos said, staring down the darkness as he stood by my side.  Which was super hot. And sweet. But I knew my magic, and for all of Marcos good intentions, I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A group of people are trying to escape from beasts, and they need a distraction. One person has magical powers and offers to create a distraction.

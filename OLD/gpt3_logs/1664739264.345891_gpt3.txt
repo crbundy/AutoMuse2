@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Can you watch the store until I get back? Will do. Im opening tomorrow already too, in case you feel the need to sleep in, she said, and then winked at me. I rolled my eyes. I trust you to hold down the fort while Im gone. Thanks, Pepper, youre fantastic. Emrys whisked me out the door, my heart beating fast and my magic percolating at a low simmer.  Hopefully, Taneisha would be in a reasonable mood. If not, at least Id have some favors owed me, and I could leave the boys and the fae to work out their differences.   Were Not in Kansas Anymore Sera I luxuriated in the feel of the wind whipping through my hair as Emrys sped us through the city streets in his black convertible Porsche sports car. Compared to my practical and rugged SUV, it was an excess I would never have imagined buying, even if I had the funds. But it fit Emrys and his playboy reputation perfectly. Whats that on your shirt? he asked.  I looked down at the D-20 die embossed on my black t-shirt with the 20 in glittery gold letters. Its a nat twenty.  Emrys tilted his head to the side. A what? Its an automatic hit, I explained. He shook his head. Of course he didnt get gamer lingo. Its gaming lingo for an automatic win. Oh, well, he said, smiling like he understood that much, of course you are. I shook my head. His confidence could float an iron brick. I always used to enjoy Emrys banter and flirtation, and wed done a fair amount during my short stint at the academy, but today it
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a woman's interactions with a man named Emrys. She is going to watch his store while he is gone, and he is driving her there in his Porsche. He does not understand her reference to a "nat twenty" on her shirt, but she explains that it is gaming lingo for an automatic win.

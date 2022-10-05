@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: to call Franc and Caden again? I asked Emrys. We can use everyones help to gather poop. Emrys smiled. Yeah, wouldnt want them to feel left out, would we?  I noticed when he dialed that someone answered right away, unlike my earlier attempts to call Pepper. Damned Taneisha. The humans moved on, and then Liam opened the Staff Only door and we all went through. The layout of the supernatural-friendly exhibits was like what wed seen so far, but here there were pictures of sprites and pixies. There was even an interactive exhibit with a remote. You could drive a tiny, camouflaged rover around the wetlands picking up debris and trash to protect native habitats. There was a lone technician working inside a lab with a panoramic window who looked up and waved hello at our arrival. Emrys approached the rovers controls with single-minded focus, at first testing out the rovers motion and then popping a wheelie before zooming it around the enclosure. You look amused with yourself, I said. I can drive anything with an engine. He winked at me. And were supposed to be playing the role of tourists, right? When the rover spun round a corner, the lights in the enclosure flickered. A wee pixie with a tuft of bright yellow hair emerged from an earthen mound surrounded by reeds and tall grasses, chasing the little rover.  Marcos chuckled. Uh oh, it looks like youve awakened the kraken. Kraken are a myth, Emrys replied. The little pixie shot lightning from her hands, stalling
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Emrys, Liam, and Marcos are touring a supernatural-friendly exhibit when they come across an interactive exhibit with a remote-controlled rover. Emrys takes control of the rover and starts driving it around the enclosure. Suddenly, a pixie appears and starts chasing the rover. Emrys insists that kraken are a myth, but the pixie manages to stop the rover with a bolt of lightning.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Do I stay or should I go? Sera With an elegant whoosh, Taneishas portal deposited the posse and I at the front steps of Francs posh nightclub, Velvet. The large, rectangular black building rose from the black pavement with hardly a window in evidence. In the dark of night, I couldnt get a sense of how big the building was from the outside. The only noteworthy element was the flickering pink neon sign reflected off everything metal and shiny, including a few shallow puddles through the parking lot. Still holding Liams hand, I sauntered across the pavement under a cloudy, moonlit sky up to the wide-open black doors. With each step away from the portal, a flush of magic flared through my veins. The icy cold sensation was followed by a rush of heat a moment later. It was almost as if I had numbed fingers from standing outside in the cold too long, only to feel my flesh burning as the blood returned in a heated rush to my extremities. My skin exuded an unnatural, pale glow as the rebounding return of my magic refused to be confined to my mortal form.  Despite my relief at feeling the power running through me, fear gripped my heart. Unlike the prestige it usually conveyed for mages, my magic had never been a blessing, but more of a chaotic curse.  Fearing for what my magic might do to the wolf-shifter, I tried to pull my hand from Liams grasp. He held firm, his eyes lighting up as he grinned from ear to ear. Your magic is back! Here I thought for a moment that you were just
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the protagonist's arrival at a nightclub, and her reaction to feeling her magic return. She is afraid of what her magic might do to the wolf-shifter she is with, but he is happy to see her magic return.

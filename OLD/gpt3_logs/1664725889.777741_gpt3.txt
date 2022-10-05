@@ -1,0 +1,37 @@
+PROMPT:
+
+Premise: Tensions are high in the city as a string of murders have the populace on edge. The police are working around the clock to solve the case, but they're running out of leads. That's when our protagonist, a private detective, enters the scene. He's been hired by one of the victim's families to find out who did it. The detective is a tough, no-nonsense guy who doesn't mind playing dirty to get results. He's not afraid to get his hands dirty and will do whatever it takes to get to the bottom of this case. The detective starts poking around and soon realizes that this is no ordinary murder spree. The killings have a ritualistic quality to them, and the detective suspects that whoever is behind them is doing it for some sort of sick satisfaction. As the detective gets closer to the truth, he discovers that the killer is a deranged individual who takes joy in watching people suffer. The detective races against the clock to stop the killer before they can strike again.In the end, the detective is able to solve the case and apprehend the killer. The city can finally rest easy, knowing that the madman responsible for the murders is now behind bars.
+
+Write the next chapter for the above novel:
+
+Chapter 2
+
+==========
+
+RESPONSE:
+
+The following night, the detective's phone rang. He was in bed with his wife, about to drift off to sleep when the phone rang. He looked at the screen to see that the caller was anonymous. He picked up to hear heavy breathing and what sounded like an animal in the background.
+
+"Hello?" the detective asked, his voice sounding a bit shaky.
+
+"Don't you want to know how I do it?" the voice on the other end asked, sounding sinister.
+
+"Do what?"
+
+"Kill. Don't you want to know why I do it?"
+
+"Alright, I'll bite. Why do you do it?"
+
+"It's a game, you see. I go around and find the perfect people and I kill them. I pick them apart, slowly, so that they feel every second of it. The anticipation, the fear. It's my favorite part."
+
+"So you're killing people for your own amusement?"
+
+"Oh, yes," the voice said. "I get to watch them suffer and then I end it. It's the most wonderful feeling in the world."
+
+The detective took a deep breath before speaking again. "I'm going to stop you. I'm coming for you."
+
+"It's the only way," the voice said. "You need to play the game."
+
+"No, I don't think so."
+
+"I

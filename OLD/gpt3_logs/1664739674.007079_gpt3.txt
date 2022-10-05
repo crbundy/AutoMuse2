@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: time, there were tones and shades to the vibrations I didnt recognize.  Damn it, I whispered. Was it the faes magic? Seras? Both? This was my home. My sacred space. How could everything feel so foreign? I see blood, Caden said. What the hell are they doing? Theyre biting each other, Marcos added, his voice tense. Just a few more minutes! I called out. Is that an arm? Taneisha let out a nervous giggle. Ew, who starts with the fingers? Thats just unsanitary. Marcos cleared his throat in what Id come to dub as his time to quit your bullshit intro, his hand coming to rest on my shoulder. We need to get out of here, clear the room, and then try again later. I almost had it Were out of time! Caden yelled. As Marcos lifted me to my feet and dragged me across the dance floor, I finally looked up. Caden pulled Taneisha along beside us as blood smeared faces in the crowd watched us retreat.  And then the blooded followed us.    He on Honey-Dew Hath Fed Franc Ive seen some weird shit across multiple realms, but what the fuck is wrong with them? Caden hollered. We ran out into the gardens, which were deserted again, ducked into a deserted alcove, and then paused to catch our breath. Which way? Taneisha asked, pulling herself away from Caden. Why are you even here with us? I demanded. I wasnt sure why her presence unnerved me so, but the last thing I wanted was the fae hanging around and finding more things to vex us with. I swore to Sera that I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a scene in which the speaker and two others are forced to flee from a group of people who are biting and eating each other. The speaker is unnerved by the presence of the third person, a faerie, and wonders why she is there.

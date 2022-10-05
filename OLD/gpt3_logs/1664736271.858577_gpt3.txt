@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: friend who isnt sleeping well, Marcos replied. Thought wed gift him something to help. Amber crossed her arms and arched her brow. Is that friends name Jasper? If the flowers for sale, what does it matter? I asked. Amber sniffed deliberately in my direction and then made a face like shed smelled something foul. Whos your pack, wolf? I hesitated. Entering another packs territory unannounced could lead to trouble, but there was no helping it now. Im with the Leblanc pack in British Columbia. My friends and I are just passing through town today. I didnt know there was a pack in town, or I would have announced myself. Ambers brow arched. Fair enough. Let me get this straight. Youve come into town for just the day, and yet somehow youre already running errands for old Jasper? Emrys didnt appear able to help himself. He sauntered around Marcos, his intent to dazzle Amber obvious from his swagger and sultry smile.  Are you sure you cant help us out, Ms. Watson? he drawled. A light flush spread over her cheeks, and I noticed the slightest hint of a green glow in her eyes. Wed be so grateful, and were happy to compensate you for your troubles.  From his tone, I wondered if more than simply money was on the table. Emrys had always been an incorrigible flirt, and today was no different. I sighed, unable under the strain of the day to keep my frustration from surfacing. When Emrys got serious about a woman, hed discover these tricks wouldnt work. But
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Two wolves from the Leblanc pack in British Columbia are in town for the day and are trying to buy flowers for a friend. They meet a woman named Amber who is not interested in helping them.

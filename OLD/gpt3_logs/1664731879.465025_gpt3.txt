@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: by a row of spotlights. Five items ran the length of the case, each set on little clear glass pedestals against a backdrop of black velvet. But which one went with which of my five oppressors?  I could guess the carved wolf moonstone was the wolf shifter Liams. The soapstone black panther must surely belong to the panther shifter, Marcos. The golden scorpion must be Emrys, as his demi-god heritage hailed back to Isis. Then there was a theater-style god mask which, knowing his grandpa was Dionysos himself, could only have been Francs. That left an ancient-looking terracotta jar which I could only guess what was inside. From my process of elimination, must have been the incubi Cadens. Whatever it was, I would have to take care not to break the waxy seal on the jar, lest I release something suitably demonic into the world. Do you have something in those pockets to open this lock? Jax asked, spurring me into motion. I fished around in my pockets. Nope, but I dont need one. Going for a simple smash and grab? Jax asked. I pulled the purple infinity scarf from my pocket, holding out the loop to Jax. Nothing so crude. Here, can you help me hold this against the glass? She took hold of it, and helped me lay it against the front of the glass cabinet. Easily, but I dont see Just like that, now hold still. I pulled the fabric up, tucking the loose fabric into Jaxs fingers. Inside the loop there was now no glass, allowing me to reach right in to pilfer the items. You
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person breaking into a glass cabinet using a scarf. The person has to guess which of five items in the cabinet belongs to which of their five oppressors. They eventually succeed in breaking into the cabinet and taking the items.

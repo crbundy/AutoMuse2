@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: exploit them. What kind of conservationist work does the habitat do for pixies? Greyson puffed his chest up and raised his chin, exuding confidence. He was fit, but not anywhere near as built as the boys. Posse? I needed to come up with a name for them. This center was established about forty years ago when locals discovered the native sprite and pixie populations, Greyson explained. We discovered that the city and local manufacturing was impacting the wetlands, and thus also the pixies. Based on our research, key chemicals have been banned from use and light pollution has been reduced. Thats fascinating, Greyson. I see you have a lab? What are you working on? He smiled at my praise. Weve been studying pixie diets to understand what they eat. How do you do that? I asked.  Well, in part, we take samples of the wildlife in the area. Bugs, plants, and the like. Then we collect droppings and run an analysis of the compounds. You mean you collect their poop? Marcos asked. Ding! Ding! Ding! Just what we needed! Yes, Greyson replied. But we use every precaution. Its why I only work with it under a laminar  flow hood. Also, the preserve has a license to collect and study it, otherwise itd be illegal to have pixie droppings in this quantity. Illegal? Amber had conveniently left that out of her request. I supposed wed have to make sure and only take her a little? A lamin-what? I asked, letting out a giggle. Liam, who was standing to one side of the technician,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a conservation effort for sprites and pixies. The center studies their diets by collecting and analyzing droppings. Liam giggles when he learns this.

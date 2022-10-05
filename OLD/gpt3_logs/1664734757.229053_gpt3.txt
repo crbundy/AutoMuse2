@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Bonus Epilogue: Negotiations Taneisha I sauntered through the portal to my home with a glowering Ray hot on my heels. I couldnt remember the last time hed looked so out of sorts, but I suppose spending an extended visit in my maze could do that to a guy. Afraid Ill leave you in the maze? I asked. He rocked his head, the horns atop his large, bull-like head sweeping from side to side. You said you wouldnt. As youre fae, I know youre compelled to stick to your word, but I didnt want to take a chance youd accidentally forget me again. I scoffed, but his words stung. As if I could ever forget you? Impossible, more like it. Yeah, I might have mentally blocked out how Id tossed him in there to sleep off his wrongs. Noodling it around my brain, I had to wonder if Id put those Goldenbriar Academy jerks into the maze specifically to force a confrontation with Ray. I could be clever in the most subtle ways. No wonder I was always surprising myself. Youre a resourceful woman. Im sure youd find a way around the rules if you were determined. He crossed his arms, his biceps flexing against his shirt. Like you often do. I sighed at the sight. Even for a minotaur, he was huge and as muscular as a pro body-builder. Youre wise to dish out the compliments. Rays bushy brow furrowed, but he didnt rise to my bait. Instead, he took a half-step back. How about sending me home? He was angry, but what had I expected? Going so soon? Ray advanced, moving to stand only
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the protagonist's encounter with a minotaur named Ray, who she had previously banished to a maze. Ray is angry with the protagonist, but she is unapologetic. The protagonist reflects on her possible motivations for banishing Ray and concludes that she may have done it to force a confrontation.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: grated on my nerves.  What was that place? Its my business, I replied, feeling a bit of pride. It stays pretty hopping, even until the wee hours. Weve got tabletop gamers who book out the rooms in the back, the coffee shop up front, and books and games we sell. He frowned. So this establishment like a deep cover for the magic contracts you do?  I answered with a non-answer. What do you think? I think its clever. Youre accessible, and if any mundane hears you talking about spells, gods, or enchantments, theyll assume its gaming related. I smirked, but looked away, unable to face the look of admiration on his face for credit I did not earn. Something like that. Im not surprised. Your family has always been so secretive about the work you do, and yet, most everyone I know has contracted with them at one point or another. Its like theyve got their hands in everything. I nodded, but didnt confirm or deny his string of assumptions. I might not be in on the family business, but I knew the art of being cagey to a T. By the time we reached our destination, screeching to a stop in a well lit parking lot, Id half forgotten why I was even with him. He was such a showoff. Thanks, Emrys. Please, Sera, call me Em like you used to.  I arched my brow and shot him my quit your bullshit look, and his smug smile faltered. Where are we now? Emrys pointed up at a sign. Francs club.  The word Velvet glowed overhead, not so subtly beckoning us into what I could
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's reaction to another person's boastfulness. The person is annoyed by the other person's attitude and wonders why they are even with them.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: can. There it was. The ask. I shook my head. No one can talk a fae out of a grudge. He flashed me that sultry smile of his again, and then he chuckled. The Seraphina Lowe I remember could talk a selkie out of their pelt. Besides, Tink likes you. I felt my cheeks flush at his compliment. Yet Emrys didnt know what he was asking. Id lived apart, hiding myself and my faulty magic, for years. I hadnt even finished Goldenbriar in person, partly out of fear Id harm others with my wayward magic. The other part was all about salvaging my familys spotless reputation as some of the most powerful mages around. Except me. My magic was potent, sure, but also unreliable and difficult to control, even on the best of days. Look, just have one conversation with Ti I mean Taneisha, he said. Get her to see reason and drop this thing with us. I swear well never even talk to her again if we can get this cleared up. I hated to admit it, but I was enjoying being around the demi-god, even when I knew he was a bit of a scoundrel. I missed my academy days. I even missed Ems boys. Cadre? Posse? Whatever. Maybe, if I hadnt been living off the supernatural grid, his offer wouldnt have been so compelling. Yet I was and it was.  I couldnt deny craving everything Em was offering. A little adventure. A bit of a challenge. A brief visit with the magical community I missed. Reminiscing with friends from the academy. Seeing his posse, and even Taneisha, could be fun, an adventure, even. A
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the speaker's internal conflict over whether or not to accept a request from a friend. On the one hand, the speaker misses their life within the magic community and longs for the adventure that the friend is offering. On the other hand, the speaker is aware of their own unreliable magic and the danger it poses to others. In the end, the speaker decides to accept the friend's request.

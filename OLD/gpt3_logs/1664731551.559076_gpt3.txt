@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: acutely. Perhaps if we hurry, we can outrun them. Theyve followed us for a while. Maybe theyre tracking us using scent or magic? Liam asked, glancing at Caden and Sera for confirmation. I dont know about either, Sera replied. She turned and walked away, gesturing for us to follow. Come with me. Theres something you need to see, and I have an idea.    A Trust Exercise Franc I and the others followed Sera across the small plateau wed reached over to where shed been wandering around earlier. There was a rock wall on our left and boulders on our right, blocking the view upward along the path. The flat section progressively narrowed until only one of us could pass at a time, but it soon became clear that this section of the trail was no trail at all. The slender route was only inches wide in sections, with the rock wall on one side and a sheer drop off on the other.  I rubbed the back of my head and shrugged my shoulders against the weight of my pack. Youve got to be kidding me. Despite my comment, Marcos, whod been uncommonly quiet, was already going through his pack and pulling out the rope. The map marks it as a traverse, Caden said. But I feel that term doesnt fully quantify the death-trap nature of this crossing. Sera pointed to the sheer wall as she talked. After about fifteen or twenty feet, it looks like the trail widens again. If we use the rope in Marcos pack and tie ourselves together, I bet we can get across safely. Sure, the footing is tricky,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a narrow section of trail with a sheer drop-off on one side. Sera suggests using a rope to cross safely.

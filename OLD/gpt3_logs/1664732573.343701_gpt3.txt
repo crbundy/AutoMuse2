@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: without magic was like a thunderstorm without rain. What kind of miscreant bans magic? Wait, even portals? Especially portals! Boo. I pouted. I mean, not like I was planning anything. Of course you werent. One more thing, there can be no stipulations on my favor. I rolled my bottom lip between my teeth. Maybe it was good to go with her? Perhaps I'd fit in more than going it alone. And not just a favor, but an unbounded one? Just how much was this going to cost me to get my revenge?  Jax patiently awaited my response as she tapped the invitation against her chin.  Luckily for Jax, I would pay quite a hefty fee to accomplish my ends. You want everyone to owe you, I whined.  Undeterred, Jax shot me a knowing smile and then shrugged. Got to keep life interesting. I know you understand. So what do you say? Are you ready to party? She tap, tap, tapped the invitation, waiting patiently for my answer.  Its a big favor just to get inside Velvet, I hedged. You know its not just the party, Jax replied. Rumor is, theyre boldly showing off some priceless artifacts to commemorate the event. My breath caught in my throat. Priceless? Id been looking for leverage over them for years. What shed suggested was a perfect opportunity to force those awful gents into some richly deserved payback. Youre certain the rumors are true? Jax nodded. Dusk confirmed that the fab five have been partying all day long and they have some sort of ridiculous case set up in a trophy
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes someone who is angry about a ban on magic, and is considering asking for a favor from another person in order to get revenge. The favor is to get into a party where some "priceless artifacts" will be on display.

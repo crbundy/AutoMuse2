@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: sleeve. The panther shifter relented, and I let out the breath I didnt realize Id been holding. We kept our pace up the trail as we neared the last of the switchbacks. The trail flattens out up ahead when we reach the river. Let me guess, Franc replied. We get to cross it? I nodded. Yes, assuming we want to keep going up. Cant say I do, but its the task ahead of us, Sera said. She turned to me. Tell me about this legacy of yours thats so cool that a mythical bird man steals it from faery and flies it to the top of a mountain. I sighed. What to share? What to hold back? When Id waffled long enough, Liam spoke up. Cadens family legacy is a small vase full of seeds which he temporarily liberated from his granny, Liam said. I gave him crap about just showing off some seeds, but it appears those little grains were actually worth something. Thats gracious of you, wolf, I snapped back. Liam gave me a little bow with a flourish. Jackass, I whispered, knowing he would hear me. What seeds? Sera asked me, ignoring our banter. Theyre from the huppulu tree, which is sacred to my kind, I explained. They are a symbol of a time when demons held power, not just in the Netherworld, but in the human world as well. Its like the strength and pride of your ancestors, Sera said. I bet grannyll be pissed you lost them? I gritted my teeth. Sera had no idea. You havent lived until youve seen Granny Lily on a demon-fueled tirade. She let out a weak laugh.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a panther shifter and a human hiking up a trail near a river. The human has a legacy in the form of a small vase of seeds from a huppulu tree, which is sacred to the panther shifter's kind. The human's granny is likely to be angry about the loss of the seeds.

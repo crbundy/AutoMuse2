@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: surrounded by potential relatives? she asked, and I nodded. So theres the possibility your family might find out you lost your legacy to a fae? That hadnt occurred to me yet, but Sera was right. Even though I hadnt been back to Golden, I definitely didnt want the shame of them finding out Id lost her legacy. Id prefer they didnt, but mostly, I just need it back.  Sera stepped close, placing a comforting hand on my arm. Well get it back for you. The depth of emotion in her brown-eyed gaze stole my breath for a moment. I knew Sera understood what I wasnt saying: the soapstone panther was the last link I had to my mother. Enough standing around, Emrys said, his hands on his hips. We need to find whoever has this Eye thing. Ideas? I have one, Franc said. There was an older woman walking toward us on the sidewalk, and Franc caught her eye before swaggering over to her. Hello, maam, could I bother you for a moment? he asked, flashing his best panty-dropping smile.  His charms were lost on the wizened lady. She crossed her arms and raised a brow, conspicuously sliding one hand inside the cavernous purse hung on her shoulder. Id worked security long enough to know Franc would be lucky if she just pulled out a taser on him. Whadda you want? she asked, eyeing them over, her hand still inside her purse. Did you take a wrong turn off the freeway? Franc held up his hands while the rest of us stood where we were, smiled politely, and tried to look harmless.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of friends who are trying to find a lost object for one of their friends. They are talking to an older woman who they think may have taken it, but she does not seem to be helpful.

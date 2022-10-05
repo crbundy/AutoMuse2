@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: boy, I breathed out.  Instead of holding me tight, Franc let go of me, turning back to his pile of sheet music. Oh boy, indeed. I suppose I dont have to wonder where that leaves the rest of us? Wait a sec, I I searched for the right word, which was suddenly more complicated than it should have been. Im fond of each of you. Its just that Liam is pushier and more demanding. You, of all of them, have to see that this connection cant last long term. Franc was suddenly up in my space again, but this time I didnt back off. You think, because of my Dionysian heritage, that my life is just carousing and partying? That I lack the ability to stick with relationships long term? I paused. Had I made that assumption? Ugh, maybe I had? No, its just, why would you want to commit? You throw nightly bacchanals at your club, basically. Why would you want to be tied down? Franc sighed and frowned, regarding me with a distinct air of disappointment. No wonder your magic is so fickle. Youre stuck on preconceived limits and full of nos. Huh? What you need is a possibility mindset, ma chre. Instead of all the reasons things wont or cant work, consider starting with the goal. The hope. The vision of inspiration. You really like to hear yourself talk, dont you? All the dreams in the world wont make something possible. I suppose I do, but I also suppose thats what happens when theatrical performance runs literally in your blood. Franc brought his mouth close to mine
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Franc tells the narrator that she needs to have a "possibility mindset" and stop being so negative if she wants her magic to be more reliable. The narrator is skeptical but Franc insists that dreaming and having hope is what makes things possible.

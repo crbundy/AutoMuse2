@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: room to show off their shit too. But my point is, all five will be there, we have a ticket, and you can go right up to them and get your sweet, sweet payback. Jax knew nothing about my plans, only that Id offered her a worthy payoff for helping me exact revenge. She didnt know the lengths Id gone to already. No one did. She just knew I'd offered to pay handsomely for a shot at all of them together. A display? I leaned in closer. Tell me more? I asked in a whisper.  Jax rattled off a lot of rather boring details about Franc's, the owner of Velvet and one of the five who'd earned my ire, gaudy trophy display. I tried to pay attention, but I was already three steps ahead of her, plotting out how to hook these fickle fishes. I grabbed Jax by the wrist and pulled her inside, slamming my door shut behind her. Ive got my plan, now its time to get dressed. * * *    The Dress Makes the Fae "How can you already have a plan when I just told you about this invitation?" Jax asked, gawking at the scenery as she followed me into my home. You know, this is only the third time youve let me in here? I dont remember you having a stream in the living room last time. For a fae, my place was pretty standard. The waterfall shower and bathing pond. A raised bed of moss and lavender. The kitchen was all Wolfy primo brand, because why wouldnt I want the very best, and who said stainless steel clashed with moss and leaves? I walked around the central oak, patting its trunk fondly as I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The person in the passage is planning to get revenge on five people, and has enlisted the help of Jax. Jax tells them about the owner of Velvet, Franc, and their gaudy trophy display. The person grabs Jax by the wrist and pulls her inside, saying they have a plan and need to get dressed.

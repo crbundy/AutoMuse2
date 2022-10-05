@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: our clothes for the day, finished dressing, and re-packed our bags.  Franc got out his binoculars and surveyed the horizon. Nothings moving and the mage fire is still burning. Sera nodded, but when she spoke, she didnt address his comment. Then lets get going. We tossed our bags down over the short cliff to the trail below, and then Franc and I lowered ourselves down, making the fall manageable. Liam lowered Sera down to Franc and my waiting arms, preventing her from taking a tumble. The shifters lowered themselves, landing much more gracefully than the demi-god and I had managed.  We shouldered our backpacks and continued up the mountain trail, falling into an easy rhythm with Liam and Marcos taking the lead. The cold, grey color of the rocky hillside was dotted with a smattering of scrub brush and boulders. Despite the desolation of this place, there was this well-worn trail. I knew from the map that it led up and over a ridge before entering a valley containing a river, followed by another steep incline up the mountain. Sera had tied a bandana around her wrist, perhaps to keep it close at hand? I looked around and noticed Franc had tied his loosely around his neck, while Marcos wore his as a headband. Liam had his at the ready, stuffed mostly into his jeans pocket. Who knew bandanas were so popular? Id left mine in my backpack. Sera came to walk alongside me and turned to me. The sheer ferocity of her brown-eyed gaze astonished me. I should have expected it from
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the group preparing to leave and continuing up the mountain. Sera walks with the narrator and seems very determined. The group is surprised by how popular bandanas are.

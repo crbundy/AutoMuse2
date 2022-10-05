@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: from the Netherworld, stumbled and then tripped, falling face first into a flower bed. I held up my hands, not to cast a spell, but to point and alert Liam, whose gaze hadnt left me since hed stepped into the glen. He glanced back at where I was pointing and stopped short, gracefully pivoting and falling into a crouch behind a short bush as he watched the beast bearing down on Caden. Marcos followed his cue. Even from this distance, I could see them wordlessly gesturing back and forth. Hey! Bull! Franc hollered. Over here! If the creature heard Franc, he didnt show it. Em and I joined in the shouting, my heart beating at a gallop. The minotaur continued his relentless charge, unaware that the guys were no longer in his direct path. Although he wasnt moving quickly, I knew that much mass would flatten whatever it hit. Caden recovered and poked his head up. One glance back over his shoulder was all it took to fuel his scramble forward, straight under a nearby hydrangea bush. Pom-poms of blush-tinged petals swayed and banged together above him, creating a bubblegum rain declaring his path toward Liam and Marcos.  Would the minotaur notice Cadens movement off to his right? A few more barreling steps proved the beast was intent on his path, and I let out a breath I didnt realize Id been holding. Caden had a real chance to get away. Id been paying so much attention to the minotaur and the posse, I almost didnt notice the black miasma emerging from the hedge opening.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The minotaur is charging towards Caden, who ducks under a bush. The guys are trying to distract the minotaur and Caden has a chance to escape.

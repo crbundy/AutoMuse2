@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: within the territory. You can guess my mom harps on the last point the hardest. I laughed, but it sounded harsh and joyless. No one laughed along with me. I dont think my family forgave me for leaving to attend Goldenbriar, despite the scholarship Id earned. Here, I always envied you for your pack, Marcos said, his voice kind. I guess I never considered there were downsides to all of that proximity. I nodded. I dont think Ive told you of you this before, but there was an accident back home while I was at the Academy. What happened? Sera asked. After returning for our second year at Academy, there was a barn fire on my moms property. She lost her favorite goat, and the structure had to be rebuilt. Thats tragic, but you werent even there when it happened, Franc replied. I ran a hand through my hair. Just how long did I have to explain? Across the glen, the minotaur was huffing and puffing, pounding his fists into the dirt, surrounded by black miasma.  Out with it, Em said. Looks like theyre winding down. Right, I replied. I may not have been there when it happened, but my older brother, Alfred, blamed the cause of the fire on me. Wed spent time that summer painting that barn, and Id knocked over a can of turpentine. He claimed I failed to clean it up properly, leaving the barn at risk. Thats balls, Caden replied. How could they blame you for something when you werent even there? They blamed me because Al is a golden boy, and Mom was
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a conversation between two friends, in which one confides that he was blamed for a fire that occurred while he was away at school. His friend sympathizes and offers support.

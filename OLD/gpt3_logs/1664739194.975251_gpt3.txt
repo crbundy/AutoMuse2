@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: I replied. Liam turned to me and stood confidently with his shoulders back, leaving absolutely nothing to my imagination. From what I could see, which was a lot, neither Liam nor Marcos had anything to be ashamed of. Being naked around shifting is pretty normal in shifter culture. Its just another skin, Liam explained. Why did I get the impression that it really mattered to him that I understood him?  I dont think Ive ever seen you shift. Or, any shifter shift. I stumbled over my words, seeking something to say besides wow youre naked and hawt and Im trying to keep my eyes on your face while were talking. They kept us mages in our halls at the academy during those exercises. Sure, but have you been hiding under a rock? Supes are everywhere in our hometown, Marcos said. Theres no lack of shifters. Heat flushed my cheeks. Hed hit on my Achilles Heel; avoiding other supes. I havent. My family keeps me pretty focused. They shared a knowing look. Or was it suspicious? I sighed. Look, I know mages have a rep for being standoffish, but Im not like the rest of my family. So weve gathered, Liam replied. What will they think of you running off? I waved it off like it was nothing, but I dreaded the answer. I doubt theyll even notice. Shouldnt you be getting going? The ladys got a point, Marcos replied, running a hand through his hair. Liam seemed to muse over something. After a moment, he shook his head, but his pensive expression remained. No doubt
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+I replied to Liam, who was naked and talking to me about how normal it is for shifters to be naked around each other. He seemed to want me to understand him, and I told him that I hadn't seen any shifters shift because I was kept in my hall at the academy during those exercises. He and Marcos shared a knowing or suspicious look, and I asked them if they should be going. Liam seemed to be lost in thought, but he shook his head and they left.

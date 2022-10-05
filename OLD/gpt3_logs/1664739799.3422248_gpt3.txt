@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: closer to her. Theres no point. The maze will release us only when Taneisha deems it time. Actually, I wanted to thank you. Thank me? I blurted out. I figured youd hate me. Its my fault youre on this crazy ride with us. Emotion welled in Seras eyes. There have been moments, sure, but Im having more fun than Id like to admit. This is an adventure thatll stick with me for a while when I go back to my normal life. I ran a hand through my hair, gathering my thoughts. That wasnt the reaction Id expected from her. I keep forgetting youve been living outside of supe society. I cant imagine how hard thats been for you. She shrugged it off, but I could see the pain tensing her expression. You know, if Id stayed at Goldenbriar, Id have asked you out. None of the others? I asked, hating myself after Id said the words. I might as well have tattooed JEALOUS on my forehead. Sera bit her lip, her cheeks pinking up again. Maybe? You were the one who had my attention back then, and you knew it. I did. Weve exchanged so many looks and flirtations, but Sera had never pushed for more. A mage and a demi-god? Your parents would be scandalized. True, but my fickle powers scandalized them, anyway. She leaned closer and ran a hand through my hair before pulling me in close, hovering with her lips almost touching mine. You were the one I couldnt touch. I hesitated, wanting to tread carefully. Could you have dated any of us back then without your parents
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a conversation between two people. One person is grateful to the other for their companionship on a journey, and admits that they had a crush on them in the past. The other person reveals that they also had feelings for the first person, and they almost kiss.

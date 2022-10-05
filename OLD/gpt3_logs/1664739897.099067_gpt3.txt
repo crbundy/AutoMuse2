@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: attack? Liams hand stroked my back, grounding me and easing my discomfort. I didnt look at him, worried my emotions would surface. What are the rules this time around? Franc asked. Simple, the same as always. No cheating. No stealing. One three-day shot. Whats the challenge? Marcos asked. Taneishas smile was devilish. This time youre hunting Francs legacy, a lovely mask of Dionysos himself. Francs expression was eager, his eyes gleaming with anticipation as he glanced through the portal. It looks like you created a fae version of Velvet? She shook her head. Oh no. Thats your Velvet, sweetie. Dont you recognize it? A panicked look flashed across Francs face. Velvet doesnt open unless Im in attendance, yet the sign is on and I can hear the music blaring from here. Whos in there? Taneisha shrugged, her face a mask of innocence. Im sure I dont know. I mean, I know some, of course, but I havent been paying enough attention to keep track of all of them. Francs expression transformed with fury. Why my Velvet, fae? Taneisha mocked confusion. What, Im not allowed to send you somewhere you love? Really, you lot could learn to be just a skosh more grateful for my small mercies. Besides, what better place to hide such a potent magical item? Of any place in the city, Im sure Velvet can handle all that raw, godly madness. How long has it been open? Taneisha held up her fingers, ticking them off and then lowering them again. At least one day. Maybe
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+In the passage, Taneisha tells Franc that she has hidden a magical item in his nightclub, Velvet, and that it has been open for at least one day. Franc is angry and worried that the item is unprotected.

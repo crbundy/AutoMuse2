@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: ago. Oh, well then. And what do you need his Eye for? Nothing, Sera replied. As theyd talked, the flames in her hands had died down, just now dying out. A fae has demanded it of us and will destroy something of Marcos if we dont get it to her by noon tomorrow, Sera explained, gesturing to Marcos when she said his name. Those damned fae. Amber shook her head. Ive had my altercations with them myself, so you have my sympathies. With her free hand, she thumbed her chin. Since youre being straight with me now, Ill be straight with you. Heres the deal. Ive been trying everything to propagate that orchid, and Ive finally had some luck. Thats fantastic, congratulations, Sera replied. Does that mean you have some for sale? Well, Amber replied. I have a couple of keikis, those are baby orchids, which are coming along. One is even big enough that its close to blooming. That sounds perfect. How much do you want for it? Sera asked. Watching Sera handle Amber, a sense of pride and admiration washed over me. She was always the cleverest girl in class, but seeing her step into a charged situation, take control, and turn it around was its own sort of magic. Shed even reined in her magic, despite being on the edge a few minutes ago.  Amber smiled. I dont want your money. What I need is pixie poop. Did you just say, pixie poop? Emrys said, rejoining the conversation. Look, Ive tried, but its hard for a shifter like myself to get. The pixies smell me
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A woman needs pixie poop to save her friend, and she tries to get it from another woman. The other woman says she has some, but she doesn't want money - she wants pixie poop herself.

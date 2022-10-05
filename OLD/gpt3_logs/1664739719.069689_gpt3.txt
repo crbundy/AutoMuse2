@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: taking your shit vibes? I love it! I know, right? I glanced back at Chadwick, Ella, and Mikael, who all appeared to be battling differing stages of anxiety.  I shot them a quick queen wave and a smile and then I turned and walked through the portal with Taneisha at my side. Heres what Im thinking. THE END * * *
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the speaker's reaction to seeing her friends' anxiety and then walking through a portal with Taneisha.

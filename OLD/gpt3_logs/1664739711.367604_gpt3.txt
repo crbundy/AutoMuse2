@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: running around! Ella replied. Flesh eat I started to reply. Nope! she whispered way too loudly. Fine, Emrys replied. Stay here and wait for us then. But we cant guarantee your safety. Like you can out there? she bit back.  Ella had a point, and Sera wouldnt want him to place her family and friends at undue risk. Youre right, this is going to be dangerous. You should stay here. Its secluded. No, were stronger together, Mikael replied. Ella shot him a look of frustration, but he pulled her to him. Think about it, Ella. If Franc doesnt crack that knot, how much longer will the fae trap us here? Wed be trading momentary safety and comfort for greater risk later. Hearing Mikaels strategic thinking and bravery, he truly sounded like her kin. While waiting for Ella to reply, Chadwick spoke up. Sera trusts them, for whatever reason. I suppose thats good enough for me. Im with you both, he said to Ella and Mikael, whatever you decide. Ugh, fine, Ella conceded. We havent even been in here for a day and I cant take it anymore. So, whats the plan? As if in response, a mighty whooping and hollering erupted from the temple, followed by a steady stream of revelers rushing out into the garden. At the forefront Sera led the pack, her pink toga trailing out behind her like a war banner, bloody stains stark against the lush fabric. Her eyes burned with an inner fire that never seemed to fail her. Sera will draw people out from the dance floor, I said.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The group decides that it is best to go with Sera's plan to lead people out of the temple and into the garden.

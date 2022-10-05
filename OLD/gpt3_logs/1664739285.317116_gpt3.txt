@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: vanished. Ours is a true brotherhood, Sera. While we dont see each other frequently, our bond remains deep. Yeah, okay. So what trouble did you and the boys get yourselves into this time? He glanced around us, as if checking to make sure we were alone, which was silly, because we were behind a shut door. Tink is messing with us. She took some items from us and is holding them hostage. Im hoping you can talk some sense into her. I sighed. By Tink, I assume you mean our fae alumna from Goldenbriar, Taneisha? He gave me a single grave nod. I shook my head, sighing again. Their petty rivalry had been nonstop during academy, kept in line as far as I could tell only by fear of expulsion. I would have thought youd learned to leave her, and really any fae, alone by now? Emrys lifted his hands up defensively. I swear we didnt start it this time. None of us have even seen or talked with her since our academy days. You may think that, but we know the fae never drop grudges, Em, I replied. His lip curled at my use of his nickname.  He leaned close, placing his hand over mine. A slight electric charge traveled between us. When Emrys spoke, it was in a low, hushed tone. I felt the timbre in his voice like a wave of heat rolling over my skin. You always got along with her, Sera, plus you have an uncanny ability to persuade people to your way of thinking. Would you be willing to have a word with Tink on our behalf? I bet you could talk some sense into her, if anyone
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a conversation between two friends, in which one asks the other to help mediate a conflict with a third person.

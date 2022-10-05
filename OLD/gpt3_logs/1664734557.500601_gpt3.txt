@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Ill parley, pirate posse. Have at it, mage. Sera took a deep breath. A scrabbling sound came from behind us. Turning around, I saw a wraith crossing the traverse. My heart skipped a beat, knowing we had only minutes left before it reached us. Taneisha sighed, exasperated. Hold on, she said, waving her hand for us to move and then threading her way between us to the ledge. She held her hand up, forming an O with her thumb and forefinger, and blew through the ring. A series of bright pink bubbles emerged from the other side like a bubble gun on maximum blast, floating through the air towards the wraith. Then she turned and walked back toward us, taking a seat on the boulder Liam had used earlier, watching us expectantly. So, what did you have in mind to negotiate? Behind her, the magical pink bubbles reached the wraith, popping on impact. The curious effect was totally silent, but looked like a series of explosions across its surface. In seconds, the wraith had dissipated into a fine ash, which drifted off on the breeze away from us. At least that was one less problem on our proverbial plate.  Sera glanced my way, and I nodded for her to continue. Taneisha didnt hate her, after all. Shed already handled the wraith without our having to beg for it, so I wasnt sure what else to ask for. You gave us these awesome supplies and set us up with useful things like the rope, clothes, food ,and water. Even the map. Were super grateful for all of that forethought. But I have to
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Taneisha saves the group from a wraith using magic and is thanked for her supplies and forethought.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: see where we are? Sera had us following the right-hand path, Franc replied. She talked about it as a game theory method used to solve mazes. If we always stick to the right, then we should find the center, and then the exit. Caden huffed. That sounds effective, but hella slow. The demon was right, and slow was the last thing I needed. I grabbed a backpack and searched through it. We make our own way through. Franc loomed over me. Do you think the fae will allow us to damage her maze? No clue, but were locked in now. What are our other options? I pulled out a camp knife. Its not much, but its better than sitting and stewing. Marcos and Caden got to rummaging through their bags as well. After a moment, Marcos held up a lighter. What about fire? Thats a bad idea, I replied. The flames could take on a life of their own and spread. We could end up burning it down around us. Uh, guys? Caden held up a handful of black vials. What are these? A moment of silence spoke volumes. Franc held out his hand, and Caden handed him one. The demi-god unscrewed the lid and cautiously smelled the contents, disgust creasing his face. Theyre definitely not perfume. Can we all agree not to drink or touch the gross black substance? Marcos asked.  No argument from me, I muttered, holding out my hand for one vial. Caden handed one over and I opened it. It has to be related to the maze. Otherwise, why would Taneisha have given them to us? Could it just be poison?
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The group is exploring a maze and discuss ways to navigate it. They find vials of black substance and speculate on what they are.

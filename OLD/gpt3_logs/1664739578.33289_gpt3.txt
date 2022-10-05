@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: his gaze glancing to the wild magic beneath Sera and then back to me. His arched brow seemed to ask, are you going to handle this? and I gave the slightest of nods, and he wordlessly pursed his lips in reply. Seras magical reaction had slowed, but the posse needed to help her curb her chaos, and quickly.  Anger flashed in Chadwicks eyes as he readied for a retort, but Ella placed a hand on his arm, and he immediately calmed under her sirens influence.  Fair enough, Mikael replied. Does this job involve freeing us from the faes lockdown on Velvet? It does, I said. We could use your help, if youre willing? Mikael nodded. What can we do? Back at the main dance floor, there were several people overcome with exhaustion and substances, I explained. Perhaps Ellas gifts would be helpful there? Definitely. Ill be happy to level out anyone who needs it, Ella replied. What else? Mikael asked.  I dont know your powers, but are you able you use your gifts to check for hidden magic and exits? Marcos asked. Just avoid the caged mask in the center of the dance floor. Only Franc can touch it. If you can look around the pool area, thatd be great. Pool? I asked. Velvet doesnt have a pool. It does now, Liam said, and I just shook my head in disdain. Its the new first right after leaving the dance club. Okay, we can check there. How will we find you? Ella asked. Were headed to the temple, but lets plan to meet back here in the central garden in,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes how the characters are preparing to help those who have been overwhelmed by the chaos at the Velvet nightclub. They discuss their plan to meet back in the central garden in an hour.

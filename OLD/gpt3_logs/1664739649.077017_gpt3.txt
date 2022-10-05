@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the air. No idea, he gasped. An hour? A week? It doesnt matter, because this is the best party Ive ever been to. I bet it is, Franc replied, not sounding like hed taken the endorsement of his club as a compliment. Im never going to leave. The man reached out and grabbed Francs hand. Come, join us, he begged. Dont you want to dance? Cant you feel it bursting to get out? From the way Caden and I kept swaying back and forth to the beat, I thought I had an inkling of the call he was referring to. A languid energy was already seeping into my muscles and thoughts, easing my concerns as I gave myself over, bit by bit, to the rhythm. Come, said the bald man, looking at each of us as he gestured for us to come with him. Cant you feel it calling you? At that moment, I glimpsed something glowing on the dance floor. Compelled by my curiosity, I slipped out of Cadens grasp and rushed forward past Franc, Em, and the bald man, determined to get a closer look. Shit! Ems voice yelled out behind me. Sera, Stop! Keep up with her! Franc shouted, his voice echoing across the dance floor.  I knew I wouldnt go far, but I couldnt stop. Compelled by a sudden curiosity, I didnt want to. I needed to know what Id seen. I kept my eyes trained on the spot where Id seen the glow, worried Id lose track of the location if I let my gaze wander. I moved quickly, despite feeling unsteady in my high heels, as I threaded my way through the throng of moving people. Somehow,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a man's experience at a party, where he sees something glowing and is compelled to investigate. Despite his friends' warnings, he rushes forward and is eventually pulled into the dance.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: divine fire to keep you going. Marcos nodded. Yeah. Just a little. I dont know why Im so exhausted. I sighed with relief. Well figure it out, but in the meantime, here you go. I kept my hand firm on his backpack and leaned closer, pressing my lips against his cheek. I said a silent prayer, an invocation of Dionysos, and a blessing to Marcos body and mind. The power rushed through me, swirling around us like a sudden but brief tempest. I pulled back, watching him closely. Id aimed for a minimal effect, but everyone reacted to the madness of Dionysos differently. Marcos shuddered as the power washed over him. When he opened his eyes, they sparkled with a joy of life I felt mirrored in my very soul. Ive never let you do that before. Theres a first time for everything. I could feel the power of my gods lineage surging through his veins. My power couldnt heal, but the consciousness shift was often profound, sometimes leading to a new way of viewing the world that lasted for some time. Doesnt have to be the last, either. How are you feeling? He flexed his arms, a self-assured smile spreading across his face. Already his pallor had improved. Like I could run up a mountain? I smiled. Theres time for that later. For now, lets just get across this ledge. Oh yeah, right? He looked around us with fresh eyes, as if unaware of where he was or the situation we were in. But when he adjusted his holds on the wall, it was with a surety hed lacked a few moments
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person using their power to bless another and improve their physical and mental state.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: but I couldnt quite place it. Both had close-cut beards, but while one was pale and rough, the other struck me as sun struck, polished, and refined. The pale one had bruising down the side of his face and his breath was shallow. Had they injured him? The very thought angered me beyond reason. The one with the golden-kissed skin opened his deep brown eyes, his gaze falling immediately to me. My breath caught in my throat as his sizzling intensity rolled over me. I luxuriated in the heat, feeling my body warm to his presence. Surely, I knew him, but from where? Here you are. We need to go, he said, then groaned as he rolled onto his side and kicked the makeshift bag off. We have to find the others. Theres nothing lost, traveler. Im right where I belong, I replied, hearing the power in my words. And so are you. He hesitated then, as if realizing he was out of his depth. His gaze caught on his friend, and he tensed. Liam! He reached over and placed his hands on the others chest and head, and then appeared to pray.  I reclaimed my wine and sipped, fascinated by our new arrivals. They werent animals, or wed feast. Still, I couldnt let them alter our plans.  After a minute, the bruised one coughed and opened his eyes, looking as bewildered as his friend had a few moments prior. What happened? Liam asked. You got knocked over the head and they captured us. Luckily, they brought us straight to Sera. He looked at me then, and I realized he was referring to me. Was
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Two men with close-cut beards, one pale and one sun-struck, arrive and are taken in by the narrator. The sun-struck man is deep in thought and the pale man is injured. They are both strangers to the narrator.

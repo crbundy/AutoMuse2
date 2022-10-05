@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: kind of shifter mark? Marcos rubbed the back of his neck and then shrugged. Im not sure? How ridiculous. I dont get it, man. You saw it. How can you not know? Im not sure what I saw. It reminded me of panther spots, but they didnt look right. I need another look. Shes been scratching her left shoulder, too, but I didnt get a look at that side. My wolfs hackles raised. Is it a mating mark? I asked Marcos, but it was my wolf who answered me.  Mine. An image of me sinking my teeth into Seras shoulder, claiming her as my own, flooded my mind.  Yeah, yeah, big guy. Simmer down. While my wolf seemed certain, I didnt know what to make of his declaration. Id thought the beast recognized its mate the first time they met, yet Id known Sera back at academy and this was the first sign my wolf had given of interest in her. Sure, Id been attracted to her. Respected her independence and strength. Been intrigued by her mystique and magic, despite never seeing her in action. But never had my wolf insisted on having a claim to her.  At least, not until now. Maybe? I need a better look, Marcos replied. Well both have a better look.  Marcos arched a brow, a sly smile curling his lips. My panther has opinions. Whats your wolf saying? Interesting. His beast was also laying claim? Could we both be mated to Sera?  I looked at Marcos again, sizing him up in a new light. Had fate paired us together with the mage? Id never heard of such a thing, but fate could be
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes two men's reactions to a possible mating mark on a woman they know. Both men's wolves claim her as their own, and they are both intrigued by the possibility of being mated to her.

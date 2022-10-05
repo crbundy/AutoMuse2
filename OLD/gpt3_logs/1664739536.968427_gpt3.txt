@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: situation with your Granny. The ground underfoot was steep and uneven, but luckily the dawn was near, making it possible to continue threading our way through the scrub brush and thorny thickets dotting the landscape. A rush of wings passed by overhead. Panicking, I ducked, doing my best to imitate a nearby bush. Looking back, I saw the others had done the same. Soon enough, the creature had moved on. I waited a moment, maybe two, and then rushed toward the direction it had come from, guessing its nest had to be close by. I scrambled up a rise of small boulders, hearing the others behind me follow. When I crested the mound, I saw what had to be the monsters nest spread out within the hollow below. It was huge, reminding me of a large, sprawling eagles nest, except it was twenty times the size. I pulled a flashlight from my pocket and turned it on, keeping the beam low. Marcos and Franc followed suit.  When I looked around and noticed Liam had shifted into his wolf form, it let me know how focused Id become that Id missed his change. He darted back and forth through the jumble of sticks and twigs, nosing about faster than the rest of us.  Ew, Sera said, her voice a whisper as she poked at a small pile of bones and fur with the toe of her shoe. This nest is filthy. She turned to me. What do the seeds look like? I forget you didnt see it at the party, I laughed. Of course she hadnt, but after the past couple of days, it seemed like Sera had become a fixture.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people who are trying to find a monster's nest. They eventually find it and are grossed out by the piles of bones and fur.

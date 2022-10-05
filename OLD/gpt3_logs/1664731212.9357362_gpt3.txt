@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: shouted, the timber of her voice escalating with panic. You cant split u-  Then Taneishas voice abruptly cut out.  ***
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Taneisha's voice abruptly cuts out as she shouts in panic.

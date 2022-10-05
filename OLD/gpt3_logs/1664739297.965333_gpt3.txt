@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Besides, I have to stay with you. Taneisha declared it. I will not be the reason you lose your precious whatsits. You can all just owe me another favor. It was shrewd thinking on Seraphinas part. I couldnt fault her for charging us for her time, either. What favors would a mage need from us? Caden asked, digging his hands into the front pocket of his black jeans as he leaned against the wall of the repair shop, glancing up at Sera under his fringe of chin-length black hair. Were just a bunch of pretty boys. He smiled playfully. Especially me. Sera raised her brows. I got the sudden impression that not only did she agree we were a group of lookers, but she also wasnt minding being stuck with us in the least. Speak for yourself, Liam snapped. His gaze didnt even flick my way, but I heard his next words clear as a bell within my mind. As the only shifters in our group, it was an intimacy wed alone shared over the years. Why did we have to get stuck with Caden on this twisted adventure? Cadens wry humor could get anyones teeth on edge, and if he didnt curb his sass, the incubus just might get a wolfish throw down from Liam. By the look of it, Caden was looking for a good scrap. Or a good fuck. Often, with him, they were the same. Blame Franc, I replied. He continues to put up with the demon, no matter how poorly Caden behaves or what trouble he drags around. Liam huffed. Id assume their on again, off again, liaisons have a lot to do with Francs
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the group's reaction to learning that they will be spending more time with Seraphina, a mage. Caden is flirty and playful, while Liam is more serious. Both shifters are attracted to her, but Liam is not happy about being around Caden.

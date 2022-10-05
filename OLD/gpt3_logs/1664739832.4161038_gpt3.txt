@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: us a nod. We rose and left one after the other, Caden first and with Marcos in the rear.  I couldnt seem to run fast enough to reach the others. To reach Sera. The glen wasnt that big, but after a day spent cornered in by hedgerows, this open space felt expansive. When I reached the others, I ran straight up to Sera, her eyes wide. No one stood in my way as I scooped her up and pressed her against me. I buried my nose in her hair, breathing deeply of her scent. My wolf should have calmed down, but he refused to settle. The urge to claim Sera, to cover her with my scent, was almost overwhelming. Hey there, wolf, Sera whispered in my ear, one of her hands running through my hair as she ran a soothing touch down my back with the other. Im okay. Were all okay. The wraith screeched in the distance. All? My eyes shot open, aware again that we werent alone. I was worried wed lost you, I admitted, hearing the emotion grating in my voice.  Em, who stood behind Sera, watched us with somber eyes, standing there quietly. This Em was a far cry from his usual brash self. Just what had happened to him in that punishment tank of Taneishas? Were fine, thanks for asking, Franc replied. Someone want to explain where the wraith Sera came from? Marcos recounted our journey with the false Sera and then the emergence of the wraith remnant from his leg, the sounds of grunting and wailing filling the background of our conversation.  Talk about a dark passenger, Franc replied,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of friends who have just been reunited after being separated for a while. One of the friends, Sera, was kidnapped and replaced by a wraith, but the group was able to rescue her and kill the wraith. They are all now safe, but they are shaken by what happened.

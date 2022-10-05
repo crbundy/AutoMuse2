@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: legacy was on the line, I needed to pull my head out of my ass and get back in the game real quick. Sure, we need to find them, but maybe this is actually a good thing. Lets split into two groups. We can cover more territory and maybe even find his legacy faster. I agree, Franc said. I think its foolhardy to attempt finding them in this maze when we dont even know where we are.  Sera shrugged. Maybe youre both right, but I dont have to like it. Whats our move? I asked. I wasnt usually the one asking. Usually I was the one driving the action, but there was nothing typical about this journey. For the time being, Franc replied, We need to push forward and see if we can find Liams moonstone wolfs head while avoiding whatever that creature was back there. Game strategy dictates we follow the right-hand rule, Sera added. When we both frowned at her, she continued. Its where you keep your right hand on the maze wall and keep it there until you find the center or the exit. Lead on, princess, Franc replied. There was a flash of something between them. Defiance in Seras eyes and a familiar ease on Francs part. I held my tongue, knowing fighting the illusion was a lost cause. I was desperate to know what all had happened since Id been gone, but I had no proof that this was anything other than another trick. Only time would tell.    The Faes Promise Liam An otherworldly fog filled the air, burning at my sensitive muzzle and clouding my keen vision. I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a strategy for finding one's way through a maze, and the emotions of the characters as they discuss it.

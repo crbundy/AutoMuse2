@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: temple. The mirror wall separating the cella from the main temple area had shattered outward. Couches had been overturned. Togas laid cast off in pools of spilled wine.  The lights might be dim, but I could feel the disturbing, but unmistakable buzz of the sanguine trail of blood the revelers had left in their wake. Id seen some crazy nights in the temple, but the blood? That was new. The call of the drum pounded against the inside of my mind. I took a deep breath and pushed the summons to the back of my mind. I couldnt silence the beat, but I wouldnt do my brothers or Sera any good if I lost myself to the seductive thrall. What the hell happened? Liam demanded, groaning as he rolled to his side. He had a wary look in his gaze as he took in the remains of the temple, which I imagined was only slightly better than whatever grim expression painted my face right about now. We were all arranged haphazardly around the cellas massive bed, placed wherever wed fallen when Seras power had erupted. All of us were naked, and I wasnt sure everyone was even conscious. Im not entirely sure. Roll call. Is anyone injured? I asked. I feel bruised all over, but I think nothings broken. Group sex with you all could have killed me, Caden groaned. The only part moving on him was his mouth. What did we do wrong? Was it too much all at once? Too fast? Too many Os? Thats a hell of a confession for an incubus, Marcos replied, pulling himself up off the floor. He glanced around,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a chaotic scene in a temple, with overturned furniture and pools of spilled wine. There is a strong smell of blood, and the narrator notes that this is new. They realize that everyone is naked and some are unconscious. They call for a roll call to see if anyone is injured, and Caden jokes that group sex with them could have killed him. Marcos wonders if they did something wrong.

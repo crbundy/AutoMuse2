@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: you think?" I asked Jax. She spun around and stared at me in shock. "That's certainly a statement piece. It accentuates all of your curves in the best ways." "You know whats even more impressive? It's got pockets! Multiple pockets! And you can bet I'll be making a statement. One those five will never forget, I promise you." I sashayed over to the shoe wall and picked out a pair of practical low-heeled boots and then carefully rearranged my skirts so I could slide my feet into the boots around the rosy masses.  "The plan is what again exactly?" she prodded, leaning up against a door frame. I supposed I could tell her something. Perhaps Jax would be of more help if she understood my plight?  I adopted my most aggrieved tone of voice. "You need to understand these boys terrorized me back at Briarwood Academy. They were inseparable and moved together like a pack despite being from different backgrounds and species. Frank and Emrys are demigods, Marcos a panther shifter, Liam a wolf shifter, and Caden an incubus. They're all trouble. Together, theyre a menace." While we were chatting I searched through my things for the tools I knew I'd need this evening. Inside one of my closet drawers, I found an enchanted purple knit infinity scarf which I tucked into one of my many pockets.  "From day one they had it out for me. Always picking on me," I continued. I moved my search out into the living room where I picked a bowling pin off of a pedestal. How could I leave home without this
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+I was telling Jax about the boys who terrorized me back in school and how I planned to get revenge on them. I mentioned that I was looking for some tools I would need for the evening, and she asked me what the plan was. I explained that they were always picking on me and that I was going to get back at them.

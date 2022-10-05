@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: demi-gods could handle whatever the maze threw at them. I followed the others, glancing back every few steps to check that the mist wasnt getting any closer.  Caden huffed, but relented, jogging to catch up with Marco and Sera, and I trotted along behind them. Fine, but I am not okay with this decision. What do you think, Sera? Should we go back after them? Sera leaned heavily on Marcos, his arm wrapped around her waist. Hed been limping more, favoring his injured leg from the wraith attack in the Netherworld, but that hadnt stopped him from practically carrying Sera. Had he hurt himself further during our encounter with the fog?  I really dont want to go back into the mist, she replied, her expression verging on panic. At least she was more steady on her feet. The mist was clearing as we moved further away, and although I could still scent the creature on the breeze, the sounds seemed to fade with our distance from the wall of fog. We reached the end of the row and came to a hard stop, our options either to the left or right. We were beyond the curling mists, but stuck within the maze with no clear path forward and no hints about which option was better. Whats your wolf's nose say? Marcos asked.  I ran to the left, then the right, scenting out our options. My snout was full of grasses, dirt, and other plants, but nothing distinguished the options. Turned to Marcos and shook my head. I cant tell any difference. He says theres no clear better path, Marcos
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The characters are in a maze and have to choose between two paths. They can't tell which is better, so they have to decide which way to go.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: partys still raging out there, I said, attempting to break the tension. Franc arched a brow. The party never stops in the temple, and its not over for you either, little rabbit. With a little shaky effort, Emrys pushed himself up. I healed Sera from the lock the faes magic geas had on her powers. Shes free of it now. You dont need to keep pushing her to wear her out. Oh, I may not have to, yet I really want to, Franc growled. Are you ready to admit how much you need us? To accept that were yours, and youre ours? Was he really going to push this again? Now? I threw back my head, my laugh ringing off the walls. When I took a deep breath and looked around, all five of them were staring at me, taking Francs question more seriously than I did. Something about their communal attitude just revved up my need to dig in my heels. How about we worry about this later, when were not stuck on a series of side quests for a delusional fae? Or worried someone might die? Or lose Francs mask to Taneishas destructive whims? These arent trivial side quests, Emrys snapped back. This is our future Francs asking about. Everythings a side quest, I said, rolling my eyes. Caden crossed his arms and huffed out a deep sigh. Youre making light of how weve bonded together, so you dont have to face your fears over an uncertain and uncharted future. Your life was predictable and easy before fate stamped you with those mate markings. To add insult to injury, you hunger for
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is mocking the seriousness with which her friends are taking a conversation about their future Bonding, calling their concerns trivial.

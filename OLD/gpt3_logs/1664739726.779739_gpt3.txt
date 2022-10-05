@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: but I knew better than to fight Liam and Em, even worrying about what might happen. So far, when we had separated during the faes quests, things had only gotten worse for us. At least Marcos and Caden stayed behind, which struck a chord of relief within me. Back to the dance floor? Marcos prodded, as if sensing my hesitation. I nodded. Lets give that knot another try. Caden clapped me on the back. Theyll be fine. Lead on. We exited the now quiet temple, finding only small groups of patrons milling through the gardens outside. I steered us around the raucous laughter and loud voices, not wanting to get sidelined. When we reached the archway to the dance floor, the music was still booming, and the room was again filled with swaying, gyrating bodies. Any other night I might have taken comfort in the familiar sultry, sweaty mojo, but knowing everyone here was trapped shattered the illusion. Marcos led the way through the crowd with Caden and I following in his brawny wake. I heard more than one dancer growl and groan as we passed through them, and I couldnt help but feel like things were even more on edge than when wed left. Just how long could my patrons hold out after days of partying? Even more reason to solve the faes knot puzzle as soon as possible. We reached the center of the dance floor and found my mask remained. Still surrounded by the faes magical knot, it glowed like liquid pink neon flowing around it. The dancers gave the area a wide berth, giving us
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the author's return to the dance floor after speaking with Liam and Em. He is accompanied by Marcos and Caden, and notices that the mask he left behind is still there, surrounded by the faes' magical knot. The dancers give the area a wide berth, and the author wonders how long they will be able to hold out after days of partying.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: close enough to stop me, but didnt.  What did I miss out on? Sera crossed her arms, her brow arched high. Are you asking about how far we walked or how many creatures of the underworld we fought off? I took a deep breath, and I swore I could smell the flare of her temper singe the surrounding air. I ran a hand through my hair. You know what I mean, I muttered. I dont think I do, Em. Out with it, golden boy. I groaned. Was this even real? Did anything I do even matter in this place? I sighed. Id never been good at sitting on my curiosity. My angst was real, even if this place wasnt.  It was Francs turn to arch a brow my way, but I recognized that bemused smile curling his lips. He was enjoying the show.  Let him. Look, Im no shifter, so I cant scent others on you, but I can sense youve all grown closer. The posse seem more protective of you, too. Weve been through a lot in a short time together, Sera replied. Liam insisted you had mating marks, and I know how driven shifters can be to claim their mates. So, are you one of theirs now? She frowned. I belong to no one. Im my own person. So why didnt I believe her?  Franc, hand over his mouth, let out a soft cough. Sorry to interrupt. He leaned close to Sera, tucked her hair behind her ear, and then leaned in. When he spoke, it was in a breathy whisper. I have to say, I certainly admired how you asserted your independence back in that shower. Thanks? Seras cheeks flushed crimson. They have not
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a conversation between two people. One person is asking the other about their relationship with a group of people, and the other person insists that they are not part of the group. The first person does not believe the second person, and the second person gets angry. The conversation is interrupted by a third person, who makes a comment about the second person's assertiveness.

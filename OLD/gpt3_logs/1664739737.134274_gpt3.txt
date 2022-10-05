@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: nodded to Jax. Water activated. They look scary, but theyre harmless if you leave them alone. Ow! the snake-wrestling vampire guard yelled out as he struggled to remain standing. One snake had firmly attached itself to his nose while another had wound itself around his legs. Jax glanced my way. They dont seem harmless. And theyre like what, eight feet long? Up to ten feet, but they arent venomous so the bite is superficial. Besides, can a vamp complain when something bites back? I rushed toward the now empty alcove, slipping inside to get a better look at what I was up against. Jax followed close behind me, then we both peeked out to see if anyone was paying attention to us. At least the vamp will heal quickly. How many marbles did you drop? Jax whispered. I couldnt count the snakes in the dark, what with them being entwined and black. Wow, theyre really going after that guard, eh? I didnt count how many? At least five, but no more than fifteen. I grabbed her by the sleeve, pulling Jax deep into the alcove with me. While the alcoves opening was only about six feet high and twelve feet wide, the inside opened up, forming an expansive semi-circle of space beyond with rounded walls and a domed roof. Our view of the fountain was obscured by the narrowed alcove opening, which meant anyone dealing with the marble snakes didnt have a clear view of us. The centerpiece of the space was a two-foot glass paneled steel-framed case mounted on the back wall and lit up
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Someone has released snakes in the plaza and they are attacking a guard. Jax and the narrator go to investigate and find a large number of snakes in a hidden alcove.

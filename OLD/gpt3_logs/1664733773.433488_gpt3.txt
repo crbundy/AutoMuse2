@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: claimed me. Mated. Or whatever, she stammered. Franc took a step back and shook his head. Of course not. Youve demonstrated youre perfectly capable of claiming who you want, when you want. My stomach sank as Franc confirmed my fears. Off in Taneishas void, Id missed out on more than just helping Caden retrieve his legacy. The posse and Sera had moved on without me. By the gist of it, together.  I havent claimed the posse as my mates! she exclaimed. Im not looking for that. Never said you had, Franc replied, but by his smug smile I knew hed gotten the rise out of Sera that hed been looking for. As a god of revelry, Franc felt almost pathologically compelled to point out when people denied their urges. But that hasnt stopped you from taking what you wanted, and I certainly have heard no one complaining. She stared at him for a moment, and then let out a long breath. Youre impossible, Sera said. Which I know you know. Franc grinned at her, then at me. Ill admit I have my charms. Franc and I usually played wingman for each other with women. Sometimes with the same woman, and sometimes more. Now he was playing mediator and taking Seras side over mine? My instinct was to snap back at Franc, but his demeanor had me second-guessing myself, so I held my tongue. I wasnt truly angry at either of them. Hurt? Definitely, but I had only myself to blame for feeling left out on my chance with Sera. Enough talking. Either this was an illusion, and Id become an
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a man's reaction to learning that his friends have moved on without him. He is hurt but understands that he has only himself to blame.

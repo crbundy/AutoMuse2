@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: looked polished and well put together, now his curly blond hair had fallen forward into his face. His shirt was unbuttoned, the sleeves rolled up, and the fabric rumpled. He was thumbing through a stack of sheet music he held in his hands. I meant the whirlwind that brought me here. Wherever this is? Did it make this mess? I didnt notice one. Also, I made the mess. What? Why? I suppose I was bored. Ive been stuck in this library for hours? Days? Only the fae knows. Its her illusion? Dream? Dream illusion? No, that makes little sense. Its only been a short while since she sicced the mists on us in the garden. Franc turned to me, a curious smile on his face. Then time has run differently for me. Huh, okay. But why tear this place up? Franc handed me a wine glass. Take a sip. Where did you get wine?  He scoffed. I can always find wine, little mage. Even within someone elses imagination. Look at this. He held the sheet music up in front of me.  I sampled the spicy full-bodied red wine as I read a few lines from the top of the page. Thats a burlesque theme song? So? This song is featured in an upcoming show at Velvet. A show thats still in development, I might add. He set down the pages, picked up a book, and handed it to me. This is the story of how Jasper Jeanneau came into possession of the Eye of the Tiger. He handed me another book. This book covers the schedule at your shop, Enchanted Grounds. I set down the glass and flipped through the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Franc is showing the protagonist around an illusion created by a fae. The protagonist is surprised to find that Franc has been able to find wine and information on the protagonist's life within the illusion.

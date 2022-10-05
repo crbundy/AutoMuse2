@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: before. I released his backpack, but stayed close to him as we worked our way across together. I kept my attention on Marcos as I watched the others. Caden followed close behind me, no doubt not wanting to be left on the far side when the wraiths arrived at the top of the pass. There were a few tense, silent moments passed with only the sounds of our scrabbling and heavy breathing.  When Marcos stepped off the far side of the ledge and joined Sera and Liam on the far platform, I finally relaxed. Marcos swept Sera up, holding her tight in his arms, his face buried in her neck. Sera loosened the rope from around Marcos waist. Freed from the constraint, he walked her over to the rock wall, pressing her against it as he ran his nose repeatedly from her face to her shoulders.  From Seras appreciative whimpers, she wasnt minding the attention one bit.  I joined them a few moves later. Happy to be out of the danger zone, at least for this most recent hurdle the Netherworld had thrown at us. I glanced back at Caden, who appeared to be making his way with a fair amount of skill. I pulled the slack out of the line as he moved closer, intent on helping him too, if needed, but it didnt look like hed need the help. You boosted Marcos? Liam asked me. He had been winding our rope around the boulder as wed reached the other side, keeping the lax excess to a minimum. I nodded. He looked shaky. I figured a small boost would help get him through the current crisis. Looks like hes in
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a situation where the protagonist helped another person cross a dangerous ledge, and then relaxed once they made it to safety. The person they helped was shaken up, but made it across without any further assistance.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: champagne sparkly dress which Taneisha had dressed me in, I craved the heat of his touch. Im not worried, Franc replied, not turning to look at me. Im pissed. I dont know whether Im more upset over retrieving the divine mask of Dionysos or concerned over what damage the partying masses may have done to Velvet in my absence. No one should have been able to even get in without my permission! Taneisha must have breached the magical wards you have which control the guest list. Thats the only way anyone would have been able to enter. Whatever damage shes done, or the partiers have done, well sort it out, Marcos said, placing a reassuring hand on Francs shoulder. Hed worked at Francs bouncer ever since the club had opened, so no doubt he already had a mental game plan to sort out the club. This is Velvet. Its yours, even if youve been away, and even if a fae has brought in a horde of trolls. Weve had things go sideways before, and its never been something you couldnt handle or bring back from the ashes. Although I figured Marcos was kidding about the trolls, it got me wondering. What dangers might lie inside? What creatures? Taneisha had no desire to make this easy on us, so there had to be something up her sleeve. Most likely multiple somethings.  I hope thats the case. Franc frowned, but then turned his focus on me, pinning me with the full intensity of his blue-eyed gaze. I want you to go home. My breath caught in my throat. His gaze traveled over my
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A person is concerned about going into a club because they are worried about what damage has been done to it in their absence. They are also worried about what creatures might be inside.

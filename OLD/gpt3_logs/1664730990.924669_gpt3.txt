@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: do I have a cave? I muttered.  Oh, dont you just love it? Taneisha crowed back at me. A screech erupted in the gardens, saving me from having to reply. Marcos and I moved back around the tree, looking around the gardens for the source. Marcos pointed to the source a moment later. Ella and Mikael leaned heavily on each other while Chadwick swung a barstool behind them as they fled a group of bloodied dancers. Filigrees of electric magic ran from Chadwicks hands down through the barstool and sparkled at the end of the legs, where they fizzled out. Its Seras friends, he whispered. We cant leave them to the cannibals. Potential cannibals, Taneisha enthusiastically corrected from behind us, as if by metaphorically underlining the word that the cannibals would be less threatening. We cant leave Seras family to fend for themselves, Caden added. We have to bring them with us. I nodded in agreement. Looks like their magic is fading, and theyre running out of time. Ideas for distractions? I could shift and make some noise, Marcos offered. I hate to break it to you, but panthers dont fare well against raving Dionysian revelers, Caden added. Marcos brows shot up. Oh, yeah, on second thought I say we brute force it, Caden continued. Rush in, rush out. I can help! Taneisha said, tapping a thoughtful finger against her lips. Ill blind them with a menagerie of butterflies! Do it, I replied to the fae, beyond questioning her motivations at this
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people fleeing from potential cannibals, and brainstorming ideas to distract them.

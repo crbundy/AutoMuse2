@@ -45,8 +45,14 @@ def finetune_get(ftid):
 
 
 
-#resp = file_upload('novel.jsonl')
-#finetune_model(resp['id'], 'novel_writer', 'davinci')
+#resp = file_upload('novel_rh_FF.jsonl')
+#resp = file_upload('novel_pnr.jsonl')
+#finetune_model(resp['id'], 'candice_bundy_FF', 'davinci')
+#finetune_model(resp['id'], 'candice_bundy_pnr', 'davinci')
 finetune_list()
 
-#openai.FineTune.cancel("ft-2ZxHjUVe5DpqK2EsYyA0YtKz")
+# 100k/$3 = davinci:ft-personal:candice-bundy-rh-2022-10-04-06-02-53
+# 625k/$20 = davinci:ft-personal:candice-bundy-ff-2022-10-04-16-01-06
+
+#openai.FineTune.cancel("ft-M6f1KHXEiv0n5zOAYVlObwEf")
+#openai.Model.delete("davinci:ft-personal:novel-writer-2022-10-02-20-17-57")

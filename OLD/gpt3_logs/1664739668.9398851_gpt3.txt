@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: aid kit and was bandaging up Ellas ankle while we stopped to plan our next move. From the noise coming out of the hall leading to the Den, I knew where our maenad Sera had led the revelers. I walk into the Den of Iniquity and confront Sera head on. Only I can bring her back from this madness, I explained. Afterward, well get Liam and Emrys, and then together we can head back to the dance floor and work together to free my mask from the faes magical knot. Why is the room called the Den of Iniquity? Ella asked.  Its the BDSM room, so Caden explained.  These cannibals are with Sera in there? Ella asked. Thats extra kinky. As the pitch of her sirens voice climbed with every word, her externalized anxiety grated on my nerves.  You say only you can save her, but it sounds like you caused this whole mess, Chadwick replied. I think we need a better plan than just you walk in and talk her out past the masses of unstable ravers. Im telling you, this is the only way, I said. I disagree. Mages stick with mages, Chadwick replied. Its our custom. I suspected he also meant mages usually only dated other mages, but he didnt say it. I wanted to point out not only was I a demi-god of Dionysos, but Caden, Marcos, and I were also Seras mates, damn the rules. We were the ones she needed now, but it seemed like a bad time to break that news to her cousin and friends. This is my club. Mine. Maenads and bacchantes are my purview, not mage business, I insisted. I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a standoff between two groups of people. One group, led by Caden, wants to enter the Den of Iniquity to save Sera from the madness she has fallen into. The other group, led by Chadwick, disagrees, saying that it is too dangerous.

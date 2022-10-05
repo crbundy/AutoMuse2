@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: eyes. Yes, of course Id heal her. Im no monster. The black-eyed Sera watched us, but I couldnt get a read on her. Could it be the wraith taint on her? Did she even understand what was going on? Sera, tell Taneisha you want to go with her. Leave the maze, I urged. Sera smiled a wry smile and took a step backward. This has been fun, boys. Ask her to take you, Caden pleaded. The fae will help you. Okay, Sera replied, but took another step back, pressing herself against the hedge wall behind her. I want to go with you, Taneisha. I want to leave the maze. Taneishas expression grew stormy. I will do no such thing, she spat out. But you swore I started, frustrated past the point of civility with Taneisha, but she held up a hand to cut me off, a glare of warning in her brown eyes. Wolf, when Sera asks, I will take her. Until then, I am not honor bound. What the hells! Caden exclaimed. Didnt she just do that? Taneisha didnt answer. Marcos, Caden, and I shared a look. The fae couldnt lie. Which meant The black-eyed Sera giggled. I suppose the gig, as they say, is up. Sera blew the three of us kisses, one after the other. Its been fun, boys! Oh, and thanks for the boost. The black-eyed Sera winked and then stepped backward through the hedge in a puff of blackened mist. What the hell just happened? Caden huffed out. Marcos let out a low growl. That wasnt our Sera. It was some maze trickery. Wasnt just the maze, Marcos added. That false Sera
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The black-eyed Sera is not the real Sera. She is a trick of the maze.

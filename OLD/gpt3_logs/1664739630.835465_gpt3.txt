@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: but a sudden wave of unease washed over me. Wait, who are Velvets typical patrons? Just people from around town, supes, visiting dignitaries, or what? He rocked his head from side to side. We get all types. Mostly people from around town, but also a healthy mix of those in the supe communities. Oh, I replied, feeling my mouth form a little O as a panicked thought shot through my mind. I hadnt been seen in supe society or related events for some time, yet my family was well known. What if I ran into someone who knew me? Would they even recognize me? Would they care? Or would I be called upon to wield my magic in public, just to fail spectacularly? I chewed on my bottom lip. We cant know for sure from here. Lets slip inside and feel it out? Surely theres an entryway where we can peek around? Once we have the lay of the land, I can always go if we determine the situation is too dangerous, I offered. I knew I wouldnt be willing to leave later, but I wanted Franc to believe I was taking his concerns seriously. Even if I wasnt entirely being honest. Or really at all. Who was I kidding? I wasnt about to leave them here. Franc huffed out a sigh, the gleam in his eye letting me know he saw through my charade, but also appeared unwilling to fight me further on it. Fine, but Im kicking you out and shuttling you home at the first sign of danger. I swayed my hips like I was ready to hit the dance floor. Then lets check out the party.    An Explosive Discovery Sera At
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is worried about being recognized at the club, but decides to go in anyway.

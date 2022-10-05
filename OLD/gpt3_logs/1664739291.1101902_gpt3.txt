@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: their hands on the stone. First Caden, and then Marcos. With each added contact, the symbols flared with brighter light. Were out of time and out of options, Liam said, placing his hand on the rock. Thanks, Sera, but you should go home. Well have to figure things out on our own. The stone emitted a second, louder chime, which echoed through the cavernous club. Now, Em, Franc ordered. The third chime could happen at any moment. In a final gesture of invitation, Em reached out for my hand, inviting me along one last time. Watching them all standing side by side, headed off to adventure together, was an intoxication I hadnt realized existed. All I wanted to do was join the cadre, just this once, and relive some of my youth. When I took his hand, I felt a smile spread across my face. Standing between Em and Marcos, I placed my hand on the stone between theirs. My excitement stood in contrast to the men, who ranged from Franc and Ems tense, to Cadens sullen, to Liams grouchy, to Marcos resigned determination. Before I could debate my admittedly questionable motivations for joining them, the third chime hit with the force of a gong clanging against my head. From the sudden, pained expressions on the others faces, theyd shared the same experience. A whirlwind formed, encasing the six of us in a dark, spinning globe. It sucked all the air out of my lungs as the wind rushed around us.  Just when my lungs strained, a wave of energy burst from the stone, slamming into
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of friends placing their hands on a stone, which emits a loud chime and teleports them to another location.

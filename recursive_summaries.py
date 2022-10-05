@@ -59,19 +59,31 @@ def gpt3_completion(prompt, engine='text-davinci-002', temp=0.7, top_p=1.0, toke
 if __name__ == '__main__':
     books = os.listdir('books/')
     for book in books:
-        #if 'alice' in book:
-        #    continue
-        #if 'frankenstein' in book:
-        #    continue
-        #if 'greatgatsby' in book:
-        #    continue
-        #if 'pride' in book:
-        #    continue    
+        #recommended to do one book at a time.
+        if 'looted' in book:
+            continue
+        if 'bonus' in book:
+            continue
+       # if 'sworn' in book:
+       #     continue
+        if 'entangled' in book:
+            continue
+        if 'hidden' in book:
+            continue
+        if 'reckless' in book:
+            continue
+        if 'forbidden' in book:
+            continue
+        if 'smoke' in book:
+            continue
         name = book.replace('.txt', '')
         summaries = [i for i in os.listdir('summaries/') if name in i]
         outline = open_file('outlines/%s' % book)
         summary_chunk = ''
         for summary in summaries:
+            #if prompt/completion is already done for this chunk, skip
+            if os.path.isfile('prompts/%s' % summary):
+                continue
             summary_chunk = summary_chunk + ' ' + open_file('summaries/%s' % summary)  # accumulate the summaries so far
             if len(summary_chunk) > 1500:  # if summary is too long, summarize
                 print('summarizing the summaries...')
@@ -79,8 +91,14 @@ if __name__ == '__main__':
                 prompt = prompt.encode(encoding='ASCII',errors='ignore').decode()
                 summary_chunk = gpt3_completion(prompt)
             last_chunk = open_file('chunks/%s' % summary)  # get the chunk equal to the currently summarized one
-            next_chunk = get_next_chunk(summary, name)
-            prompt = open_file('prompt_full.txt').replace('<<OUTLINE>>', outline).replace('<<SUMMARY>>', summary_chunk).replace('<<CHUNK>>', last_chunk)
-            print(summary, len(prompt) + len(next_chunk))
-            save_file(prompt, 'prompts/%s' % summary)
-            save_file(next_chunk, 'completions/%s' % summary)
+            #this next step breaks when it looks for a chunk after the end of the book. needs a fix but not sure what
+            #still works to generate content for fine tuning.
+            try:
+                next_chunk = get_next_chunk(summary, name)
+            except FileNotFoundError:
+                continue
+            else:
+                prompt = open_file('prompt_full.txt').replace('<<OUTLINE>>', outline).replace('<<SUMMARY>>', summary_chunk).replace('<<CHUNK>>', last_chunk)
+                print(summary, len(prompt) + len(next_chunk))
+                save_file(prompt, 'prompts/%s' % summary)
+                save_file(next_chunk, 'completions/%s' % summary)

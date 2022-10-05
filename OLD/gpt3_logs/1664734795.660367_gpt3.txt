@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: clues is great, but Im worried about his leg. Is it hurting more? Deflection, much? I asked Marcos. Glad to hear its not just me wondering whats gotten into her, he replied. Marcos nodded. Yeah, but my leg can wait. Weve got bigger things to worry about. Thats unusual for you, Sera replied. She wasnt wrong. Shifters healed quickly and the injury to Marcos leg from the wraith attack had been lingering for days now. Im worried being here in the maze might have made it worse. Show us. When you put it like that, I want to have a look, too, Caden chimed in, his voice full of concern.  Look, fine, just so we can move past this, Marcos replied. He bent down into a squat and pulled up his left pant leg, revealing a deep, blackened bruise running up the length of his shin and wrapping back and around his calf.  A beat of silence passed.  I remembered how the injury had looked fresh, and this was no improvement. The shadowy bruise contrasted starkly against the bronzed hue of Marcos dark sand skin tone. Id seen Marcos scrap plenty over the years, and I remembered him weathering his fair share of scuffs and bruises. Never had he bruised this badly. I didnt doubt all of us knew there was something seriously wrong with Marcos leg. Shit, man. Caden blew out a low whistle. Thats worse. Way worse. I guess I should have been paying more attention, Marcos replied. Weve been plenty distracted and youve always been one to power through, I said. For better
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a bruise on Marcos' leg. The bruise is deep and black, and appears to be getting worse. Marcos' friends are concerned, and think that something may be seriously wrong.

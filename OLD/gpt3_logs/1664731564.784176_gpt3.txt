@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: grandmother to have the seeds back.  Fine, I said. Here, have them! I pivoted and threw the jar into the line of mage fire burning brightly behind us, hearing the jar rupture on impact. The Anzu shrieked, bounding into the air above us as we ducked, intent on flying into harms way to salvage the seeds. As soon as the monster was behind us, I grabbed Sera by the hand and raced toward the portal. There was a blast as a series of punctuated explosions cracked through the air like a massive firecracker. So much for taking over the world, Granny. Only when we reached the portal did we stop and look back. The Anzu stood bereft, holding ashes in his great taloned hands. Scorch marks covered his feathers. Our queen will know what youve done, incubus. I will make sure of it. I tried to ignore the sinking feeling in my gut. This wasnt something I could take back. There would be consequences, but Id worry about those on another day. Now I was just glad to be alive. I nodded to the Anzu, and then turned and walked through the portal with my family of choice by my side.    Epilogue: Emrys Awakened Sera Returning to Taneishas faery glen felt like a welcome measure of safety, but only compared to the facing off against actual hellions. The posse looked like theyd been through hell because they had. Everyone was catching their breath, tossing their backpacks to the ground, and checking themselves over. Marcos ran to me and scooped me up into his arms, his embrace crushingly
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist throws a jar of seeds into a line of mage fire to distract the Anzu, then grabs Sera and runs for the portal. There is an explosion, and when they look back the Anzu is standing bereft, holding ashes. The protagonist nods to the Anzu and then walks through the portal with Sera.

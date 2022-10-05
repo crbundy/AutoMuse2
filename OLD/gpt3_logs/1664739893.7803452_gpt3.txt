@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: them. The idea of having to go home without them after the quests were over tore at my heart. Nice work, Liam, Franc said. Sera too. But were not done yet. We slipped into this garden to avoid that damned minotaur, but considering the lack of exits, now were trapped in here. We need to keep moving and solve the maze before he finds us again. We cant go, Liam replied. He pointed up at the moon, which felt like it was handing directly over our heads. Weve arrived at the center of the maze. This is our destination. As if on cue, a stomping minotaur trailing smoke out its nostrils appeared at the entrance to the garden. Who wants to tell him weve won? Caden asked.    Falling into Center Liam I will, Sera said, her face a mask of raw determination. I would have been proud of her if I wasnt so scared on her behalf. If you think were going to stand by and let you face down that beast I started. Thats exactly what youre going to do, Sera said, cutting me off. She strode off toward the minotaur, clearly not willing to argue. I had to run to keep up with her. Like hell am I going to let you do this alone? Fine by me. She cast a look back over her shoulder. What are those sticks for? I glanced back, seeing we werent alone. All the guys were right there with us. Emrys was the closest, looking more serious yet relaxed than Id seen him in a long time. We used the branches and some magic goo to pass through the hedges. Neat trick. Whats our plan?
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of friends who are trapped in a garden with a minotaur. They need to solve the maze in order to escape. Sera volunteers to face the minotaur alone, and the others follow her. They use branches and magic goo to pass through the hedges.

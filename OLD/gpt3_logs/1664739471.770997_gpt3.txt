@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: It was a sweet gesture, something I hadnt quite expected from what I knew of him. Perhaps he was more than he seemed? Thanks, they seem to fit fine, I replied. Taneisha really planned this out. It seems so, Caden replied. Franc, whod changed into fresh pants and nothing else, joined us. He crawled into the sleeping blankets, and then beckoned me over. The night is wasting.  I hesitated for a moment. Did I really want to sleep next to these two? Neither Marcos nor Liam seemed to trust Caden, but it appeared Franc had no such qualms. The shifters had said these two were also my mates, so where did that leave me? Assuming I believed the markings on my skin, which I felt were dubious considering the timing of their appearance.  My body and mind were so exhausted, I brushed away my doubts for another day. Id handle those questions tomorrow, assuming I didnt end up becoming a ghouls dinner in the meantime. I laid down next to Franc, and he pulled me close, spooning against me like wed done it a million times before. Is this comfortable for you? he asked as he ran a hand down my side, resting his hand on my leg. I adjusted myself, positioning my arm under my head. I wish I had a pillow. Try this. Franc pulled one bag over and used it for his own pillow, and then adjusted his arm under my head. Despite the ordeal wed just endured, he smelled faintly of pine and bourbon. Thanks, that helps. I wrapped my arms around my torso, hoping to warm my chilled fingertips
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a moment when the speaker is falling asleep next to two people she has just met. One of them, Franc, is her mate according to the shifters. The speaker is tired and cold, but Franc makes her comfortable.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: no less irritating. Otherwise, no. Its been unusually quiet here, for the town bar. Good. We need your help down at a nature reserve to gather pixie poop. There was a pause on the line, and I thought I heard ice clinking. Im not sure psychedelics are the best choice right now, brother. Im not high. Its just I groaned. Complicated. Weve arranged a series of trades, and the last item we have to tromp through a swamp, at night, raiding pixie toilets. You always did know how to party, Franc replied. Arent pixies dangerous? Only if youre not into electroshock treatments. I sighed. Even Franc recognized the difficulty ahead of us. Im really not sure this task is even possible. But get down here and bring Caden with you. Hes there, right? He is, although he just got here. Thus why I was surprised to get your call. Huh. Caden must have gotten waylaid? We sent him over a while back. I could almost hear Franc smile. Demons will be demons. Send me your location and well head over. See you soon. I hung up, hoping Caden wasnt causing too much trouble. Hey there, youre still here? Greyson said from behind me. Were a couple minutes to closing. I spun around and flashed the habitat tech what I hoped was a nonchalant smile. I had a call I was finishing up. Are you heading out? Yes, its been a long day. I could walk out with you? Yeah, sure. All the better for him to think wed all left. Mostly, I just needed to make sure he didnt go out on
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is talking to their brother Franc, who is helping them with a task. They discuss how difficult the task is and mention that Caden, who was supposed to help, has gotten waylaid. The speaker then talks to Greyson, who is the habitat tech, and tells him they are leaving.

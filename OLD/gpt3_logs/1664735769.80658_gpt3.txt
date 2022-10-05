@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: melodious voice broke the silence, Hey, if it isnt my favorite doomed posse. We spun around to discover Tink standing there, resplendent in a midnight blue sheath dress, her platinum blonde hair pulled back and plaited ornately, hanging down over her bare shoulder. She wrinkled her little button nose at us as she frowned. Just kidding, haters. She looked around, assessing the situation. I dont understand. Whyd you call on me, arrogant god of madness? I dont see any legacy. The fae appeared so dainty and harmless, in complete juxtaposition to the position of power she wielded over us. I wanted to scream in frustration, but I held my temper.  I was hoping we could talk, I said. She arched an imperious brow. Talk? The time for talking is long past. Sera reached out and touched my hand, but her gaze was on Taneisha. We request parley. Tink blinked a few times, and then laughed. What, youre pirates now? I had no idea where Sera had pulled out that idea. Id intended to demand the fae be reasonable, but I would let Sera play this out first. Sera crossed her arms over her chest. Youre refusing to honor parley? Tink looked from Sera to the rest of us, still laughing. Seriously?  We were all tired, worn out, and over her shit, so no one responded to the fae. Instead, we all watched and waited, unified in our need for a win, any win, against our capricious foe. She sobered up and crossed her arms, mimicking Seras body language. Fine then, this should be good.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A group of people are trying to talk to a powerful fae, but she is not interested in listening. She mocks them and laughs, but eventually agrees to listen to what they have to say.

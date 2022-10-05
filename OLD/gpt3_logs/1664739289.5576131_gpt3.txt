@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: shop in the form of one Emrys Tedros. He took a few steps inside, all swagger and momentum, before pausing and looking around. A slight, bemused frown played across his face, like hed wandered into unknown territory and wasnt sure if he should forge ahead or make a hasty retreat.  He was just as devastatingly handsome as the last time Id seen him, which was during our days back at Goldenbriar Academy over four years ago. Hed cut his dark, curly hair short since, which I imagined had broken a few hearts. Emrys scrubbed a hand down the perfectly groomed stubble along his jawline for a moment before his gaze caught mine. His lips curled as he looked me over, and I hated the flush of heat that rolled over me in response. Crap, did I just blush? Emrys showing up in my shop, of all places, couldnt be a simple coincidence. He definitely wasnt here for the nerdy goodness of gaming or a caramel latte that he certainly could have gotten much closer to home. He must have come looking for me, but why?  Never mind the why. Emrys showing up meant trouble. Pepper, my evening barista and shop tender, sidled up next to me as she wiped the workspace clean. Wowie, that smooth player belongs in a nightclub, not a coffee shop filled with geeky gamers. You think he fell in here by accident? Pepper had worked for me for the past two years, and I never had to worry about where I stood with her. She was as solid and reliable as she was outspoken, despite me being her boss. Pepper was right,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A man named Emrys Tedros walks into a coffee shop and is recognized by the narrator. The narrator reflects on how handsome Emrys is and wonders why he is there. They come to the conclusion that he must be looking for them, which worries them. A co-worker of the narrator's, Pepper, comments on Emrys' attractiveness and they agree that he does not belong in the coffee shop.

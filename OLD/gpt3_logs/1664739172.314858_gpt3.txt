@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: again. Whats going on with your shoulder? Marcos asked. I dont know. My skin keeps itching. It started when we were in faery, so Im blaming Taneisha. Can I have a look? he asked. Yeah, sure, why not? Without slowing down, I pulled the neck of my shirt off to the side, exposing my shoulder.  Marcos hesitated, and then reached over and ran his fingertips across my skin, moving my long raven hair out of the way. My nerve endings lit up under his touch, the contact soothing the frayed, sharp edges of the magic coursing through my body. Woah. He totally needed to stop that. Like, an hour from now. Maybe two. Reveling in the moment, I almost missed the look of confusion that passed over Marcos face. Crap, what is it? He pulled away, lost in thought, and I smoothed out my shirt. No really, Marcos. Is it a rash or something? He hesitated, but then spoke. Its not a rash. More like a symbol or a mark, but Im not sure what it means. I had a gut feeling he was holding back, but that might have just been because he didnt know what the mark meant. I bet Taneisha knows. When I showed her, she didnt seem surprised at all. Well get it figured out. I promise you, Seraphina Lowe. Marcos was so earnest. Even using my full name, I almost laughed. But he wasnt laughing, so I sobered up quickly. I reminded myself that Taneisha had refused to send me home to punish me for helping the guys. No doubt the mark meant trouble. Emrys moved closer, falling into step on the other
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a character's shoulder, which has been itching since they were in Faery. Marcos looks at it and says it is not a rash, but a symbol or mark, but he does not know what it means. The character wonders if Taneisha knows.

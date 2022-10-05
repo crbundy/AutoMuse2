@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: social behavior. Assuming this was real, which I dared to hope it was. Francs smile felt forced, his eyes full of concern. Youre welcome to join in whenever you want. Id love hearing your perspective on the mazes illusions. I rolled my eyes. Perspective? What perspective is there beyond another of Taneishas games? Franc opened his mouth to reply, but Sera laid a hand on his arm, shooting him a pointed glance. To my surprise, Franc held his tongue. Sera was a mage, but Franc listening to her was pure witchery. But was that evidence of this present moment being an illusion, or real? Only time would tell. You look pretty lost in your thoughts, Sera said. Mind sharing with the rest of us? I couldnt help myself. I flashed what I hoped was still my winning smile at her. Youre the game expert here, mage. How do you see this mazes purpose? Her slight smile wasnt the effect Id been hoping for, but the way her face lit up delighted me. Well, mazes exist to be solved. Theres usually a prize, which we have in Liams legacy. Escaping can also be the goal, but I could argue that our escape is via the prize, since we cant leave without it. Thats pretty clear, I said.  She nodded. True, but it bears saying. Mazes can also be metaphorical journeys into the choices we each face in life, or deeper understandings of our own psyches. Franc ran his hand along the leaves of the hedge wall. This doesnt feel metaphorical. Sera chuckled. Agreed, but I suspect the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage discusses the possible meanings of a maze, with the conclusion that it could be a metaphor for the choices we face in life.

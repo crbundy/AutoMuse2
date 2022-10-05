@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: to turn our weaknesses against us to prevent us from winning her challenges. I hadnt thought of that, but youre right. I wouldnt put it past her either, Sera replied.  What do you normally do to regain balance? Liam asked. Exercise, mostly. Cardio. Lots of cardio. But I cant do that like this. She held up her hands. I could really go for some cardio myself, I said to Liam. That mage fire might slow you down, tiger, he replied.  She needed to burn off mental and physical energy fast. Theres more than one way to make a cup of coffee. I have an idea. Follow my lead? He arched his brow but gave me a quick nod. I just want to point out you could have asked us for help, you know? Its ironic that youve been giving the posse hell for not working together or asking for help. You havent been following your own advice. Sera laughed, and the flames grew for a moment. Had I made the fire worse? But no, another couple of seconds passed, during which the fire seemed to get a little smaller. Liam glanced at me, giving me a quick nod, and I knew hed seen it too. I suppose youre right, Sera said. But now you know my secret. That youre an amazingly potent mage? Liam said, his voice teasing. Im afraid weve known that since our academy days, darling. Sera blinked slowly, a smile playing across her face, warring with confusion. She let out a half-hearted laugh; the fire blazing with her emotions. You know thats not what I meant. I meant that my magic is
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Two people are talking about how one person's magic is very powerful. The person with the magic says that she needs to find a way to release all the energy she has built up, and the other person says that he knows a way to help her.

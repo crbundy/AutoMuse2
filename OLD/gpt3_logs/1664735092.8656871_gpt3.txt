@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: becoming entangled with our posse and I wasnt sure how comfortable I was with this new turn of events.  Our posse had grown so far apart these past few years. Id counted myself lucky when everyone, even Liam, could make it to the party Id set up in their honor. It felt truly like old times, at least it had before Taneisha had stolen our legacies. I hadnt even worried about the prospect of group quests. But that was before the fae had sent us off into the Netherworld. Youre a part of our posse now? I teased, surprised to hear a sharp edge in my tone. I immediately regretted it, even before a guarded mask fell over her features. Liam didnt look at me, but I knew his subvocalized growl was all for me. Where else am I supposed to go? Sera replied, her voice a low mumble. I let out a long breath. It wasnt Seras fault she got stuck here with us. I should really cut her some slack. Yeah. I planned to. Most likely. Right after I figured out her secrets. There, Liam said, pointing at a switchback a few hundred feet below us. Its black, and a there are a few of them. I watched the creatures, unable to identify their species. All I could see were amorphous shapes with purposeful movements. Movements in our direction. Caden nodded. I cant make out what they are, but theyre black like the river. We all turned to Sera, whose pallor had grown pale. She rushed over to look down at the black creatures. What the hells? she said, roughly combing her fingers through her
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of friends who are reunited after being apart for a while, and then describes a new threat they face together. The group is surprised by the appearance of black creatures, and turns to Sera for answers.

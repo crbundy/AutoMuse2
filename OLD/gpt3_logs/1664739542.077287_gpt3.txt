@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: something Caden had missed. This situation could get out of hand. Quickly. He looked at me, and I heard his unspoken subtext. Liam thought of me as his, well their, mate. Im sure the very last thing he wanted to do was risk me to get back some seeds. Thats why aiming for minimal interaction is the key, Caden replied. I think Ive proven I can hold my own, I said, feeling my back straighten. You certainly have, little mage. Id rather face the beast head on, but Cadens idea to start with the least confrontational option is sound, Franc replied. If that doesnt work, we can always fall back on your enchantments. Marcos huffed out a breath. We shouldnt put Sera in that position. Shes already been using her powers at every turn to help us out. And for what? Some old seeds? Cadens eyes flashed red, but he held his tongue. Franc sat forward, elbows on his knees, and sighed in frustration. I wont have you disparaging Cadens legacy. You cant know the depth of meaning in someone elses heart. Okay, but I have a right to understand what theyre about, right? Marcos said to Franc, and then looked at Caden. I think we all have a right to know what were risking life and limb tomorrow for.  There was a tense, silent moment that hung in the air. I had the sense that Franc wanted to tell Marcos to shove it, but didnt want to speak for Caden either. Fine, Marcos, have it your way. Caden sighed, his shoulders slumping forward. The seeds arent just old or a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage discusses the conflict between two characters: Caden, who wants to avoid confrontation, and Marcos, who wants to understand what they are fighting for. Franc intervenes and tells Marcos that he has a right to know. Caden then explains that the seeds they are fighting for are not just old or a legacy, but have a deeper meaning.

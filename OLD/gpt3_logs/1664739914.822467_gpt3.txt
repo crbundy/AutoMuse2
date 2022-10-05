@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: figured out the solution on your own. Plus, you were so distracted by Sera and your friends, I thought for sure youd fail. The fae sauntered close to Liam, and suddenly I was in motion, intent on being at Liams side in case Taneisha pulled something. Lucky for you, my puzzle had a flaw. Taneisha turned and looked straight at Ray, her eyes sparkling with rage. Tany, Ray said. The minotaurs cheek twitched.  Raymond, Taneisha replied, her voice sharp as steel.  Clearly, they had a history. I had known no one to call the fae by that nickname, or any nickname except Tink, and hed never attended Goldenbriar Academy. I might have only been there for two years, but a minotaur would have stuck out like a sore thumb.  So whats your story? I asked, coming to stand next to Liam. No story. Nothing really, Taneisha said a bit too quickly. Ray was more forthcoming. We dated. I was tired of her shenanigans and broke up with her. I asked another girl out for a drink and then next thing I know Im in here because someone got jealous. I was never jealous. Its not my fault you fell into that portal on the way to meet her. Uh huh, Ray rumbled. As they stared each other down, I tried to imagine the two of them together. It left me with so many questions on so many levels, many inappropriate. Sounds like you two have a lot to work out, was all I could muster at the moment. I want to point out there was nothing in your rules about avoiding interacting with the locals, Liam
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Two students at Goldenbriar Academy, Taneisha and Ray, have a history. Taneisha is a fae, and Ray is a minotaur. They dated, but broke up, and Taneisha is now jealous. They argue, and Liam, another student at the Academy, tries to defuse the situation.

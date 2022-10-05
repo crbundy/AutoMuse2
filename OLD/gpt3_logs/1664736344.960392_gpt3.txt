@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: lowlifes, Marcos said. Franc and Liam jumped to their feet, wedging themselves between Marcos and Caden, deflecting Cadens right hook just in time.  Im going to ask you both to sit down and take a few deep breaths, Franc said. Not gonna happen, Franc, Caden snapped back. There was an intensity in his gaze I hadnt seen before. A resolute clarity. Look, Im done taking your crap and being talked down to, Marcos. Im not what you think. Ive been working for the Supe branch of the Drug Enforcement Agency. Caden was a narc? From the look on Liams face, Marcos wasnt the only one this was news to. As I thought about it, it explained a lot of the disconnect between Cadens bad boy reputation and the controlled, thoughtful person Id spent time around these past few days. Marcos took a couple of unsteady steps back, his face screwed up with disbelief. That doesnt make any sense. You barely got enough credits to finish the academy and Im supposed to believe youre with the Supe Feds? Right? What else would you expect from a lust-drunk demon besides sex, drugs, and parties? Caden spat out. Franc cleared his throat. Its true, Marcos. Cadens been working leads out of Velvet with my blessing the past two years now. Marcos jaw dropped open. You knew? I mean, yeah, of course you knew what the demon was up to. He planted his hands on his hips. I dont know whats worse. Thinking youre a drug dealer or knowing neither of you trusted me enough to bring me into your
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Caden is a narc and has been working with Franc for the past two years. Marcos is surprised and disappointed that neither of them trusted him enough to tell him.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: entire way. None of them spoke, and I didnt bother looking back. I heard them and knew theyd follow.  No doubt Id bruised their egos from the conversation Id had with Taneisha, but they would just have to get over it. Id said and done what I needed to do to get us all to safety for the night, and if they couldnt understand that, then they could take a flying leap for all I cared. Except I cared much more than Id wanted to admit. When Taneisha had offered to send me back home, my heart had leapt at the chance to return to the safety of my ordinary life filled with pastries and foamy lattes. But returning to that safety also meant leaving the posse to fend for themselves against the wily fae. Not to mention also giving up on my brief journey into the lands of adventure with fellow supes. The image had left my stomach in somersaults. Sure, they were all adults, and theyd certainly earned their conflict with the fae, but I knew my presence gave them an edge. Plus, I didnt want to leave them. I knew it wasnt just because I thought they needed me, which they mostly did. I needed them, too. I didnt understand fully why yet, but my heart knew it to be true. The will o wisp had been floating back and forth over the trail until it suddenly veered downhill. I clambered over boulders and around the scrub brush to follow it. The wisp graciously waited for me when I fell behind. I heard the guys following behind after me, but I didnt look back in case I lost sight of the wisp.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the protagonist's internal conflict after being offered the chance to return home. On one hand, they would be safe from the dangerous fae, but on the other hand, they would have to leave their friends behind. The protagonist ultimately decides to follow the will o wisp, knowing that their friends are following behind.

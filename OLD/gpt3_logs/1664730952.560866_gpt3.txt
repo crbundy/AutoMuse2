@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: You pushed me to this state for a reason. You marked me with your powers. Why? I hesitated for only a moment. I wanted you to let loose. I hoped youd gain new control over your powers through the transcendence of madness. Uh huh, Sera shook her head. You may have wanted me to evolve, she used air quotes. But you didnt just push me to see what I would become. Sure, you wanted me to embrace my powers. Free me from Taneisha geas. But also, you need me, all of us really, strong enough to save your legacy. Not to mention your precious Velvet. Silence rang through in the air as the truth of her words hit me square in the gut. Emrys glowered in my direction, but didnt interrupt us, even though I wished hed diffuse the tension between us. Tell me Im wrong, she pressed. I cant, I admitted. Im sorry. I shouldnt have pushed you. At the time, I didnt even question my motives. Thank you. Sera sighed. You marked me, Franc. Thats not cool, but well deal with that later. There was a need you felt, even if you didnt consciously understand it, and you acted on it. There is truth in madness, I explained. Madness is the answer Ive fallen back on time and time again. She nodded; eyes filled with empathy despite her ire. Take a moment and then tell me. What are you fighting for? Velvet? Your legacy mask? Me? I laughed, running a hand through my hair to distract myself from the discomfort of the moment. Cant it be all three? Thats a cop out if Ive
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses how the speaker pushed the person they're talking to (Sera) to the brink of madness, and why they did so. Sera explains that the speaker did so because they need her - and all of them - to be strong enough to save their legacy. The speaker admits that Sera is right, and they laugh when she asks if they're fighting for Velvet, their legacy, or her.

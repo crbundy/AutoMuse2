@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: I mean, they were the Supernova of Hotness, but still. How dare fate stick me in this situation? Fated mates? Just because we have a fun romp doesnt mean any of you, I pointed at each of them, get to claim me. Got it? Of course not, Sera, Marcos replied, rubbing the back of his neck. None of us would do anything against your will. Youre not obligated or being forced into anything. Its all your choice. It relieved me to hear Marcos say it, but the mere existence of mate markings on me felt like fate had dropped a hammer. My life wasnt perfect, but I liked it how it was. Didnt I? I had enough to deal with managing my family, my mundane job, and my chaotic magic. Theyve got to be a fae trick to mess with our minds and put us off our game. Demi-gods and demons dont have mate markings, Emrys scoffed. Dont worry, Sera, fate isnt bossing either of us around. I wanted to believe Emrys bravado, but if he was wrong, where did that leave me? Id assumed this was a brief adventure, a foray into the supe society that I had to abandon years ago, followed by a return to my normal life in the shadows. If fate was lining me up with a mate, even multiple mates, I didnt even know what to do with that. The fae cant trick fate, Liam replied. Perhaps, because shifters are involved, the other mate markings showed up as well? I know were feeling all the feels here, Franc said. Might I suggest we take the pixie poop Emrys saved from the trash back to Amber and get
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses the possibility that the protagonist's multiple mate markings are a result of fae trickery, and ponders what this could mean for their life going forward.

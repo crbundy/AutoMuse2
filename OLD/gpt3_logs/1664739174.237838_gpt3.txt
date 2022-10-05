@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: daily exercises, but with this outing Im off my normal schedule. Oh, well, of course. Ive heard mages spend a great deal of time meditating and focusing on their energy. So you need some focused quiet time to rebalance? Id meant just exercise, but appreciated his offer. Yeah, thatd be great. Maybe when we get outside later? Whatever you need, Liam replied, his voice smooth as silk over my skin. I know you agreed to come along and help us, but that street goes both ways. If you need our help with anything, just ask. The shiver that ran through me had nothing to do with being cold, and by Liams sexy smile, I knew he knew the effect hed had on me. Emrys walked up to us. Are you cold? Do you need a jacket? he said, offering his coat.  Were they fighting for my attention? It was unexpected, and I sort of loved it. Was that wrong? Im fine, just eager for the humans to leave, I replied. Emrys nodded. I have this gut feeling, but Im sure Tin... Taneisha has made this task impossible. Had he always been this cynical, or was it just the circumstances that had brought it out in Emrys? Just because the fae are known for being tricksters, doesnt mean shes rigged her puzzles, I replied. Why wouldnt she? She clearly wants to see us suffer. So why not? Emrys said. Either shes rigged it, or she hasnt, Marcos said. We cant know either way, so we have to proceed under the assumption that shes not and that we can get our legacies back. Exactly. Can you try
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes two people discussing whether or not a third person has rigged a puzzle. They agree that they cannot know for sure, but decide to proceed as if she has not.

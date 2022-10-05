@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: moment, just grateful for the help. Then I tapped into the energy of Velvet, made chaotic by Taneishas magic, aiming to amp up the music and lights on the dance floor. After a moment, Velvet responded with a bone-jarring bass beat. Not quite what Id hoped for, but it was something. Lets go, I called out over the noise. Marcos led the charge, with Caden and I following on his heels. Chadwick and Mikael stood between the cannibals and Ella, backing up as the cannibals closed in around them. I ducked as a roar of fluttering wings passed by overhead, rolling out over the gardens, forming a visual wall between us and most of the cannibals.  When we reached the trio, I could tell they wouldnt have held out much longer on their own. Marcos yelled and punched the closest bloodied reveler, knocking them down onto their ass. A red-eyed Caden kicked another square in the gut, sending them flying backward into a host of butterflies. I pulled a bloody raver away from Mikael, punching them square in the jaw.  I grabbed Chadwick by the arm. Lets go! The three needed no more encouragement. Marcos swept up a limping Ella and carried her. Caden helped Mikael, who held tight to his side, his face a mask of pain. I led us back to the hidden cave, glancing back to see the revelers distracted by swooping butterflies and the loud music coming from the dance floor. I pulled back the vines, gesturing for Chadwick to enter. He held back. Whats on the other side? Its not here? I replied.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people fleeing from cannibals. They are helped by butterflies, which distract the cannibals and allow the group to escape.

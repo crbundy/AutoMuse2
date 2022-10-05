@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Franc was right, but I didnt have to like it. In the distance, my mage fire erupted again, and I expected itd found more kindling. Hopefully, it wasnt another ghoul.  Is mage fire supposed to do that? Caden whispered. No clue, I answered. Even in the dim light, I could make out his confused expression. The fire engulfing the ghoul below sputtered. Would it explode soon too? The monster had reached Liam and lunged for the wolf, claws raised, and teeth bared. The snarl from its lips was otherworldly, full of an insatiable hunger.  Liam sidestepped the assault, and the ghoul, with its momentum, smashed into a boulder along the side of the trail, causing flares of mage fire to light up on impact. The fire faded in the ghouls body afterward, as if the fires substance had been squeezed out and left upon the rock, where it continued to blaze. That was when I caught the glare of Marcos eyes reflecting the light from the mage fire moments before he landed on the beast. His impact drove the ghoul flat to the ground, his jaws clamped down on the back of the monsters neck like a vise. The remaining fire didnt deter him, and for a moment I wondered if he felt it at all. The ghoul rallied, bucking Marcos off of him, but he was injured, his head torn part way off, now dangling at an angle. The monster lunged at Marcos, but Liam came up behind him, grabbing its hind foot in his jaws, holding the creature in place. Marcos rounded and swiped his paws at the ghoul, shredding through
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Franc is right that the mage fire will explode, but Caden is confused about why it is doing that. The fire fades in the ghouls body after it explodes, and Marcos is able to kill it.

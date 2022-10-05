@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: books. Sure enough, they were as he said. Okay, thats super weird, and it makes me miss my coffee shop. And I, my club Velvet. Why do you think these books are here? Franc ran a hand through his hair, but the curls refused to settle into place. I really dont know. Ive been looking for clues about the maze or our future trials, but those tales appear to have been conveniently excluded from this exhaustive history of our lives. They may just be here to make us homesick or encourage us to give up. I set the books back down on the nearest table. Its like an emotionally entangled maze of stories. Have you seen anyone else? His gaze narrowed on me, and he stepped closer. No one, not until you. He reached up and tucked my hair behind my ear, moving my long raven locks over my shoulder. Franc arched a brow and then ran his fingertips across the place where Liam had had his teeth just moments before. I shivered under his touch. It looks like youve seen our wolf recently. I take it hes well? Heat warmed my cheeks as my mind stepped back through Liams kiss and almost-claiming bite. Hes fine, although I expect hes upset Ive disappeared on him. You know you could be wrong? It could have been Marcos almost biting me. Franc gave a quick shake of his head. No, Im not, and it couldnt. Not that Marcos doesnt want to claim you, its just hes more patient. Hopefully Liam can spend his time in this place searching for his moonstone legacy, not just pining over
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Franc is looking for clues about the maze or their future trials, but finds an exhaustive history of their lives instead. He wonders if the books are here to make them homesick or encourage them to give up. He sees that Liam has been in the maze recently and wonders if he is upset that she has disappeared on him.

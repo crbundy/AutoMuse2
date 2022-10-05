@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: rein yourself in and follow my rules. So, I constructed this special place just for you. Its an opportunity for you to have some alone time with your thoughts. Thats exactly what I dont need, I grumbled. I got this kind of crap from my Granny, like I needed it from a flighty fae I hadnt seen in years? I lived fast for a reason. Slowing down to meditate on my lifes purpose or plan my long-term goals was something Id happily avoid as long as possible. On the contrary, I think this is precisely what you need. Time and space to rethink your life. Who are you without your friends to play off of? This is an opportunity for growth. She was brimming with hypocrisy. I couldnt let her know shed gotten to me, so I forced out a laugh. Yeah, cause youre the epitome of mental health. Taneisha arched her brow. At least I know what I want.  I wasnt sure what to make of her vampish smile, and she was obviously trying to bait me, so I held my tongue. I didnt want to piss off my jailor. From what Id seen so far, Taneisha would have no qualms about making my already unpleasant situation worse. When I didnt reply, her eyes lit up. Taneisha leaned in close. Emrys Tedros, able to keep his mouth shut? Well, I never thought Id see the day, she whispered. Perhaps theres room for growth after all? Was Taneisha flirting with me? I genuinely couldnt tell. Perhaps I could seduce her into letting me go? I considered the possibility, but my mind drifted back to Sera. A pang of
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage is about a person who is being kept in a special place by someone else. They don't want to be there because they think it will be boring, but the person keeping them there says it will be good for them. They eventually agree to stay, but are clearly not happy about it.

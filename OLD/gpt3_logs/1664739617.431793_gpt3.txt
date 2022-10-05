@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: but he continued to hover over me as his healing magic coursed through my veins. When he stopped and then pulled back, I coughed again, a sparkling glitter of golden energy wafting around me and hung in the air between us.  You know how to show a girl a good time, I said to Em, my voice hoarse and my throat dry as the desert. The corner of his mouth hitched. Youre impossible, mage. And if you think Ill let you get away before I can show you an actual good time, well Ems tone was flippant, but the look in his eyes was something else. Fear? Anger? I didnt quite have my wits about me to know. The weight of what had just happened hit me like a ton of bricks. Id known Emrys, a demi-god of Isis, had the power of resurrection in his back pocket, but Id never seen his magic in action before. I did not know what it had cost him to help me, but I knew I owed him, now and forever.  Resurrecting a gal to prove a point? I joked, but from the looks on Ems, Francs, and Cadens faces, I wasnt at all funny. I held my hands to my face, remembering how my magic combined with the cage of vine had seared my flesh. My palms were red and sore, but somehow intact. Can you sit up? Em asked, holding out his hand, and I nodded. Caden was on the other side of me, and together they helped me sit up. Considering I hadnt been breathing a moment ago, now I felt energized. Ready to boogie, even. But Em pulled me close, scooping me up against his body and then standing up, cradling me
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Emrys, a demi-god, resurrects the narrator and she jokes about it afterwards. She realizes she owes him forever.

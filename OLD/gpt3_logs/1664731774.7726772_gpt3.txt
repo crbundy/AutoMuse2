@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: right and opened up into a wide, open space. Someone had arranged roses and statues symmetrically around a central fountain, like a formal garden attached to a manor house or castle. It looked so pretty, quaint, and well maintained. Not at all like a realm home to wild monsters. No, for the proper ambiance, the garden should have been filled with overgrown wild brambles and crumbling statues. Not these delicate carvings of feminine wood nymphs and muscular warriors. I heard the beast round the corner behind us, stomping its way into the glen. He shook his weighty head from side to side, stomping his hooves and huffing noisily. His blowing was so loud, I half expected smoke to erupt from his nostrils. I scanned the walls, but there were only two exits, both on the same wall, maybe fifty feet apart. The minotaur stood at the one on the left, and wed have to cross his path to make it to the other opening. Hed cornered us, and the minotaur appeared ready to rumble. I grabbed Ems arm, whose attention was fixed on the hedge wall behind us. Somehow, he was the calmest out of the three of us. Was this new cool composure a side effect of the trials Taneisha had put him through? Please tell me you see another hidden passageway nearby? Ems smile was strained. No, but Im still looking. Dont worry. Theres a trick to this game, and well figure it out. I took a deep breath and blew it out. Em was right. Wed figure something out. The minotaur started pacing back and forth,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A minotaur has cornered the speaker and their friend, and they are looking for a way to escape.

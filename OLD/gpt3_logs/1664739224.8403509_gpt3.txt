@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: snapped her fingers. In that moment, Emrys disappeared. I gasped. What did you do with him? I asked, feeling proprietary in a way I didnt have a right to be, but there it was. Oh, hes fine, just in timeout. He broke the rules, so Ive sent him to the penalty box. Can you explain the penalty box rules? Franc asked, his voice strained. One, if you break my rules, Ill send you to the penalty box and youll remain there for one round. Two, there can be only one person in the penalty box. Three, youll return to the group the following round, assuming no one else breaks the rules and you complete this quest. Hypothetically, what happens if someone breaks the rules? Franc asked.  The penalty box would reset when I sent the next person into it for their time out, she explained. Leaving Emrys... Where? I asked. Nowhere, obviously. Same goes if you dont get Cadens seeds back. Win your quest to free him. We were deathly quiet for a few seconds. Id known coming into a faes dimension gave them power over you. I hadnt truly digested what that meant until now. You cant be serious, Taneisha, I pleaded. Emrys did nothing worth dying over. Taneishas face was impassive. This is not a negotiation. I recommend you get on your way. You cant kill him, I said. You wont. I wont kill him, Taneisha replied. As long as no one else misbehaves, hes fine. Bored, but fine. Truly, when you think about it, itll be one of you killing him, if you break the rules or
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a conversation between two people, in which one (Taneisha) explains the rules of the "penalty box" to the other (Franc). If someone breaks the rules, they are sent to the penalty box and remain there for one round. If someone else breaks the rules, the first person is released and the second takes their place. If no one breaks the rules, the person in the penalty box is released at the end of the round. If someone does not complete the quest, they are sent to the penalty box indefinitely.

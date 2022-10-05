@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: illusions might function to revisit or test our choices. Thus, the memory pockets we experienced. We also dont know if this maze is Taneishas creation or something she found and co-opted for her use. And while this maze is physical, it may also have dynamic elements. Franc stopped. You think it could have moving parts? Dynamic mazes are common in lore. But that isnt what worries me. Then what worries you? I asked. You know well protect you.  The grin she flashed me this time was wholehearted. I do, Em. Although Im less worried about us than about the others. It might just be my overactive imagination, but Im worried theyre in trouble. She swept her hair out of her face, tucking it behind her ear. Suddenly, I wanted nothing more than to brand a line of kisses along her neck, banishing her concerns about the others. Im worried this maze might have divided us on purpose, she whispered. Sounds like you got pretty close to the others while Taneisha had me locked up, I said, the words pouring out of me before I could tap my mental brakes. The smile washed right off of Seras face, replaced with a fiery glint in her eyes. We crossed the Netherworld together. Without you, only because you ignored the faes rules and got yourself in trouble. Now youre jealous you missed out on the experience? Any person in their right mind would know not to test a mages temper, but Id never excelled at holding back my emotions. Instead, I stepped closer to her. Franc came
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a character's worries about the others in their group, and how they may have gotten into trouble. The character is also jealous about missing out on the experience.

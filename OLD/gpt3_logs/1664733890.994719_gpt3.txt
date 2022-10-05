@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Jax laughed, shaking her head. "What fool would accept an invitation from a fae? No offense intended." "None taken. Thats why my invitation has to be undeniable. I need leverage." I slid the enchanted portal stone into yet another of my voluminous pockets. Grabbing a pen and a piece of stationary off my counter, I tucked those into the pocket with the portal stone. I flicked my fingers, opening a portal from my living room to the parking lot outside of club Velvet. "Let's get this party started." * * *    Club Velvet Stop bouncing about like a rabbit, Jax ordered. Youre already drawing enough attention with your dress. "Who can blame them? This dress is a showstopper." I craned my neck around trying to figure out how much further we had to wait in line. I could see the pink velvet barrier rope cordoning off the entryway from the club proper. Now that we were almost in the door, I could hardly hold back my excitement to set my plan in motion. "It feels like we've been here forever." "It's only been 5 minutes, T," Jax said. Then she leaned in and whispered in my ear. "I don't understand you. Why aren't you wearing something you could sneak around in, considering youre sneaking in?" I took a deep breath and straightened my spine. "This fae sneaks for no one." Jax slowly double blinked her eyes, as if she had to take an extra moment to digest my truth bomb, but then she let out a bubbly laugh. "You're right. I would expect nothing less." The line moved forward, and she
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A woman named Jax and her friend, T, are waiting in line to get into Club Velvet. T is excited to set her plan in motion, and Jax is trying to figure out why she's not wearing something more practical. T tells her that she doesn't need to sneak in because she's a fae, and Jax laughs. They move forward in line and are almost at the door when Jax's phone rings.

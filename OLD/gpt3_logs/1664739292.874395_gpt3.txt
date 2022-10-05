@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: me and throwing me to the ground. The next instant the gust died down, and we were somewhere else altogether.  Somewhere fantastical. My head was spinning, but I sat up, rubbing my temples. The still-glowing stone sat on the ground between us. The magic portal had knocked all of us down to the ground. I got my bearings and waited for the dizziness to pass, taking slow, even breaths. As my heart rate and breathing leveled out, I took in our new surroundings. We were now in a forest glen reminiscent of childrens storybook perfection. Surrounded by towering aspen and pine trees, the carpeted vale had a small pond alongside, with the babbling sound of water flowing into it. An ornately carved and framed door stood at the far end of the grove, the one item that hadnt sprung forth directly from nature itself. Colorful wildflowers dotted the surrounding space, and I assumed they were the source of the abundant floral scent invading my nose. The very air reeked of magic. I could feel the magic flow through my veins, responding to some unspoken call. I felt downright fuzzy, both emotionally and physically. Somehow, I could sense the texture of the moss and the taste of the water. I could almost make out a message in the rustling of the aspen leaves in the breeze. Even the sounds of the men breathing, swallowing, and shifting on their feet had turned up to eleven. Okay, this had never happened before. Id never been through a fae portal, although Id learned about them at school.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A group of people are transported to a magical forest glen after going through a fae portal. They are able to sense the magic in the air and feel its effects on their bodies.

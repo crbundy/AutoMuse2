@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Liam had made a point of giving me space. Id suspected he hadnt wanted to push me too hard. There was also his absolute faith in fate, which he knew I didnt share. There was an intense heat in his gaze when he spoke. It surprised me he didnt reach out and touch me or pull me into his embrace. So, were yours now? he said, his voice an intimate whisper. I rolled my eyes at the wolf shifter, but Liams intensity didnt waver. Were all in this together, wolf, I replied, refusing to answer his question. Refusing to whisper back. Why should I? The question was based on his conviction that we were all fated mates. I hadnt been able to convince him otherwise. Yes. We are. In more ways than one, he said, his voice a low rumble. Despite my irritation with Liam for his insistence on doggedly coming back to this point of disagreement, I couldnt deny the growing attraction I had for him. For all of them, actually, but right now, Liam was the one up in my face. He hadnt been shaving, and his light scruff of a beard gave his face an even more rugged appeal. Truly, he was more attractive with it than without, and I bit my lower lip as I breathed in his musky scent.  I was going to miss them when the quests were over. Yellow flashed in Liams eyes, and I sensed his wolf hovered right underneath the surface. A shiver ran over my skin as I recalled stories of the unrelenting drive shifters felt to claim their fated mates. Was Liam fighting to hold back his beast every time we
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Liam is attracted to the narrator, but the narrator is not sure about her feelings for him because he is a wolf shifter and she does not believe in fate.

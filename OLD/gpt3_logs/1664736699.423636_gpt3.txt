@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: saw no sign of it. Where did it go? And how many do you have, anyway? Dont be rude, T, she said, brushing me off. You just tail-whipped a vampire right in front of me and I cant ask about said tails existence? She frowned. I dont see you answering my questions about your magic. Another guard we hadnt seen before showed up and knelt down over the vampire. Oh my gosh, Chuck! Are you okay? This new guy looked to be merely human, but I couldnt assume he wasnt some variety of supe. Jax and I shared an apprehensive glance, and she pointed to a darker patch in the gardens. When the additional guard looked up, saw us, then the relatively empty display case, we took off running with Jax in the lead. * * *    The Chase Hey you! Stop! the guard yelled, but we didnt listen. I could just make out the squawk of the radio followed by unintelligible swearing as the guard called for backup. For me with my voluminous gown, running through the dark was easier said than done. Worse, I was leaving a trail of petals in my wake. At least wed both chosen practical footwear. Jax and I rounded a hedgerow and ducked out of sight. Whats the fastest way out of here? I asked, panting. Theres an exit at the far end of the gardens, Jax explained.  Once were outside the club, I can portal us to safety, I replied. Lead on. Jax nodded. Theres no way to hide that dress in this space. Perhaps we can do our best to blend in? Dont worry. I still have a trick or two up my
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes two people fleeing from guards after one of them tail-whipped a vampire. The vampire is apparently unharmed, but the guards are pursuing them. The two people discuss their options for escape and agree to try to blend in with the crowd once they're outside the club.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Once theyve thinned out, we move in and you all hold off the remaining revelers while I solve that damned knot. The throng chanted, and we listened with rapt attention to their words. Dionysos, god of wine and ecstasy,  Come to us in your bacchic revelry.  Bring us joy and abandon,  Let us dance and sing all night.    Your Maenads follow you,  Entranced by your wild beauty.  They dance and they sing,  They make love in the forest.    You lead us to ecstasy,  You teach us to let go.  In your arms, we are free,  And we know only pleasure.    So come to us now,  Dionysos, god of wine and ecstasy.  Bring us joy and abandon,  Let us dance and sing all night. The ravers circled through the garden, repeating the lines from their song as they moved in a circle around Sera, who stood atop a short stone wall pounding her staff upon the rock like a metronome.  There they go, Marcos added, pointing to the revelers exiting the dance hall. Thats our cue. Everyone stay close to the wall on our left and stick to the shadows where you can. If Marcos expected us to behave with military precision, hed be disappointed. I led the way with Caden at my side, noticing that Marcos remained in the rear with Emrys and Liam, perhaps thinking they could shield us all from the hordes if necessary. Dont look now, but your remodel budget just blew out, Caden said to me. Now I had to look. Groups of ravers were knocking down statues and ripping limbs off the cedar trees. I groaned. I can worry
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A group of people are trying to get to Dionysos, the god of wine and ecstasy, while avoiding the revelers who are destroying things. They succeed in getting to Dionysos, and the revelers are controlled.

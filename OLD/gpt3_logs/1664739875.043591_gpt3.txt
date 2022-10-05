@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: an Azun in the Netherworld, especially now that we knew Ray the Minotaur didnt want to eat us for lunch or crush our bones into dust. The remaining foe we faced was time. I started my search by looking around and under the rock. Then raking my hands through the pebbles under my feet until I got down to dirt. When I moved too far afield, the minotaur yelled over. Stay in the center, lad! I sat down on the rock and I looked up at the moon, which was directly overhead. In so many ways, shed guided my lifes journey. My fathers token was carved into the shape of a wolfs head from moonstone as a symbol of the moons influence over our people.  Yet with the full moon ever-present in this maze, why had my beast not felt her usual call? I suppose Id blamed my wolfs lack of a reaction on this being a fae realm or with time running differently here. But I couldnt remember a time Id been under a full moon and not had my wolf clawing under my skin to run free in through the night air. I took another look up at the moon. The moon that never moved. The moon that had served as my guide to the center of this maze. The moon that I realized could be no moon at all.  The moon was the center. Of this maze. Of me. I shot to my feet, my gaze locked on the moon above. As I stared, a pattern formed over the surface, one I recognized all too well. A wolfs face! The image gained in clarity as I stared, unwilling to look away now that Id finally located my legacy. Ray had said this is where
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist is looking for a way out of the maze and realizes that the moon may be the key.

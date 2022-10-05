@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: plenty of room to work without feeling crowded. Fear gripped my heart as Taneisha emerged from the crowd, her face filled with tension. Whats the plan this time, perkadelics? Less mage, more me, I replied, hoping my bravado would translate into confidence. What brings you here? She shrugged. I sensed you guys disentangled Seras energy from my knot, so I figured youd show up here next. She looked around, frowning. I think you lost someone? Someones? The question hung in the air. Yeah, we split the party, Caden replied.  That doesnt seem wise, considering your history, Taneisha said. I held up my hand, stalling their conversation. Are you here to help or heckle, T? Taneisha pursed her lips. Both, definitely both. Youre here to help? How? And why now? I demanded. Id figured you might have questions? Need a little direction? Whatever this new game was, I didnt want any of it from the fae.  You want to help? How about you detangle the magic yourself? I asked. Eh, afraid I cant do that, champ. Only you can solve this puzzle. Taneisha smiled, but when we didnt smile back, her expression soured. And, no pressure, but you, and your revelers, are running out of time. If you dont diffuse this time bomb quickly, things are gonna start spiraling out of control. Like I couldnt figure that out on my own? I certainly didnt need the added confirmation pressing down on me. I had to settle my nerves and get this knot solved. Just back off and give me
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Taneisha offers to help the protagonist diffuse the magical time bomb they are dealing with, but the protagonist is suspicious of her motives. Taneisha insists that she only wants to help and that time is running out.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: behind us. None of them are worthy of you. Seras look of concern melted away as she looked back at Emrys, letting out a nervous laugh. Thats a relief. I have enough to handle with the posse as it is. Ahead of us, Franc threaded his way between the strategically positioned couches and beds dotting the temple floor with a singular focus, leading us to the temples central inner sanctum. As he walked, Franc touched a shoulder here or a foot there in passing.  Whats he doing? Sera asked me, tension knitting her brow. Why? Jealous? Sera side-eyed me, biting her lip. Maybe? Just a little? I laid my hand over hers on my arm and gave her a comforting squeeze. I suppose if I didnt know this was Francs routine, maybe I wouldnt understand it either. Ive watched him do this pattern so many times before, and I think nothing of it. As the demi-god of Dionysos, he can either rev up or curb the energy of the revelers by touch alone. He likes to moderate the festivities, just to make sure everyones getting what they need and that things dont go off the rails. Sera seemed to consider my words as she watched Franc. He walked up to a woman who was rolling on the ground, gently touching her head and whispering something to her. The womans eyes cleared, and she sat up, seeming to come to her senses.  Io! Evohe! the woman called out in a voice that reverberated through the temple. The revelers paused in their pursuits, a chorus of voices chanting Io! Evohe! in reply. Then
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a man named Franc who is walking through a temple, touching people here and there. He is doing this to help moderate the energy of the revelers and make sure everyone is getting what they need. Sera, who is with him, is a little jealous but understands what he is doing.

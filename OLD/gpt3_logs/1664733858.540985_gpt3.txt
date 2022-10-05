@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The Invitation Taneisha Hey T! Open up! I scored the invitation. I threw open the door and frowned at Jax whod interrupted my train of thought. She was one of the few beings Id granted access to my demesne because every time she showed up, mischief was afoot. What kind of fae would I be if I passed up on mischief? Not me. I was born to it like a fish to marshmallows. Knocking on my front door would send anyone not on my approved list down a chute and into a conveniently located oubliette where I could safely evaluate their offers of magazine subscriptions and popcorn balls at a more convenient time. Which reminded me; I really needed to do my weekly oubliette check.  Jax waved a pale pink paper scented with roses and jasmine in front of my nose, drawing me out of my reverie like a moth to the flame. Did you hear me, faeness with the mostest? I got us in! By the self-satisfied smile lighting up her features, I knew I just had to be excited on her behalf.  Wait, an invitation to what?  Jax rolled her perfectly kohled eyes. It was then I noticed how shed dressed in a formal black suit, the buttons of her tailored shirt left strategically open as far as the jacket allowed, baring a dangerous level of cleavage. She looked like a viking warrior queen with her auburn hair pulled up into a curly, braided mohawk with a few strands of peekaboo white escaping capture. The kitsune demon looked primed for the kill. Luckily her secret weapons were always at the ready. Let me back
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Jax has scored an invitation to something and is very excited about it. Taneisha is confused, as she has no idea what the invitation is for. Jax then tells her that it doesn't matter, and they're going to have a great time.

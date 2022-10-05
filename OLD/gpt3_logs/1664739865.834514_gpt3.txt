@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: from my deflection. Its a martial arts exercise room, which suits me just fine. I checked out some of the adjacent spaces, but they were all more of this, so I ended up coming back here to practice my forms. I looked around, taking in the room. The large open space was decorated in shades of beige and bamboo surrounded by wooden framed translucent paper shoji walls. A diffused light filtered in through the walls and a stream of incense hung in the air. With every breath, I felt calmer and more centered. It made perfect sense to me that Marcos had ended up in this space, just as the other members of the posse had awoken to spaces that also suited them well. At least its pleasant? I cant complain. The simplicity has given me time to think. Marcos buried his nose in my hair and took a deep breath. While Ive been here alone, I can tell youve been busy. Lets see. I scent Caden, Franc, and Liam on you. In this roughly used blue and white dress, perhaps I should call you Alice? I shook my head and laughed. I pulled away from Marcos and sat down on the floor, and he sat across from me. I tried to run my fingers through my hair to get it out of my face, but my hand came away sticky, so I ended up tucking it behind my ears instead. This sure isnt Wonderland. How are the others? he asked. Where did I even start? Theyre all fine, same as you. I found Liam in a garden. Was he focusing on ways to find his legacy so we can get out of this maze? Uh, no. Im worried
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist wakes up in a martial arts exercise room and realizes that it suits her just fine. She then goes on to explore the other spaces but ends up coming back to the room to practice her forms. The room is simply decorated and the protagonist feels calmer and more centered here. She then talks to Marcos who has also woken up in a space that suits him. They discuss the others and their whereabouts.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: a pleasant change. Perhaps your powers just require a regular and liberal application of supernova hotness? Franc asked. Damn, how I loved Francs humor. Sera snickered at his suggestion, but I had to wonder. Was there any truth to it? A screeching cry rang out in the distance, squashing our conversation. Part squawk, part roar, and one hundred percent intimidating. The sound echoed down the valley our trail led through. We instinctively bunched up together, huddling close, as if the beast was already right on top of us. That sounded bigger than expected, Liam whispered. Neither he nor Marcos looked afraid. I hoped I looked as sure of myself as they did, but doubted it. Thats what she said, Sera murmured. All heads turned to the mage, who at least had the grace to shrug. Sorry. Sarcasm is my crutch. We waited in silence for something to happen. There was a second screech. Then a third. After that, the mountain felt eerily quiet, as if all other resident creatures feared the one whod uttered that call.  After a few minutes passed in silence, despite my every instinct to get away from the Anzu, I forged ahead on the trail, headed straight toward the monster.  Franc caught up with me, walking quietly beside me for a few moments. When he spoke, it was in a whisper. You sure about this? I nodded. I have to get those seeds back. I wont let them fall into the wrong hands. Thats tough when the right hands are also not so great, Franc said. I dont envy your
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage describes a group of people's reaction to a loud, screeching noise coming from the distance. They are worried that the noise is coming from a large, dangerous creature, but one of the group members decides to continue on the trail anyway.

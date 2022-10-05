@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: to the door to the deck outside. Shall we? Once outside, we walked up to the banister, alone with the sounds of croaking frogs and something rustling in the reeds nearby. The guys circled me again. I suspected it wasnt intentional. Just them being as close to me as possible while still giving each other space. Im thinking our next step is finding a place out here to hide until the visitor center shuts down for the day, I said. Then we can go hunting for a pixie toilet. Thoughts? Greyson said he had a supply of the stuff, Emrys replied. We could always take some of his? Liam shook his head. We cant. The rules of the faes puzzle were clear. No stealing. The alternative is tromping through the muck all night, dealing with aggressive pixies, and risking ourselves, Emrys said. If were careful, Greyson wont even notice any missing. Amber didnt specify a quantity, just that she needed some, he explained, the last word with his hands miming air quotes. No, Liam is correct, Marcos replied. Also, this is too dangerous for all of you, especially you, Sera. So Im doing this one on my own. Theres no point putting us all in danger. I pushed away from the banister and moved close to Marcos, pushing my index finger up against his chest. What the hell are you going on about? Were all in this together now, right? Marcos put his hands on his hips. This job is too dangerous for you, little mage. I wont risk you. His words stirred something in me. Something
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The guys are discussing their next steps and how to find a pixie toilet. Marcos says that it is too dangerous for them, especially for Sera, and that he will do it alone. Sera disagrees, saying that they are all in this together.

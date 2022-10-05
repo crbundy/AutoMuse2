@@ -1,0 +1,37 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The following night, the detective's phone rang. He was in bed with his wife, about to drift off to sleep when the phone rang. He looked at the screen to see that the caller was anonymous. He picked up to hear heavy breathing and what sounded like an animal in the background.
+
+"Hello?" the detective asked, his voice sounding a bit shaky.
+
+"Don't you want to know how I do it?" the voice on the other end asked, sounding sinister.
+
+"Do what?"
+
+"Kill. Don't you want to know why I do it?"
+
+"Alright, I'll bite. Why do you do it?"
+
+"It's a game, you see. I go around and find the perfect people and I kill them. I pick them apart, slowly, so that they feel every second of it. The anticipation, the fear. It's my favorite part."
+
+"So you're killing people for your own amusement?"
+
+"Oh, yes," the voice said. "I get to watch them suffer and then I end it. It's the most wonderful feeling in the world."
+
+The detective took a deep breath before speaking again. "I'm going to stop you. I'm coming for you."
+
+"It's the only way," the voice said. "You need to play the game."
+
+"No, I don't think so."
+
+"I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The detective receives a phone call from an anonymous caller who claims to be a serial killer. The caller tells the detective that he kills people for fun and enjoys watching them suffer. The detective vows to catch the killer.

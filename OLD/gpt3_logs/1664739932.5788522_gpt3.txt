@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The Moon in the Maze Sera I strode through the faery portal, with Marcos following just a couple of steps behind me. Hedgerows flanked our path, looming at least ten or eleven feet high and dense enough that little light shone through. Despite the sun still high overhead, the walkway was in deep shadow. I heard the portal whoosh shut behind us, but I didnt bother looking back. The task at hand lay ahead of me, and honestly if Id stood there facing off with Taneisha one second longer Well, I didnt want to think about what I might have done, even knowing I wasnt strong enough to beat the fae. But instead of trying to zap her ass, Id threatened the fae with war. I searched my heart, wondering what had come over me. My mind had been advising caution and strategy, but my heart said the fae had gone too far and I wanted Taneisha to pay. I wondered how my family would feel if the threat of war materialized. The Lowes were never ones to back down from a fight, but I didnt imagine theyd love me drawing them into a conflict where they had little to gain beyond defending the family honor. Yeah. I sure as hell wanted war. But first, we had to win back the rest of the posses legacies. Taneisha had pulled trick after trick on the other quests, and I was convinced this hedge maze would somehow be even worse. Up ahead Franc had a wild-eyed Emrys by the scruff while Liam and Caden stood to either side, no doubt ready to catch the half-mad demi-god if he slipped from Francs grasp.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist, Sera, and her companions are walking through a hedge maze that is said to be full of tricks set by their enemy, Taneisha. They are trying to find their way through the maze and retrieve their legacies.

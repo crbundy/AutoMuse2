@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: you need to worry about. I caught the undercurrent Sera didnt say out loud, and understood that this was something that happened not occasionally, but often. Id heard that some mages paid a heavy price for their magic. Could this be the case with Sera, too? Id ask, but her dismissive statement seemed to imply the topic wasnt open for discussion. I hated to think of her suffering for her magic. Fate could be cruel, sometimes. We turned another corner and the sign for Pin Ticklers came into view. Looks like we found it. Emrys caught up with us, coming to walk next to Sera. I hate to say it out loud, but this feels too easy, Emrys said. Had things ever been difficult for Emrys? Sera released my arm, and I felt my panthers hackles raise. My beast and I both wanted Sera to remain by our side. Suddenly, Emrys felt like competition. That was a first. Sure, he was a quintessential ladies man, dating someone new every week. I rarely dated, but not for lack of interest or availability. I just felt like Id been waiting for the right woman, not just whomever was in the club that day. Dont go looking for trouble, Em, I replied. No, I agree with Em, Sera said. Taneisha gave us all day to find the Eye for her. Id bet it wont be smooth sailing with Jasper. I mulled that over as I moved forward and pulled open the door to the bowling alley. Sera was right. Taneisha had stolen our legacies to mess with us. Taneisha was also a fae. Therefore, fuckery would be afoot. Caden
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Emrys, Sera, and Caden are looking for the Eye, which was stolen by Taneisha. They find the bowling alley where it is supposed to be, but Emrys and Sera both think that it won't be easy to find and that Taneisha is up to something.

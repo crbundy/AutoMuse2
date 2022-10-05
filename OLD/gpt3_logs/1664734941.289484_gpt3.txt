@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Hmm, maybe? I scratched at the hives on my right shoulder again. Hey! Taneisha snapped her fingers in front of me, drawing my attention back to her. I was talking. Whats wrong with you? I turned my shoulder towards her, pulling my vee-neck tee shirt collar to the side for her to see. Its some sort of allergy or hive thing, I said. It itches, a lot! Taneishas face scrunched with momentary confusion. Curious. I forced myself to stop scratching. Its not important. Alright, she replied, intoning the word, but then her face perked up, utterly filled with cheer. Im unhappy Emrys and the others dragged you into this, Sera, but then, here you are. We must trust fate with these matters. Right? I didnt want reassurances in fate from Taneisha, or anyone else. Fate had been perfectly clear that my life, and my magic, were of no concern to anyone. For the sake of negotiations, I held my tongue. As I was saying, by coming through the portal with them, you answered and accepted my summons, joining your fate with theirs. Theres nothing to be done about it now but to soldier forward. I fisted my hands and crossed my arms, holding my midsection tight. She couldnt be serious! Why would she even want me here? Thats not true. This is your summons. Your pocket universe. Your rules. Youre all powerful here, Taneisha. You can change whatever you like. Please send me home. Taneisha shrugged. Im glad to hear you have a full grasp of the situation. You picked your side,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Taneisha tells Sera that she summoned her and that she has to stay. Sera argues that Taneisha is all powerful and can send her home if she wants to.

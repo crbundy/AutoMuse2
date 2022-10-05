@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: going on between you two. Besides, it serves none of us to keep secrets on this quest. Sera appeared at the door, stepping outside to talk to us. Whats the holdup, buttercups? Oh, how I wanted to taste and nibble on that full, pouty lower-lip of hers.  Emrys removed his hand from my chest. They wont tell me, but they were discussing something. Its just guy stuff. Wed have shared if it was important to you, Em, I replied. Emrys glowered at me. Hed never been good at taking a joke or being left out.  Seras brows knit in consternation as she turned to Marcos and then me. She gave us a single terse nod. Im sure if it was critical to finding Marcos legacy or the others, youd have included the rest of us in your conversation. Lets worry about it later, Em. We have a gardener to sweet talk. She turned and walked back inside, and this time Marcos was on her heels. I admired how decisive Sera was, and how she handled Emrys without coddling his ego or fawning all over him like Id seen so many women do over the years.  Emrys just stood there, digging in his heels. I put my hand on his shoulder. Its shifter stuff, Em. Its not personal nor about you, difficult as that might be for you to believe. Fine, he said, his tone curt.  We followed the others inside, and my sensitive wolf senses were assaulted by a miasma of floral perfume. Having a wolfs nose was usually a benefit, but not right now it wasnt. Holy hells, I said to Marcos mentally. But then,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a situation where two people are talking about something that the third person doesn't know about. The third person gets upset and the speaker tries to calm them down.

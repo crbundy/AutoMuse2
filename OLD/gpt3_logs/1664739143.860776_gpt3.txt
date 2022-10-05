@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: assure you, that was not deliberate. But why a supernova? Sera finished laughing and then shrugged. Because you were untouchable. Out of reach. Pshaw, Liam replied, and I knew my expression had to match the incredulity on his. You could have crooked your finger and had any of us, Sera. Sera bit her lip. Even if I had realized that then, I was too anxious to make a move.  The green flames had mostly dissipated, visible only at her fingertips. Relief washed over me, not only that the crisis had been averted, but also that Liam and I had been there to help Sera thought it. Looks like your mage fire is back under control. What about now? I asked, daring her to answer. To be bold. It was Seras turn to gape at me. She checked her hands and realized the flames had gone out. Sera shot to her feet and broke into a dance, wiggling her hips and rocking out. Its gone. I cant believe it. You both talked me down. Liam and I stood. I couldnt stop smiling at the giddy look of joy on Seras face or tear my gaze away from the way she swayed her body to her own rhythm. I prefer supernova of hotness over posse, what do you think? Liam asked me, carrying on the conversation as if I hadnt just invited Sera into something more intimate. I guess Supernova of Hotness is our new posse name. The others will have to deal, I said. Sera threw her arms around Liam, her curvy body colliding with his. Thank you, she said, her voice raspy. Liams arms wrapped around Sera, his hands
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Sera is relieved that her mage fire is back under control. Liam and I are both happy for her.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: each lost in their own thoughts. They reminded me of sharks circling their prey. Did they even realize they were doing it? With all of that male attention focused my way, a wicked thrill shot through me. My gaze lingered on Liam, who was the one directly in front of me. His frame had bulked out since Id last seen him. His shoulders were broader than Id remembered, and hed grown out his ginger hair and added a short-cropped beard, which fit his severe features. Id bet money he did something physical for work versus a desk job. His green-eyed gaze met mine, his hint of a smile and arched brow let me know Liam had seen me giving him the once over. There was a heat in his eyes that said hed appreciated being the center of my attention. But the moment was short-lived. When his gaze narrowed and flicked down to my hands, I realized only then that a flicker of mage fire covered my fingertips. How had I not noticed my magic leaking out? Worse, Liam had. I immediately crossed my arms, hiding my hands up against my body. Neither Marcos nor Emrys were looking at me. Perhaps only Liam had seen it? Liam came over and leaned close to me. Are you okay? he whispered. I nodded, leaning around him to get a look at the humans in the room. Did they notice? He shook his head. Does that happen a lot? I shrugged. There was no use denying it. I knew he meant how my mage fire just appeared. He must have seen it earlier at Ambers nursery, as hed been standing behind me.  I usually do
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a scene in which the speaker sees two people and is reminded of sharks circling their prey. The speaker then notices that one of the people, Liam, is looking at them with what seems to be appreciation. However, the moment is interrupted when Liam notices that the speaker has mage fire around their hands. The speaker then confirms to Liam that this happens often.

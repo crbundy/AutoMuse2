@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: rough hug, like he could squeeze his support directly into me. Youll always have a place to stay with me. Caden pulled me into a hug next. Id offer you a room, but the best I have is my couch. Still, its yours anytime. Marcos clapped me on the shoulder. You already stay with me when youre in town, but Im glad you shared your situation with us. Em didnt initiate a hug. Hands on his hips, his face was stern. Youre always welcome in my spare room, too. It wasnt enthusiastic, but that was about the most I could expect out of him in this mood, I suspected.  Hmm, Sera subvocalized. Let me see if I have this correct. Your legacy that were looking for is a moonstone head which magically connects you to your pack when youre away from them. Is that right? Yes, I replied, my voice low. Wed been so distracted, I hadnt been thinking of my legacy much. I supposed I should, if we wanted to get out of this maze. At least we were most of the way around the knocked out minotaur and almost out of this garden. Okay, so its a connection to your pack, whom you also feel a great distance from emotionally. Unlike the posse, whom you feel emotionally closer to despite the distance? I nodded. Thats right. Do you think its a clue for how to find the moonstone? Sera frowned. Im not sure. My gut says theres crossed symbology there, but Im not sure what to make of it. Anyone else? Caden cleared his throat. Its like youre stuck between two lives. The one you made
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the characters' reactions to the protagonist's situation. Caden and Marcos offer support, while Em is more reserved. Sera reflects on the situation and wonders if it is a clue to finding the protagonist's legacy.

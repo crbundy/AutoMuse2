@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Ill pass on that, thanks. Why do you think the Anzu stole the seeds? I shrugged. Since their origin is the underworld, they radiate an infernal energy. Its possible thats how the Anzu found them, even within faery. As I finished speaking, Liam and Marcos reached the plateau where the trail leveled out.  What in the hellfire is that? Marcos spat out, standing stock-still with a silent Liam at his side.  We were a few paces behind the shifters, and when we topped the rise, the river came fully into view in the slight valley below. The rushing, roiling water bisected the valley, the trail continuing up the mountain on the far side. The river was just where Id expected it to be according to the map, except there was nothing ordinary about that water. Id seen the river of creation before, yet I still wasnt prepared for its appearance. The silvery waters looked like a mix of liquid mercury with moving forms bubbling up under the surface, shifting and sliding over each other. When I focused on the movement, I could make out shapes. Shapes of something, or someones, underneath the currents. Yeah, what he said, Franc added, hitching his thumb at Marcos. What the fuck is that, Caden? I chose my next words carefully. Whatever happened, I had to convince everyone to cross together.    River of the Dead Sera I couldnt tear my gaze away from the roiling, quicksilver surface of the river.  Its the river of creation, Caden answered in a duh tone. Liams face screwed up
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The group comes across the River of the Dead, which is a river of mercury with beings bubbling underneath the surface. Caden explains that it is the river of creation and they need to cross it together.

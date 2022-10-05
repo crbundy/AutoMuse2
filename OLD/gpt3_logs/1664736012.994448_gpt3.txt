@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: expert at torturing myself or it was real and Id missed my opportunity to woo Sera as my own. It sounded like she had exactly what she wanted. We should keep moving, I said, turning and walking around them both. Sera caught me by the arm. You werent gone that long, Em. Youre back now and things will feel like theyre back to normal before you know it. She was right. I was back now, but well behind in winning Seras affections. Youre right. Im sorry. I should have been there for you. All of you. I dont think Ive ever seen you more sincere, she said, cupping a hand along my jaw. It looks good on you. Thank you. I shot Sera a half-hearted smile, which she returned with enthusiasm. We continued down the row, Sera and I walking side by side, Franc trailing along behind us.  Wed only gone a few paces when I did a double-take and backed up a few paces, turning and facing the hedge wall on our right.  Whats wrong? Sera asked. I pointed. We missed a turn to the right. Sera and Franc shared a worried glance. What do you mean, we missed a turn? Theres nothing but a hedge wall there, Franc said. I inspected the hedge wall, which to my eyes had a grainy appearance. It stood out from the typical regularity of the surrounding hedge, reminding me of the illusory room Sera and I had been stuck in before. In my gut, I knew this had to be an illusion, too. You dont see the difference in the wall here? I asked them, pointing to the section which looked irregular. No,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a scene in which the protagonist, Em, returns from a long absence to find that his friends have moved on without him. He is particularly upset to see that Sera, whom he is attracted to, seems to be in a relationship with someone else. As they walk together, Em notices an irregularity in the hedge wall and realizes that it is an illusion. He points it out to his friends, but they don't see it.

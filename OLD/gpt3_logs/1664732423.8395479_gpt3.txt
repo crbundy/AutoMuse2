@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: version of me look like? Would I like how it felt? Most importantly, could I unwind the worst of what I had already set in motion for the academy boys? Do that. Wait, how is the woman, Sera, involved? he asked. She went to the academy with us. I liked her. She always treated me with respect. Then hows she connected to the guys? Emrys tried to have her mediate and negotiate the legacies back without doing the quests, but I didnt budge. She stays to help the guys, but sometimes throws her mage weight around to force my hand, which is ironic as her magic is chaotic and fickle. As in, something weird is going on there. Anyway, Ive offered to send her home a couple of times, yet she wont leave them. They seem pretty possessive of her, too, Ray said. A bubble of laughter escaped my lips. Shes their mate. As in all of them, if you can believe that? What? he asked, eyes wide.  Seras mating marks appeared after they passed through the portal together to the first quest. She accused me of doing it, but its fates hand, not mine. Could it be related to her chaos magic? No idea, but its fun to watch from behind the curtain. Ray sat quiet for a moment, his bushy brow furrowed. Have you considered what you might owe Sera in this situation? Owe? What do you mean? Like a boon? Owing a boon was serious business, an unwelcome ledger entry not in my favor. If it were the case, Id need to resolve it as soon as possible. Sera got caught up in your games of
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a conversation between two people in which they discuss a woman named Sera. Sera is connected to a group of boys who are all mates to her. The speaker offers to send her home, but she refuses to leave. The speaker wonders if he owes her a boon.

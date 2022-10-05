@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: to be. I had to bite my tongue to avoid quipping back about Liams crazy fated mates theory. Together, my ass.  Liam headed out onto the traverse, bravely stepping out, going hand over hand, his chest pressed across the wall. He turned back to Sera. Only two of us on the wall at once. The third starts when I get across. Understood? Understood, Marcos replied.  I adjusted my pack while I awaited my turn, making sure the straps were all flat and tight. I hate everything about this. Werent you lamenting last week that the posse never gets any quality time together? Marcos replied, a weak smile pulling at the corners of his lips. I meant we needed more time carousing, partying, and fucking beautiful people together. Laughing over the good old days. Not whatever this bleak adventure is turning into. My comment had drawn Seras attention away from watching Liams crossing. When her gaze met mine, I knew she was thinking back to the shed on the pixie reserve. Her cheeks flushed, and she looked away, focusing instead on Liams forward movement. Liam called back to us every few movements. The footing is covered in scrabble. Step into the wall pocket above instead. He moves a couple of inches. Right here theres a nice deep and smooth handhold.  When the rope ran out of slack between them, Sera fearlessly stepped out onto the narrow strip, mimicking the movements Liam had made moments before. Their motions blurred into a series of punctuated landmarks across the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Liam is crossing a traverse, and Sera is following behind him. They are both using handholds and footholds to make their way across.

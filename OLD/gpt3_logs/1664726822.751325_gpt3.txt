@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Taneisha's ethereal dress hugged my curves so perfectly that I couldn't help but do a little twirl. The fae always provided us with new attire before sending us on one of her quests, but this was the first time she actually asked for input from the people she was out to punish. Taneisha's growing fondness for me with each quest gave me pause. Even though it was preferable to her having it out for me as well, I knew that her mood could change at any moment due to her erratic personality. Perhaps she simply feared retribution from my mage family, and thats all that was going on?   Where did you say youre sending us next? I asked her.  I hadnt, but its time for Emrys quest to start, so you can bet youre off to the sun-swept desert sands of his heritage in search of his ancestral Isis-created golden scorpion. Taneisha raised her voice at the end, speaking not just to me but to my five mates.  When they didnt reply, I pouted in Emrys general direction, where the five of them stood huddled in quiet conversation. Did he want his legacy back, or what? The guys had been giving us a little space as they alternated between arguing amongst themselves and paying attention to the fae and I.  Since its sandy in the desert, can I get some practical sneakers that are easy on and off? That way, I can empty them out on the go. Taneisha flicked her fingers, and voila, perfectly fitting sneakers cradled my feet. And this fabric, can we go lighter, but still with a good sunscreen
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a woman's outfit for a quest, given to her by the fae. The woman is accompanied by five mates, and she asks the fae for some practical sneakers that will be easy to take on and off in the desert.

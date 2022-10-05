@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: at the academy, specially made for the incubi who attended, so their powers wouldnt overrun the entire student body. I appreciated Caden still had his powers on a short leash. Otherwise I and the others would have had to summon monumental willpower to withstand his draw. Willpower wasnt something I was overflowing with at the moment. I have my reasons, Emrys replied under his breath. Based on the unusual tension between the men, whatever Taneisha was up to, it must have been more serious than Emrys had let on. I could have taken it as a warning, but it only piqued my curiosity. Just how much trouble did she have them in? None taken, I replied. If you dont want my help, Ill go, but I got to know Taneisha fairly well back during our academy days. If theres room to negotiate, Ill find it. They all shared a troubled look.  Em explained the situation to you? Franc asked, holding up an oblong, carved rock in his hand about the size of a dinner plate. There were symbols on it which glowed in the dim light, and I recognized one as a fae sigil. At a high level, Emrys said.  The men all turned to him. Based on their concerned expressions, I could guess Em had left out some key details of their troubles with the fae. Was what I was getting myself into worse than having my reputation damaged from not honoring the favor owed?  The stone chimed, and then the glowing of the symbols intensified. Franc held it out to the others, who gathered around and, one by one, placed
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a meeting between four men, two of whom are incubi. They discuss a problem with the fae, and one of the men offers to help.

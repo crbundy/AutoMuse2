@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: raised a brow at my behavior. Yeah, I wasnt ditzy, but if it got Greyson talking, I could play naive, long enough. Its an air-controlled box which pulls away stray particles into a filter, so I dont accidentally breathe any in. Plus, I use special shielded gloves. So youre saying pixie poop is dangerous? Marcos asked, his face deadly serious. Yes, but you dont need to worry. If you ever came across it in the wild, it would most likely be diluted enough not to cause ill effects, Greyson replied. Thats why we only allow observers to view the wetlands at a safe distance, and never at night. Which was exactly what wed planned to do.  What could happen if the box failed you? I asked. Could it hurt you? We needed to know what dangers we were facing in transporting it. Dangers Amber had also failed to mention. Well, often an electrical charge is still present on the droppings. Theres recorded instances of people being knocked out or having heart attacks from the strength of the discharge. Supes, even. Lightning death via pixie poop. Got it. Wow, thats scary, I replied, holding a hand up to cover my mouth. How late are you open? Greyson glanced at the wall clock. Only another thirty minutes. Ill leave you to observe. I encourage you to take a walk out along the deck. If youre lucky, sometimes you can catch glimpses of the sprites in the distance this close to dusk. Have fun and let me know if you all have any more questions. As he walked away, I pointed
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a pixie habitat and the dangers of coming into contact with pixie droppings. It is advised to stay at a safe distance and never go near the habitat at night.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the ceiling, transforming the Den into a de facto forest. And was that a lake at the far end? Definitely not how Id left it. The list of things Id have to clean up got longer with every room in Velvet I entered. It wasnt lost on me how, off all the legacy quests, Taneisha had delivered the biggest headaches my way.  Of course. A woman clothed in tattered clothing, wine, and blood moved to meet me. Greetings, walker of the wine-dark earth. I will take you to the ivy-bearer. By the gods Lead on, I replied. I followed the woman through a circuitous path. We passed many revelers, most of whom didnt even look up or take notice of us. Perhaps I should have done more to help all of them, but right now, my worries were for Sera alone. I had to save my energy for pulling her out of this mess. Drink, drink, drink! came a chant from up ahead. When we rounded a curve in the path and entered a clearing, the first thing I saw was Sera pouring wine down Liams throat as the ravers urged them on. Theyd cuffed both Liam and Emrys up side by side on a pair of St. Andrews crosses, no doubt at Seras will. She still wore the swath of pink silk tied around her like a toga that Id seen her wearing as she left the temple. Itd gained a few stains and didnt leave a hell of a lot to the imagination, but she didnt appear to mind. When she turned to me, I felt the connection between us snap taut like a wire. She lowered the wineglass and took a step back from Liam, before she stalked
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A woman in tattered clothing leads the protagonist through a circuitous path to find Sera, who is pouring wine down Liam's throat as ravers chant.

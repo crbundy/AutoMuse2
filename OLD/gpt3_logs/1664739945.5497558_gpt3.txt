@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: noticed the slow hint of a smile curling her lips. At least I wasnt the only one thinking back on those moments fondly. Perhaps I still had a shot after all? Lets check it out, Franc said, striding boldly forward through the opening. Sera and I followed him, looking back and forth down the hedgerow. At first glance, it appeared the same as the rest of the maze. Until it didnt. Far down the row to our left, dark shadows appeared, expanding and swirling, obscuring the sunny space. A deep, lowing sound followed a moment later. Ive got a bad, familiar feeling right about now, Franc said under his breath.  Thats definitely the same rumble we heard before, Sera added. When we got separated from the others. A moment later, an enormous form emerged from the shadows and lumbered towards us. I recognized it, despite never having seen one of the rare creatures in the flesh. The minotaur swung his massive head from side to side, his horns brushing against the hedge as he moved. I guessed his height was over seven or maybe eight feet tall. His hands fisted as his large, chestnut brown eyes focused on us. No warm, fuzzy vibes here. But why the hell would a minotaur be wearing khakis? Sure, they were frayed and raggedy, but khakis didnt fit any typical monster vibe. We need to go. Cmon! Franc yelled, breaking us out of our stupor. Sera and I turned and ran, Franc close on our heels. I just remembered another type of maze I didnt mention before, Sera gasped. What? I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+We're in a maze, we see a minotaur, and we run away.

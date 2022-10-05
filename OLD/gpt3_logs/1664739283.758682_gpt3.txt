@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: only assume was a den of iniquity suitable for the hedonistic god of decadence. So we are. Em jumped out of the car, ran around, opened my door, and offered me his hand. I took it, grateful for the haul up from the cars ground-level bucket seats. The momentum brought us face to face, our bodies brushing against each other. I let out a little gasp, to which Em hitched a smile. The guys are waiting for us inside, he said, his voice a low rumble. I took a step back, pulling my hand from his, but it didnt dispel the tension between us. Velvet was only ten minutes from my coffee shop, but it was another world away with the supe community. Of course they are. Havent you been to Francs club before? he asked. Like Emrys, Franc was also a demi-god, except he hailed from Dionysos. As the only two demi-gods in our class, of course theyd become fast friends. Id heard Franc had a nightclub. I mean, what else did you expect from a demi-god of drunkeness and ecstasy? I havent. It might have been physically close, but it was far away from my supe comfort zone. I imagined all of Emrys cadre waiting for us beyond those tall, imposing doors, and a shiver of anticipation ran down my spine. It doesnt look open? Velvet is always open, at least to me, Emrys replied with a wink, leading me into the belly of the beast. The balls on this guy. I chuckled to myself as we walked in the door. The atmosphere of the club hit me all at once. The underlit mood lighting in shades of rose
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's experience of walking into a nightclub called Velvet. The club is frequented by supernaturals, and the person is nervous about what they might find inside. However, they are quickly put at ease by Emrys, a demi-god who is friends with the owner of the club. The person chuckles to themselves as they walk in, enjoying the atmosphere of the club.

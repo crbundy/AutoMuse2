@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: wouldnt risk him. Then I strongly advise you back up, I said, realizing I couldnt say anything to make the panther leave.  I walked forward to the waters edge, raising hands that erupted with mage fire as I visualized my intentions. Blazing purple fire spat and sputtered. What? Purple this time? What did that mean? Would I get lucky? Would my magic heed my command? I brushed those thoughts aside, focusing on my will. The pressure of hearing the ghouls converging, along with the sputtering of my mage fire, rattled my nerves.  Come on, Sera. Pull it together and fire things up. I focused on the water flowing before me, and my mage fire shot into it, inundating the liquid with billowing waves of luminescent power. The fire spread from my hands up and down the shallow river, illuminating the night with an ethereal glow. When it had stretched as far as I could see, I flicked my hands up, directing the energy upwards. To my delight, a wall of mage fire rose from the river, surging nearly twenty feet high. I drew the sigils to lock the spell in place, and then pulled my hands away from the magic, stepping back. Despite my reservations, Id done it! The wall churned and spat, sure, but it held. Impossibly so, considering the historic chaotic bent to my magic.  For a moment I just stood there, wondering how it held together. My magic had a history of failing, often spectacularly, or never coming together. Why was it working now? Here? Or was it flawed, and I just didnt see how?
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person using magic to create a wall of fire. They are surprised that it works, and wonder if it is flawed in some way.

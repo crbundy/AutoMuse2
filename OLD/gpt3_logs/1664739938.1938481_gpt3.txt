@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: and in the distance, a deep, bellowing roar filled the air. A creature? A man? I couldnt tell. All that was clear was that we werent alone. Either way, I definitely wanted to go in the other direction. Em tightened his grip, pulling me into motion. Run! he commanded, voice still a whisper. I let Em pull me along, casting a quick look behind us. Id hoped to get a glance at the others, but all I could see was a mass of churning greenery cutting through the mists, closing up the path behind us. Was it my imagination, or did I hear something large behind us breaking branches? Adrenaline poured straight into my legs and feet, and soon I was pulling Em, urging him to run even faster. His expression was grim.  Wheres Franc? I yelled, realizing Id lost sight of him, too.  Em didnt answer. Instead, we ran on, flanked by the hedge maze on either side. There were no openings, just endless walls boxing us in and forcing our path. Up ahead was a bright wall of mist which grew ever more opaque by the moment. I faltered.  Dont stop, Em replied. You plan to run into the mist? I asked, breath ragged. Em cast me a sideways glance. Choices are to go forward into the mist or wait for the hedge to catch up with us. Heres hoping the mist is a softer landing. He didnt even have the grace to sound winded, but I couldnt argue with his logic. We pressed on, running headlong into the mist when we reached it. My stride faltered and Em slowed beside me to match my pace as we walked
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a situation where the speaker and Em are being chased by an unknown creature, and they decide to run into a mist ahead of them in hopes that it will provide a soft landing.

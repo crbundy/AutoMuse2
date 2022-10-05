@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: good to plan for safe spots to rest. Caden shook his head as he folded up the map, handing it to me. With a short pause, I tucked it back into a side pocket in his backpack. Resting is the last thing we need to be doing out in the open in the Netherworld. The longer were here, the more trouble will find us. Were better off pushing through so we can get out of here. Wont do us any good if we get hurt, I countered. Injuries heal. Caden grimaced, looking like hed bitten into something bitter. Id rather deal with someone getting hurt if it means Taneisha returns Emrys to us safely. I held his gaze for a moment, just long enough to realize just how serious he was. Fair enough. No dawdling. Check. I looked around, searching for something that might speak to my wild, forest-fueled soul, some lifeblood of nature I could tap into, but I found little to celebrate. This part of the mountain was devoid of trees and almost all signs of life, unless you counted the ghouls or the undead demons in the river. The only regular foliage consisted of spindly squat briars dotting the hillside on both sides of the trail, as barren as the surrounding land. The lack of trees meant we had an expansive view of the desolate valley below, but that wasnt something Id count as much of a blessing.  I focused on my footing and keeping a steady pace, and before long, wed reached an area where the trail leveled out again. Everyone seemed to see it as an opportunity to take a breather before
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people travelling through the Netherworld, and notes that it is important to plan for safe spots to rest. The group is trying to avoid injury, and so they push on through the dangerous landscape. Eventually they reach a level spot where they can take a break.

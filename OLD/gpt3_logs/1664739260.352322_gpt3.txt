@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The cleaning crew looked in the dumpster and said it wasnt there. Besides, to get that trash, youd have to break into my office to get it. Emrys played it off, shrugging his shoulders and holding up his hands like he was confused. If I didnt know better, I might have believed him myself. The door was open when I got there. Nonsense! You were with me when I shut it. Greyson turned to Bouchard. You should bring these criminals in for questioning. You can search us, I offered. Sera nodded at me in encouragement. See for yourselves, we dont have your trash. Ill take you up on that offer, Bouchard replied. Open your jackets and bags. Bouchard did the rounds, checking Emrys first and then the others. Last, she walked right up to me. I held open my jacket, which she did a cursory glance over. Its not like I could hide a bag of biohazard trash anywhere. What exactly are you doing with Jaspers Eye? Its our reason for coming into town. We bought it off him for a friend, I replied. Bouchard let out a low whistle. Tension in the alley had ratcheted up a few notches. I wasnt sure if she was inclined to believe me or not. See, theyre career criminals! I knew it! Jasper would never sell that Eye! Greyson said. Cool your jets, Greyson. Im gonna give old Jasper a call and check out this kids story. Whats your name? Marcos Wright. Hold on. Nobody goes anywhere. She pulled out a phone and made a call. Hey Jasper... she started, but my focus on her
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The cleaning crew looks in the dumpster for the trash and doesn't find it. Emrys plays it off like he doesn't know what's going on. Greyson turns to Bouchard and says they should bring the criminals in for questioning. Bouchard searches them and finds nothing. She asks Marcos what he is doing with the Jasper's Eye. He tells her they bought it off him for a friend. Bouchard calls Jasper to check Marcos' story.

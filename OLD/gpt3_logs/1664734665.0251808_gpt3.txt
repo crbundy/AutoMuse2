@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: cannibals. Not after all Taneisha had pulled.  Could I? Taneisha flagged me away with her hands. Ew, no. Im too busy to hang out with mages, shifters, and demi-gods. Or your stinking shifter bros. No, no, thank you. She flicked her fingers, opened a portal, and marched off through it without another word.    Drunk the Milk of Paradise Sera I couldnt quite remember how Id found this paradise, but I knew I never wanted to leave. I hadnt felt this vibrant and alive well ever. Flowers sprung from the ground with every step. Fountains of wine gurgled. The air was crisp and clear, beckoning me to adventure. I could lift boulders and the ground shook when I hit the ground with my staff. Everywhere I looked, people celebrated life with such abandon and joy. Id found bliss.  Yet, something unsettled snaked through the back of my mind. I narrowed my gaze, trying to remember where I was. It was a curious, expansive space full of black leather furniture and odd wooden devices with chains and cuffs at the ready. Vines had taken over latticework panels, serving as living partitions between spaces. Sections of the concrete floor heaved upward as life invaded and order yielded to nature. In another area, the concrete floor had dropped away, giving ground to a vast goldfish-filled pool covering the far end of the room. Even my staff had caught life, sprouting oak leaves along the top section as if it, too, would fight back against death itself. Why had I come here? Hadnt I been doing
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's experience in a paradise-like place, where they feel vibrant and alive. However, they start to feel unsettled and realize that they are in a room full of black leather furniture and odd wooden devices. They remember that they came here for a reason, but they can't remember what that reason is.

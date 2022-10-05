@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: aglow from the neon, but Im glad to see Taneisha kept her word about returning your magic, Franc said.  I held up my free hand, a ball of electric mage fire springing to life at my command. I let out a slow sigh. Lets hope youre in the mood to play nice today, I muttered to the ball of energy before I extinguished it with a flick of my fingers. Thats one more edge we can count in our court for this quest. The glow around my skin began to fade, which I assumed meant my body was adapting to the return of my magic. At least, so Id heard. Id never been here before, not beyond when Emrys had dragged me here a couple of days ago at the start of this series of quests with the posse. I couldnt deny a fascination with what I might find inside. This wasnt just a hip nightclub; it was a view into Franc that I hadnt seen before.  Franc paused at Velvets front doors, and I had the impression he was steeling himself for whatever wed find inside. This was his club, a place dedicated to the modern worship of Dionysus. I imagined this place fed the demi-gods needs on magical, social, and financial levels.  Through the doorway and past the entry, I could make out the bump and grind of bodies grooving to the music under the steady beat. It sounded exactly like what Id expect, yet Francs sour expression gave me pause. You look worried. I pulled away from Liam and leaned up against his arm. The night air hovered somewhere between chill and cool, and in the barely there
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a club called Velvet, which is dedicated to the modern worship of Dionysus. The author notes that while the club looks like what one would expect, Franc's sour expression gives them pause.

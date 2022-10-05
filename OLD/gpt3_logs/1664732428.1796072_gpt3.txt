@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the apology. Id expected you to move on gracefully, especially since you didnt seem to have the time to dedicate to our relationship. This conversation was not going in the right direction. But what had I expected? Could I change his mind after keeping him in the maze? I took a deep breath. Try harder, again. I thought we had real potential, Ray. I didnt want to move on. I still dont. Ray chewed over that for a moment. I opened my mouth to continue pleading my case, but he held up a hand. Do you deny you were often too busy to get together? Ill admit that, yes, I have a lot going on and have trouble making time around my hobbies, but that doesnt mean I wasnt willing to keep trying. I watched him consider that for a few moments. Due to the massive inconvenience of my extended stay in your maze, I figure you owe me more than an apology. Ray patted the lounge next to him. Have a seat. I had some ideas, most of which didnt involve talking. I hesitated only a moment before taking a seat next to him. What did you have in mind? I couldnt take my eyes off Ray and the way his muscles played across his chest under his tee shirt, the tension in his broad neck, even the way his lips curled with the slightest of smiles.  Youre not even paying attention, he mumbled. I met his gaze. Im trying, and I swear I want to make it up to you. I guarantee you have my full attention. Make it up to me, eh? he asked, and then gave me a long, measured look. Im curious how
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is apologizing to Ray for not being available to spend time with him, and begging for another chance. Ray is considering the speaker's words, and seems interested.

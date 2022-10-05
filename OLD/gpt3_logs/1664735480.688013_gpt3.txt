@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: beauty? "I never even understood how I'd earned their disfavor." "Youre sure you didn't start anything with them first?" I tapped the bowling pin against my thigh. What else did I need? What had Jax asked? Oh yeah! "Of course I didn't! I mean, there was that one time I doused them all with their own personal rain clouds all morning, but I was only introducing myself, supe to supes. Letting them know I was someone to be reckoned with." "Gosh, what a mystery. Sounds like they got the message, though," she replied. "So now what? Are you going to face them down and tell them off for how they behaved all those years ago?" I located another pocket, tucking the bowling pin into its depths. Jax arched her brow. "You're not going to hit someone with that, are you?" "No! Never." Well most likely not. What else did I need? I grabbed some marbles out of a hollow in the oak and stuffed them into another pocket. "I've been scheming for the perfect way to teach them each a lesson they'll never forget. I swear I won't even do anything bad to them. Tonight. I just need to leave them a message. Oh, that reminds me!" I found what I was looking for on my kitchen counter. I'd been prepping the portal stone for weeks, getting it ready for just such an occasion. I picked it up and showed it to her. It was fairly lightweight, considering it was the size of a small dinner plate, and brown. "Actually, let's call it an invitation. And this stone may not look like much, but it packs a mighty wallop."
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist is planning to teach their former bullies a lesson, using a portal stone to leave them a message.

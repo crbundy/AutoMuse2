@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: and make sure this place is empty, Franc said, startling me as he brushed past me. Id been so absorbed in taking in this secret shelter, I hadnt realized the others had come in behind us.  Ill help, Liam said, following Franc towards the back.  Caden shut the door behind us, throwing the bolt. Does it look like someone lives here? Marcos brushed his fingers over the table and then rubbed his fingers together. Not recently, if this dust is any sign. I wonder if there are many hideouts like this? I asked. Some demons prefer living here over the earth plane, but a few stay here year round, Caden explained, walking around the couches. He cleared the extra lamps off of the table, sat on a couch, and pulled the map out, spreading it open across the table. At least thats what Ive been told. This reads like more of a hunting cabin. Hunting? I asked, not really expecting a response. I can pretty easily imagine a few extreme hunting options for Netherworld visitors. Liam emerged from one room. That explains how austere everything is. The owners intended this hideaway for short-term use only. This room one has a pair of beds. He stuck his head in the next one. Same here. Not much else. Franc came out of the next room. More beds. He ducked into the last room on the right. Oh, theres a bathroom with a walk-in shower in here. Shower? I call dibs, I said, sliding my backpack from my shoulders.  Franc flashed me a sly smile. Youre tiny and the showers big
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people exploring a secret shelter. They find that it is empty and appears to be unused. Caden explains that some demons prefer to live in the Netherworld, and this shelter is likely a hunting cabin. Liam finds a bathroom with a shower, and Franc jokes that he should call dibs.

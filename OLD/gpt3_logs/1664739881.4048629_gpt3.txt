@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Im thinking if youre not a wendigo, and Im not a naga, then she trailed off. You dont think its a minotaur? Emrys asked. Thats my point. After all the mazes illusions, we cant know, Sera replied. We might as well find out if the beast is what it appears. Besides, were running out of time. While wed crossed the garden, the minotaur had entered the space, moving resolutely in our direction. I hoped Seras instincts were correct. Otherwise, we might be on the verge of fighting the beast.  Sera motioned for us to stop, and we formed an arc facing off against the hulk. Em and I stood to either side of Sera, with Franc to my right and Marcos and Caden to Ems left.  This seems like an awful plan, Caden muttered. Do you have a better one besides running forever? I replied. Id feel better as a panther, Marcos growled. Agreed, I replied. But lets not escalate things unless he does. Marcos shook his head, and then we shared a look up and down the line as we watched the minotaur resolutely plod toward us. We were all in need of a shower, a good nights sleep, and a hot meal after the craziness of the maze. I hoped we werent about to rack up injuries on top of everything else. The minotaur stopped a few feet in front of us, his sheer mass making me question my plan of action again. But Sera shot me a confident smile, settling my nerves.  I took a half step forward, holding up my hands. We just want to talk. Sera moved up with me, giving the minotaur a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people preparing to confront a minotaur. They hope that it is not actually a minotaur, but they are running out of time. They are all in need of a shower, a good nights sleep, and a hot meal. I took a half step forward, holding up my hands. We just want to talk.

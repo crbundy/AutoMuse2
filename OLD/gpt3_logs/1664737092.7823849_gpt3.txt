@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: passed by.  What can I say? Im very discerning in my company. I tried out the water feature on a whim, and I found the babbling brook so soothing. I got the idea from an episode of Supernatural Estate Brothers. Arent they just so dreamy? Jax pursed her lips, seemingly dubious. I cant say I watch for the property remodeling. I keep waiting for the half-brothers to throw down, what with one being a wolf shifter and the other a vampire. It keeps me hooked, despite having no interest in picking up power tools myself. She picked up a large oak leaf from the floor and then shook her head. How do you even know whats plants and whats furniture in here? The plants embrace the furniture, Jaxy. Also, I just know. I rounded a hedge and threw open the door to my extensive closet. Wandering through the room, I tried to remember where Id socked away the perfect dress. "And I always have a plan, don't you?" Jax shrugged, but watched me from the doorway to my bedroom. "Fair point. I take it this plan of yours starts with getting dressed for the party, which I applaud, as we dont have all night." "The dress makes the fae," I proclaimed. Then I saw it: magical fae perfection on a hanger. "Oh, here it is!" Triumphant, I pulled the weighty dress of multicolor roses off the hanger, crushing it tight against my chest. The perfume of roses filled my senses. "This dress is perfect. Dont you think so?" "That was an unusually speedy choice, so Ill admit Im more than a little
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's process of choosing an outfit for a party. They find the perfect dress quickly and are triumphant. Their friend watches them from the doorway and comments on how fast they made their choice.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: wait to travel until daylight, well likely avoid more encounters with the undead. Can ghouls jump this high? I asked Caden. Caden shrugged. No clue, but we have to assume its possible. Lets hope no others show up, but well have to keep watch through the night to make sure. Heres some burn cream, Franc said, holding it out to Marcos, who took it and began applying a thin coating to his burns.  Ill take the first watch, Marcos said. Its not like I can sleep until this heals a bit.  Ill sit with you, Liam said. Ive got too much adrenaline pumping anyway to sleep for a while. I dont imagine I can sleep either, I said, followed by a yawn. Taking a moment to check in with my body, I realized how exhausted I felt, even though my mind was still running in circles. A chill ran over my skin, and I remembered I was still in wet shoes and pants. Besides, its too cold. Doesnt help youre still in wet clothes and shoes. Here, I found some blankets and extra sets of clothes, Caden replied. Cmon, let me show you. Caden led me deeper into the cave to a flat area where hed layered a couple of thin blankets to form a rudimentary sleeping pallet. I pulled off my shoes, socks, and pants.  Here, try these on for size, Caden said. He handed me some leggings and fresh socks, which I tried out. I rarely slept in clothes, but as this cave didnt come with a heater, Id adapt. Caden took my wet clothes and hung them over rocky outcroppings on the cave wall to dry.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Caden and Marcos are discussing what to do about the undead creatures they encountered earlier. Franc gives Marcos burn cream for his injuries. Marcos and Liam agree to take the first watch, and Caden leads them to a sleeping area where he gives them dry clothes to change into.

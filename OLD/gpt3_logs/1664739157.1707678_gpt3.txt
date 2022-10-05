@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: swung inwards, revealing the outline of the trunk as a door frame, the other side a place not faery, but a hilly land coated in moonlight. Through this portal you will seek Cadens jar of seeds atop the mountain. She pointed, and we could just make out the tallest spire in the moonlight.  I looked at her. Wait, I thought you were holding all of their items? Taneisha shrugged and hummed. That was my plan, but while you were away, I was attacked. Can you believe it? They stole Cadens item from me. Me! Really, the indignity of it all is astounding. I held my tongue. I wanted to point out that she had no right to complain, being a thief herself. Liam sidled up to me, grim and tight-lipped, and placed a hand on the small of my back.  Yeah, yeah I get it. Dont poke the faery. Do you know where they took it? Caden asked. The one who took it lives at the topmost spire. Wait, you didnt say who took it, Caden said. Taneishas grin was wicked. No, I did not. But youre a clever boy. Youll figure it out. I recommend you hurry, however. Whats our time frame to complete this round? I asked. Taneisha tapped a finger to her lips, as if she was just now considering her answer. Well, its not what Id planned, but it is more tricky. Dangerous even. So, no deadline. Just, dont die, retrieve Cadens seeds, and well call it good and get back to our regularly scheduled programming. That didnt sound ominous. At all. I looked around at the others, who, based on their grim
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a portal to another world, which the speaker and their companions must enter in order to retrieve a stolen item. There is no deadline for this task, but it is presumably dangerous.

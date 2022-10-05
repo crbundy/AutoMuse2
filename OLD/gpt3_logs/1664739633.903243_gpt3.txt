@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the path forward opened before me, almost as if choreographed by some higher power.  And then, as if fated, I found what I was hunting perched on a waist-high stand shaped like a short roman column. Encased in a cage-like basket of living vines stood a theater-style mask of a mans face crowned with clusters of grapes and leaves. Magic pulsed from the mask, undulating in waves outward, no doubt the reason behind the crowds enchantment. My magic sparkled around my fingertips, vibrating beneath my skin, as if in response to the thrumming beat or the ripples of magic rolling off the mask, or both. Francs mask! It had to be! Taneisha didnt even make this one hard to find, I muttered to myself, aware no one appeared to be paying attention to me. Triumphant in my find, I reached out and pulled at the living mesh of vines, determined to free the mask. The moment my hands grasped the cage, the music stopped, and I could have sworn I was falling forward despite my eyes reassuring me I wasnt moving at all. My magic poured into the vines, twisting along their weaving pattern like water sucked into desert sand. My hands burned with an invisible fire as a raw, electric jolt of pure power erupted from my flesh. The vines shone with a bright pink light ribboned through with the utter blackness of void space, crackling and spitting with an unearthly sound. I stood stock still, unable to move. To do anything. My hands burned, locked in place against the cage of chaotic magic. The music
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+I found a mask in a cage, and when I touched it, I was frozen in place by a jolt of electricity.

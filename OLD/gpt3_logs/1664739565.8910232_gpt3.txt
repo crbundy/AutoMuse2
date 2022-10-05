@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Her over the top smile was back. Better get going. You dont want to miss any of the fun. I walked through the portal, Marcos at my side, pretty certain Taneisha and I did not share the same definition of fun. THE END * * *
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist is walking with Marcos when she sees Taneisha smiling and thinks to herself that she must be up to something. She then walks through a portal and concludes that Taneisha and her have different definitions of fun.

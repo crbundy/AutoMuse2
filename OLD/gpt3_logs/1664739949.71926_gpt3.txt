@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: forward through the white, rolling fog. The churning noise of the maze faded, replaced with an oddly familiar background noise I couldnt quite place. Can you see anything? I whispered, my eyes unable to pick anything out of the bright white surrounding us. Im not sure, he answered, but another few steps in the mist dissipated, and he huffed out a dry chuckle. Of course. A moment later, I saw it too. Rows of tall hedge had been replaced with shelving packed with bins of coffee and tea. I took a deep breath, my soul soothed by the smells of crema and pastries in the air. I could hear the buzz of activity beyond the closed door. Were in my shop, Charmed Brews! Fingers of mist swirled around the floor and along the walls. If I opened the door, would I find Pepper with a latte in hand? No. I knew this place wasnt real. Couldnt be real. Id been so caught up with the posse and Taneishas challenges, I hadnt slowed down enough to miss home or my shop. An ache filled my chest as I breathed in the familiar scents. How much longer would it take to appease Taneisha before I could return home?  I looked at Em, who was watching me closely, his gaze guarded. Dark. How much longer would I have with him and the rest of the posse? Just how much had Taneisha messed with his head? Do you remember this place? I asked. Emrys hadnt let go of me, and now he turned and backed me up against a shelf, placing a hand on either side of me. I leaned against a shelf, gripping it with my
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's experience of finding themselves in a familiar place that they know is not real. The person feels nostalgia and longing for their home and wonders how much longer they will be away from it. They also question how much influence the person who took them away has had on the people they left behind.

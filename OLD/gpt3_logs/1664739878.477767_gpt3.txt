@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: you cant leave Ray in here. Hell likely spoil the maze for your future victims, I said, giving the fae another reason to let the minotaur out. I figured getting Ray out of here was the least I could do for his aid hed given us finding Liams moonstone. Taneisha sized me up, no doubt wondering at my motives. Youre all strategy, mage. Im not sure how that move benefits you, but when youre right, youre right. Taneisha snapped her fingers. Not one but two portals opened. I could see her faery glen through one and dark pink neon lights shining through a dark night in the other to a back beat of house music. That ones for Raymond, she pointed to her glen. And that ones for the rest of you. Thats not my home, he grumbled. Its but a stepping stone on the path, she replied. Im not going through that portal until you do, Ray said, his voice a low rumble.  Taneisha shrugged him off. Fine, then you can wait. Where does ours lead? Liam asked. Your next puzzle, of course. I admit your little posse has done better than I expected. Three for three so far. But since you managed the first few so easily, for this next round, Ill make it more of a challenge. While I almost groaned at the prospect, Caden actually groaned. We were down to Francs and Emrys legacies. Two left out of the five. Only a few more days with the posse. My posse. And then my life would go back to normal. Which was what I wanted. Didnt I?  So why did my heart ache like I was having a panic
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the scene where the character Taneisha opens two portals - one leading to Raymond's home, and the other leading to the next challenge. Raymond is reluctant to go through the portal, but Taneisha insists. The passage also reflects on the character's progress so far and their mixed feelings about continuing the quest.

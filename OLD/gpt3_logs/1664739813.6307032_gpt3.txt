@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Caden replied. Or a magical curse? Maybe, but that seems obvious, even for the fae, Franc replied. Plus, she promised Sera not to let us die this time. In a flash of inspiration, I strode over to the hedge and held up the vial toward the leafy barrier. The wall visibly shuddered, bowing away from the vial. I moved closer, and the hedge retreated where the vial neared. This is our way through. Franco moved next to me, holding out his open vial. The hedge reacted the same to his vial, but the effect didnt stick. The hedge moved back into place right after the vial was removed. We need more surface area, Franc said, smiling with determination. Caden snapped his fingers. What we need are flameless torches. He dug into the hedge with his knife, cutting free a couple of branches. Marcos pulled a spare shirt from his backpack and tore it into strips.  As wed done time after time on school projects together, we went to work as a team, trimming each branch, wrapping it with fabric, and then drizzling that fabric with the dark contents of the vials. The stench was stomach-turning, but at the end we each had a pair of hedge-repelling tools. Not my wands of choice, but if they get us out of here, theyll do, Caden said.  Franc rolled his eyes. Save us your saucy quips, demon. Everyone ready to try getting out of here?  We re-packed our backpacks, slung them over our shoulders, and then gathered at the hedge wall.  Wait, what direction should we take? Marcos asked. I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes how the characters use magic vials to make torches that repel a hedge, in order to escape from it.

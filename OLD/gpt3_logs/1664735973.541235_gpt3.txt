@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: ridiculous, Emrys pleaded with Sera. You could have died. Sera cupped Emrys cheek in her hand, her magic seeming to calm down at their brief touch. Interesting. I didnt die because you brought me back. Were a team and Im not about to cut out on you. Its not quitting when we give you permission, I said. I didnt want Sera to go, but if she did, it might be for the best, especially with her magic so volatile. The posse might work better without her presence as a constant distraction. Then again, her absence might drive Liam and Marcos shifter natures crazy.  I wasnt sure which option was better, and I was half inclined to push for her to stay just so we could keep an eye on her. Im not changing my mind, Sera replied. Im in this to the end. Taneisha had been watching our exchange, a frown on her face all the while. For once she didnt appear smug, and I wondered what could have knocked her back down to earth. In that case, Taneisha began, let me apologize for this quest getting sidelined. I didnt know how to react to a fae apologizing. What had come over Taneisha? By the stunned looks on the others faces, they shared my confusion.  Taneisha watched us for a reaction, and when it didnt come, continued. Let me explain a little more about your challenge. This, she pointed to the box, taking care not to touch the glowing pink cords, is an entanglement knot. She looked at me, waiting expectantly. Let me guess. Its an unsolvable knot which only the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Taneisha explains that the box contains an unsolvable knot, and that the challenge is to figure out how to untangle it.

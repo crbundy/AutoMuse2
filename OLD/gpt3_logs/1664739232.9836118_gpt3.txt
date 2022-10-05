@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: couldnt tell how loud I was, or if Id even spoken out loud. Would they answer my call? Would anyone?   A Mage on Fire Marcos Liam and I ran for a while, his wolf side by side with my panther, enjoying the freedom of the ground under our paws and the wind in our fur. It had been so long since wed shifted and hunted together, Id forgotten what an easy wolf companion Liam was. I was grateful for the time to reconnect. Since I didnt have the shifter community many others did, the few times I had with others like myself were even more important to cherish.  By the time the sun had set, wed located and sniffed out several pixie dens, but so far, none had been occupied or filled with what looked like pixie dung. Wed been travelling in a series of overlapping circles, spreading out slowly from the shed. How much further out do you think we should go? I asked Liam telepathically. He shook his head and shoulders, flinging off the dampness accumulated from thousands of wet reeds and tall grasses. I think well have to go deeper to find the pixies. No doubt the researchers have discouraged them from nesting too close to the habitat center. Everything weve found so far smells like they abandoned it a while ago. He had a point. Liam always had been the reserved but clever one in our group. I bet Greyson and his team have cleared all the pixie dung nearby too. Dung? Are you elevating our search to a scientific expedition? I let out a low growl, but I wasnt really sore with
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Marcos and Liam are running and hunting together as panthers. They are trying to find pixie dens, but so far have only found abandoned ones. Liam thinks they should go deeper into the habitat to find the pixies. Marcos agrees.

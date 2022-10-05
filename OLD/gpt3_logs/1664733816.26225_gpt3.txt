@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: series of doorways, most of them closed. One up ahead of me was open, and I approached it cautiously. Bright sunlight shone in through the open arch, inviting me to investigate further. The smell of jasmine and sea salt clung to the air in a secret garden of manicured rose bushes, grassy knolls, and mossy willow trees. I wandered out into the garden; the grass tickling my feet as the sound of unseen waves hit some nearby shore. Birds flitted back and forth between the trees overhead, chirping with enthusiasm. What kind of wacky part of the maze was this? Was it just my brain burning through stress cycles, or was there more to it? I caught a flash of movement out of the corner of my eye a moment before I was swept up into the arms of a familiar embrace.  Liam! I cried out. He held me so tight my feet no longer touched the ground. Liam ran his nose along my shoulder and up my neck, leaving a trail of searing kisses as he went. The combination of the heat of his breath and the tickling texture of his no longer so shortly cropped beard grazing across my skin left me squirming against him. You smell like Sera, he growled out, his tongue darted across my skin. Taste like her too. Breathless, it took me a moment to find my voice. Unlike my new swanky dress, he was dressed as before in jeans and a soft t-shirt. I didnt know you would be so happy to see me, I teased. Its not like its been that long. He shuddered against me. Every time Im apart from you, I fear it might
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's experience in a garden, where they are surprised by an embrace from someone they know. The embrace is described as passionate, and the person notes that the other person smells and tastes like someone else they know.

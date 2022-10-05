@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: anywhere else to hide the vials easily. There were a couple of petri dishes and swabs that also looked promising in the regular trash, so I snatched those as well. I closed up the bin and grabbed a spare bin liner, thinking I could use it to store the pixie poop safely for transport.  Everything tucked away in my pockets, I pulled off my gloves, stored them in my pocket to throw away later, and looked around the lab, making sure I had left nothing out of place, before I pulled the door shut behind me and made my escape, with neither Greyson nor Jonesy the wiser. * * * Sera I couldnt stop myself from pacing back and forth in the habitat centers small shed. A series of dim lights hung from the ceiling. Moths swirled around the lights lazily, as if they, too, were worn out by the humidity. Sweat ran down my back. It wasnt a hot day, but the area around the wetlands was unusually muggy, making it feel a good ten degrees warmer. Daylight was still dimming along the horizon, so I guessed it would be some time before the wetlands cooled off for the evening. Even worse, wisps of mage fire continued to escape my control. I kept my arms crossed with my hands hidden up near my armpits, but I knew both of the shifters had spied my mage fire already. So far, neither had asked me about it, but it was only a matter of time.  I thought you were the big cat? Liam asked Marcos. Marcos shook his head. Yeah, even if I wanted to pace, shes taking up the only space for it in here. Someone
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's nervousness while hiding contraband in a lab, and then escaping. The person is worried that they will be caught and wonders how long they have before the authorities discover what they have done.

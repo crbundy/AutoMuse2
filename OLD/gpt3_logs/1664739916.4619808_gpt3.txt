@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: vapid, I almost developed diabetes on the spot. And I should care. Why? I needed to teach her a lesson. After the legacies were back, Id pay her back. Somehow. Liam tugged on my hand, leading my grumbling, muttering self towards the portal to Velvet and onto our next quest. THE END * * *
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist is angry with a girl for being vapid and wasting their time, and vows to pay her back somehow. Liam pulls the protagonist towards the next quest.

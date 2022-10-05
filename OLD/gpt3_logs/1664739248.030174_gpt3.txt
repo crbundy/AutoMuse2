@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: primal. Yet I wasnt about to sit this one out, no matter how adoringly protective these men were of me.  Theres nothing little about me, I shot back. Its not up to you whether I take risks. Marcos crossed his arms, and a flash of yellow lit up his eyes, but it vanished a moment later. Im up to this task, Marcos. Besides, we need everyone pitching in for this to work. For all we know, every puzzle will get harder as we go. We need to use this trial to get closer and work together. Let it strengthen us, instead of dividing us. Shes right, Marcos, Liam replied. We have to work together if we hope to win against the fae. Were all in this together, man, Emrys chimed in. No one is walking away and leaving you to go solo. Marcos sighed, defeated. Fine, so where do you propose we hide out? Well, theres a shed over there we could check out. We just need to make the staff think weve left, I said. Emrys, could you make a distracting and charming show of heading out, and then circle back around? Humor glinted in his eyes as Emrys ran a hand through his hair, and then his gaze raked over me. Memory of him leaning over me against those racks flashed through my mind again.  I thought you said we should stick together? Emrys asked. Thats why I suggested you circle back around after you put them off your scent. Okay? Was Emrys grousing over me calling the shots? He hesitated, but finally nodded. Fine. Ill call Franc and Caden too. If were going to tromp
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people preparing to hide from others. They discuss their plan and assign roles. Emrys is reluctant to participate but eventually agrees.

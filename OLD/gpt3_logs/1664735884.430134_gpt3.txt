@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Youre all so gallant. She spit out the last word like an insult. Although you are fraying about the edges now, arent you, golden-haired boy? Im not the one who turned Velvet into a dumpster fire, I shot back. This is not my mess. She shrugged me off, gazing out at the gardens. Dont you think its a little funny that the demi-god of madness and revelry is the one who cant cope when the shit, or in this case, the blood, hits the fan? Im coping just fine, I said, wishing the words to be true, but my gut flip-flopped as I followed the faes gaze.  Taneisha arched her brow. Are you though?  How long would it take me to set things to rights here? How would I handle the injuries and damages Taneisha had caused? Shed wanted to hurt me, and shed succeeded, but I didnt back down. All the injuries here are on your head. You may want to punish us, but can you live with the harm youve caused? She chewed her lip before answering, a crack forming in her fearless, hard-hearted fae facade. You sound like Ray. Ray? You mean the minotaur, Raymond? Why would she bring him up? Never you mind. Taneisha waved me off. Youd better catch up with your boys and your mage, Franc, she deflected. Go on, move along then. Youre not coming with us? I asked. Not that I cared, other than I almost preferred to keep an eye on what the fae was up to. Yeah, that was it. I certainly couldnt be worried about the fae and how she might manage against a crowd of potential
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Taneisha and the narrator are arguing. Taneisha says the narrator is not coping well, and the narrator says that all the injuries are Taneisha's fault. Taneisha then tells the narrator to catch up with his friends and leaves.

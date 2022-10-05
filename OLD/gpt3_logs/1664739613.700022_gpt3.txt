@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: against him the entire time. Let me help, Caden offered.  Em stepped back, pulling me away from Caden. You let her run straight into danger a few minutes ago, so I dont think so. Have you tried stopping Sera from doing what she wants to do? Caden replied, for once sounding like the voice of reason. I found Francs mask, I pointed out, triumphant despite my near-death experience. Im the winner. We see you did, Franc replied. I followed his gaze over to the cage encircling his divine mask. Instead of vines, it now pulsed with a bright, neon pink light. That cant be good, I muttered, only then taking a better look around at the now deserted space. Where a few moments ago itd been full of dancers and hip music, the music had faded and the main room was now deserted except for a few people passed out or sleeping on the couches dotting the edges of the space. Where the hell did everyone go? Its a big club, Franc answered. When you sent chaos magic flying in all directions, the revelers fled to other areas. Huh, was all I could come up with. Just how big was this place? Despite the relative quiet in the club, I sensed a tense but energetic buzz in the air. It was like we were all waiting for something to happen, but what? Indeed, Franc replied, his tone terse as his attention flipped back to the caged mask. Obviously finding the mask wasnt the challenge. Marcos and Liam strode in through a different direction than theyd left, neither looking at all
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Caden and Em are arguing about something when Franc and the others come back. They all look at the cage with the mask in it and then everyone starts to leave.

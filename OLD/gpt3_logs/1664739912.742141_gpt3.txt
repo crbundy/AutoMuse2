@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: enough confidence for the both of us. A shiver rolled over me as the heat of Liams touch faded. The silk dress did little to warm me as a strong breeze whipped up around us, blinding me with my hair. I reached up to pull it out of my face, discovering my location had changed.  A flash of panic shot through me. Liam was gone! I stood alone in a library, surrounded by books pulled off of the shelves, scattered about and in stacks on tables and chairs. Had the whirlwind that brought me here done that damage? And where was Liam? I couldnt help but worry about him. I figured he wasnt in danger, at least no more so than the rest of us. But hed been so distraught. How would he manage losing track of me again? Youre stunning in that frock. Francs voice came from deeper within the library.  Surrounded by stacks and rows upon rows of books and shelves, I couldnt make out where he was. Where are you? I called.  A white sheet of paper waved in the air like a signal flag. Im in the back. I followed his voice and tiptoed through the stacks. I circled around a pile of magazines, but I knocked over a stack of books which got caught in my skirts. Watch your step! I thought about picking up the fallen stack, but what was that point? Its not like anything was in its proper place. A little late for that. Did that whirlwind toss everything around? What whirlwind? he asked.  I rounded a shelf and came face to face with a disheveled and distracted demi-god. Where he usually
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+I was standing in a library with Liam, when suddenly he disappeared and the surroundings changed. I was surrounded by books that were pulled off of the shelves and scattered about. I couldn't find Franc, until he called out to me from the back of the library. He asked me what whirlwind I was talking about.

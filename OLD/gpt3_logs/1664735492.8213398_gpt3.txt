@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: skirts. Jax shook her head. I hope you do, and that its enough to get us out of here. She peeked around the hedge. I dont see anyone. Lets try subtle fleeing. Its called sauntering, Jax. Jax rolled her eyes at me, and then we emerged from behind the bushes, walking along the rows as calm as two cucumbers. We reached the end of the row and turned into an area with many people milling about, but no one seemed to pay us much mind.  Did you see those snakes? someone asked.  Oh my gods, one slithered over my foot! I heard the reply, but we kept heading towards the exit.  Passing by a server with a tray of champagne, who paused as we passed. Its complimentary because of the disturbance. Thanks for bearing with us.  Dont mind if I do, thanks, I said, swiping two glasses, handing one to Jax. To blend in, I said to her. She took a drink. Cant hurt, and I never turn down free bubbly. You know, if I didnt hate Franc so much, Id totally party here. Its swanky as fuck. Thats what Ive been trying to tell you. This place caters to supes like nowhere else in town. Although after this, we might be added to the banned list. Stop right there! came a shout from behind us. It had to be the guards!  I didnt even turn to look, but leapt into motion. Jax dashed us around statues of the muses, hedges, and arbors full of jasmine. The kitsune had an unnatural gift for evasion, quickly putting space between us and our would-be captors. When we finally reached the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Jax and the narrator are trying to escape from somewhere and are being chased by guards. They manage to lose the guards by dashing around statues, hedges, and arbors, and finally make their escape.

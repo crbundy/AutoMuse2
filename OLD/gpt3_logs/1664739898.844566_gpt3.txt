@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: said to Taneisha. He placed his hand on the small of my back. It was a proprietary and unconscious gesture, and I loved it. Thats true. Id forgotten Raymond was in here. Rays cheek ticked again, but he just stood there, staring Taneisha down. I suppose Id assumed the maze was the minotaurs home, but now I knew better. Did you trap Ray in here, too? Taneisha shrugged with her shoulders and eyebrows. Maybe. Ray huffed out a hard-hearted laugh. Yeah, you did. You also said wed talk after you cooled off. Youre looking ice cold right about now. Id expected some sort of witty retort from Taneisha, but she only stared at him. Fae were bound to their word, and I suspected she didnt have an out. Oh well. I still almost won, Taneisha said to Liam. You were down to the wire. Only because you put us in that weird dream place! I exclaimed. How long were we in that limbo? Taneisha tapped her cheek. Not long enough? I clenched my fists, wishing my magic was functional again, even if it was flaky. If it was, Id have walloped Taneisha right here and now. I was over her playing with all of our lives. That I can agree on, Liam muttered, and he shot me a curious look. What had he experienced in that dream-state? He took my hand in his, urging me to calm down, but suddenly all I could think about was the way hed clamped down on my neck within the dream. The delay doesnt matter now. We won back my legacy and were ready to tackle the next challenge together. But
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist and Liam are angry with Taneisha for trapping them in a dream state, but she insists that they needed the time to figure things out. They agree to work together to tackle the next challenge.

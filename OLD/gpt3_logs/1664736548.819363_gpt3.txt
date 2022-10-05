@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: constantly complaining. Doris is hard of hearing, so his cursing will go unnoticed. Lucky for your aunt. He hates humidity, so I expect hes even more cross than usual. Barry hates everything and everyone except you. I poked his chest with my finger, smiling up at him. He shrugged, impervious to my charms. Go on, he said, tone terse.  Okay, so I wasnt winning any, uh, brownie points for making sure his pet was okay. Seeing him again in the gloriously muscular flesh, especially now that my anger had cooled, I definitely wanted to make things better between us. Id just have to try harder. I told Xavier that you were going on a vision quest, and he said not to worry and hed handle the retreat center while you were searching for your soul truth. Ray huffed out a laugh. Vision quest? Theres your creative wording, again. He shook his head, wiping a hand across his forehead. At least hell have kept things running smoothly. Ray ran his hands over the muscles of his broad neck. You know how this way you twist words riles me up. I swear, you can fit a lie into almost any box. I held my tongue. How could I counter that? He had me dead to rights.  My creative explanations were also part of the reason he broke up with me. At least youre not denying it, he muttered. Just how long now have I been on said vision quest? About three months. I squeaked out.  Ray hmmed, but because of his size, it came out as a deep rumble. The vibration flowed through my body and
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The person narrating the passage is talking about how their ex-boyfriend, Barry, is difficult to deal with. They mention that Barry is especially grumpy due to the humidity, and they poke him in the chest playfully. Barry tells them to leave, and the narrator reflects on how things between them have changed since the breakup. The narrator then explains to Barry that they have been on a "vision quest" for the past three months. Ray doesn't seem convinced, but the narrator doesn't deny it.

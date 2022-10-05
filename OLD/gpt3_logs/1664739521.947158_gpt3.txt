@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: enough to share. Arent you a proponent of water conservation? An image of all five of us in the shower together flashed through my mind, heating my cheeks and ratcheting my internal temperature up a few degrees. I doubt that would be a quick shower. Definitely not, Franc replied, his gaze lazily traveling over my curves. There was the barest hint of magic in the air. A tinge of sultry heat that promised so much potential. I thought about his offer for a few seconds. Did I want Franc? Sure, Id always been curious what the demi-god was like, and what it would be like to have all of that ecstatic potency aimed in my direction. I glanced around the room at the others. Wed shared a fun, intimate, and racy night back at the nature preserve together. Would dipping my toes a second time satiate my curiosity, or only open the door to more? In a flash of boldness, I kind of wanted to know, even though I knew such affairs wouldnt be approved of by our families or supe society. Inter-species dating was one thing. Dating a handful of men? Quite another.  When I realized all of their expectant gazes were on me, I balked. I think I need a little time to myself. Your loss, Franc whispered. Where was a hand fan when I needed it? For a demi-god of partying and madness, he really ran hot and cold compared to the shifters, who ran hot all the time. Even now both Marcos and Liams watchful gazes followed me around the room, the unmistakable green and yellow flashes in their eyes
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The person in the passage is considering whether or not to date Franc, a demi-god. They are hesitant because they know that dating multiple people is not looked upon favorably by society. In the end, they decide they need more time to think about it.

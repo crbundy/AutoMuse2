@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: I Sera? The name struck a chord, but it felt far away, as if from another life. Another time. Liam pushed himself up, wincing as he moved. He took in the crowd, his gaze wary. Are you okay? Did they hurt you? he asked me. Hurt me? I laughed, the sound of my voice carrying to the far corners of this room. I am invincible here. No one is fool enough to try me. The two shared a dubious look, and I didnt like the look of it. Of them.  We should find Franc and the others, Sera, said the brown-eyed one, rising to his feet. Theyre looking for us. Should? I asked, incredulous at the suggestion. How dare he tell me what to do? How to be? If these others look, I spread my arms wide, they shall find. All roads lead to this sanctuary, and I welcome them.  Liam pulled himself to his feet, although he was a little unsteady, no doubt from that nasty bump on his head. Em? he asked the other one, and I understood that to be his friends name. Perhaps we should get Franc? Em asked. Im not leaving her here, Liam replied.  I refilled my wine glass as the two talked. It was almost like they didnt think I, or my revelers, could hear them. Me neither. What are you proposing? Em asked. Liam planted his hands on his hips. We need to convince Sera to come with us somehow. I arched a brow at that statement and then drank down my cup.  They have some sort of hold over her, Em added. Perhaps shell recognize our touch? Enough. I think you need some time to come to your
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The crowd is discussing whether or not to find someone named Franc. The person narrator is laughing and seems invincible. The two people talking are named Liam and Em. They are discussing whether or not the narrator, Sera, should come with them. Em suggests that they try to convince Sera to come with them, because she seems to be under some sort of control.

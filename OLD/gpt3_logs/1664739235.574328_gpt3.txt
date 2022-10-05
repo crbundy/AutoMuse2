@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: my errant magic. If I didnt get this under control, the magic would just keep leaking out. I could break something or hurt someone. I didnt have the space or time to exercise, my preferred method of burning off the magical energy.  My family was going to flip out. Theyd forbidden me to associate with supes. Forbidden me from revealing my magic to others. Forbidden me from being active in magical society. I had to do something. I could try my energy balancing exercises? Theyd never done much for me back at the academy, but maybe the little they did would be enough, until I found something else? I crossed my legs and straightened my spine, bringing my palms together in front of me. I poured my focus into running power through my ley lines. The process involved awakening each nexus, clearing any blocks, and then modulating the flow between each point. Despite the time I put in, I made little progress. My body blocked me at every turn. There was abundant energy, but no focused outlet. No clear path through the mire of my flawed wiring. What should have worked, or at least drained some of the energy, instead stoked the hidden fires within. Mage fire poured from my hands, surrounding my body in a bright green nimbus. The raw force of my magic raked over me like hot coals. Although I knew I could tolerate prolonged exposure, anxiety gripped at my chest. This was too much. Too fast. Too chaotic. Would I burn myself alive? The shed? The wetlands? Help! I cried out, but I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's struggles with controlling their magic, and their attempts to find a way to balance their energy. They eventually lose control, and their magic starts to burn them. They cry out for help, but it's unclear if anyone hears them.

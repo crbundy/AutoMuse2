@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: entirely the wrong way?  Looks like were getting a steady stream of revelers coming back in. They arent getting close yet, Marcos said. No pressure. I tried to ignore the growing noise in the room. I picked at the vines, but again, they fought me. I tore and ripped at them, but that didnt work either. For every vine I ripped away, another appeared in its place. What was I supposed to do to make this work? Then I thought of the vines and how they moved as if alive. Like they were rooted to the column below them. Perhaps fiddling with the vines directly wasnt workable. Perhaps I had to go to the source. I took hold of the cage, put one foot upon the column for leverage, and pulled with all my might. For a moment nothing happened, but then the structure gave way and separated from the column all at once, sending the stone column topping to the floor. When it hit, the stone shattered, flying in all directions. I held the cage as it undulated between my hands, as if might escape me, but I held on.  Nice trick, what now? Liam asked.  Im not sure, I said. As I looked over the cage for new weaknesses, I noticed its movements were slowing. In less than a minute, the vines were withering and browning. Wait, I think were good after all. The vines are dying. You did it! Emrys declared.  Everyone turned to watch as the vines turned to husks and fell apart under my hands. Soon all I held was the mask, and I clutched it to my chest in relief.  Taneisha appeared, slowly
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist manages to destroy the vines holding the mask by breaking the column they are attached to.

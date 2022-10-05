@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: are you naked? Did the whirlwind thing deposit you here without your clothes? I might be a demon, but Im no primitive and Im not naked. My clothes are over that chair, where Im not worried about getting them dirty, so Im using this handily provided apron. When I found myself here in this fantastically stocked kitchen, I figured Id whip up a snack in case any of you dropped by. And here you are.  Cadens panty-dropping smile was paired with the perfect dimples which were truly not fair on an incubus. I hadnt noticed them before our trip through the Netherworld, likely because his bad boy persona rarely smiled. At least he was still wearing the necklace that inhibited his demonic influence. Hed have been impossible to resist otherwise.  Who was I kidding? He was temptation enough, even without his powers. Wait, was that chocolate sauce on his chest? Powdered sugar on his nose? Ever since Caden had admitted to living a double life and working undercover, his demeanor had softened. No longer taking on that brash persona around all of us had changed everyones dynamic with Caden, including mine. I found this current version so endearing and self-confident. It was hard not to warm up to him. Lucky me? I walked up to the counter. I almost leaned against it before I realized the granite slab was covered in something gooey. Were those lumps bits of chopped nuts? I didnt consider myself a neat freak, but this was like a caramel explosion had gone off. Have you seen anyone
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes someone's reaction to seeing another person covered in chocolate sauce and powdered sugar. The person is attracted to the other person despite the mess, and wonders if they are lucky to have found them.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: carried through with his threat, that we most likely wouldnt be alone. The mental image had me shifting my position as heat pooled between my legs. Neither of those stories explains the state of your dress. It looks like it was once a very fetching dress, by the way. Caden and his ice cream adventures happened. Marcos arched his brow. I didnt know he cooked. Is he any good? Oh, hes good. I blew out a long breath. Very good. Marcos guffawed, almost rolling over. Did you not learn to eat more than you wore? I rolled my eyes at him, but Marcos kept laughing. When he stopped, there were tears in his eyes. Ill pass on asking for details. You didnt see Emrys? No, not yet at least. Although I didnt say it out loud, not seeing Em worried me. He wasnt in the best mental state post the dunk tank Taneisha had put him through. Of all the guys, he needed the most support, not more time alone with his thoughts. How long do you think weve been in here? Marcos asked.  Im not sure. Taneisha said we had to wait things out while she cleaned up after the wraith, so I guess it takes whatever it takes. Why? Do you think it matters? I, for sure, think it matters. The fae gave us three days to hunt down Liams legacy. Every minute were in here is another minute ticking down off the clock. I worry shes using this as an excuse to burn down time. The realization hit me straight in the gut. While Id been distracted, the clock had kept running. Just how much time had we
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the speaker's worry that they are running out of time to find Liam's legacy, as well as their concern for Emrys.

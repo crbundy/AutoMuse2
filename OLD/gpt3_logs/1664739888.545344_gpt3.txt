@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: else? Youre the first, but youve been well worth the wait. That dress is sublime on you darling, and from the creases and rumpling, Id guess Im not the first to tell you as much? Thank you, I replied, feeling my cheeks warm in response to Cadens compliments. I dont love it, but at least its comfortable. Lets see, I ran into Liam in a garden, Franc in a library, and now you, here. Have you been in this kitchen the entire time? Entire? Well yes, I guess so. I took a brief look around in the hall, but then came back here. Figured we wouldnt be here long anyway, from what Taneisha said? At first I poked around the kitchen for snacks, but then I got bored and, well, I love to experiment, so I figured why not? I bet you do. This place had a professional ice cream maker, so I figured what was the point in trying to make anything else? Ive been through quite a few trials over many hours, but I think Im really onto something. Here, try bowl number one. Caden spooned up a bite, holding it out to me.  Unwilling to lean over that sticky counter, I walked around to his side, regretting it when my bare feet hit what I assumed was a patch of sugar. Or salt? It clung to the soles of my feet, quickly working up between my toes. Was that a chocolate chip under my heel? You really went all out, I said. If I pretended the floor was covered in sand instead of food, it wasnt so bad. What am I trying? He held out the spoon. This is a sweet cream base with a fudge ripple
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Caden compliments the dress Taneisha is wearing and tells her he's glad she's the first person he's seen in the kitchen. He explains that he's been experimenting with making ice cream and offers her a taste.

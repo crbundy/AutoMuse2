@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: suspicious. It's not a very, how should I put this, subtle gown. The mass of that dress is like wearing ten rosebushes plus cleavage. Its my summoning dress, and its perfect for tonight. While I cant do magic in the club, this dress can sneak in under their radar. Its filled with magical pockets and charms. Think of it as pre-magicked magic. Jax rubbed her temples. Of course you have a summoning dress, she whispered under her breath. Like I couldnt hear her? I held my tongue, but only because of the invitation in Jaxs hand. I spun my finger in the air. Turn around so I can change, foxy. "Okay," she turned away from me and took a sudden interest in my collection of high-heeled shoes. "Explain to me why you need a summoning dress at this party." I quickly slipped out of my clothes. "Like I said, it's part of my plan." "Tell me more, fae. I know you wanted all the five together, but I don't know what you have in mind. I'm sneaking you into this club and I'd like to know what all you have planned once you get there." I slid into the dress, aware of the weight and delicacy at the garment as it laid against my curves like a glove. Sure, the auto-fit feature was yet another enchantment woven into the dress, but when youre going all out, only a fool would skimp on fashion. I smoothed the straps over my shoulders and wrangled with the voluminous petal bound skirt layers. The train on this dress might have been better suited to a wedding, but I adored the look. "What do
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The fae is wearing a summoning dress with magical pockets and charms to the party, and she explains that she wants all the five together and has a plan.

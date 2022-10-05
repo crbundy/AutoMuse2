@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: my heart beating like a drum in my chest. Standing revelers filled the outer temple, no longer lost to their own pleasures, but with their eyes turned to me. Waiting. The murmur of a chant arose from the throng. I couldnt quite make out the words, but I felt it in my bones. On the bed, my guys lay strewn in a circle around me, unconscious. Anxiety flooded me. What had I done? But when I touched them, they were warm and breathing. Franc even moved and groaned like he was trying to say something but couldnt quite rouse himself. Unlike them, the spark of life surged within me. I heard far-off drums calling to me, echoing the pulsing beat thrumming in my chest. The rhythm of the revelers chants matched the faint but insistent drumbeat.  I had to go. I had to answer the call.  Now! I jumped up and clambered over my men, ripping down a swath of pink silk from between the canopy posts. After I wrapped it around myself, I snatched my makeshift blindfold from the middle of the bed and tied it around my waist. I stepped down off the bed, took hold of the post, and pulled it free. I pounded it on the ground, hearing the earth reverberate beneath my feet. Pink silk trailed out behind me like a sail as I stormed into the awaiting crowd, which parted before my upheld staff.    Close Your Eyes with Holy Dread Franc I wrestled against the fatigue which weighed heavy on my limbs, dragging myself up just in time to see the last of the revelers pouring out of the far end of my wrecked
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's experience after a night of revelry. They find themselves surrounded by people who are chanting, and they feel a call to join them. They see their friends lying unconscious on the bed and feel a sense of anxiety, but they also feel a surge of life within them. They grab a post and use it as a staff, marching into the crowd.

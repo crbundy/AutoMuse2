@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: her. Beyond the pleasure, I barely kept my focus around on the flow of Seras magic. Even as my magic worked to free hers of the faes shadowy binding, I felt resistance at every turn. As the pressure built between our bodies, so it also built between our magics. Seras release came like a shock wave over both of us, with mine following along not long thereafter. Energy rippled out from us on the bed in the middle of the room. I heard vases crash to the floor and chairs knock over. Even the walls surrounding the cella rang like theyd been hit like a gong. But none of that was of consequence to me. I focused on Seras energy, relieved to find the faes energetic constraints no longer wound through her body. Spent in every way, I collapsed against her, the sound of our panting echoing in the now silent chamber. Its gone, Em. You did it.  Sera squirmed to move, and it took me more effort than it should have to roll myself off of her. I laid there for a minute, just breathing and staring up at the moon through the skylights.  But while I was exhausted, Sera seemed somehow re-energized. She sat up on the bed, stretching her arms overhead before shaking out her raven hair. Sera leaned down over me, planting a delicate kiss on my forehead. I swear you almost shot me into the stars. Are you okay? Sera wasnt wrong. My power reserves had been drained by helping her. Yet, seeing her unabashed smile, my heart sang. Not to worry, my love. Ill rebound soon. Besides, Id do it all
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the aftermath of a magical battle in which the speaker and Sera fought together and won. The speaker is exhausted, but Sera is re-energized. The speaker reassures Sera that they will be fine.

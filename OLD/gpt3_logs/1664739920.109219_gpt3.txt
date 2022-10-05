@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: interruption. Franc reached out, resting his hand on Seras shoulder. Comforting? Proprietary? Definitely with the ease of someone whod done so a fair amount. The nerve of him, considering that she was here with me now. In my arms. Her cheeks flushed from my kisses.  When she smiled up at Franc with affection in her gaze, I took a step back. I remembered all too well, bursting in on Sera and the others back at the shed. Images flashed through my mind. Everyone caught up in their passions, lost to pleasure. Everyone except me. What else might have happened between the posse and Sera while Ive been gone? It wasnt their fault. My choice to steal, knowing it would anger Taneisha, had been my own.  I didnt look forward to finding out. I wasnt usually the jealous type, but Seras inclusion on this trip had been my choice. Mine. It wasnt fair they had excluded me. I shook my head. I was being ridiculous. Its not like this was real. Until I got out of Taneishas deprivation chamber, I just needed to keep my shit together. Itd also be great if I could stop torturing myself about being left out of the action. Me imagining Franc intruding on my moment with Sera was just my way of making myself miserable. Franc snapped his fingers in front of my face, and I glared up at him. Im not sure, but its something large. We need to go. Thats when I heard something approaching at the far end of the room near the door leading to Seras shop. Or, I supposed, somewhere else. It just
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Someone is interrupting the protagonist's moment with Sera, and the protagonist is feeling jealous.

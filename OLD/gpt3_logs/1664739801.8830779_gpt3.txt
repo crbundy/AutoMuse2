@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: you right now, either! Taneisha yelled.  Since when does she yell? I asked Marcos. He shook his head ever so slightly at me. We hadnt seen her this upset, or at least this emotional, so far during these challenges. The minotaur clambered to his feet to our left. He was a good head taller than Franc, who was the tallest of us. The beast let out a low grumble.  Taneisha ignored the minotaur and strode right up to Marcos, pointing a finger in his face. How dare you bring that denizen of the deep into my maze? What were you thinking? Marcos huffed. That wraith was a hitchhiker. Perhaps you would have noticed if youd been paying more attention to the crap youve been putting us through? Taneishas cheeks flared scarlet. Wed seen her angry, but never upset like this. Tone it down, I warned Marcos. Shes on the edge. Marcos shot me a look of warning. Good. Then were not the only ones. Great. Just great. This would not end well. If it was such a big deal, why hadnt she shown up when the wraith got loose? Why now? I noticed! she yelled. I had to come up with a plan to cleanse this space. Since this is your fault, you get to wait it out while I work. However long it takes me is time deducted from your deadline. Thats not fair, Sera said, stepping up next to Marcos. Marcos didnt know the wraith was there. None of us did. The minotaur rumbled as if agreeing with Sera. He stood there, brushing the blackened dust off his arms and chest.  Why wasnt he attacking
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Taneisha is angry with Marcos for bringing a wraith into her maze, and shededucts time from their deadline as punishment. Sera speaks up in Marcos's defense, saying that he didn't know the wraith was there. The minotaur seems to agree with her.

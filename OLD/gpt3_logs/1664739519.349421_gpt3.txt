@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The plan? Yes. He hesitated a moment, as if not sure where to begin. Okay, yes. He knelt down in front of the table, pointing his finger at the map. This is where we are now. The path weve been following has brought us close to the Anzus nesting grounds. He pointed to a spot showing a nest on a spire. Thats not the actual spire, right? Liam asked, No, but were in the shadow of it, Caden replied. Id guess we could get there in under an hour, tops. Any ideas on how we get the seeds from the Anzu when we get there? I asked. Caden ran a hand through his hair, tugging the wet strands away from his face. A beast that size has to hunt to eat. I say we sneak up on its nest, wait until it flies away, and then find the seeds and run before it gets back. What if the bird-man doesnt hunt every day? Marcos asked. How long do you figure we hide and wait? Caden shrugged. If the Anzu doesnt leave, then we go with Plan B. We start a fire to distract it and then steal the seeds. I had an idea whod be starting the fire in that scenario, which was fine with me. What if that doesnt make it back off? Do we fight it? I heard the words leave my lips, surprised to feel a rush of excitement coursing through my veins. Only as a last resort, Caden replied. Even working together, we may not be strong enough to take him out. The last thing I want is for any of you to get hurt. I dont like it, Liam said. He leaned forward, pouring over the map as if he might discover
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Caden outlines a plan to steal Anzu bird-man's seeds from its nest. If the bird-man does not leave the nest, they will start a fire to distract it and then steal the seeds. This is their last resort, as they may not be strong enough to take the bird-man out.

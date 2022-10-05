@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: hair. Crap. I must have transformed the water? Or maybe I released something out of the river? I blinked a few times, trying to make sense out of Seras words. You dont know what happened? She shrugged, a timid half-smile playing across her face. Its your magic. How can you not know? I blurted out, my words louder than I intended. I just dont, okay? Sera crossed her arms, hugging her midsection. My magic has never been what you would call reliable. Sometimes when it kicks in, things go a little sideways. But they pulled you from Goldenbriar because you needed private tutoring, I replied, my mind putting together the puzzle pieces as the words flowed out of me. You needed the tutor not because you were exceptional, but because you werent good enough? Sera sighed, tapping her index finger on her nose. Im a powerful mage, but my magic is unstable. Volatile. So Ive learned to keep my powers locked down and unused, lest things go haywire. But I felt like I had to fight off the ghouls to save Marcos from the river. I had to act, despite the danger. Seras revelation hit me like a slap to the face. Shed lied? Surprised at the depth of my reaction, I took a step back. Did I really have a right to feel betrayed by her evasion? But no, examining my feelings, I realized that wasnt the entirety of my upset. Cadens raised brows were his textbook I did not see that one coming look, but watching Liams and Marcos expressions, I realized this wasnt news to them.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Sera is a powerful mage with unstable magic. She lied to the protagonist about her abilities, and the protagonist is surprised and upset by this revelation.

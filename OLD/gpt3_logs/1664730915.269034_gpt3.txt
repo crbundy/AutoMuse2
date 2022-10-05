@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: That awareness cut me to the bone. How could you two keep this from me? From us? I demanded of Marcos and Liam. Bros before mages, right? Its Seras business to disclose as she sees fit, Liam replied, his eyes still on the trail below us. I trust her. Thats your damned fated mates delusion speaking, Liam, I said. You owe it to the rest of us to clue us in on threats. His jaw ticked, and I could swear I heard a joint pop somewhere along Liams tense frame. Its no delusion. If Id thought you were in danger, I would have spoken up. Seras no threat to us. Was he daft? Sera had just admitted to her powers being erratic, and Liam somehow thought wed be immune to its side effects? I scanned the hillside below us, watching the blacker than black creatures relentlessly making their way up the hill toward us.  So Sera cant hurt us? Sure, okay, lets go with that. What about those creatures from the demon river down there? Are we immune to them too? I couldnt help baiting him. Liam needed to understand how crazy he was sounding. Liam spun to face me, his anger right at the surface. Caden pushed in between us, a hand on each of our chests, forcing us to keep our distance. Lets all agree we should have handled this sooner and with better finesse, Caden said. Further, lets agree to get the fuck over it and figure out what to do about the wraiths. Right now we need to get moving and form a plan. As much as I wanted satisfaction, I couldnt argue with Cadens
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a disagreement between two friends. Liam believes that their shared fated mate, Sera, is no threat to them, even though she has admitted that her powers are erratic. Caden intervenes and suggests that they move on and form a plan to deal with the wraiths that are coming up the hill towards them.

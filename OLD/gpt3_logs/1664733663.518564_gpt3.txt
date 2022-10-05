@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: striding past the curtain like the ringmaster he was, confident wed follow.  Liam and Caden followed close behind Franc, while Sera leaned against me, threading her arm through mine for support. My panther purred with pride, earning a knowing glance from Liam, who had picked up on his reaction. My neck prickled, and I glanced back at Emrys, who stood with his arms crossed and his glower pointed right at me.  What? I asked him.  Emrys frowned, but then shrugged. Nothing. What the hells? I didnt have the energy to drag details out of his cranky ass. Fine, stew away. I brushed off his bad mood and smiled down at Sera, who Id safely tucked against me. Cmon, gorgeous. Seras smile dazzled me. I knew my reaction to Sera was partly just Velvets energy, but I liked to think Id always be soft for her, my mate, like this.  We followed Francs path into the temple, which was packed with revelers. I watched Seras reaction to the wild scene unfolding around us. The walls vibrated with sensual energy, and people lost to seeking pleasure in more ways than I could count. Right in front of us were a cuddle of bodies lounging and giggling to themselves on a pedestal of a bed, all of them in different stages of undress. Oh. Wow, Sera gasped. Just wow. Just another evening in the temple, I replied. Wait, are we supposed to jump in? Sera asked, clutching at my arm. Will the magic lure us into joining? Youre not jumping into anything, princess, Emrys grumbled from
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+We follow Franc into the temple, which is full of people engaged in various sexual activities. Sera is amazed and wonders if the magic will lure them into joining. I reassure her that she won't be forced into anything. Emrys is grumpy.

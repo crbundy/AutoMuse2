@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: I lamented. So worth it, T. Marcos never knew what hit him. I couldnt hold back my grin. I reached my hands into my pockets, counting off my plunder one by one. No he didnt. I only wish I was there to see the looks on all of their faces when they find out Ive stolen their precious legacies! Youll see them soon enough, Id wager, she smiled back at me. Before you run off home, can I buy one of those magical infinity scarves from you, and if so, how much will it cost me? Hmm, I replied, considering Jaxs request. Shed become a reliable and interesting friend, and I owed her for going above and beyond on this mission. Not that Id admit it, of course. Yes, Ill sell you one, but let me think about what itll cost you. Ill let you know when its ready. Jaxs eyes shone with excitement. Fantastico! Can it match my hair? Auburn, got it! Thank you for your help today, kitsune. Good luck with your revenge, fae! she said, waving as she walked away. I dont need luck, I replied. This ones in the bag. Well, pockets. ***
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is happy with how their revenge plan went, and is considering selling an infinity scarf to their friend Jax.

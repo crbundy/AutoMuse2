@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: have any now, Officer Bouchard said. Whats the worry about some lost poop, anyway? Greysons exasperation was cute, but hed run out of rope with the officer. Its dangerous! Explosive in high enough quantities. You can hurt yourself with it. Dangerous, huh? Is it illegal to have it without a license? she asked. In large enough quantities, yes, he said. Its that risky. Did you have that much in your trash? Officer Bouchard asked. Well, no, Greyson admitted. Bouchard sighed the sigh of the perpetually overworked and exasperated. Then theres nothing provable to charge them with, Greyson. I recommend everyone go home and get some rest. Now. Greyson huffed but turned and stalked off toward the cars. This is not over, he called over his shoulder. HIs bar friends wandered off with him and the wolves skulked off behind us. Officer Bouchard turned to me. That goes for you too. Officer, I want to assure you were leaving town right now. Were not planning to return, either, I said. Officer Bouchard held my gaze, and then nodded, satisfied with my claim. Thats good to hear. Safe travels. As the officer walked off, we all held our breath for a collective moment. When it passed, of course, Emrys was the first with a pithy comeback. That was close, Emrys said. Good thing we could talk some sense into the officer. Sera stomped up to Emrys. That was only close because of you. What the hell were you thinking? Emrys clenched his jaw, and I moved in, intent
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a confrontation between Officer Bouchard and a group of bar friends, one of whom is Greyson. Officer Bouchard is questioning them about a large quantity of explosive poop that was found in the trash. Greyson admits that they do not have that much poop, but Officer Bouchard is still concerned about the safety risk. Emrys is the first to speak up after the officer leaves, and Sera is angry with him.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: from straying to the undead demon infested water roiling around us? Look at it, I pointed to the water. It might be my overactive imagination, but I think that demon-water is curling up onto our ferry. Cadens attention was already on the river, but Franc and Marcos both looked at where I was pointing.  I think it just does that, Caden said. It seems rhythmic. Like little waves. Marcos flashed him a glare. Almost sounds like you like it. The look Caden gave Marcos was devoid of emotion, but his body posture was tense. Theres beauty in life and death. How much longer before were across? I asked, hoping to shift the conversation. The guys all looked over at the far bank, but it was Caden who answered. Another minute. Weve already passed the midway point. Not much of a river, I said. If it werent for the demons, we could swim across. And if it werent for faeries, we wouldnt be here at all, Franc mumbled.  Liam gripped me tight around my waist. I, for one, am glad were here, he murmured into my ear, sending a thrill down my spine. Cool it with the mating talk, wolf. Its the last thing we need to be thinking about right now, Franc said, his tone brooking no argument.  Were not in your club, Franc. Youre not in charge here, Liam replied. Franc pushed past Marcos, coming face to face with Liam. Francs face was flushed. Neither are you. We should focus on saving Emrys, not whos banging her mageness here. Hey, I yelled. Im right here, you
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The group is discussing the demon-infested water they're crossing and debating whether or not it's worth it. Franc is angry with Liam for talking about mating while they're in such a dangerous situation. Emrys speaks up to remind them that she's right there and can hear everything they're saying.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: fight. Lets move, Marcos said.  We closed up the hunting cabin, leaving it pretty much exactly as wed found it, except for some used sheets and towels. Franc had left a couple of twenties on top of the pile for whomever had to handle the laundry later. I led the way back to the trail in the dim light of pre-dawn, my thoughts warring between focusing on landmarks from the map and memories of my time in the shower with Franc and Sera. As fun as it had been, images of having her, or them, again, filled my thoughts. Hows your magic today? Franc asked Sera. I glanced back at them, wary of Francs line of questioning after his intensity yesterday.  Sera arched her brow. What, you worried Im gonna go supernova? Franc held a hand to his chest, feigning shock. Is that even an option? Now Im kind of curious, actually. Seras already gone supernova, I quipped before I could catch my tongue. What, no! she exclaimed, eyes wide. I havent set anything on fire. Not lately. Didnt you refer to our posse as the Supernova of Hotness a couple of days ago? I said, unable to keep the joke inside my own damned head. Seems to me youre getting quite a handle on our supernova. Now that Id said them, my words sounded harsher than Id meant. Uh, she stammered, cheeks flushing a lovely shade of rose, but she recovered quickly, barking out a laugh. I suppose youve got me there. Nice detective work, officer. But, to answer Francs question, my magic feels pretty stable. Its
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of friends hiking through the woods. They joke about one of the friends, Sera, having magical powers. Sera says her magic is stable.

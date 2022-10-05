@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: dark grey feathers covering his body and massive wings. His arms ended in clawed talons, matching his feet. His beaked face was hard to read, but I assumed the glow of crimson in his eyes meant he wasnt happy to see us. Liams hackles rose, a low growl emanating from his throat. I knew he was ready and willing to fight, but I couldnt let that happen. Sera! Fire? I said, falling back on my eloquent nature. I pointed to the ground in an arc between us and the Anzu. I knew it was a risk. Sera had explained her magic wasnt always stable, but we needed something to prevent the monster from biting our heads off. Sera stepped up beside me, holding her hands out as her face twisted in concentration while the Anzu advanced on us, his wings wide and talons at the ready. Fear shot through me, as I realized Id placed Sera head to head with the monster. I thought to pull her back or place myself between them, but then all at once, mage fire poured from her fingertips, lighting the nest on fire between us and the Anzu. As the purplish-pink flames leapt into the air and the monster shrieked and glowered, I got us out of here. Taneisha, Taneisha, Taneisha, I called out, hoping shed come when called like the last time, even if we were mid-battle with an ancient monster. A whoosh of air behind us was followed by a peal of laughter that echoed over the mountainside. I glanced back to see Taneisha standing before her portal, shaking her head as she clapped. She stood resplendent, in a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist and Liam are about to fight an Anzu when Sera steps in and uses her magic to light a fire between them, preventing the monster from attacking. They then escape through a portal opened by Taneisha.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the last remaining tendons in its neck, and the head went flying. The body slumped to the ground; the undead monster now truly dead. Both the head and body continued to burn, the flames casting an eerie glow on the cliff side wall. The moment passed. I breathed out a sigh of relief. To my surprise, tears ran down my cheeks, and I wiped them away with my free hand.  They did it, Franc whispered into my ear, giving my waist another squeeze before he let me go. Didnt we say they could handle it? Liam and Marcos, both still in animal form, checked each other out, and then Marcos turned and jumped up onto the cliff ledge, much higher than Id thought possible. Liam followed him up a moment later, jumping, bounding off of an outcropping of rock, and then completing the jump up.  It wasnt until they shifted back that I realized Marcos had burns up his right arm from fighting the ghoul. Oh my gods, are you okay? Ill heal quickly enough, he replied, although he winced when he moved. He was lucky the burns werent more extensive. Marcos found his bag, pulled out his clothes, and got dressed. Can you do healing magic? Caden asked me. No, that skills not in my repertoire, I replied. Too bad Emrys isnt here, Franc replied. Hes got some limited skill in that arena. I think I saw a first aid kit in one bag. Franc went to retrieve it. We got off light, Liam said. He found his bag and then pulled on his clothes. This cave is relatively defensible for tonight. If we
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The group of friends kills an undead monster, and then they all shift back into human form. Marcos is injured in the fight, and they look for a first aid kit.

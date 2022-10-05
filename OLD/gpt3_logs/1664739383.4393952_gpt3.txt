@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the table. Whats your beef with Caden? Marcos turned and looked me in the eye, but then kept on walking. When we were younger, I never thought much about Caden being an incubus. He was the life of the party, and thats all that mattered to me then. But over the past few years while Ive worked security for Velvet, I cant ignore the characters he surrounds himself with. Ive thrown out his friends time and time again for peddling illegal supe drugs, starting fights, and harassing other customers, especially the ladies. Weve had the supe authorities out at least every other week arresting his friends. Honestly, I dont understand why you keep letting him return, Franc. Thing was, Marcos wasnt wrong. Id brought plenty of delinquents and dealers into Velvet. But his distrust didnt hurt my feelings one bit. They didnt know my reasoning. All that mattered to me was having Francs trust.  Thats between Caden and I, Franc replied. He has leave to conduct his business as he wishes within Velvet. Franc had never asked me why I kept the company I did, despite the regular disruptions to his business. Did he just tolerate my indiscretions? Or did Franc guess at my true goals? Either way, his trust meant the world to me.  Marcos scoffed. Yeah, I know. Its your club, your rules, but I dont have to like it. Thats right, you dont, Franc replied, his tone cool as a cucumber. We trudged through a few moments of silence as we huffed around the next switchback. So,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses a disagreement between two friends, Marcos and Franc. Franc owns a club called Velvet, and Marcos works security there. Marcos has a problem with the fact that Franc allows Caden, who is an incubus, to continue coming to the club despite his friends being arrested for various crimes. Franc tells Marcos that he trusts Caden and that he is allowed to conduct his business as he wishes within Velvet.

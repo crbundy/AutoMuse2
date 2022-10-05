@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: with Ray, I knew I could. But Francs quest was already in motion, locked in place, even. I wasnt sure what all I could do to help, but Id have to try. If I wanted to get back in Rays good graces, Id have to clear my ledger. * * *
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is reflecting on their relationship with Ray, and how Franc's quest has put them at odds. The speaker is determined to make things right between them, and hopes to help Franc in whatever way they can.

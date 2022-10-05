@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: heading out. Good call on our portal location, Sera said, smacking Franc on the shoulder. Here I thought you were the expert on bars. Lets just turn around and find the next alley, Emrys said. Hey, thats the guy! said a man in the parking lot. A guy who, to my keen panther ears, sounded a lot like the habitat tech, Greyson. Crap. That didnt bode well. Neither did the faster vibrations coming from the Eye. It was only then that I realized one of the vehicles was a police car. Greyson led a handful of men across the parking lot toward us while Emrys turned and headed back toward the street. Franc and Caden followed the demi-god. Sera hesitated.  Hey, Greyson said. Stop! I need to talk to you. Emrys just kept on walking. Thats when I knew he was guilty of something.  Sera moved in close to me, Liam by her side. We really should have asked how Em got the pixie trash, she whispered We were distracted, Liam said under his breath. Come on, guys, Emrys called back to us. Im not running from a talk, Sera said. And not the local law. Not in a town full of supes. Do not escalate things. My stomach sank. She was right. We had the out to faery, but we couldnt do that with others present. Hell, I whispered. Get back here, I called to Emrys. Sera didnt budge, so Liam and I didnt either. Franc and Caden stood behind us while Emrys slowly trudged his way back. We didnt get to talk more because Greyson, a cop, and a few of their friends had caught up with
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A group of friends are caught by the police after one of them commits a crime. They are forced to flee and find refuge in a nearby alley.

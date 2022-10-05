@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: then me, then back to Franc again. I dont think Em understands this is the real world. Do you, Em? I hesitated and fell behind, unsure of how to answer. Lets head this way, Franc interrupted, leading us on a turn to the right, which led down another long row. At least the visuals were clear again, no longer grainy like an old television. Perhaps Taneisha had corrected whatever the prior issue was? Well, Em? Have you figured out this is real yet? What? I walked faster to keep up with them. This was entirely new, not something that had happened in the visions Taneisha had sent me over and over. Sure, Id seen plenty of Sera and Franc, but never had they been aware of the illusion. They were more like characters in my own personal play. My head spun, and I stopped. They stopped alongside me, although Franc glanced behind us anxiously. The storage room at Charmed Brews, the one Sera and I were just in. Youre saying that was fake? Yes, Em. It was you and me in that pantry together. The maze is quite real, although it appears able to construct illusions. Sera nodded, adjusting her pack on her shoulders.  I thought about what Id admitted to Sera in the pantry, alluding to all the times wed done more than simply kiss in my fantasies. When I thought of what else Id considered sharing with her, I felt myself rock back on the soles of my feet. But if shed been offended, it didnt show. That was assuming this was real, and not just some new twist on a delusional theme
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a scene in which the speaker and two others are walking through a maze. The speaker is unsure if the scene is real or not, but the other two people seem to think it is. The speaker wonders if they have been transported into a new, fake reality or if this is the real world.

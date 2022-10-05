@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: dress made seemingly from the starry night sky and her blonde pulled back into a long, single braid.  Didnt I say to call for me when you finished your quest? she asked. Looks like youre still wrapping this one up. I grabbed Seras arm with my free hand, encouraging her to run towards the portal with me. I held the jar up, showing her the evidence of our success. Got it right here! Great! Taneisha flashed me a thumbs up, but then crossed her arms. So whats the holdup?  I ground my teeth. At least she wasnt leaving, but it was clear the fae wouldnt help us, either. Franc and Marcos, whod been further from the Anzu, made it back to the portal first. Liam bounded along behind them, with Sera and I taking up the rear. The Anzu let out a piercing caw. He leapt into the air, and for the briefest of moments I thought he fled, but then a blast of air in my face brought Sera and I to a standstill as the Anzu landed in front of us, blocking our path to the portal. Those are not yours to take, he said, eyeing the jar in my hand. I pulled Sera close to my side. We were cut off from the others and the portal, our only way to escape this literal hellhole. I watched as Franc held Marcos back, while an irate and very naked Liam argued with a seemingly unconcerned Taneisha. Did you have a plan D? Sera asked.  Sure I do. Of course I did, but I hated that wed reached this juncture almost out of the gate. These are mine, I yelled at the Anzu, figuring perhaps I could
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's escape from a "literal hellhole," while being chased by a creature called the Anzu. The person has a jar of evidence with them, and the Anzu wants it. The person's friends are ahead of them, and they are trying to escape to the portal. The person yells at the Anzu, saying that the jar is theirs.

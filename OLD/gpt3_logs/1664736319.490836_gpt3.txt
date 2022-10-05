@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: help the boys? Anything for you, Marcos rumbled.  I rolled my eyes. Shifters, am I right? I said to Caden. Sera doesnt seem to mind.  I heard movement from across the traverse and looked up to see one of the wraith creatures had finally caught up to us. It wandered around the plateau for a few moments and then stopped moving. It had no eyes that I could see, but I felt the weight of its focus fall upon us. It moved like a phantom on the wind, a cluster of shadowy night tied together by will alone.  Now what? Caden asked, voicing what the rest of us were thinking.  We wait and see if it can cross the traverse, Liam explained. Id recommend we leave and put some distance between us and them just in case. I watched as the wraith approached the edge of the drop off, and then hesitated. Id seen more than one following us. Even if this one didnt make it over, would the next brave the journey? No, I said, planting my hands on my hips. Ive had enough. Were all over this, Sera said, coming to stand beside me. Marcos was right behind her, but he stood there quietly, running his fingers down her back. But what options do we have? Its been one thing after another here. At this pace, I doubt well all make it through this challenge, much less another four. We need to renegotiate. With the wraith? Liam asked. Of course not, I replied. Resolved, I spoke the three magic words. Taneisha. Taneisha. Taneisha. A moment passed, and then two. Then the faes
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The group is discussing what to do about the wraith creature that is following them. They consider leaving, but ultimately decide to stay and try to negotiate with the creature.

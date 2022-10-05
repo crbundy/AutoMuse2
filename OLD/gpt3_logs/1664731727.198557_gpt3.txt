@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: encroaching, my chaotic energy was strangely quiet. I wasnt about to complain, but I couldnt help wondering what it meant. Usually my magic reacted during encounters with other magic. The fog seems harmless enough, Franc replied. But we should get moving. Just then, another gong rang out, again punching me right in the gut. Oomph! I doubled over in discomfort. Emrys hands were tight on my arms, holding me steady on my feet, which was good, because the dizzy sensation returned as the gong reverberated through the air. What is up with that? Franc said under his breath. Are you all right? Liam asked from behind me. Just then, I felt a light touch on my back. Thats when everything went sideways.    The Sweet Taste of Almost Sera Em pulled me in his arms as the sound of fabric ripping filled the air behind me. My breath caught in my throat as I looked into his eyes, captivated by the deep-brown iris flecked with gold which Id always found so mesmerizing. Emrys was about my height and had a smaller frame than the others in the posse, but he was all lean muscle. Strength I was suddenly all too aware of with my body pressed against the length of his.  By the slight hitch in Ems smile, he knew the effect he had on me. Maybe I should have been irritated by his swagger, but I couldnt help but melt into him. Keep it together, Sera! I cleared my throat and turned in the demi-gods embrace to see the shredded remains of Liams clothes floating to the ground as his
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The crowd is gonging and the protagonist's magic is strangely quiet. They wonder if the fog is harmless and Franc says they should get moving. Another gong hits the protagonist and they double over in discomfort. Emrys has to hold them up. The protagonist feels a touch on their back and everything goes sideways.

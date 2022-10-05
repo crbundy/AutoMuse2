@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: small golden flowers had opened yet. I took the pot and sighed with relief. I was one step closer to getting my panther icon back.  Any special directions for its care? She pursed her lips. Jasper should know what to do. If he doesnt, tell him he can come see me and Ill walk him through it. I chuckled. Let me guess. For a price? Amber shrugged. Girls got to make a living. Thank you, I said. This means the world to me. Thanks for your business, she called over her shoulder. I trust you can show yourselves out? Twenty minutes later, we were back at the bowling alley. Lit up with bright neon, black lights, and blaring disco music, the aged space was trying a bit too hard to invoke funky town.  This time, I alone stood across from Jasper, the owner. He sat behind the counter, playing a cross between dj and league commentator on the microphone. He downed the last of his mug as we rolled up. Jasper locked eyes on me like a homing missile, a smile spreading across his face. I carried the Altruscan orchid up to Jasper, glad we were one step closer to wrapping this up. You can drink coffee at this hour? I asked, placing the plant on the counter in front of him. He chuckled ruefully. Chamomile tea, if you must know.  I laughed. I suppose that makes a bit more sense. I see youve wheedled an orchid out of Ambers grasp for me? he asked, and I nodded. Im not sure how you managed it, but Im grateful. He inspected the small plant, no larger than his fist.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist is happy to have gotten an orchid from Amber, the owner of a flower shop. Jasper, the owner of the bowling alley, is also happy to have received the plant.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: gets tough, the tough roll with the revelers Franc Emrys, Liam, and I fled the Den of Iniquity, rejoining the others in the hallway outside.  Follow us, I said. Isnt Sera coming? Chadwick asked. We saw you talking but couldnt hear what you discussed. Shes going to create a distraction, Emrys replied. But we need to stay ahead of her. And the ravers, Liam added. The chanting of the revelers behind us in the Den was enough to convince everyone to keep moving. We ran back down the basement halls, through the cave, and emerged once more in the gardens. Only then did we take a few moments to whisper amongst ourselves. Why did you tell Sera to romp through the hills with zombie bacchants? Chadwick sneered. She should be here with us. Id think youd know no one commands Sera, I replied. And they arent zombies. Theyre cannibals. What?!? Ella yelled, and Mikael shushed her. Not so loud, he whispered. Youll draw unwanted attention. But you said cannibals? Ella said to me. Seriously? Sometimes when bacchants get a little wild, they lose control and experiment with flesh-eating. I havent seen it happen before, but Ive heard stories from my grandpa, I explained. How is that better? Ella asked. Thats still cannibalism. It just is? I scrubbed a hand across my face. Wasnt it? Look, we need to get moving. Once I free my mask, the faes spell keeping us locked in here ends. Nope. Theres no way Im going out there with those cannibal zombies
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Three people flee the Den of Iniquity, rejoining a group of others in the hallway outside. They are followed by zombies, and they run through the cave and into the gardens. Once there, they discuss what to do next.

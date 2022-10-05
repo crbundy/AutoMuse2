@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: sounded large, with heavy footfalls heralding its approach. The handle rattled a moment later. None of us needed more encouragement.  This way, Franc said, moving in the direction hed come, heading straight for the back wall.  Sera needed no encouragement. We grabbed our bags, which wed dropped to the floor earlier, and rushed to follow Franc. I heard a creaking sound behind us and glanced back in time to see the door open, a large, dark-skinned hand on the handle. The next moment I was through the wall, once again finding myself jogging down the maze with a wall of mist at our backs. Have you seen the others? Sera asked Franc.  No, Franc replied. Im guessing you didnt either, holed up in that memory back there. Memory? What were they talking about?  We continued to jog along. The rows were wide enough for us to run side by side, so I had no problem seeing the flush that crept over Seras cheeks.  We got distracted, she huffed out. Did you get stuck in a memory pocket, too? Franc frowned, but nodded. I landed in one, but escaped pretty quickly. What was it? I gasped, slowing down into a fast walk. The others followed my lead, with Franc glancing backwards. I found myself back on my grandfathers land in Naxos, surrounded by goats. I knew it couldnt be real, so I found my way out and searched for you two. Figured you couldnt be that far away, since you were only a few steps behind me. Goats? Yeah, I would have run from them too. Sera looked to Franc,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes three people who are running away from something large and frightening. They hide in a memory pocket, but are quickly found by Franc. They then continue running.

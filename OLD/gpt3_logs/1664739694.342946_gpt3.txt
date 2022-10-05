@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: kept my focus on Liam. Youre right, that didnt go like Id planned. I underestimated the impact of the faes magic on Velvet and the people inside. My admission kicked the fire right out of Liam, revealing the anxiety driving his emotions. He gave a single nod and backed up a step. It felt like we all shared a collective sigh. Whats next? How do we get her back from the revelers? Liam asked. We dont, at least not yet, I explained. Marcos turned to me, and then I had multiple glowering supes to contend with as they all turned disbelieving and confused faces toward me. I needed to save Sera, Velvet, and my brothers, and to do that, I needed their help. Hear me out? Go on, Marcos said. Seras freed of the geas and is now running through the proverbial hills of madness. Thus, the knots magic is no longer entwined with hers, so shes safe from it. This gives me an opportunity to solve that puzzle. Are you seriously putting your mask, and your club, before Seras safety? Liam asked, his eyes lit with banked fire.  No. Quite the opposite. If we run off after Sera and the revelers in the state theyre in now, we risk being caught up in the throes of madness right along with them. However, if we can free my legacy from the faes knot, I can retake control of the magic, Velvet, and the revelers. Its a strategic move. Free Velvet and protect Sera at the same time. You can do what you want, but Im going after Sera, Em said. Im not leaving her to the whims of
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The group is discussing what to do next now that Sera has been taken by the revelers. They debate whether to go after her or not, with Liam arguing that they need to go after her and Em arguing that they need to stay and free Velvet first. In the end, they decide to split up, with Em going after Sera and the others staying to free Velvet.

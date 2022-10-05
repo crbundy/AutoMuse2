@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: returned louder than before, almost as if the bass was trying to pound itself into my bones. Sera! I heard Ems voice behind me. Get away from he commanded, but it was too late. Propelled by a blast wave from my wild magic, I flew backwards and landed on someone. Maybe multiple someones? My body felt limp. Drained. Were my eyes open, because everything was black? Ive got you, Ems voice came from somewhere around me, but he sounded oh so far away. The music had suddenly faded, and I heard distant-sounding screams. Dammit, woman, Cadens voice floated somewhere above me. I heard movement but couldnt quite track what was happening. Is she breathing? I had the sense that people were touching me, but the sensations were the faintest of faint, like they were coming from another place entirely.  Shes not, Em replied, his voice sounding strained. Help me get her on her back, he said. Hurry, Em, Caden pleaded. What the hell happened? Franc demanded. She was only gone a moment. I tried to imagine the expression that accompanied his tone. I could sense a lecture coming. Instead of an answer to Francs question, a warmth flooded through my body. Where Id felt distant, sensation rushed through me, pinpricks of pain quickly replaced by an awareness flooding through my aching body. Lips covered my own as life force poured into me. I opened my eyes to find a relieved-looking Emrys staring down at me, his dark-brown eyes locked on mine. I coughed once, then twice,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes someone being saved by CPR after apparently passing out. They feel someone else's lips on theirs, and hear distant screams, before coming back to consciousness.

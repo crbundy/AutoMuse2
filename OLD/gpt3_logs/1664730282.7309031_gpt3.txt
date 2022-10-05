@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: I get it, man. Now that Im in the know, Im happy to help play the game with you. I stepped up to Caden, threw my arms around his neck, and planted a kiss on his cheek. Good job, you sexy demon you. Look, I think I speak for all of us when I say how damned proud we are of you. But how are you going to handle your grandmother? Franc asked Caden. Shes gonna lose her shit when she finds out. Caden shrugged. Well, I cant take it back now. The Anzu will tell Lily what happened, so I suppose Ill deal with her temper when I have to. I dont regret destroying the seeds and ruining her plans. It was the right thing to do. Taneisha cleared her throat, and we all quieted, turning our anxious attention toward the troublesome fae. Oh yeah, we were one more legacy down, but we still had three more to go. Having regained our attention, she smiled sweetly. If youre done post-almost-dying-bonding, Id love to introduce you to the next challenge? Franc marched up to her throne. Wheres Emrys? Taneisha held up a finger, cautioning him. In a moment, wine god. She snapped her fingers, and the tree portal opened again. This time it was sunny on the other side with a view of a tall, neatly trimmed hedge row leading off into the distance. Ive hidden the wolfs heart within the center of this maze. Just as love is a maze, full of twists and turns, so is this puzzle. You have three days to find your icon, Liam, or lose it to fate, forever. Liam, whod dressed again, looked
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of friends congratulating one another on a job well done, and then being introduced to the next challenge by the fae Taneisha. The challenge is to find a hidden object within a maze, and they have three days to do so.

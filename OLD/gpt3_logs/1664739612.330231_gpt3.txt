@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: main entrance. So, there might be other exits we could use? Well check as we go, Marcos said, but Id assume Taneisha magically blocked all of them. Talk about a fire code violation, Sera quipped. We rounded a line of cypress, coming face to face with a trio of faces which were not regulars to Velvet.  Sera started, clearly not expecting to run into them. She pulled away from me, took a step away, and clasped her hands behind her back, obviously working to hide her out of control magic, and her intimate relationship with me, from their view. It was of little use, however, as even with her hands hidden behind her back, the pulsating pinkish glow lit up the ground behind her. From the sudden shift in Seras mood, I half expected her to take off, but perhaps she wasnt feeling that steady on her feet. I turned my attention to new arrivals, wondering what about these men had our mage so off-kilter.  Hey, I thought I recognized you, cousin, said the black-haired man of slight build.  Hey, back, was all Sera said in reply, nibbling on her lower lip. She cast a worried glance at the tall blonde man, so of course I wondered who he was, or had been, to her. The two men wore tailored suits ready for a night about town. A curvy woman in a black long-sleeved dress hung off the arm of the man whod greeted Sera. He eyed us with peaked interest. Unlike the bald man wed talked to earlier, these people appeared mentally alert. I guessed they were recent arrivals, and thus not
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Three people who are not regulars at the Velvet club are blocking the main entrance. Sera, who is with the narrator, is surprised to see them and starts to glow with magic. The black-haired man greets her as a cousin, and she looks worried. The two men are well-dressed and seem mentally alert.

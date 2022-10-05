@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: ploughing through the next section of trail.  After gulping down water from her water bottle, Sera wandered a little further ahead. Was she keeping her distance from me after Id called her out on holding out on us with her magical problems?  Let her try. I wouldnt let this go, so shed be singing like a siren eventually. I smiled to myself, imagining the possibilities. Perhaps in more ways than one. Stretching my arms and taking a pull of water, I turned away and looked back the way wed come, appreciating the height and distance travelled, which I felt in my bones and sore muscles. That was when I noticed something out of the corner of my eye. An inky black movement on the trail below, there one second and gone the next.  I blinked my eyes and wiped the sweat off my brow. Perhaps Id imagined it? No, there it was again. Guys? I called out, searching the trail for another glimpse. Well, guys and lady. Weve got a problem. Caden was at my side a moment later, looking at where I was pointing. What now? I shook my head. Im not sure, but I saw movement on the trail below. Liam joined us, and we were silent for a moment as we scanned the landscape for movement. You could just say, hey posse, you know? Sera said. I cast my gaze back over my shoulder at her. Marcos was sitting on a short boulder, looking like he was still in pain, and Sera stood next to him. Was I imagining it, or was she hovering over him? A flash of discomfort snaked through me. She was quickly
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes three people's reactions to seeing something moving on the trail below them. Sera is keeping her distance from the narrator after they called her out, and the narrator imagines her singing like a siren. Caden and Liam join the narrator, and they are silent for a moment before Sera speaks up. The narrator casts their gaze back at Sera and Marcos and feels discomfort.

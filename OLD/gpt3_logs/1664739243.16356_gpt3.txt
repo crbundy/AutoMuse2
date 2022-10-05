@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Theres an alley leading to a parking lot behind the bar. There were nods, and then Franc led the way. I carried the Eye close to my chest, almost like a football. The humming kept shifting, which I assumed was normal. I suppose I should have asked more about it, but its not like Id be using it. The relic was for Taneisha, not us. Not everything is relative to a bar, Liam rumbled. You wound me, my friend, Franc replied, hand held over his heart. Bars arent just places to drink. Theyre for gathering with friends. Telling our stories around the proverbial fire. Building community. Dancing ourselves into ecstatic states. Transcending our humdrum lives. Clever speech, Sera said. But I dont get the impression youre having any difficulty enjoying your life. Shifting its pattern, the Eye began thrumming in cycles of three. Anxiety washed over me, but I wasnt sure what to do about it. What can I say, Franc said, a wicked glint in his eyes. Im a professional. Which is exactly what Id expect the god of wine and drama to say, Liam replied. Franc smiled, but there was a tension in his shoulders that wasnt there a moment ago. Theatre, Liam. Drama is for queens. We turned the corner into the alley, but per our luck, the parking lot wasnt empty, despite the late hour. We stopped short. It was immediately obvious this wasnt the spot we were looking for.  Franc checked his watch. Damn, its past one. I bet theyre past their last call, so the patrons are
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people walking through an alley to a parking lot behind a bar. They are looking for a specific spot, but when they get there, they realize it is not the right place. Franc checks his watch and says that it is past one o'clock, and the group assumes that the people they are looking for are no longer at the bar.

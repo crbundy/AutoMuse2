@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: with his refined demeanor. Youll likely find him if you try. Can I tell him whos asking after him? No, but can you give him something for me? Just in case I cant find him? The shifter narrowed his gaze at me like I was some sort of puzzle he couldnt quite solve. Yeah, good luck with that! Sure, what do you got? I reached into a pocket, groped around for a moment, and then found what I was looking for. I pulled the bowling pin out and held it out to the bouncer. This is a gift for Marcos. He hesitated, but then gingerly took the pin from me, as if worried it might be more than it appeared, and his hunch would be right. Does he even bowl? I couldnt hold back my smile. No idea anymore, but hell recognize this. His gaze shifted between me, the bowling pin, and my dress. Okay, seems harmless enough. Do you have anything dangerous up that skirt? No, just the girlie essentials. Some lipstick, marbles, a scarf, my feminine wiles Marbles? he asked, the slightest wince creasing his features. I wouldnt want to lose my marbles, so I keep a close eye on them. The bouncer let out a groan and shook his head. He set the bowling pin down next to the pile of invitations atop the stand next to him. Ive heard enough. You ladies enjoy your evening, he said, drawing aside the pink velvet rope and waving us on through the entryway. I sashayed down the hallway towards the dance club like it was my own private runway. Within the club, black lights and strobes ruled and
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a woman's encounter with a bouncer at a club. The woman gives the bouncer a bowling pin to give to Marcos, saying that he'll recognize it. The bouncer is perplexed but ultimately lets them in.

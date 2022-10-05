@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: noon tomorrow. Id called Pepper three times, but it always went straight to voicemail. Fae magic, no doubt. On the third go I left Pepper a message saying Emrys had whisked me out of town for a few days, which was totally honest, and that I trusted her to manage the shop while I was gone. I had to hope Taneisha would allow the message to go through. Marcos and Liam had been on either side of me most of the way, with a quiet Emrys scouting ahead of us. They were so protective; it was as if theyd expected resistance or an attack at any moment. I had a moment where I thought they were all vying to walk next to me, but that couldnt be right. Could it? I didnt have their stakes in this joint venture, but so far, this puzzle had been pretty easy to navigate. Just a lot of negotiations and running around. Then again, Taneisha had said she wasnt as pissed at Marcos as the others. Hopefully, it would just be more of the same? Eh, I was lucky, but that lucky? Not likely. The wilderness visitors center had a general population section with a gift store, maps section, and history dioramas. As we strolled through the dioramas, Liam pointed out a Staff Only sign on what looked to be a utility closet. From the glowing magic on the words, I knew it was an invitation for paranormals like ourselves to explore further. As we watched videos on wetland birds and waited for the sightseeing human family in the room to move on to the next section, Liam, Marcos, and Emrys circled around me,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of paranormals exploring a wilderness visitors center. They find a "Staff Only" sign on a closet and know that it is an invitation for them to explore further. They watch videos on wetland birds and wait for the human family in the room to move on to the next section.

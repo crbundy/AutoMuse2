@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: going, Sera? he asked, his voice calm, as if he was unconcerned with the popping of the wooden floorboards from the heat. Sera held her hands in her lap, shaking her head. Beads of sweat dotted her brow, evidence of the level of mental and physical effort she was expending.  Im on the verge of losing control. You both need to get out of here. Nope, not gonna happen, I replied. Youre helping us, so the least we can do is return the favor. Youll get hurt if you stay. Just let me figure this out on my own. You wont hurt us, Liam replied, and then sat down on the floor, motioning for me to do the same. Tell us whats happening, Sera. She scowled, and I couldnt help but think it was the cutest thing ever, not that Id ever tell Sera that. I wouldnt want her to stop, after all.  My powers are chaotic, pushing at the limits of my control. I did some exercises to rebalance myself and diffuse the energy, but they only made it worse. Could it be something Taneisha did? Some effect of her magic on your own? I asked. The immediate surprise in Seras eyes told me she hadnt even considered that possibility. No, I dont think so. I mean its possible, but not likely, Sera replied. Has this happened before with your magic? I pressed. You cant tell anyone. Please guys, Sera begged. Swear to me you wont tell anyone.  So this has happened before. Liam nodded. I swear Ill keep your secret, he said, and then turned to me. Like, who was I going to tell,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Sera is struggling to control her chaotic powers, and she fears she is losing control. She begs Liam and the narrator not to tell anyone about her struggles, as this has happened before.

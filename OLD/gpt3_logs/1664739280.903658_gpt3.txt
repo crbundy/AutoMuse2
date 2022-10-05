@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: and red, seemingly everywhere, made me feel like we were entering an underworld secret society. The music, with a low, thrumming beat, made my hips sway with every step I took. There was even the scent of whiskey and cigars lingering in the air, as well as a hint of animalistic musk. It felt like Id definitely entered the belly of the beast, and my negotiations with the troublesome fae hadnt even started. At the reminder, I felt instantly keyed up over the prospect of seeing the boys again. For the short time Id known them at school, theyd all made lasting impressions on me.  Then we turned a corner, and I stopped short as we came face to face with the others. The guys were gathered around a high-top table at the side of a dance floor, no longer the youths Id gone to school with. No, they were all men now, with even broader shoulders, more facial hair, and somehow, impossibly, even more swagger.  I wouldnt be surprised if that scent of musk in the air was all them. Goddess, help me. I was looking for a brief adventure, wasnt I? I hadnt expected to fall into a class 10 thirst trap. Almost in unison, their gazes all affixed on me. I shifted on my feet and raised my chin, feeling the sudden need to square off against their raw intensity. By the surprised looks on their faces, and a couple of frowns, I wasnt what theyd expected or hoped for. Or perhaps they hadnt thought Emrys could persuade me to help? What was that? Were in a trap? Liam asked, his intense emerald-
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's reaction to walking into a room full of men. The men are described as being very large and masculine, with an animal-like scent. The person feels intimidated by the men, but also feels a sudden need to square off against them.

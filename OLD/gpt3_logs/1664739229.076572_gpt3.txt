@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: remembering Seras earlier statement about not having private conversations, I continued out loud. I cant be the only shifter in town that finds this place Intolerable? Marcos finished for me. Sera turned back and held up a warning finger toward us. Shh! I swear she had no right to look so adorable as she shushed us. A spark of green flame flashed from her fingertip. Concern furrowed her brows, and I heard a quick intake of breath as Sera rubbed her hands together and then folded her arms across her midsection.  What was going on? Was something wrong with Sera? A combination of my concern and my wolfs urging moved me forward to walk alongside Sera, with Marcos on the other side of her.  I was about to ask Sera if she was okay when a stately woman turned onto our row, wielding a pair of serious-looking pruning shears aloft. From her stance and the shears, I suspected wed interrupted her work. The flash of her green eyes paired with grey-tinged auburn hair and pale, freckled skin marked her likely Irish lineage. Her scent declared her a wolf-shifter. Are you Amber Watson? Sera asked, once again taking the lead. The ladys gaze lingered over us, and me in particular, for a few moments before she answered. Yeah, thatd be me. How can I help you? Were hoping you might have an Altruscan orchid available? Sera asked. Amber looked them over again before answering. Youre a strange lot, but you look healthy enough. What would you need with my orchid? Weve got a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A group of shifters is looking for an Altruscan orchid from Amber Watson. Amber is a wolf-shifter, and she is initially suspicious of the group, but she ultimately agrees to help them.

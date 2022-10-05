@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: excited me when you first arrived. I get little company here. I bet you dont, Sera said. How long have you been here? He grumbled deep in his throat. Long enough that the illusions have mostly stopped working on me, but Im not sure exactly. I try to help when I can and when visitors are amenable. He chuckled to himself.  We appreciate your help, I replied.  He bobbed his massive bull head. Tell me, what do you seek in the maze? A fae took my legacy and hid it somewhere in this maze. I replied. Its a precious carved moonstone that connects me to my pack. Of course. So its just your item? he asked, and I nodded. The minotaurs lips pursed. He stopped, pointing to a spot on the ground next to a rock, which Id assumed marked the spot. Stand there. I moved into position, waiting for something magical to happen, but everyone just stared at me, likely waiting for the same thing. All prizes are found in the center of the maze. You are now standing at the center. For a treasure trove, this Zen garden was pretty bleak. There was the large rock at my feet, the white pebbles in the garden base, a bunch of relatively open space, and my friends surrounding me. I see nothing. He laid a heavy hand on my shoulder and then squeezed gently. Look harder. He turned to the others. Lets back off a few paces and give him some space. The others moved away and stood quietly, save Caden flashing me a thumbs up. I had to admit, this was less scary than facing off against
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A minotaur tells the protagonist that the prize they are looking for is in the center of the maze, and that they are now standing at the center. The protagonist looks around and sees nothing. The minotaur tells them to look harder, and the others move away to give the protagonist some space.

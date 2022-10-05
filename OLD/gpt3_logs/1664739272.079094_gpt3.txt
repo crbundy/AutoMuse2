@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: over that counter. I suddenly needed to adjust myself. Ive never seen one. Whats it do? Well, you see here, Its an oracular orb. Whoever holds it sees any troubles coming their way. Wow. Does it work for anyone? she asked. Uh-huh. But I dont let just anyone look at it, you understand? Sure, Sera said. She leaned in again, cocking her head to the side. I bet someone like you doesnt even need something like the Eye. I doubt any shifter would stand up to you, much less fight you for it. Jasper let out a chuckle. Well, now, youre right on the mark there. Sera sure was laying it on thick, and although I understood she was trying to play into Jaspers good graces, her words ruffled my fur. I wanted to step up behind her, pull her against me, and bite down on the tender flesh of her neck just hard enough to tell her she was mine. I froze. Woah. I gave my head a little shake. What was that all about? Why was I acting this way towards Sera? Hold, brother. I heard Liams voice in my head. He was leaning against the counter beside us. Your eyes are flashing green, he said to me, a sheen of yellow painting his eyes, a sign of his wolf rising, fighting for control. Now would be a bad time to lose control. I gave him a curt nod, turning my attention back to Jasper. Why were both of our beasts clawing at the surface? Perhaps it was some fae magic Taneisha used to keep us off balance? How much do you want for it? Sera asked, all smiles for the old bear. Yeah, it
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a scene in which a woman named Sera is trying to buy an oracular orb from a man named Jasper. Liam, who is with Sera and is also a shifter, notices that Jasper's eyes are flashing green and tells him to control his beast. It is implied that Sera and Liam's beasts are also fighting for control.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: pointed overhead. Toward the moon. It doesnt move. That has to mean something. But that makes it not a proper moon. It never sets, Caden replied.  I just looked at him. Do you always have to be so flippant? His brows shot up. Yeah. Why wouldnt I be? Its my best feature. Boys, Franc said, his tone full of warning, holding his branches like a pair of swords. Onward towards the improper moon? We rallied beside him, struggling at first to find a pattern to penetrate the hedge. Franc and I stood back to back, forming our branches into a wedge in front, with Caden and Marcos expanding the wide, v-shape. The hedge, repelled by the potency of the substance on our wands, parted like drapes, allowing us a narrow passage. A few feet into the shrubbery, the path closed up behind us. What if this doesnt open up on the other side? Caden asked, the edge in his tone echoing the building anxiety within my gut. Youre not helping, Marcos growled out.  We trudged forward in silence until the greenery parted before us, drawing a collective sigh of relief from all four of us. We were back in the maze proper, lines of hedges leading off into the distance.  Marcos clapped me on the shoulder. Nice work, wolf. Where to next? I walked right up to the next hedge. I told you. Were going straight through. To the moon, boys, Caden chimed in. This time, no one gave the demon any hell. We moved resolutely together to the next wall, which parted just as slowly yet inevitably as the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes four friends who are trying to find their way out of a maze. They find a path that leads them to the moon, but it is an "improper moon" that does not move. They continue on their journey, and eventually find their way back to the maze proper.

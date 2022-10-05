@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: with indignation. Seriously? Like, how could we be expected to know that? The demon shrugged. You studied harder than I did. Anyway, I think thats what granny called it. Ive only been here once before. Also, Id recommend not looking directly at it. Why? Is the water dangerous to stare at? Liam asked. Nah, just creepy as hell. Caden answered, drawing a chuckle out of Franc and a grim nod from Liam. Is the water alive? I asked.  No? Sort of? he replied. When everyone turned to look at Caden, his shoulders slumped and then he blew out a heavy breath. Maybe? Its filled with demon wraiths, but thats not important right now. Not important? I planted my hands on my hips. If were going to wade through that crap, Id say the demon water bears a smidge more explanation. Ew, no! We wont get into it, Caden replied, his features scrunching up in distaste. Well take the ferry. He motioned to the river, and when I glanced back, there was a man, or creature, wrapped in tattered black robes that moved according to an unseen wind. His face was hidden in shadow, but he emanated malevolence. The figure stood, unmoving, atop a stone in the river. Had that rock been there a moment ago? The creature certainly hadnt been. The hair on my hairs stood on end and a chill crept across my skin, leaving a trail of goosebumps in its wake.   Youd said we were in the Netherworld, but somehow seeing the ferryman makes things more real, I admitted. Franc placed a comforting
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the river in the Netherworld, which is filled with demon wraiths. The creature standing on the rock in the river is the ferryman, and he is considered to be very dangerous.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: sniffed the air. Bittersweet images of digging into blackberry pies, getting my fur matted with mud while wrestling with other young shifters after a spring rain, and the scent of my mothers shampoo washed over me. It was all too familiar, even if it had been nearly a decade ago. Yeah, I know this place. Its my aunts village, Golden, I replied.  I hadnt been back here since my dad left town with me when I was thirteen. Would anyone even recognize me after all this time? So then, were certain this is the real world? Emrys asked. Not just some fae imagining? Most likely, I said. Unless its a false reality Taneisha spun up just to mess with us. But why would that matter? Liam asked, his voice a low rumble. Whether real or some alternate faery realm, we still have to play the faes games to get our legacies back. If its real, we should send Sera home, Emrys replied. Theres no reason for you to stay, he said to her, his concern appearing genuine. Im sorry I dragged you into this, Sera. You should go home and leave us to the faes games. Lets assume this is real, I said. Were in Canada now. A small town of a few thousand in British Columbia. Wed have to drive a couple hours to put her on a plane. Even as I said the words, the idea of sending Sera off, of watching her leave, didnt set well with me or my panther. I wanted her where I could see her. Keep track of her scent. Shaking her head, Sera crossed her arms. You dont have time for that.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist recognizes the place they are in as their aunt's village, Golden, and wonders if anyone will recognize them after all this time. They question whether this is the real world or just a false reality created by the fae, and decide to assume it is real. The protagonist does not want to send their friend, Sera, home, as they would have to drive her to the airport, and they would rather keep track of her scent.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: at Sera, brows furrowing. Youve been strangely quiet, and youre our game strategist. What say you, mage? Any clever strategies for mazes in that clever mind of yours? Not really, she began, her gaze wandering back and forth between the three of us.  Youre not sure? I asked her. Sera looked at me and shrugged. Shrugged! I tensed and glanced at Marcos, who stood near her, his arms now crossed. Does our normally opinionated little mage seem off to you? Sure, but everything seems a bit off here. Especially Sera. Agreed. Caden sighed. Youre both being rude. Me? Sera asked, eyes wide. The misunderstanding could have been cute, but it set my teeth on edge. Sera seemed unusually slow and out of it. Just how badly had the fog messed with her? No, them. Caden pointed at Marcos and me, drawing lines between us in the air. The point of you being in your human skin was to have us all talking out loud. To each other. Now, out with it. Liams worried about Sera, Marcos said. Me? Sera asked. This time her gaze traveled back and forth between Marcos and me, her brow furrowed with confusion. I watched her closely, eager for her reaction, but Seras expression remained curiously unemotional. A chill ran over my skin at the inherent wrongness of her reaction. Why couldnt you have said that out loud? Caden asked.  Im fine, guys, Sera replied, waving a hand in front of her as if that would brush away our concerns. And l think Marcos idea of looking around for
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Sera is acting strange, and Liam and Marcos are worried about her. Sera insists she's fine, but her unemotional reaction is concerning.

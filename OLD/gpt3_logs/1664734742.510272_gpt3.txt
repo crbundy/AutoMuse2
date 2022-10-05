@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: warmed me to my core. Out of sight as hed been, Id forgotten how much Id loved spending time with him. Just being around him, even. Now he was right here, but he was even angrier at me than before. Worst of all, I deserved every bit of his ire. I could think of a couple of ways to make it up to him, not that he looked receptive. You locked him up because you didnt want to lose him. Youre going to have to try a lot harder than leveraging feminine wiles to get him back. Instead of replying, Ray turned away and walked deeper into my grotto. He grabbed himself a bottle of lemonade from the icy stream and popped off the top. He took a seat on my heather and thyme covered lounger under the willow, ignoring the fireflies that danced around his horns as he leveled me with his grouchy stare. This was new. Id expected hed demand to be sent home as soon as possible. What are you doing? You said youre willing to talk. I figured Id get comfortable. I could suggest other ways to get more comfortable, but I held my tongue. Instead, I followed him over, but didnt sit. Perhaps admitting being in the wrong would ease the tension between us?  What can I say? Obviously, I crossed a line, tossing you into that maze. Yes. Yes, you did. Youve taken holding on to a new level, Tany. Im sorry about that. I was jealous and acted poorly. Rays nostrils flared. Two unequivocal statements from the wee fae? Be still my heart. He took a long pull from the lemonade. Thank you for
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is apologizing to Ray for locking him up, and Ray is angry but receptive to hearing what the speaker has to say.

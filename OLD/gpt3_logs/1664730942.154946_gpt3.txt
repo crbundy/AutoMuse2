@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: she climbed onto the nearest couch, joining two other women as they drank from cups of wine, giggling together as they called out helpful tips to those around them.  Turn her over. No, trust me! said one.  Use the feathers! Seriously, who passes on a feather bath? asked the next. Its called a wheelbarrow for a reason, Luke, said the third. The women fell back into laughter, but I didnt bother looking, choosing instead to watch Seras reaction. From Seras flushed cheeks and the thin sheen of sweat covering her skin, I could tell the sensual magic of this place was taking hold of her, despite her logical efforts to make sense of it all.  I see. I mean, I really cant unsee those things. She shook her head. No wonder Franc doesnt want people here without him. Whats behind those curtains? Sera asked me, pointing to a series of canopy enclosures running along the circular outer wall of the temple. Ivy-covered stone columns separated them with pale pink, gauzy fabric strung between them.  Those chambers are for more private forms of entertainment, I explained. From the varied moans, grunts, and cries of pleasure issuing from all around the room, Id guess almost all the semi-private rooms were in use. Nothing better than a full house worshiping at the altar, Caden declared, ever up for a party. All hail the King of the Bacchanal! Caden declared, his voice carrying through the room as he motioned towards Franc. A round of huzzahs echoed through the temple,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a woman's reaction to watching people have sex in a temple. She is both aroused and confused by what she sees.

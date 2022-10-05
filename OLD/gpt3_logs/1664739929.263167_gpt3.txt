@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: or, in this case, worse. What have you tried? Let me look, Sera said, interrupting Marcos reply. She dropped onto her knees in front of Marcos with a look of wide-eyed fascination. She reached out and placed her hand against the bruise.  Both she and Marcos jolted as if a wave of electricity had hit them both. Was this anything like when shed touched me after the fog? Marcos didnt shift, but his expression grew pained as he bared his teeth, grinding them together. Sera, stop! I said, hearing the panic in my voice. She didnt respond, her eyes now closed, her attention lost to us. Should we separate them? Caden asked. Wed both stepped forward, hovering near Marcos and Sera.  I opened my mouth to respond, but as I watched Marcos leg, I forgot what I was about to say. The inky blackness moved and swirled against his skin, rolling into mounds and tendrils. Caden and I shared a panicked glance. That blackness looked just like a wraith. Marcos cried out in pain as the darkness pulled away from his flesh and wrapped itself around Seras arm. She fell back on her ass, cradling her blackened arm. Marcos leaned back, dazed, staring at Sera. Tell me that wasnt a wraith, I said to Caden. He held up his hands. Its not possible. Some sort of residual ephemera? Whatever that meant, but this was no time to debate the creatures of the Netherworld. This situation had gone off the rails, and I could think of only one thing to do.  Taneisha, Taneisha, Taneisha! I yelled.  The
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Marcos and Sera touch and a blackness moves from Marcos to Sera, wrapping around her arm.

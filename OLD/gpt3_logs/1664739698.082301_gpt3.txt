@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: substantial. Pronto. I was totally ready for one of Taneishas trademark wardrobe changes. Well stay and help, Mikael offered. Between Ella, Chadwick, and myself, we can stay and get everyone home safely. Thank you, I replied. Yeah, how could we not? Chadwick replied. But theres one condition. My stomach flip-flopped. We hadnt parted on the best of terms. When my magic had gone chaotic, Id broken things off with a dramatic argument. It hadnt been my finest moment. What do you want? It was Mikael who answered. If I go home and tell my mom that I saw you and didnt drag you straight back to Ms. Lowe, she might make my clothes itch like poison ivy for a week straight. Thats oddly specific and definitely something we all want you to avoid, I replied. What would you do if she did that? Stay home naked the entire time? Yeah, pretty much, Mikael chuckled. I need an explanation that my mom and Ms. Lowe will accept. I looked around at my guys, each of whom waited to see what Id say. I couldnt explain all of it, but I could stick to the truth. Mostly.  Tell them I took a job for Emrys Tedros that involves his close friends and the fae Taneisha. Theres one more step in the job to complete, and then Ill report in with granny. It wont take over three more days? I shot a look at Taneisha, who wobbled her hand in front of her, and then held up four fingers. All right, four more days. You can also tell granny Im fine. Taneisha has guaranteed my safety. I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist is talking to her friends, who have offered to help her with a job. The job is for a friend of theirs, and involves the fae Taneisha. The protagonist will report back to her grandmother in four days.

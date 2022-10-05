@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: away without another word. A moment of silence descended as we circled up around the glowing, caged mask. That was weird as fuck, Liam said, saying what we all felt. What do we think? Shes obviously lying, Emrys said. We have to assume everything she said was just to lead us astray. Fae cant lie, Marcos replied. But youre right, theyll mislead as far as theyre able. We cant trust anything she says. Sera drifted up against Caden, leaning against him as his arm curled around her waist. She leaned her head back against his shoulder and sighed as he buried his nose in her hair. I almost get the impression that somethings wrong with her, Sera added.  Do we care? I replied. Sera shrugged. It might give us leverage. If I get the opportunity, Ill see if I can drag more information out of her. Caden looked up. Thats fair. Whats clear is Taneisha expects us to stay awhile and look around. Not like shes made leaving an option, Liam added. But we cant mess with the geas on the entanglement knot safely yet, so what are our other options? We could test the knot and see if its actually dangerous, Marcos said. But Im not volunteering to be our guinea pig. Youre not either, Emrys said, pointing to Sera. Sera mocked surprise, shaking her head. Me? Never? Besides, I already did. It earned her a round of glowering from all of us. Caden ran a hand through Seras hair, brushing it out of his face. I have to admit, Im curious about what well find. I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The group is discussing what to do next after their encounter with the faerie. They are unsure if they can trust anything she says, but they agree that they should try to get more information from her. Sera suggests that they could test the geas on the entanglement knot to see if it is actually dangerous.

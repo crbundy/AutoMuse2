@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Are you able to shift back yet? Itd be easier to strategize if I wasnt translating for you. I hadnt tried to shift since leaving the fog, intent on using my wolfs nose to the advantage. But Marcos had a point. I took a few steps away and set my intention. This time, the shift worked, with nothing blocking me. Without knowing for sure what had caused it, how could I know if a forced shift might happen again? Welcome back to the land of the bipeds, Caden said, holding out my backpack. Heres your shit. I arched a brow at him, but Cadens mood was dark. Thanks for carrying it, I said, to which Caden frowned. I searched through my bag and found some clothes, pulling them on as I found them. No biggie, I suppose, Caden said. Which was exactly what a person said when it was a big deal. He ran a hand through his raven hair, pulling it back from his icy blue eyes, as he eyed the maze walls with suspicion. Im not even sure what direction were supposed to take. Do we just keep walking and hope we find the others through pure luck? Do you have a better idea? I asked. Cadens expression soured. All Im saying is we need a plan. Em and Franc are the shoot from the hip pair. Youre the deliberative planners. Deliberative? Marcos laughed. Have I mentioned how much I like this version of you? Marcos asked, and Cadens expression softened at the compliment. I think we need to look around and see what clues we can find. What we find will drive our plan. He glanced
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The shift back to their human forms worked this time and they discuss their next steps. Caden suggests that they look for clues to drive their plan and Marcos agrees.

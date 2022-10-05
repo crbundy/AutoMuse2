@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: say we explore. The possibilities are turning my stomach, I said. I hate to think of what Ill have to clean up after all of this is over. Im game to find something to blow up and burn off some steam, Sera added. From the way her magic was dripping off her fingertips and floating around as little ashy embers, I assumed she meant it literally. No, I snapped, pointing my index finger at her in warning. No explosions, fires, or knocking down walls in Velvet. I forbid it. Sera answered me with a slight, sultry smile as she held up her hand as if taking an oath. Find me another option and Ill be good. I swear it. I wished I could believe her, but her words dripped with sarcasm. I couldnt wait to teach her a lesson she wouldnt forget. So, were off to burn off some of Seras magic? Liam asked, an eager glint in his eyes as he eyed Sera.  No actual burning, I added. Metaphorical burning only. Emphasis on energy burn. Fine. Energy draining only, Caden confirmed. Lets have a look around, Sera replied. She sauntered around the circle, her hips swinging as that shimmering, beaded fabric rolled from side to side across her skin as she came to lean against me. I seem to remember you promising to show me around Velvet? Happy to. I offered her my arm, which she slid hers over, a frisson of anticipation passing between us. I hooked my fingers under her chin, lifting her face to meet my ravenous gaze. At least with you beside me, I can keep you out of
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people exploring a city, with one member warning the others not to cause any destruction. One of the group, Sera, is particularly excited about the possibility of causing some mayhem, but is eventually convinced to refrain from doing so. The group explores the city and has a good time, with the passage ending on a flirtatious note between the protagonist and Sera.

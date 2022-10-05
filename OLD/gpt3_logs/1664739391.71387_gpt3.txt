@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: sadness hit me square in the gut. Id wanted her for myself, yet the shifters had gotten to her first. I sighed. Taneisha patted me on the shoulder, no doubt thinking my sigh was about this situation, and not Sera.  Do you think your friends are working hard to free you as fast as they can?  Im confident theyll do what it takes to free me. But not necessarily as quickly as they can, right? she teased. I bet theyll get distracted with Sera, too. A cute, sexy, powerful mage like her. Who wouldnt want a piece of that action? My mind filled with images of Sera fucking Liam and Marcos while Caden and Franc watched, and I had to take a slow breath to keep from snapping back at her.  Poor Emrys, she pouted. It must have hurt to be excluded back there. How much more do you think youll miss out on while youre apart from them? Taneisha appeared intent on baiting me, and it was clear she knew what had happened between the group in Golden. Worse, she was right. It had hurt to be excluded, especially when I was the one whod brought Sera along on the ride with our posse. Not that I wanted to share her with any of them, and the exclusion felt even more profound for it. What would happen while I was away? Would I come back to find them all settled into some sort of quasi-relationship? Worse, what if they didnt forgive me for breaking Taneishas rules and leaving them one down for solving Cadens quest? You saw the marks on Seras back? I asked, and she gave me a knowing
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the speaker's feelings of sadness and jealousy towards Sera, a shifter who has been freed from captivity. The speaker worries that their friends will get distracted by Sera and not work as hard to free them from captivity.

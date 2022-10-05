@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: little wave. We come in peace! Hes not an alien, Sera! Caden said. Youre right. Im not, the minotaur answered, extending his substantial hand. Names Ray. His voice was a low, baritone rumble, but he spoke as clearly as any of us. How had I thought of this person as a monster? Sera elbowed me into motion, breaking me out of my momentary shock. I held out my hand, my breath seizing in my throat as the minotaur closed his hand around mine, and then shook.  He could have easily crushed me, but his grip was gentle. At our contact, a profound change came over the minotaur. Where hed been wearing only a leather kilt, now he wore tailored khakis and a relaxed t-shirt with the slogan keep calm and hoof on emblazoned across the front. Where his hair had been wild, matted, and hanging into his face, now it was still long, but groomed neatly. Where hed previously appeared to be snarling, now his expression softened, his eyes kind. Im Liam, I replied, and then introduced the others by name. Ray made a point of shaking everyones hand.  He was still a hulk of a beast, except now I could sense the empathy rolling off of him. Sera had been right. Again. I was sure I wasnt the only one in the posse to feel both pride and irritation with her at this moment.  Im glad to see youve all finally figured out the mazes tricks and made it all the way to the center garden. I need to show you something. Follow me? He gestured toward the Zen garden. Lead on, I replied.  It
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people meeting a minotaur, who is friendly and helpful. They follow him to a garden, where he shows them something.

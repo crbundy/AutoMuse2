@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Dionysos, that I still had some level of control over the mayhem Id find inside. Something the faes magic hadnt yet turned against me. Likely not the best phrasing, demon, I called back behind me. Were not doing phrasing anymore? Caden replied, a wide grin on his face.  I let out a weak laugh as I headed down the corridor. Damn him, but I loved how Caden made me laugh even at the most serious of times.  The noise of the ravers amplified as I neared the doorway at the end of the hall and I tuned my senses to the madness within. I was no stranger to bacchanals and orgiastic revelry, but the energy emanating from the Den tripped well beyond dancing on the edge of madness. Under the wild bent of Taneishas fae energy warping my own, the ravers had danced right up to that edge, stomped on the boundary of sanity, and rushed off into the untamed spaces beyond reason. Luckily, I was uniquely suited not just at walking people to the edge so they could blow off some steam, but at drawing them back down before anyone got hurt. I might be late to the party, but I had every faith in my powers and their ability to bring calm to the storm. I could only hope Sera wasnt beyond my reach. I stepped into the room and paused, feeling a wave of unsettling energy wash over me. It did not surprise me to find a trio of ravers watching the door, as if expecting my arrival. The light was dim in the space, but I couldnt miss how trees and vines had erupted through the floor and grown high into
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist is entering a room full of revellers who are under the influence of a faerie's magic. The protagonist is hoping to find and help their friend Sera, who is also at the party. The protagonist has the ability to calm people down and bring them back to reality. When they enter the room, they are immediately met by three revellers who are watching the door.

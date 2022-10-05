@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: you got me stuck in faery.  He feigned shock, which shouldnt have been adorable, but somehow it still was. Worse, the back and forth was riling me, and therefore my magic, up. I could feel the power crackling at my fingertips. What would happen if it burst out uncontrolled? With all of us together, someone would notice if my magic went haywire. And then what would I do? Enough chitter chatter and flirtatious banter. Whats our plan with the flower lady? Caden asked. As if you didnt start it? Marcos growled at him. I stopped short and spun around, holding up my hands. Stop it, all of you. An ominous, if timely, crackle of electricity ran across my fingertips. Whoops? We need someone to go to Franc and update him. None of them appeared deterred by my minor display of power. Emrys didnt even seem to notice, while curiosity lit up Liams features. Cadens lips parted and his brow arched as he drew in a quick breath. I had the distinct impression he was thinking about the lascivious potential of my sparks, which oh my goodness Id never thought of before. Now that hed planted the idea in my mind, I couldnt help but wonder about it. I could call him? Marcos offered. I dropped my hands to my hips. No. I dont think we should trust phones. Itd be too easy for Taneisha to mimic our voices in a conversation, I said, and Marcos nodded in agreement. Whos going to go? Caden sighed dramatically. Ill find Franc and let him know youre all out shopping for flowers.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people discussing their plans for dealing with a flower lady. One person offers to go update someone named Franc, and another person objects, saying it would be too easy for someone to mimic their voices in a conversation. caden sighs dramatically and offers to go update Franc himself.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: inches away, where he towered over me. I was tall for a fae, and yet I still felt diminutive next to him. The musk of his skin was pleasant, transporting me to memories of sweat-soaked sheets. I wanted to reach out, slide my arms around him, and pull him close, but that look on his face gave me pause. His anger was right there on the surface, but I didnt back down. Ray had never given me reason to fear him, and this was no exception.  He hooked his fingers under my chin, leveling me with his gaze. The brief contact was a shock to my system, stealing my breath. Damn, I missed you. My spirited, capricious, Tany. He heaved out a deep sigh.  Ray was the only one whod ever called me by that nickname. It was one hed coined, and hearing it on his lips brought back memories of happier days.  You drive me crazy, yet Im still soft on you, even after that maze. Are you willing to talk? he asked, to which I nodded. His hands moved to his hips, and I craved the return of his touch. Tell me how long you left me trapped in that maze of illusions? Also, how has my business fared while I was gone? And whos taking care of Barry? My body might yearn for more, but this minotaur was in no mood for my flirtations. I focused my thoughts, determined to take Ray seriously. Youll be relieved to know that Barry the Brownie is on an extended vacation with my aunt Doris in Fiji. She absolutely dotes on animals. Barrys no usual pet, he grumbled. I know hes special. My euphemism for
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Ray is angry with the narrator for leaving him in an illusion maze for so long, but he still misses her. He asks her about how her business has fared and who is taking care of Barry.

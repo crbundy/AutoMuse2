@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: to keep them from fighting. Not just because we needed to get out of here in case the pack returned. Emrys and Sera were mates, whether or not either of them wanted that to be the case. The last thing any of us needed was added strife in that already tenuous connection. A connection we all now shared, and I was all too aware that we were nowhere near sealing our bonds together. Emrys leaned close to Sera. I was thinking we needed to get back Marcos icon. What were you thinking about back in that shed? Marcos legacy? Thats uncalled for, Em. I know tempers are high, but can we talk this out later? I asked. The fire in Seras eyes tempered, and she took a couple of steps back from Emrys. Fine. Are we alone enough to say the magic words? I rolled the Eye of the Tiger orb between my hands. We needed to act before anyone else showed up. I motioned to the others. Gather round. When they came close, I spoke. Taneisha. Taneisha. Taneisha. A moment later a whirlwind formed around our feet, building momentum until it swept up and over us, transporting us back to faery on swirling wisps of rainbow-colored sparkles.   Epilogue - Truth and Consequences Sera The magical teleportation back to faery should have been a wondrous feat. Yet another thing I wouldnt get to see in my supe-free day-to-day life, but all I could think about was how frustrated I was at Emrys. Taneisha had warned us all not to cheat, not to steal, but thats exactly what he had done. Perhaps she hadnt
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The group decides to teleport back to faery using magic, but Sera is frustrated with Emrys for cheating and stealing. Taneisha had warned them not to do either of those things.

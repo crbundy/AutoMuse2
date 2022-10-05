@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: guaranteed to turn heads. When the guys gazes swept over me, I wondered if I might get eaten alive. Now thats better. I couldnt send you clubbing without proper attire. I mean, Im no monster, right? I wanted to disagree, but I held my tongue. Knowing Taneisha, if Id complained, she would have made the dress even smaller. Somehow everyone else kept quiet too, although Ray let out a deep, lowing noise as he stomped his foot. In that same snap, the backpacks and bags disappeared. I hoped that meant we wouldnt need anything extra, not that Taneisha wasnt just making things harder. But who was I kidding?  Lets get this show on the road, Franc said, crossing over to our portal. The rest of the guys followed, all except Liam, who remained at my side. One more thing, I told Taneisha. I want my magic back. Right now. I thought you didnt even like it? she replied, her tone bordering on flippant. Even though its just a colossal pain in your ass most days? Even though its just enough to keep you separate from the human world and not enough to fit in with your mage fam? Oh, how I wanted to strangle her! Yeah, some days I hate it, but its mine. It was never yours to take. I didnt, she replied, all wide-eyed innocence. This maze has a mind of its own. It suppressed you, not me. Im sure when you leave, everything will be back to normal. Well, with your magic, at least. Youre not inspiring my confidence, Taneisha, I said. Her smile was so sugary sweet and
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's reaction to their friend Taneisha picking out an outfit for them to wear clubbing. The person is uncomfortable with the outfit and the way Taneisha is acting. They express their desire to have their magic back, which Taneisha took away earlier.

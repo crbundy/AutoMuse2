@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: out over a couple of days like the prior quests without endangering the people stuck in here. Have you been stuck in here all week? Mikael asked Sera, the concern in his eyes genuine.  There was that deer in the headlights stare from Sera again, and her magic glowed even more brightly. What do you mean? she asked, her voice climbing an octave. I heard from mom about a week ago that youd gone missing. She said Dara Lowe put out a missing mage report saying youd disappeared and might have even been abducted. Mikael frowned, glancing at each of us.  I assumed Ms. Lowe was family because of the shared name, but admittedly, I didnt understand the inner workings of mage hierarchy or Seras lineage in that detail. Mikael was right to suspect we caused Seras extended absence, not that Id be confirming it for him.  Abducted? Sera let out a nervous laugh, rolling her eyes. She moved to tuck her hair behind her ear, magic falling from her hands like she was holding sparklers, but she ignored it like it wasnt even happening. What nonsense. Aunt Sophie is such a lovely person, I know she means well. Please give your mother my regards, Sera replied. I assure you theres nothing to be concerned about. I just forgot to tell everyone Id be away for a few days at this semi-spontaneous job. Whoops? Mages were known for their smooth-talking diplomacy but seeing Sera so off balance and chittering like a nervous chipmunk was a surprise. She moved her hands back behind her back,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Mikael asks Sera if she has been stuck in the same place for a week, to which she responds that she has no idea what he is talking about. He then tells her that he heard from his mom that she had gone missing and might have even been abducted. Sera laughs nervously and says that she just forgot to tell everyone that she would be away for a few days.

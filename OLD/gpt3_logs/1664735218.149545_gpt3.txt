@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: pretty sure were his. What happened, Franc? Im not sure. I need a minute to process. Yeah? Cause I dont, Liam snapped back, pulling on his shirt. His green eyes cut into me like a blade. You brought us all here to help Sera burn off her excess energy, to free her from the faes geas. You encouraged her to let loose and embrace a little madness. Liam swept his hand around at the mess. This wasnt just a little madness, Franc. Look around. This was a lot. I ran a hand through my sweat-dampened curly hair. It went further than I intended. So, then you didnt mean for her to go full maenad? Caden asked, looking at me with just one eye open. Just semi-maenad? I sighed. Of course, I didnt.  Caden shook his head. Everyone knows you never go full maenad, he muttered. I rolled my eyes at the demons poorly timed humor. Next thing I knew, a growl erupted from Liam as he launched himself at me. Marcos intercepted him at the last minute, taking the brunt of the hit the wolf had intended for me. Slow it down, brother, Marcos said to Liam. Were all on the same side here. I met Liams gaze without flinching, but grateful for Marcos always level head. Liams anger simmered for a few moments, and I wondered if Id soon be fighting his wolf, but he remained in control.  This is not a joke, Liam spat out. Sera is gone. She needed us, and you just pushed her over the edge. I saw Caden and Em moving out of the corners of my vision as they roused and dressed, but I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker reflects on how a plan to help a friend went wrong, leading to a large mess. Liam is angry with the speaker, accusing them of pushing their friend too far.

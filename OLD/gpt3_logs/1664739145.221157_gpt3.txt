@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: these trades unwinding? Perhaps the walk with help us all process and clear our minds a little. Its the middle of the night, I said. Amber said shed wait up for us to return, Marcos replied. Fine, I said, pushing past them out of the door. I didnt want to talk to any of them right now.   A Crap Trade Marcos This isnt quite what I expected, Amber said, looking over the pile of yellow-tinged cotton swabs stuffed into the biohazard bag.  Id insisted that everyone stay outside, and most of them had listened to me. All but Emrys, of course. No one could tell him what to do. You didnt specify how you wanted the pixie poop delivered, so we worked with what we had available, Emrys said. He leaned against the counter, flashing Amber that blatantly sexy smile of his.  Amber didnt strike me as the type of woman one could charm with a pretty face. Gratefully, we had what she wanted, so guile wasnt required. Ill make a note to be more specific in the future. However, she continued, its more than enough to meet the terms of our arrangement.  Emrys turned back to the rest of us, dripping with smug confidence. Good thing not all of us were distracted, eh? Sera, who stood with her arms crossed, rolled her eyes at him. I loved that she was taking none of his shit. Amber set the bag down on her desk, walked over to a potting bench, and returned with a small Altruscan orchid in a pot the size of my hand. There was a stem with buds running along it, but none of the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A group of people are discussing a recent trade. Amber is not happy with the trade, but Emrys is confident that it was a good one.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: wouldnt let any of you die. From the looks of things, you need all the help you can get. I got up in her face, but she didnt even flinch. If youd wanted to help, why not just release my legacy from your magical trap and let everyone in the club go? The fae smirked back at me. Im not relenting an inch more than I must, demi-god. Your inability to work out the puzzle is your own undoing, and Im relishing every moment. If you almost die yourselves, thats not on me! People slowly began to emerge from the dance hall into the gardens, sniffing at the air and howling at the moon.  Shh, table it, kids, Marcos whispered, interrupting us. Unless you have a better plan, I think we should catch up with the others. Well need everyone to help us clear the dance hall and give you enough time to unravel that knot. I took a deep breath, centering myself. Marcos was right. I couldnt play the fool to the faes games, and if she wouldnt leave, then wed just have to tolerate her. You did a circuit earlier of the club and its recent modifications, I said to Marcos, my voice low. Any idea where the revelers might have headed? He wobbled his head from side to side. The direction they left the temple earlier might have led to the new pool room. Id advise we head that way and watch for signs of their passing. Such a large group shouldnt be too hard to locate. Caden grabbed Marcos and me by the arms, pulling us in close. Let me get this straight. Were headed toward a pack
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a confrontation between the narrator and a fae, in which the fae refuses to help release the legacy of the narrator's club. The fae taunts the narrator, saying that if the club members die, it is not her fault. The passage then describes the club members emerging from the dance hall and heading towards the new pool room. Caden grabs the narrator and Marcos and tells them the plan.

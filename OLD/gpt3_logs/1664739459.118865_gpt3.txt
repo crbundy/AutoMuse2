@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: all of us enjoying ourselves haunted me. Now that hed been locked away, we couldnt even talk things out.  What do you guys think the penalty box is like? I asked. There was silence for a few steps. I knew they all worried about him. They had to be. Emrys could be cocky and irritating, but he was still like a brother to each of the guys. Whatever he faces, Emrys will persevere, Franc replied. Hed taken up the lead with Liam, scouting our path through the dim light. Hes been through worse and is more resilient than his reliance on hair pomade might lead you to believe. Taneisha said shed return him after we successfully retrieve Cadens seeds, so thats what she'll do, Liam added. None of us will risk Emrys, despite his questionable behavior, if thats what youre worried about. I wasnt worried, I replied. I just figure whatever Taneisha cooked up for him will be awful. No one speculated aloud. Perhaps they worried the fae could be listening and use our speculations as inspiration to punish Emrys? When I heard a rustling, I looked back over Marcos shoulder. Caden had what looked like a map out, somehow looking it over in the dark while also keeping his footing. Did demons have better night vision than me, too? Was I the only one here who couldnt see well in the dark? There are a series of switchbacks coming up, Caden said. Perhaps we could stop and rest before we head up? That doesnt sound wise, Marcos said. We dont know whats out there. I know
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the group's concern for their friend Emrys, who has been left behind in the "penalty box" by Taneisha. They worry about what he might be facing, but remain hopeful that he will persevere.

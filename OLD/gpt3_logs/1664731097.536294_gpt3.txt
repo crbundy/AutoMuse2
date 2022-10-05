@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: this challenge as a maze to be solved. I figured we were here to hunt a lost legacy, not a mythical beast. Why not both? Franc said, a sardonic grin curling his mouth. Said none of us ever. A glowering Em rejoined us, running his fingers back through his dark, curly hair, which had gotten wild from the run. Hed been so quiet, I wondered when, or if, the cocky playboy might return. Despite myself, I missed his surly self-confidence. A stray lock hung over his eyes, and I wanted to brush it out of his face and help him set it to rights, but now was not the time.  I couldnt locate any hidden exits. The minotaur chased us here, so why isnt he attacking us now? Em asked. And why the hell is he dressed like that? What do you mean? Like what? The minotaur had little on except for a kilt-like loincloth hanging from his hips. I didnt get an answer because at that moment, familiar faces appeared at the other opening in the hedge. Liam, Caden, and Marcos could see us, but they couldnt see the Minotaur pacing and loudly raving mere feet from where they stood. When I realized what was going to happen next, my heart skipped a beat. I opened my mouth to scream something, anything, to stop them and send them back, but it was too late. Liam took off at a run across the glen in our direction, Caden and Marcos following close behind him. The minotaur turned toward them and bellowed before lowering his head and charging.  Marcos and Liam ran even faster. Caden, paler than a ghost
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist and her companions are being chased by a minotaur, and they take refuge in a hedge. The minotaur does not follow them into the hedge, and they are relieved - until they see that their friends are coming towards them and are not aware of the danger. The protagonist tries to warn them, but it's too late, and the minotaur charges.

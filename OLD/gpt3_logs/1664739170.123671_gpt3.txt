@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: hold back what would have been a snappy reply. Theres a better question you should take seriously, Em. Just how many mate markings are there on Seraphinas shoulders? With one leg of my jeans on and the other halfway there, my heart skipped a beat. What did you say? I whipped around, losing my balance as I went.  Luckily, Franc and Emrys caught me, preventing my fall. Wedged between the two of them, Francs words momentarily fled my mind. But then Emrys pulled my hair to the side, getting a good look at my back and shoulders. What do you see? I asked, pulling my jeans up and zipping them. Its... not possible, Emrys stammered, his expression a mix of denial and confusion. Thats just ridiculous. A fae trick, here to distract us from our quest. Whats on my back? I demanded, looking each of them in the eye, one by one, but none of them appeared eager to answer.  When my gaze fell on Liam, he didnt look away. There are mate markings. Five in total. I assume they werent there before you crossed over into faery with us? Five? I asked. Liam and the others nodded. Of course they werent there before. And youd seen them before we just my voice trailed off. Marcos and I both did, Liam replied, not shying away from the truth. Although our beasts both felt the call to claim you before we saw the marks. Liam held out my t-shirt to me, which I snatched from his hand, and then pulled over my head.  Claim me? Like a piece of property? Who did they think I was?
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes someone's reaction to seeing mate markings on another person's body. There are five markings in total, and they indicate that the person is meant to be claimed by someone else. This upsets the person who sees them, as they feel like they are being treated like property.

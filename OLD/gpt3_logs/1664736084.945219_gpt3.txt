@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: throated growls. They moved around, but didnt come closer to us. We should run, Em whispered, his hand on my arm, the slight pressure urging me into movement. We followed the voices, but these beasts arent talking. The people must have gone another way, Em said. Like we need to. Now. Perhaps I was dumbstruck in fright? So why wasnt I scared? One wendigo separated from the others, walking slowly forward into the garden, his large, bare feet crunching on the white pebbles as he moved. It stopped in the middle and watched us in silence. Why arent they being aggressive? I asked.  Its well known that the beasts have an insatiable hunger for human flesh. Perhaps we surprised them? Or perhaps they are waiting for us to run so they can give chase? Em replied.  I glanced at Em. So why are they hesitating? And since when do wendigos hunt as a pack? I thought they were solitary creatures? He frowned. What are you saying? They filled this maze with illusions. I think those creatures arent true wendigos, but just look like them. It would explain why the beasts arent charging us right now and why theres a group of them. Emrys seemed to consider this. Youre right, they arent acting how I would have thought either, but how can we know if your suspicion is right? I raised my chin and took a deep breath, meeting his gaze. I pointed my finger at the one in the middle of the garden. Im going to meet it halfway and see what happens. Ems jaw popped as he watched
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of wendigos that are not behaving aggressively towards the humans. The humans are unsure why the wendigos are not attacking, but suspect that the creatures may be illusions.

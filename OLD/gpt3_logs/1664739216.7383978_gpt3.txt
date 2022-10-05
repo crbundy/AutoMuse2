@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the viewing deck in case the others werent hidden yet.  Oh, just a moment, I need to get my things. I knew the rules of the faes game, but I couldnt help taking advantage of opportunities that presented themselves. Besides, we all knew Tink would not make the puzzles solvable. If I could find an easier route, or a way around her rules, what would it hurt anyone? The key was in skirting her rules while crossing no lines. I slid off my jacket and laid it on a nearby bench before I caught up with Greyson as he reentered his lab. I caught the door and held it open, leaning against the frame.  Do you usually work late? I asked. Most days, yes. Greyson gathered his things, turned off monitors and lights, and stowed his notebooks in drawers under the counter. I noted the various refrigerators and locked cabinets in the room, as well as a biohazard trash bin located under the counter. I have a coworker, another researcher whos on this project with me, but she burned her hand on a sample and had to take a leave of absence. While he was preoccupied, I grabbed a tissue from a box on the counter, balled it up in my hand, and then stuffed it into the slot in the strike plate, my eyes on Greyson all the while. Yikes. How bad was it? They classified it as a third-degree burn, he said, shaking his head. We try to be careful, but accidents happen. That was not a risk I wanted to take. Or have Sera take. Or hell, any of my brothers, either. Greyson grabbed his backpack,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's actions as they enter a room and talk to someone else. The person avoids answering a question, and instead asks a question of their own. They then observe their surroundings before leaving.

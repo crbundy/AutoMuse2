@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The building wasnt exactly sentient, but Id poured so much of myself into it so that in many ways, it functioned as an extension of my wants and desires.  Which was the very reason Taneishas machinations worried me. My club wasnt just empty space you could tack on extra rooms to and have it all function seamlessly. Sera was correct in saying my magic held the edge of madness within it. Any changes to Velvet would change the way my magic ebbed and flowed within these walls. I doubted Taneisha had taken any of my clubs unique construction into account. I willed it to be so, and the music returned to the dance floor with a heavy beat as the house lights dimmed. Like an invocation, the partiers in the garden perked up and started filtering back into the main hall, eager for the high they could only reach through the combined pounding of the beats and their feet in unison. I led us outside, easily ducking out of the way of the returning throng. While most of the posse let me stay in the lead, Marcos came to the fore, standing on the other side of Sera. Em, Caden, and Liam lagged us, chatting amongst themselves. Although I was curious about what they were discussing, I was content with keeping my focus on Sera. It doesnt appear that Taneisha altered the gardens, Marcos said. But we should inspect them before heading to the temple. Sera looked at me askance. You have a religious space in your club? I chuckled, trying to think of how a newbie like Sera might experience
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The building the passage is referring to is one that the speaker has put a lot of themselves into, and so it functions in many ways as an extension of the speaker's wants and desires. Taneisha's machinations worry the speaker because any changes to the building (Velvet) would change the way the speaker's magic ebbs and flows within the building's walls. The speaker leads the group outside and Marcos says that it doesn't appear that Taneisha altered the gardens, but they should inspect them before heading to the temple. The speaker chuckles at Sera's question about a religious space in the club, trying to think of how a newbie like her might experience it.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Id hoped for some blooms on the orchid. Amber said she could help you with that? Hah. Im sure she can. He turned around and opened the case containing the Eye of the Tiger, handling it gingerly. Be careful with this. I accepted it, cradling it between my palms. The orb hummed, and I felt it vibrating all the way into my bones. Is it supposed to do that? He frowned. Yup. I hope its all you imagined. I wasnt after the orb for its divinatory properties, just as a means to an end, so I had little expectation. Just for the Eye to satisfy Taneishas demands. Im sure it will. Thank you, Jasper. Fair trade? Fair trade, young man. Now be on your way. I was eager to get on my way and back to the posse. Or as Sera had renamed us, the Supernova of Hotness.  Which may have been the tamest part of today so far. I laughed to myself.  But when I rejoined everyone outdoors, the stress in the air was palpable. Everything okay? Did you get the Eye? Sera asked. I did. You guys seem tense? I asked.  Caden huffed. Beyond the obvious awkwardness, there was a patrol car rolling by earlier. Were a bunch of tourists and I dont get the impression the locals like us wandering around late at night. I nodded. Fair enough. Lets call Taneisha and get this wrapped up. Sera held up her hand. Hold on, shed said to invoke her from a secluded location. I think we should get off the main drag first, in case someone is watching. Franc pointed across and down the street.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's experience with the Eye of the Tiger, a magical orb. The orb is supposed to help with divination, but the person is mostly just using it to satisfy someone else's demands. When they rejoined their group of friends, they were all feeling stressed because they had been spotted by a patrol car. They decided to move to a different location before contacting the person they were supposed to give the orb to.

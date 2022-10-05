@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: we were still here in her private space, Taneisha slid the orb into a pocket on her skirt, which somehow easily fit the orb. I am so jealous. The words had just slipped out before I could censor myself. But, by her genuine smile, Taneisha didnt seem to mind. I know, right? Ill get you the name of my tailor. Proper pockets, every time. Those are more like bags of holding, I said. When she frowned, I explained. Its a magical item thats bigger on the inside. Yes, thats exactly what he does, she said, beaming. Taneisha dipped her hand into another pocket of her skirt, pulling out a soapstone black panther out of her pocket, holding it out for Marcos. He held out his hand, but she hesitated. Say youre sorry. His jaw ticked, but Marcos focus was absolute. Im sorry I was an ass to you at the academy. I ignored you and I was rude. I apologize. Taneishas face lit up, and she dropped the icon into Marcos hand. See, that wasnt that hard. I accept your apology, and from now forward, there will be no ill will between us. Marcos wrapped his hand around the item and then slid it into his jacket pocket. Agreed. I let out a breath of tension I hadnt realized Id been holding. Hopefully, things would go as smoothly as they could, with no mention of Emrys questionable behavior. Now that weve taken care of that, let me tell you about your next quest. Taneisha crossed the glen to a large oak tree and knocked on it like one might a door. A moment later, the bark
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+In the passage, two people discuss a magical item called a "pocket," which is bigger on the inside. The conversation turns to a quest, and one of the people crosses the glen to a large oak tree and knocks on it.

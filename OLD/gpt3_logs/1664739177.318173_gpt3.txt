@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: noticed, but I doubted we were that lucky. The rainbow sparkles from the whirlwind slowed their pace, moving erratically about now that theyd been freed from the sucking vortex of the portal. Seconds later, they transformed into lightning bugs in an enchanting array of jewel tones. When the surrounding air cleared, we were back in Taneishas forest glen, but, mirroring the mundane world, it was also now nighttime.  Central in the grove, Taneisha reclined on a chaise lounge atop a dais made of hewn granite. She looked like shed been resting for some time in her private grotto, but I suspected shed posed for dramatic effect during our arrival. That was quick, Taneisha said, rising to her feet. She wore a full length, off the shoulder dress made of what looked to be deep crimson rose petals.  Was it just an enchantment? A fabric made to look like roses? I couldnt tell. Perhaps if I had better control of my magic, but that fate wasnt in my cards.  I trust you were successful in attaining the Eye of the Tiger for me? she asked.  We have it, Marcos replied, holding it up to show her. When she beckoned Marcos forward, he walked it up to her, depositing the globe in her outstretched hands. Oh, my lovely darling, how Ive waited for you, Taneisha murmured to the orb.  I wanted to leave Taneisha alone with her pretty bauble, cause it seemed like they needed a moment. But where could we go? She had in us a captive audience. When she looked back up at us, as if remembering
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the scene after the protagonists return from their quest, in which they give the Eye of the Tiger to the sorceress Taneisha. Taneisha gazes at the orb lovingly, and the protagonist reflects on how difficult it will be to escape from her now.

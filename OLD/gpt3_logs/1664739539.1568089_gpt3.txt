@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: reminding me of the beasts lying just below the surface. This waystation is a welcome respite, worthy of your boon, Liam said. Why dont you go get cleaned up? I scooted off toward the bathroom, excited for not only the prospect of getting fully clean, but also for some private time to myself. Closing the door behind me, I discovered the large shower was certainly big enough for all of us, and the stack of towels on a nearby shelf were big enough to cover a small bed. Whoever designed this place must have expected the typical occupants to be quite large indeed. The bathroom was otherwise as spartan as the rest of the place, with a side room containing the toilet and a simple sunken sink in a counter with a mirror hung from the wall behind it. When I turned on the water, the spray was strong, and the stream quickly heated. Thank you, Taneisha, I whispered, wondering if she would hear me.   I stripped off my clothes, somewhat surprised at the level of grime covering my feet and ankles. When I stepped in under the water, the heat was such a welcome sensation I could have cried. Id been so worn out from the trials of the day and the constant walking that my magic was silent, at least for the time being.  Thank the gods for small miracles.  There were a couple of bars of soap stacked on a ledge, and I tested them out. I found one that smelled of lavender and used it to lather and rinse my entire body twice over. On that same ledge were small jars, which I assumed were for
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist is happy to have found a clean and comfortable place to stay for the night, and is even more pleased to find a large and well-equipped bathroom. They strip off their dirty clothes and step into the shower, enjoying the hot water and feeling grateful for the respite from their journey.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: be best if we go our separate ways so you arent tangled up in my plans. Jax threw her head back, releasing peals of laughter. Oh, you cant get rid of me that easily, fae. Im in it to win it. In that case, lets hunt trophies! I exclaimed.  * * *    The Heist You may want to hunt, but finding those trophies requires more of a gander. Jax pointed to an alcove at the north end of the garden along a wall that ran from the nightclub to another extensive building. The alcove was notably lit up with bright spotlights and two guards stood watch on either end. At the center of those spotlights was a gleaming case hanging on the back wall. Their legacies! Could stealing them out from under the noses of the five be that easy? I crossed my arms and let out a sigh. I have to say Im a little disappointed. Jax turned away from the guards and whispered. If it helps, the garden is filled with people gawking and those two guards look so crusty they might be full of actual lemons. I shot Jax a pointed look. "I thought that's just how vampires looked? Black robed and ready to attend a perpetual funeral." "You better hope they didn't hear you say that," she whispered and then glanced back over her shoulder at them. "How should we deal with the guards?" "Follow my lead," I replied. I placed two fingers over my navel. "Dress, play ultrasonic jazz." I sauntered over toward the fountain on my way to the brightly lit alcove, dipping my hands deep into my pockets. Jax walked alongside me
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a plan to steal from a heavily guarded area. The speaker and Jax will distract the guards while the other grabs the trophies.

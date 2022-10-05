@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: my anxiety eased somewhat. I laced my arm around Marcos neck, taking comfort in his calm strength. Taneisha had made it clear the hunt for Cadens jar of seeds wouldnt be as easy for us as the last round. The rules were the same. One chance to win back the item. No cheating. No stealing. Now here we were, in a forest, at night, with some thief to face off against after we reached our destination at the top of the mountain. Who knew what else awaited us along the way? Do you know where we are, Caden? I called back over Marcos shoulder. I could barely make him out behind us, but I knew it was Caden because his eyes flashed demonically red in the moonlight. There was a pause before he answered. I think I do. This mountain is familiar. The smell of the air is too. But I cant be sure. But you have a guess, Liam said. So out with it. Caden sighed. This place smells like a daemonic realm adjacent to our own. But we cant actually be there. Why not? Franc asked. Weve been back and forth to faery twice in the last day, or however long fae time is. Whats different? Because only demons can travel back and forth through the veil to the Netherworld, Caden explained. Your races cant cross over. What about fae? Can they cross the boundary? I asked. No one answered. As much as this quest worried me, I feared Emrys had things worse back with Taneisha. He didnt strike me as the type to enjoy a lot of alone time. Plus, the hurt look on his face when hed walked in on
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people travelling through a forest at night. They are looking for a thief, and they are worried about what else they might find along the way. The person writing the passage is with someone named Marcos, and they can barely make out someone named Caden behind them. Caden says that the place they are in smells like a demonic realm, but he is not sure if that is actually where they are.

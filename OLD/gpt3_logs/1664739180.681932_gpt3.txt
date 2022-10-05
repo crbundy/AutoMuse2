@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: hed ask me about it later. Lets go, he said to Marcos.  A moment later, a large white wolf with yellow eyes stood in his place. Marcos was a moment behind him, shifting into a black panther with pale leaf-green eyes. They circled me for a moment, and I had to remind myself that they werent wild creatures. I knew them. Emboldened, I ran my fingers through their fur, and one after the other, they leaned against me, nuzzling against my hands. Marcos purring rumbled through me, a vibration I felt in my bones. I didnt realize your wolf was white, I said to Liam. Id assumed youd be a red wolf, cause youre a ginger. He growled-grumbled at me.  Okay okay, my bad, I said. I walked over to the door, holding it open for them. Good luck. They shot out the door with Marcos in the lead, moving with such energy and exuberance. I wished I could run beside them. I watched them until they disappeared into the dense grasses and bushes, then closed the door. I looked around the room before I started pacing again. Relaxing somewhat in my solitude, my mage-fire reappeared, lighting up my fingertips with a flickering, eerie green glow. What could I do to fix it before they got back? Ugh! I leaned against a stack of benches with my head in my hands and then slid down to the floor. Who was I kidding? I was stuck with these guys for the next few days. I was going to keep slipping up, and eventually theyd figure out something was wrong with my magic. The risk wasnt just in exposing
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist is worried about being found out by her companions, two shape-shifters. She is pacing and fretting when she is suddenly overcome with exhaustion and sits on the floor. She knows she needs to find a way to fix her magic before they get back, but she doesn't know how.

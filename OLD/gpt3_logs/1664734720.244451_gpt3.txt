@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: highlighted her long legs or how that wisp of a dress shimmered down her curves as she moved. I also didnt miss the electric sparks dancing around her fingertips or the matching fiery look in her eyes. I tried to rip apart the vines to remove the mask, but something happened with my magic and, well, that happened. She gestured to the vines that her pink energy had transformed, sending sparks flying. It threw me off of it and we havent tried it again yet. How peculiar, Taneisha muttered. Thats all you did? The fae looked at Sera like shed never seen her before, and I wondered if the fae was out of her depth with this challenge.  Just my luck.  Youre leaving out the part where you stopped breathing, and I had to revive you, Emrys added. We tried to take Sera outside to call a ride, but youve locked us all in. I couldnt have you abandoning your quest, could I? Taneisha looked around for a response, but then thought better of it. Still, you shouldnt have been able to geas my knot, she said to Sera, who just shrugged back at her. Your magic is indeed curiouser than I realized. Almost reckless, even. Now, I said Id send you home and I am a fae of my word. Only because youre magically bound to do so, I added. Taneisha ignored me and held out a hand to Sera. Be that as it may, shall we go?  Sera pursed her lips, then glanced around at the posse, a hunger burning in her eyes. She shook her head. Im not leaving until we get the mask. Dont be
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A woman named Taneisha tries to remove a mask from a woman named Sera's face, but something goes wrong and they are unable to remove it. Taneisha tells Sera that she will send her home, but Sera refuses to leave until they get the mask.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: hold that in place. I reached in, plucking the golden scorpion off the small glass shelf.  Jax gasped. Where did you get this scarf and can I get one?  I made it, of course. Crafting is my favorite hobby. Well, second to planning the downfall of my enemies. One by one, each of the items made their way into my pockets.  She nodded. Obviously, so youre saying you have more of these? Perhaps, but thatd be a separate negotiation.  This time, when Jax smiled, I could see her kitsune spirit in the width of her toothy smile. I grabbed the wolfs head moonstone last, emptying the case of the boys legacies. Digging around my pockets, I grabbed the portal stone and placed it in the middle now empty shelf. Keep holding it, I directed, hastily scrawling a note on my pen and paper. The directions were simple: a twenty-four-hour deadline to portal to me before their time ran out and I claimed their legacies forever. I tucked the note under the portal stone. Thats an invitation they cant refuse. In fact, Ill spend every moment of the next day just imagining them stewing over submitting to my challenge. Oh, you can let go of the scarf now, I said to Jax. Jax let go and the glass magically reappeared as the fabric came back together. I balled up the scarf and hid it away in a pocket along with my pen, and then gazed upon my handiwork, admiring the sheer simplicity of the theft. I really need one of those scarves, she repeated. Also, I take back my earlier comments on
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist stole a scarf and other items from a glass case, writing a note telling the owner where to find them. The protagonist enjoys imagining the owner's reaction.

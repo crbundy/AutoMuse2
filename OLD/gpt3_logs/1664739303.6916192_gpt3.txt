@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: A Simple Favor Sera Despite the pleasant hustle of my day, my magic had been wobbling dangerously out of kilter again. Id already zapped the shops La Pavoni barista rig twice, causing it to blow billowing clouds of steam each time. So much for thinking that running a coffee shop slash bookstore slash tabletop gaming destination would be straightforward.  Hah! Gratefully, none of my staff had noticed my magical blips, but why would they? The last thing in the world humans expected was actual magic. It was easier to write me off as a klutz with the equipment than suspect that a supernatural being was hiding out as a glorified barista. Critical hit! came a shout from a room in the back, followed by a chorus of groans. One of our regular teen groups had been reveling in an all-day session, plowing through coffee, muffins, and orcs in equal measure. But by the sound of it, the orcs were gaining an upper hand. I glanced at the clock. It was just seven p.m., but it felt later. I was leaving in an hour and couldnt wait for my hot date with an elliptical at the gym. Or perhaps tonight felt more like rowing mojo? No, I needed to burn off this energy before my unstable magic got me in real trouble. Oh, cycling! That was just what I needed to burn down all my excess energy, and I hadn't done that exercise so far this week. The more spazzed out my magic, the harder I needed to work in the gym to burn the edge off. Then the very last thing I needed walked in through the door of my
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist is a supernatural being who is struggling to keep her magic under control. She works at a coffee shop/bookstore/gaming destination, and her staff is unaware of her true nature. Tonight, she plans to go to the gym and burn off some excess energy. However, her plans are derailed when someone walks in through the door.

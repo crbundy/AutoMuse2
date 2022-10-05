@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: were all tired. When youre tired, people can get sloppy and make mistakes, Caden replied. Not all of us get sloppy, Marcos snapped back. And none of us are people. Marcos said Caden had fallen into addiction and was potentially dealing drugs, and so I hadnt expected him to have thought out this much of a plan. Unlike most of supe society, I knew the posse didnt look down on him for being an incubus, but some did for the company he kept. Id seen that Franc and he had an intimate relationship, so it appeared the demi-god trusted him. But there was clear friction between the shifters and Caden, friction that could cause issues on our quest.  I resolved to pay more attention and come to my own conclusions about Caden. I was the outsider in this group, so perhaps I could bring a fresh perspective. At the least, I needed to learn more of Cadens history and the item Taneisha had stolen from him. We have to rest sometime, Caden insisted. Sound logic, Liam replied, taking off his backpack. He shucked off his clothes, stuffing them inside. When he was naked, he handed his pack over to Franc. Ill run ahead, see if I can find any defensible areas within easy distance from the trail.  Do you want me to come with you? Marcos asked. Liam caught me ogling him, and his lip curled, full of smug confidence. I shivered under the sudden intensity of his gaze. I really should have asked Taneisha about the mating marks and if her fae magic might be responsible, but there hadnt
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The group is tired, and Caden suggests they take a break. Marcos and Caden argue, and Liam tells Caden to run ahead and scout for a safe place to rest. Liam catches the narrator staring at him, and the passage ends with the narrator wondering if Taneisha's fae magic is responsible for the mating marks they've seen.

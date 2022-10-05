@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: my rose dress lit up with ethereal shades of white, green, and blue. The thudding of the bass, so strong I felt my heart shudder with each beat, drowned the music out. The effect lulled me into motion, swaying with the rhythm and momentarily forgetting my cares.  I held two fingers over my navel and then spoke to my dress. "Dress, play You Light up my Eternity." The cords blared out, discordant with the club's steady beat. I spun in circles, watching my dress glow under the flashing lights. "Your dress has speakers and a playlist?" Jax asked. "I told you it's enchanted! It even does karaoke!" Jax asked me over the boom boom boom of the music. Do you want to grab a drink or dance for a while? Neither." I tapped the dress, and the song stopped. It was time to get to work. "I need the lay of the land. I take it youve been here before? Straight to business. I can respect that. Ive been here a couple of times. Allow me to show you around?  Jax offered me her elbow and directed me through the hopping dance hall and through a pair of large ornate doors into an unexpected but delightful garden. Unlike the wild atmosphere of the dance hall, this was a calm space full of manicured cedars, exquisitely carved fountains full of dolphins and cherubs, life-size anatomically correct marble satyrs, and conveniently spaced benches.  This is not the realm of debauchery and wild abandon Id expected from a demi-god of Dionysos, I said. Jax winked at me, leading us around the perimeter
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The person in the passage is at a club, dancing and enjoying themselves. They are wearing a special dress that has speakers and a playlist built in. Jax, who they are with, asks if they want to grab a drink or dance for a while, but the person says they need to get to work. Jax then shows them around the club, which has a garden full of statues. The person is surprised by how calm and well-manicured the garden is, given that it is the realm of a demi-god of Dionysos.

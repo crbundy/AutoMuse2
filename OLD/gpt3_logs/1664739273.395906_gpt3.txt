@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: sparkled with anticipation. You know how to tempt me, but I fear Im short on time. No time for a latte? Afraid not. Can we please talk? he pressed. Its an urgent matter. Please? Okay, now my curiosity was locked and loaded. I cast my gaze around the store. Everyone appeared caught up in their own little worlds, and Pepper could handle things for a bit. Come around the counter, theres a space we can use in the back, I replied, and then turned to Pepper. Can you take over for a few minutes? She shot me a sly smile. Sure thing, boss.  Emrys followed me through a door at the end of the counter, down a short hall, and into a room we used as a pantry. When we got there, I turned to face him. Whats all this about? Emrys didnt speak, and again I had the sense he was feeling hesitant, which was so out of character. I didnt know what to make of it. Out with it, Emrys. Why are you here? Im in a bit of a pinch, he said, a frown creasing his brow. And I was hoping you could help me out? What in the world could he need me for? I couldnt deny being intrigued, but I had to tease him back. The brash Emrys is in trouble. How am I not surprised? I asked, to which he held up his hand to his mouth, pretending shock. I shook my head. What have you got yourself into this time? The boys and I he began, but I cut him off. The boys? I barked out a laugh. Youre still hanging with your posse from our Academy days? He frowned, but the humor from before had
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Emrys asks the narrator for help, saying he's in a pinch. He won't say what it is, but the narrator agrees to help.

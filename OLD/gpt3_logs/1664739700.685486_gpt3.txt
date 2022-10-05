@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: left out the relationship entanglements, and mating claims, that had come up between me and the posse. I could only hope Mikael would leave what hed seen out of his explanation. Mikael shook his head. Theres no way in hells Im calling her granny. I cant even repeat that you called her granny. I laughed. But shed treat you to her famous imperious stare! That isnt all shed do, he muttered, and then turned to Taneisha. Is that true, fae? Speak plainly and tell me you guarantee my cousins safety. Taneisha smiled the sweetest of smiles. Almost too sweet. I swear, Seraphina Lowe will return safely home after completing the quests. I will not allow any harm to come to Sera. Definitely too sweet. Hearing the faes saccharine promise, I immediately distrusted her. Fae were bound to their word, and I couldnt see a way around her statement. By the frowns of the others, I could tell I wasnt the only one not buying her act, but it would have to do. Okay then, thats at least something. Take care of yourself, and you five, he pointed at each of the posse. If anything happens to Sera, nothing will save you from the Lowe clan taking it out of your hides. Heard, mage, Liam replied. We will not fail in our duty to Sera. I dont doubt you, wolf, Chadwick replied. But after seeing what Taneisha will do to put you through for her games, well, you need all the luck that you can get. Can you all see me right now? Taneisha asked. Cause youre talking like you
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the speaker's wariness of the faerie Taneisha, who has just promised to protect the speaker's cousin Seraphina. The speaker notes that faeries are bound by their word, but still does not trust Taneisha. The other members of the speaker's "posse" also express their doubts.

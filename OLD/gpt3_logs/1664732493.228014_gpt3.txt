@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: snorting and waving his arms. He continued to block both of the potential exit routes from us. Franc moved between us and the minotaur, brandishing one of the camping knives in his hand. I moved to stand next to him. I focused my will, hoping to feel my magic build, but nothing seemed to happen. Just like old times.  I doubt your little blade will do much against that hulk, I muttered. Have you even fought with a knife before? Franc gave a quick shake of his head. You know Im a lover, not a fighter, but I will not stand here doing nothing when that creature attacks us. If youre planning on zapping him, do it sooner than later. I tucked my hair behind my ear. My magic fizzled out earlier when we arrived, and Im worried it might not deliver now. Id hate to attempt walloping that beast just to have my magic crap out. I might just poke it and piss it off. You did accidentally zap Liam earlier, sure, but youve shown us time and time again the power of your magic. He tilted his head to the side. Perhaps you need to have a little more faith in yourself? Those were kind words, but I knew my history with my magic. Recent events were a fluke, not the norm. I hear you, but Im telling you my magic is not responding right now. Sorry to hear it. You got any better ideas than our knives, because it feels like were running low on options? I wracked my brain as I ranted out loud. Taneisha gave us plenty of supplies, but no weapons beyond the utility knives. She billed
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a situation where the speaker and Franc are facing a minotaur, and the speaker is worried that their magic will not work. Franc encourages the speaker to have faith in their abilities.

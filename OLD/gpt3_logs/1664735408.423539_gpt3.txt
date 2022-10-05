@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: lost in this odd maze within a maze? I jumped to my feet and began pacing. But what can we do? Nothing. Its out of our control. They dont call fae fickle for nothing. The whirlwind hit without warning, Marcos concerned gaze haunting me as I wondered where Id end up next. I could only hope thered be Emrys. Maybe a shower, too.    A Matter of Time Emrys I awoke with a start. Sera lay curled up against me, her breathing ragged once again. Shh, little mage. Youre safe. I ran a hand down her arm, then her hip, following the lines of her sleeping form. She sighed, then her breathing quieted. Even unconscious, shed seemed to take comfort in my touch, which I took as a sign that the faes spell would eventually lift. I couldnt tell how much time had passed since the minotaur and wraith had fought, but Id slept twice, awakening each time with the moon still directly overhead and the skies looking like mid-afternoon. One day? Two? It was impossible for me to know. When Taneisha had initially fogged us, all the others had passed out. Id run to Sera, fearing for her if the minotaur returned. Nothing Id done had awakened the mage, but Id stayed by her side. I could do that much for her, at least. Hunger gripped my stomach, but I paid it no heed. I propped myself up on an elbow, again looking around at the four hedge walls surrounding us. Since the fog had dissipated, Id found us alone, encircled by the walls that now served as our prison. Id walked them repeatedly,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist wakes up to find themselves in a maze, with no recollection of how they got there. They are accompanied by a sleeping Sera, who they hope will eventually wake up and help them escape.

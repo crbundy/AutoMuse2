@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: side of me, and breaking the spell of the moment. What do you two think of this turn of events with the orchid lady? Odds are, shell demand payment too. I assume you guys have your wallets handy? I asked. Emrys ran a hand through his hair. This could get expensive. Theres only so many favors I can hand out. You mean before your family takes note. Does your mom keep a list of every outstanding debt? Marcos asked.  As a matter of fact, grandma does.  Ouch Oh, you dont want to chap her hide. Shell put you in the ground for a few months to teach you a lesson, I said, intending it as a joke. When Emrys blanched, I regretted my words. But then he forced a smile and barked out a laugh. Whats a little resurrection between friends and family? Marcos shook his head. Thats fucked up, is what it is, man. You guys are really smooth with the ladies, Caden said. Yet despite your poor form, youre still monopolizing the lady. I really should take notes. I glanced back, watching Liam and Caden walking side by side behind us. You cant monopolize a person. Despite Cadens snark, Liams brooding attention was all over me. Shivering under the intensity of his focus, I refocused forward.  Not all of us can rely on demonic persuasion to get things done, Em quipped back, flashing me a smile full of overconfidence. Some of us have had to work on our charm. Not that Id call it work. He winked again. I rolled my eyes at Emrys. You were definitely more charming before
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes three friends walking and talking. They discuss a woman they know and joke about her possible reaction to a favor they did for her. One of the men, Liam, is described as brooding and intense.

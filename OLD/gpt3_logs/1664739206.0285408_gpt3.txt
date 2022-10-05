@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: words faded as a half dozen wolf shifters entering the alley behind us, walking on padded feet, hackles raised. Youre not going anywhere, Greyson declared. We werent leaving, Sera replied, addressing the newcomer wolves. Theyd penned us in. In front of us we had the parking lot with Greyson, his friends, and Officer Bouchard. From behind in the alley we had the wolves, who were growling and pacing.  Seras hands sparked up with the green glow of her mage fire, illuminating the brick walls of the surrounding alleyway. The wolves keened and backed off a few paces, but didnt leave. Her fire sputtered and flared, and then fizzled out. I wondered, if pressed, what magic Sera could muster in this moment. But that was a topic for another time. Right now we just needed to de-escalate things. Everyone, just keep your cool, I said under my breath like a prayer.  Officer Bouchard got off the phone, tucking it into her jacket, shaking her head. That was Jasper. He said you paid for the Eye, she said to me. We did, maam. Well then, that settles that part. Greyson, Bouchard said, Im not finding your trash on them now. Can you prove they broke into your office? Greyson planted his hands on his hips. No. Jonesy found it locked, and the lock wasnt damaged. What harm are you claiming this Emrys fellow caused? Officer Bouchard asked. He took my trash, which was full of remnants of pixie dung! he said, as if that should explain everything. Which, if true, they dont
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A group of wolf shifters corner a woman and a man, who are saved by a police officer. The officer scolds the wolves and tells the man and woman to leave.

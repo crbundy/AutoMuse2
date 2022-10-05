@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: your revelers. Im going with you, Liam added, to which Em grudgingly nodded. We need to stick together, I pressed. Were stronger together. Em and Liam didnt argue, but I could tell I hadnt swayed them. I assure you; Sera is safe from the fae and the revelers. Youre so certain of that? Em asked me. I hesitated only a moment, my gaze flicking to the blood trail the revelers had left. It was enough that Em noticed and arched a brow my way. Shes powerful, I continued. More than any of us even realized. Tonight, Sera tapped into something within herself that she didnt have access to before. All the more reason she needs us, Liam said.  Liams puppy dog inclinations were really grating on my nerves, but I couldnt say that out loud. We need to trust Sera to follow her process. Besides, if she were here, shed tell us to never split the party. Split the party? Marcos asked. Its a gaming term she used once, I explained. Cool story, bro, Em replied, shutting down the conversation. But with Sera gone, the partys already split. Ready? he asked Liam. Liam looked at me and Marcos and then nodded to Em. Right behind you. Em and Liam walked off without a backwards glance. Were they right? Should we all head after Sera first? No. I trusted that Sera, empowered with maenad energy, could manage the revelers just fine. I needed to unravel the faes knot. That was the path toward freeing all of us trapped within Velvets walls.  I hated to see us split up,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a discussion between four people about what to do next. Two want to go after a missing person, while the other two want to stay and deal with the creatures that took her. The latter group wins out, and they all go their separate ways.

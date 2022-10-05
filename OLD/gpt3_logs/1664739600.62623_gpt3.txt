@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: raison d'tre, went beyond the pale. The fae would pay. I added her transgression to my mental ledger, took a deep breath, and then shifted gears. Now was the time to solve the problem at hand, not plan my retribution. Thered be time for that later, after wed won back all our legacies. When Taneisha materialized next to my caged mask on that pedestal, my anger flared despite my best intentions. I tamped down my reaction and held my tongue. The last thing I needed to do right now was goad her into making things worse for us. Well, hello, bacchants! Taneisha exclaimed. I trust youre enjoying the party? To my surprise, the fae was still wearing that simple black jumpsuit. This stood out to me as every time wed seen her previously, shed shown up rocking a different outfit. Was she losing her edge or busy with something else? Were I started, but then Emrys stormed up to the fae, side stepping around me and getting right up into her face.  Send Sera home. Now, he demanded. Taneishas ever smug smile faltered. She craned her neck around Emrys, taking in the rest of us, and then she gazed around the club. When she looked down at the caged mask beside her, her jaw dropped in shock. Who the hell slapped a geas on my box? Not exactly the type of confidence-boosting reaction you hoped for from your scheming captor. Sera sashayed up, arms crossed, a spray of chaotic magic trailing her steps across the black floor. I couldnt help but appreciate the way those stilettos
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The fae Taneisha is surprised to see a group of bacchants, including Sera, at the club. Emrys demands that she send Sera home. Taneisha's confidence is shaken.

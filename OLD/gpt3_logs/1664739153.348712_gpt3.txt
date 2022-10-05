@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: a blissful nights sleep, you see. Youd trade foreseeing threats for restful sleep? Emrys said, his voice incredulous. A moment later Seras foot came down on his, and Emrys froze, biting his lip.  Atta gal. I liked her style. Hell, yeah, Jasper shot back. I can tell you dont appreciate proper sleep, son. If I had that bloomin orchid, itd be bye-bye restless legs. Bye-bye nightmares. Id wake up every day refreshed and perky. Now thats worth a million dollars. Or, one Eye, as it were. Sera held out her hand to Jasper. One Altruscan orchid for the Eye of the Tiger. Deal? Jasper didnt hesitate. He took Seras hand and gave it a firm shake. Best of luck, little lady. Youre gonna need it.   More Like a Swap Meet Sera As I walked in the nursery's direction with Marcos close by my side, I couldnt shake the thought that something was off with my magic. Like, more than normal. Extra special off. My power was straining at the seams, the sensation of micro-sparks of electricity buzzing against my skin, occasionally peaking to shooting pain. It made sense, because I hadnt had my daily wear myself out session at the gym, and yet this felt like more. Something new was going on. I just had to figure out what. At least I hadnt needed to make a magely display of power. So far. No doubt Taneisha was behind my magic being off balance. Shed kept me here for a reason, I was sure of it. But why? Id have to figure that part out later. I couldnt help scratching my shoulder
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist is walking through a nursery with her friend Marcos when she has a feeling that something is off with her magic. She wonders if it has something to do with why her friend Taneisha kept her at the nursery.

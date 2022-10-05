@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: fail on your quest. Franc let out a yell, launching himself toward Taneisha, but Caden and Liam blocked him.  Its not the answer you want, Liam said. But we cant get out of the game without sacrificing Emrys and our icons. We push on. Theres no other option. Well, no other option were willing to live with. Franc struggled, even as the words hit home. When he quieted, Liam and Caden let him go. He was the first to grab a bag and walk through the door. One by one, we each followed him. Have fun storming the castle! Taneisha called out after us as we walked through the trees portal door into our next adventure. THE END * * *
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of friends who are playing a game. They are about to embark on a new quest, but their friend Franc is hesitant. Liam and Caden convince Franc to go along with the quest, and Taneisha calls out to them as they leave.

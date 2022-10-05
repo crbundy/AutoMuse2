@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The same one the guys had just arrived through a few moments ago. The dark cloud coalesced into a human shape.  My shape, but wrong. Black eyes. Black nails raised to attack. It even bared blackened teeth in a wild, angry snarl. The minotaur hit it going full speed, spearing the newly formed body with his massive horns. The beasts speed carried them forward, inevitable as a freight train. An additional threat should have shocked me, but it didnt. I was pissed because it looked like me, but me as some sort of dark phantasm. What the fuck is that? Definitely not you, Franc replied. Another trick of Taneishas, no doubt. What do you want to do? Em asked. We wait and see who wins, I answered, waving Marcos, Liam, and Caden over to our spot on the far side of the garden from the fighting monsters. Then we only have to fight the victor.    Confessions and Complications Liam The minotaur plowed into wraith-Sera at full bore, sending them tumbling head over tail over miasma. The wraith shrieked. The minotaur roared. Marcos and I stayed low as they tumbled past, a flurry of movement and grunts. My wolf howled inside my chest. I needed to get to Sera. Hold her. Reassure myself that she was okay. That she was mine. A flower-petal and dirt covered Caden reached us a few moments later. Whatd I miss? The wraith-Sera followed us here, Marcos explained in a whisper. We need to fall back while theyre occupied. Ready? I asked Caden. He scrambled up into a squat and gave
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The guys had just arrived when they saw a dark cloud that coalesced into a human shape - but it was wrong. The minotaur hit it, sending them tumbling, and they all waited to see who would win.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: go well, which I knew hed seen for himself. When I touched some with my powers, theyd devolve into madness or a wild hunger for flesh, but that was a rare thing. Now, with each wobbly step Marcos took, my fear for him grew. I noted he hadnt said no outright.  Is everything okay? Liam called out from the other side. I can make it, Marcos called back, but I heard the fear in his voice. Ive been dragging since falling into the river. Ive noticed. Well figure out a place to rest soon. But right now, we have to get across this traverse. I can go light with my push and we can manage the fallout, I reassured him. Sera hadnt yet reached the other side, but I worked my way out onto the ledge, following in the movements Liam and Sera had discovered along the way, intent on reaching Marcos before he slipped. Do you agree?  If the headstrong panther shifter didnt accept my help, I wasnt sure what I would do. Marcos was moving so slowly, I easily caught up to him. When his foot slipped on the scrabble beneath his shoes, I was close enough to grab him by the backpack, pulling his weight back against the wall. We both panted from the exertion and stress of the near-fall, and me from rushing across the wall. Marcos skin was pale and sweat poured off of him. I feared what would happen if I let go of his pack. I leaned closer, getting up in his face. I had to get through to him, or we might not be so lucky the next time. Just a little boost, enough to fill you with the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a situation where the protagonist is helping another person across a dangerous ledge, and worries that the other person may not make it if they don't cooperate.

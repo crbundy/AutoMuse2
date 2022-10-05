@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: out the rover. Emrys yelped, pulling his hands away from the controls. It shocked me! I dont actually think the kraken are a myth, Liam replied.  Emrys just rolled his eyes at him. Dont you start. Theres no recent evidence, so they might as well be a myth. The technician emerged from his lab cave to talk with us, catching that last bit of conversation. His nametag read Greyson. Living in a predominately supe community, I figured he was a shifter too. Its ironic to hear a supe dismissing cryptids. Just because theyre in folklore doesnt mean theyre real, Emrys replied. Whats with the shocks? Greysons brows rose, and he seemed taken aback. Folklore research has long been a standard for discovering the long-forgotten supernatural truths of various cultures. And the shocks are haptic feedback I thought made the experience more real. What do you think? Emrys frowned at him. I could do without it. Ah well, to each their own, Greyson replied. Was that a real pixie? I asked, endeavoring to build the conversation with the tech. We needed to know as much about pixies as possible if we were to complete this stage in the faes puzzle. Greyson gave me a double-take. No. No, of course its not real. The pixie figure you see is illusory. Wed never endanger a real pixie or force one into confinement. Oh, I mean, of course not, I replied, smiling over at him. Then I continued, hoping to stroke his ego and get him talking. Youre here to protect them, not
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a conversation between three people. Two of them, Emrys and Liam, are discussing cryptids. Greyson, the third person, is a technician. He tells them that the pixie they are seeing is not real, and that they would never hurt a real one.

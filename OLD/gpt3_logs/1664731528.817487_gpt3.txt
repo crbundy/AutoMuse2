@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: know, is your intention to kill us? Sera asked.  Taneisha tilted her head to the side, pursing her lips. Did she actually not know, or was she fucking with us? Youre very welcome, and I dont think so? I mean, maybe? She shrugged her shoulders. Just a little? Could we get your assurance that none of us will die? Sera pressed. Oh, Taneisha frowned. You mean all of you? Yeah, I dont know if I can promise that. I sighed. Maybe Tink was a psychopath? But, you like me, right? Sera asked.  Taneisha smiled. I like you plenty, you clever and funny girl, but get to your point. Okay. Do you want me to die? No, of course not. Im relieved to hear it. Would you grant me a teeny, tiny, boon? Taneisha crossed her arms again, her brow furrowing. Maybe? What do you want? I need a safe place to sleep and rest before we deal with the Anzu. Im not asking to put off the showdown or otherwise skirt your rules. I figure, just like you gave us those handy backpacks, you could throw in some shelter. Could you make that happen? I can do anything I like, she snapped back. Taneisha bounced her foot, tapping her barefoot toes against the ground. But like, youd take them with you, right? If I help you, and it benefits the posse Well, do you see my conflict? She said that as if we werent even here, listening to every word they said.  Sera shrugged, as if her plans shouldnt even matter to the fae. We all knew making the posse suffer was at the forefront of Taneishas
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a conversation between two characters, in which one asks for a favor from the other. The second character initially refuses, but eventually agrees to help.

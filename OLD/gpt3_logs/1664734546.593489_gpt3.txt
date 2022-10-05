@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Theyre in a small clay jar thats glazed a dark purple. If its still in one piece, itll stand out, I explained. Another minute of frantic searching passed before Liam let out a short yip. He scratched at a tangle of feathers and then sat down next to it.  Sera was right there, pulling branches out of the way before extracting the purple jar I knew by shape alone. This it? I rushed to them, taking the jar from her outstretched hands. Yes! I exclaimed. I shook the jar, hearing the telltale rattle of the seeds inside it. Then I opened it, pouring the contents out into my hand. The seeds were black as night, so potent and powerful I could feel waves of demonic energy pouring off of them. I quickly shoved the seeds back inside and sealed the lid tight. Oh yeah, its them. Wait, will Taneisha consider this stealing? Sera asked. She said the Anzu stole from her, so I hope turnabout is fair play? Well have to hope. Franc clapped me on the shoulder. Then lets get out of here before it gets back. Theres a magic to summoning trouble, and the key element is always that full-body feeling of relief when the finish line is in sight. Which is why I wasnt surprised when the sound of wings barreling toward us, followed by an angry screech, rang out overhead. Shit, Franc yelled.  The Anzu appeared with a sudden thwack as its full weight at speed hit the nest; the impact causing the wood beneath his clawed feet to crack and shatter. He was naked except for the coating of
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people finding and taking a jar of black seeds. They are then chased by a creature called the Anzu.

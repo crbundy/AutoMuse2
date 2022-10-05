@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: clapping Marcos on the shoulder. At least its out now. I know. No wonder it hurt so much. Hey, big guy, Sera whispered in my ear. You can let me go. Im real and Im not going anywhere. She didnt push me away. Instead, she kept running her hands down my back, seeming to understand how much I needed her reassurance. Youre pretty shaken up. Is there more to this than a twisted wraith? I breathed in her scent deeply once more, and then finally released her. I needed Sera beyond words, but it would have to wait. Not just because she hadnt asked to be claimed, or that we werent alone. There were still the minotaur and wraith to deal with. I took a step back, trying to regain my composure. The motion of the creatures continuing their fight caught my eye, but they were still on the far side of the garden and caught up in their own drama to even take much notice of us.  The fake Sera really upset me. Im mostly upset with myself for not realizing she wasnt you, although in retrospect my wolf knew something was off. But this could have happened with any of us. And I guess it just messed with my head. I dont know what Id do if something happened to any of you. Youre my oldest, closest friends. Saying it out loud, I felt like Id exposed my vulnerable underbelly. Yet every word was true, and I needed them to know. All of them.  You cant get rid of us that easily, Caden replied, shaking his head. Flower petals and grass showered off of him as he moved. He
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Caden and Sera are talking about the fake Sera. Caden is upset with himself for not realizing she wasnt the real Sera. He says that if something happened to any of them, he doesnt know what he would do. Sera reassures him that they arent going anywhere.

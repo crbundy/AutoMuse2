@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: any form of stimulation, even if it was a fae I couldnt stand. Hows my prisoner? she asked, arching an imperious brow. While she had a grace and glamour few others could hope to emulate, Id always thought of her as aloof. Too stuck up for the rest of us. Despite her beauty, there was nothing attractive about her, and I found her polished appearance repellent. How long do you plan to hold me here? I asked.  I had to get out, but how, when this was yet another reality this fae had constructed? My Isis-lineage magic gave me influence over healing and insight, but so far, I was at a loss over how to strategize my way out of her enchantment.  Perhaps I could charm my way around Taneishas grudge? She shrugged, a slight smile inching across her face. It depends on your posse and the mage. Once they find Cadens seeds, Ill return you to them. And if they dont? I had to know. Would she keep me here forever? Could she? Her gaze dropped, like she didnt want to admit the answer. Lets hope they do, Emrys. Anxiety needled through my chest. What wasnt she telling me? You have no right to hold me here, Taneisha. What is this place, anyway? Its a penalty box. I crafted it with you in mind. That wasnt ominous. Not at all. It feels more like a sensory deprivation chamber, I replied. A shiver that ran down my spine. Was she just trying to make me sweat? Freak out?  Thats exactly what it is, she said, pursing her lips. Knowing you, I figured youd never be able to
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The fae Taneisha is holding the narrator prisoner in a 'sensory deprivation chamber' called a 'penalty box', which she crafted specifically for the narrator. Taneisha plans to release the narrator back to their 'posse' once they find 'Caden's seeds', but the narrator is anxious about what Taneisha is not telling them.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: them on its mountaintop. How hard is it to kill? she asked. I dont think we can. I mean, its killed in multiple myths. Sometimes by gods. Sometimes arrows. So, its possible, but it always comes back. So, its more like a phoenix? Franc asked. Maybe? Look, history lessons were never my strong suit. What was? Marcos said under his breath, just loud enough for everyone to hear.  The panther and I had never been close, but in the years since attending Goldenbriar academy together, wed drifted even further apart. He wasnt wrong. Id never been a strong student. Considering that he worked security for Francs club, where I regularly brought trouble through the door, there was bound to be friction between us.  That attitude doesnt help, Sera said, shutting Marcos down. I could hear the exhaustion in her voice. Were here to retrieve Cadens legacy and save Emrys. Can we all agree to set aside differences and focus on that goal for now? We hit a switchback and turned with the path. The turn was steeper than the straightaways, so we all quieted with the added exertion until wed rounded the bend. Im sorry, Sera, I cant just let my concerns around Caden go, Marcos replied. You havent been around our posse for a while, but things arent as simple as they were back at the academy. Were not the same tight-knit group from back then. I wouldnt expect that from any posse, especially not a group of supes, she replied, shaking her head. Lets get our cards on
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage describes the tension between two characters, Marcos and Sera. Marcos is critical of Sera because she is not a strong student and has not been around their group of friends (a "posse") for a while. Sera is tired and just wants everyone to focus on their goal. The passage ends with the two of them disagreeing.

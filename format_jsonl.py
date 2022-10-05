@@ -16,7 +16,7 @@ for file in files:
     data.append(info)
 
 
-with open('novel.jsonl', 'w') as outfile:
+with open('novel_rh_long.jsonl', 'w') as outfile:
     for i in data:
         json.dump(i, outfile)
         outfile.write('\n')

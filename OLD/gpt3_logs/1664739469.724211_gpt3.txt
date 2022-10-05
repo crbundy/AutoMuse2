@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: place. Since its your legacy, I assume youll have a clue where we are. What do you know about this mountain and this mystery thief? I ran a hand through my hair, but the black strands fell right back into my eyes. The landscape here is pretty bleak. Not much grows or lives in the demon realm, and what does Well, youve seen a sampling. Anything that can make it here has a bite. Some of us more than others, Liam replied. He was walking in front of us but turned back and flashed a smug smile that said, bring it on. And why not? He and Marcos had proven their abilities in the fight last night against the ghoul. Anyway, I continued. I chose not to take Marcos remark personally. I knew I wasnt much of a fighter, although I could hold my own in a scrap when I had to. I was a lover, sustaining myself by feeding on lust and desire. But those, too, could be weaponized. Theres an ancient myth about this mountain, specifically the tallest mountain in the Netherworld. They say a creature named the Anzu lives in dominion here above all others, answering to no one. Its half bird, half man, and all demon. How strong is it? Like, an immortal, or does it just have a super high constitution? Sera asked. High constitution? Was that a mage term? Pardon? Sera shook her head. Never mind. What else can you tell us about the Anzu? I racked my brain for details about the ancient creature. The monster has power over the wind and thunder. It likes to steal things and hide
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the Anzu, a creature with power over the wind and thunder that likes to steal things and hide them.

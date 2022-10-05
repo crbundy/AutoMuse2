@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: of time had passed since then. Old rivalries and a natural drift from spending less time together had worn at their once sure bonds. Did they have it in them to come together and plow through Taneishas challenges successfully? So far, it wasnt looking good. Im in, Sera said, walking right on up to me, not sparing a single glance towards Franc. Despite being surrounded by a group of alpha males, Sera took control of the situation, seeming to feel no need to ask any of them permission. But why would she? As a mage from House Lowe, no doubt she was more powerful than any of us. Maybe even more powerful than all of us combined.  She slid her arm through mine, pulling on my jacket and tugging me along beside her. Lets go.  I didnt look back at the others. I loved the feel of her body leaning against mine and the confidence with which Sera carried herself. I felt my panther fall into step, vigilant and focused, his purr rumbling through my thoughts.  Sera glanced up at me, frowning and smiling at the same time. Are you purring? That flirty look from her, and I felt my blood rush south. Yeah, I was purring in more ways than one. A smile tugged at the corner of my mouth. Only on the inside. You always kept things close to your chest, she chuckled. Tell me more about Golden? I didnt want to dwell on the past, but I understood Sera was trying to dig into Taneishas motivation in picking this location, so I relented. I grew up here until I turned thirteen and my mom
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people preparing to face a challenge, with one member taking charge. The person narrating the passage is attracted to this leader. They reminisce about their childhood before being interrupted.

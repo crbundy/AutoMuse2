@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: yet overcome with the faes magic. The tall, broad shouldered blonde man didnt say a word, instead cast a brooding look at Sera in a way that instinctively had me wanting to knock him down a notch. I suspected there was some history between them, but as long as he behaved himself, Id leave well enough alone. After all, we had bigger and more fae fish to fry at the moment. Em, Caden, and Liam emerged from around the trees behind us, and wordlessly stepped up into something of a semi-circle surrounding Sera. It wasnt exactly a threatening posture, but it wasnt exactly not, either.  Beyond Seras simple greeting, our mage stood still as a deer in the headlights, as if she were waiting for divine intervention to save her from the inevitable impact. I recalled Sera sharing her history about living in isolation from the supe community and figured she was worried about what they might tell her family. Surrounded by us, surely she knew she had nothing to fear from these other supes? Not with the posse by her side. But Taneisha had proven to us with her illusions that shed go to great lengths to mess with our heads, so we needed to play along and figure out this puzzle. That meant figuring out what part these newcomers might play into the faes game.  Someone had to break the tension, so I stepped forward, placing myself between the newcomers and Sera. Im Franc Lyaeus. And you are? The black-haired mans eyes lit up in recognition of my name, and he dipped his chin out of
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a scene where a group of people meet some new arrivals. One of the new arrivals is a tall, broad shouldered blonde man who looks at one of the other people in the group, Sera, in a way that makes the person writing the passage want to knock him down a notch. The writer suspects that there is some history between the two of them. The new arrivals are surrounded by the group in a semi-circle. The black-haired man introduces himself as Franc Lyaeus.

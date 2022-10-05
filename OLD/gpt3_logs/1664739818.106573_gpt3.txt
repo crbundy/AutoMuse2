@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: last one. We passed through two more without problems before emerging into a section where the row was open straight ahead of us. Finally, Franc breathed out. Itll be nice to see further than a foot ahead of us for a bit. As if invoked purely by Francs words, we heard a lowing roll through the air, followed by a not unfamiliar stomp to our left. Run! I yelled.    Coming into Focus Sera A sudden crackling noise startled me awake. Whats that? I whispered.  Em pulled me close against him. Im sure its nothing. For a moment, I hoped he was right, but then the sound came again. Twigs breaking. A shaking of the ground. Voices I didnt recognize. Hmm, no such luck. Look. Emrys pointed to a spot on the hedge wall surrounding us. I sat up, pulling myself away from his warmth. Its open! We should go, Emrys replied, gathering the clothes wed scattered around us, handing me mine. We threw on our clothes, our focus on the sound of the ruckus out in the maze. Do you think its the others? I asked. A roar sounded through the air, stilling my movements. If it is, they arent alone, Em replied, holding my bag out to me. Hurry. I grabbed the backpack and threw it over my shoulders, following Emrys to the opening into the maze. I looked in all directions but noticed nothing other than hedges. See anything special? He shook his head. Which way should we go? We had three options: left, right, and straight ahead. My default has been to stick to the right, I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a moment when the protagonist wakes up to a noise and realizes that there are people outside of the maze they are in. Emrys tells the protagonist that they should leave and the protagonist grabs their backpack before following.

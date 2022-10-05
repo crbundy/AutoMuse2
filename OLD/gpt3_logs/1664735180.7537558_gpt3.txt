@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: revelers, but as Seras eyes cleared, I knew she was coming back to earth. Some revelers near us sank to the ground, and I knew the tide was turning in our favor. You are awesome, my mage turned maenad. An inspiration, truly. But right now, I need my mage back. She opened her mouth to argue, but I cut her off. This state, this intensity, its for visiting. Its not meant to last. But as her clarity returned, Seras bliss state faded. She looked around us, now shocked at the blooded revelers.  What are you doing, Franc? she asked, panic etching her features as her mind cleared. Its just a little nap. I dont even think itll last long once Ella stops signing. Oh, my. I remember all of this. And that, she said, pointing to Liam and Emrys. Emrys waved. Liam had fallen asleep. Youll be fine, although the energy hangover can be a doozy, I explained. Sera cocked her head to the side, and her gaze narrowed on me. Wait. I wont let you do this.  I told you, I reassured her, these things arent meant to last. Explain it to me, she demanded.  I felt her power rising again under the surface. Sera reached out her hand and called her staff to her. It flew toward her, and she caught it with strength and grace, pounding it down with a force that vibrated the ground. The resonance reverberated, and a moment later, the cuffs on Emrys and Liam clicked, falling open. Emrys went to Liam, whod slumped sleepily to the ground under the influence of Ellas siren lullabies.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a scene in which the speaker's friend Seras, who has been in a blissful state, is coming back to reality. The speaker explains that this state is not meant to last, and that the energy hangover can be tough. Seras then uses her powers to release Liam and Emrys from their handcuffs.

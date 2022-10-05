@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: rose to his feet, hooking his backpack over his shoulder. If Liam wasnt careful, he was going to earn some wrinkles just worrying over me. At last, I found words. Nothing. It was nothing. Marcos set his hands on his hips, his expression filled with a mix of admiration and humor. Our quirky little mage faced off with Taneisha. Told her shed had enough and said if the fae allowed any of us to die, Sera would sic her entire mage family on her. Taneisha accepted, so were all under Seras, and by extension the Lowes, protection now. Caden, whod been sorting through his bag, pulled out some fresh clothes. Brazen as ever, he stripped down to his boxers before pulling on his pants, his form fitting briefs leaving little to the imagination. Aw, it sounds like were finally growing on you, he said to me as he zipped up his new pleather pants. It did not surprise me that the demon would wear the bold choice, but I wondered why Taneisha made the choices she did when selecting gear and clothing for our bags.  Timing really was nine-tenths of humor, and by the bulge in the front of his pants, I had no illusions about what was growing on Caden. I couldnt help but laugh. Caden mocked being offended, holding a hand over his heart and pouting. Liam tried to hide a satisfied smile and failed. He walked over to me, and when I rose with my bag in my hand, he was right in front of me. After the initial discovery of the marks on my shoulders, the marks hed claimed were mating marks,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Liam and Marcos are worried about the Mage, who just faced off with Taneisha. Caden is brazen as ever, and teases the Mage. Liam then claims the marks on the Mage's shoulders are mating marks.

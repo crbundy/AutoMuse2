@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: of mage fire. The river was easy enough to keep an eye on, as there werent many trees on the hillside to block our view, and the mage fire illuminated everything. We made it to the first switchback when a crackling, popping sound filled the valley. A ghoul had entered the river, and a white-hot nimbus surrounded him as he caught fire. The fire churned and popped around him, exploding, spreading streams of mage fire sailing through the air, well beyond the banks of the shallow river. Wherever the fire landed, it spread like napalm, burning, and spreading of its own accord, feeding on any flammable material in its path. Despite the fire, the ghoul kept moving, resolutely crossing the river. When it reached the other side, it emerged as a flambeed ghoul, filled with everlasting, pink-tinged mage fire. Well, fuck, I whispered. Is that how its supposed to work? Franc asked. Nope, thats a whoops, I admitted.  Lets keep moving, Marcos replied. We all started moving again, but we couldnt help but watch the ghouls below. How long will it take for the fire to destroy it? Caden asked. Would it end them? Mage fire destroyed almost everything. But that ghoul looked to be doing just fine. Damn my magic! Im really not sure. Mage fire will burn about anything, so I figured it would destroy them. I admit I dont have any experience with ghouls. The ghoul who made it across hooted back at the others, who followed the first creature into the river of fire. The second ghoul,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A group of people are moving through a valley when they see a ghoul cross a river of mage fire. The fire does not seem to hurt the ghoul, and more ghouls follow. The person narrating the passage is surprised that the fire does not destroy the ghouls.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: steps closer to me, again getting up in my face. Im over your mysterious and unstable magic. I could see the pain in Francs face and his distrust was palpable. Youre going to need to come clean with us, mage. I want to know why the river was so attracted to you. The pain in his eyes kicked me in the gut. Marcos and Liam knew about my magic, but my unwillingness to explain to the others had endangered them. I nodded. I will. I swear it. The ferry came to a stop with a jolt as it hit the shore. Relief washed over me as we disembarked, the ferryman paying us little to no mind. Every step away from the river lowered my anxiety. When we stopped to look back, the ferry and the ferryman had disappeared.  The effect of my magic remained visible on the surface of the water, which was now uncannily still. A network of lightning, electric fire, pulsed across the surface, the magical energy continuing to spend itself. Then as I watched, the network of capillaries flashed a bright purple light, and split open, oozing out upon the surface. Its as if the color black rotted and oozed, and then got even blacker, Liam said. That cant be good, Marcos said, voicing what we were all thinking.  The threads of blacker than black ooze moved across the quicksilver surface of the water, shuddering like worms caught in puddles after a sudden rain. Which is why we need a full explanation of your magic, Franc said to me. For now, lets get away from whatever fresh hell is unearthing
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage describes a scene in which the character's magic has caused a river to become black and ooze-like. The other characters are demanding an explanation for the magic, and the character agrees to provide one.

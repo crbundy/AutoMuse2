@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: playing across his lips. There was an ease in his movements that hadnt been there a moment ago, and a glint of humor in his eyes. Which is weird, considering the magic here exists to release inhibitions. I shrugged it off. Ive worked at Velvet for so long the magic doesnt hit me the same way. Im not sure if its Franc giving me a pass or the club itself recognizing that Im here to protect it and the people inside. Liams smile faltered at the note of caution in my words, and he looked back out over the crowd, as if he could find whatever was unsettling me. Franc arched a brow at me, making out our conversation despite our quiet voices. Maybe its both? Youre telling me you dont know? I shook my head. My panther ached to get out and pace, but I held him in check. Franc just shrugged. I didnt believe he didnt know. He controlled every aspect of the magic in Velvet, so he had to know. Then again, maybe he didnt know this time around with Taneisha messing with the club. That thought didnt help settle my nerves one bit. Caden walked up to the black curtain and poked his head inside. Maybe youre just dull, Marcos? he jibed, not even looking back at me before letting out a low whistle. Shit, its a lively crowd tonight. A hungry crowd. Liams wolfish voice spoke directly into my thoughts. His words rang true, a sense of disquiet lingering in my gut, knowing he might pick up on the same thing. Its all perfect, Franc purred. He stepped away from Sera and
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a club where the magic makes people uninhibited, and the protagonist wonders if it's the magic or the club owner that is making him feel at ease. His companion jokes that maybe the protagonist is just dull, and the protagonist agrees that there is something off about the crowd tonight.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: wasnt how I figured that would end. Right? Sera replied with a shrug. Do you think the minotaur is dead too? Hold on. Francs focus on the fallen beast. You guys missed this, but Em can somehow see the mazes illusions. Its how we found the path that led to this garden. Neat trick, Caden replied. What do you see, Em? The demi-god of Isis stood there quietly, arms crossed. Em was the picture of calm and poise. Only problem was, thats never how anyone would have described Emrys Tedros. He was missing the spark unique to his spirit, that spark of irritating but confident, eternal playboy. Even his gold-toned skin had paled. What all had Taneisha put him through, and how long would it take Em to rebound?  When Em spoke, his tone sounded almost bored. I see a minotaur lying on the ground covered in black dust. I could get closer to see if Im missing anything? No, not yet, Sera said, smiling encouragingly at Em.  Do you think we should try to escape? I mean, in case it wakes up, Id rather be gonzo, Caden said.  I agree, Franc replied. If we stick to Seras plan of following the right-hand path, we should exit on the path you guys arrived from. Easy enough, we just need to circle round the minotaur. Lets go. Sera led the way, making a wide arc around the minotaur toward the exit. Sera turned back to me. Thank you for sharing about your family and the fire. Yeah, Liam, that sucks. I wish wed known, Franc said. He stepped close and pulled me into a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The group discusses what to do now that they have killed the minotaur, and decides to try to escape. Sera leads the way, making a wide arc around the minotaur toward the exit.

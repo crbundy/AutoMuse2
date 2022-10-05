@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: family relic, theyre the last magical remnants of the original huppulu tree, Caden explained. They belong to my Granny Lily, who will probably skin me alive when she discovers theyre gone. Caden didnt look like he was joking. How important were these seeds? Is that a metaphorical or literal skinning? I asked.  The look he gave me confirmed the latter. I shuddered. We needed more than plans A through C if the situation were that dire.  Why would your old Granny kill you over seeds? Are they for growing a beanstalk into another realm? When Caden replied, his voice was low. No. When the huppulu grows again, Granny will carve a throne out of it to rule from. Rule what? Liam asked, his brow creased in a way I was beginning to consider dashing. The Netherworld? Caden shook his head. No. Everything. There was a moment of silence all around, and I suspected I wasnt the only one trying to figure out if Caden was joking.  Marcos burst into laughter, breaking our silence. And you stole grannys sacred pearls? You got a death wish?  Caden raked a hand through his hair, the anxiety hed been trying to play off this quest finally rising to the surface. It seemed like a low-risk proposition at the time. I could show off a family legacy with no one missing it for a couple of days. I hadnt counted on us being manipulated by the fae or going on this joyride into hell. Hey, at least if Granny doesnt kill you, you can fall back on your drug trade and partying it up with
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Caden has stolen some seeds from his grandmother, who will kill him if she finds out. The seeds are from a magical tree, and Caden plans to use them to rule the world. His friends think he is joking, but he is serious.

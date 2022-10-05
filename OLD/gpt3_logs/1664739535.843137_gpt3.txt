@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: I keep pretending everythings fine, but I just cant anymore. I need to get everyone together to go over my plan. You know were all here to help you, I said. Do you mean a plan to get back your legacy from the Anzu? I stepped out of the shower and dried off before slipping into a change of clothes. He nodded, wrapping a towel around his middle, which on him was downright indecent. Before I came in here, I was studying the map. I know what we need to do to defeat the monster. A couple of minutes later, the shower was off and we were all seated on the couches with the Netherworld map laid out on the table between us. Well, everyone but Caden, who paced back and forth at one end of the couches. Id sat down next to Liam, while Marcos and Franc sat across from us.  I was certain both Liam and Marcos knew what had gone down in the shower, more or less. Liam had a contented smile, as if everything was going to plan. I supposed it made sense because the wolf was convinced we were all fated to be together, however improbable that reality was. Marcos, however, looked sullen and out of sorts, his frown a clear sign of his discomfort. Was he upset because he didnt trust Caden, still in pain from the injury to his leg earlier, or disappointed because we had left him out? A little of everything? I wanted to find out what was up with Marcos, but Cadens pacing drew all of my attention.  Whats the plan? I asked. Caden stopped in his tracks, a frenetic edge to his movements.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Caden has a plan to defeat the Anzu, and he explains it to the others. Marcos is upset about something, but it's not clear what.

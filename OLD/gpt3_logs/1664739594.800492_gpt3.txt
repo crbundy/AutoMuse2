@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Velvet for the first time. All acts of love and pleasure are forms of worship. My temple is a multi-use, polytheistic space. Velvet has several adjoining spaces designed to further a persons separation from their ego, each on a different level. Oh, she replied, her mouth forming a small o. She pressed herself closer to me, and I wondered just how conscious she was of her current behavior. Well, I hadnt expected a garden either. Yeah, mon chri, take that and noodle it about in that overthinking mind of yours for a few minutes. Then Marcos earlier statement caught up with me, causing fingers of dread to claw at my chest. Wait, dont tell me the fae altered my temple? I dont mean to worry you, but yes, somewhat. I thought of a million and one epithets to add to Taneishas name. Befouler? Rotter? Taint? Not that Id list any out loud. With my luck, shed hear me and make things worse for us. I shook my head. Perhaps the damage wasnt that bad? Id need to see for myself before I could even know what it would take to fix whatever shed changed. Id never find out standing here. By now, the crowds had thinned, as many had returned to the dance floor. Ow! Sera cried out, doubling over as a wave of heat rolled off of her. Marcos and I steadied Sera as sparks ran through her ebony tresses and rolled down off her shoulders. A pair of clubbers walked past us, pointing at Sera and her magical display. Whether or not they were supes, the last thing Sera needed was people
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+In the passage, the speaker is talking to Velvet, who has just discovered that her temple has been changed by the fae. The speaker wonders how bad the damage is and decides to go see for herself. Sera, who is also at the club, suddenly cries out and starts sparking. The clubbers nearby point and stare.

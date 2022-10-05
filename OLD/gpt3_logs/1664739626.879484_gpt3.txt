@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: being away from the posse. Youll need my help to detangle the chaos magic. I agree with Em, Franc called after us. Well find another way after Seras safe and away from here. No, I looked back and forth between the two of them, but it was clear theyd made up their minds. No, you cant just ship me back home. My pleas were falling on deaf ears, but with each step Em took away from the others, the magic leaking from my hands flared more brightly. Marcos! Liam! Caden! I called out, but theyd all fallen in line with Em and Franc, leaving me no way around their decision. Em rounded the pink rope, nearing the wide-open front doors of the club. None of us will risk your death for our legacies. My vision blurred as hot, heavy tears ran down my cheeks. He couldnt do this. I needed to be here. So, youre just kicking me to the curb? Before I knew what was happening, Em lowered me to my feet and pinned me to the wall, his lips once again capturing my own with an intensity that rivaled the heat of the sun. But instead of filling me with the breath of life, this time he stole my breath away.  I almost forgot what wed been fighting over, but then he backed away, slipped his arm around my waist, and headed us straight out the door. Impossibly, we smashed into an invisible barrier, knocking us backwards and sending sparks of my magic shooting out from my hands, lighting up the space around us like a holiday light display. Caden, whod been following close on our heels,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a situation where the protagonist is being shipped home against their will, and they try to fight it. However, they are unsuccessful and are forced to leave. As they do, they accidentally create a barrier of magic that knocks them back.

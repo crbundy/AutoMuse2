@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: leaned in close. "Try to contain your greatness, princess, we're up next." I smoothed the tapestry of petals where my bodice flared out into the layered, voluminous skirt. I plastered on what I knew from practice was my most winning smile, and took a deep breath.  And then we were up. Ticket? asked a lanky man with cropped platinum hair. His eyes shone with a preternatural silver sheen, so I sensed he was some sort of shifter. No big surprise to find a shifter working bouncer duty as they were known for their brawn and ability to read people.  Jax handed the invitation to the bouncer who took it and sniffed deeply. He looked us both over, his nose rankling when he turned my way. Youre kitsune, he nodded to Jax. But I can barely scent you over that bush youre wearing, he said to me. Fae? I nodded, but I didnt appreciate his monotone sensibilities. The sacrifices we make for fashion, I snipped back. He threw the invitation down on top of a pile of others stacked on a black enameled hostess stand. I think the rosebush did the sacrificing today, he drawled. Weve got a no weapons policy. I trust youre thorn free for this event? My spirit was full of thorns for the craptastic five, but at least I could answer the bouncers question honestly. The dress is thorn and cruelty free. Wheres Marcos? I asked. Jax shot me a curious glance, but I kept my attention on the shifter. Hes got the evening off, sugar. Its his party, after all. His gruff voice was at odds
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a woman and her date arriving at a party. The bouncer, a shifter, smells the woman and notes that she is a kitsune. He tells her that weapons are not allowed and asks if she is thorn-free. The woman tells him that her dress is thorn- and cruelty-free. She asks where the party's host is, and the bouncer tells her he is taking the evening off.

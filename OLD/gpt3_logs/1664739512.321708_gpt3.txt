@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: felt like nodding, but I couldnt take my eyes off of the blood transaction happening right before my eyes. The ferryman gestured with his free hand. His platform of stone expanded, just a little, and he crooked his finger. You first, Franc, Caden said, his hand continuing to trickle.  Franc frowned, but then nodded. He stepped over the space between the riverbank and the ferrymans platform. Was it just my overblown imagination, or had tendrils of silvered water reached up towards him as he passed over? Surely not. Yet a shiver ran down my spine and my nervous energy caused a spark of purple magic to dance around my fingertips. I balled up my fists, hoping no one would notice. The ferryman gestured again, and again the rock platform expanded. You next, Liam, Caden said. Liams expression was no less grim, but he joined Franc on the platform a moment later. Caden continued to bleed. How deep had he cut, and how long would it take to heal? Why only your blood? I asked. Why not each of us individually? Im buying us passage to the demonic Netherworld, Caden replied. Youre all coming along on the journey my blood dictates. Its the only way to go together to where the Anzu lives. Otherwise, the ferryman would take you to whichever afterlife your blood calls for. I thought we were already in the Netherworld? I muttered. Caden wobbled his head from side to side. I call it all the Netherworld, but weve been crossing the mudroom to the proper entrance, more or less.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a scene in which characters are paying for passage to the Netherworld with their blood. The protagonist is surprised to learn that they are not already in the Netherworld, and wonders why only one person's blood is needed.

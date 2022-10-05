@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: wary. And why wouldnt he? How big is a maze that takes three days to solve? Taneisha pursed her lips, and then leaned in, as if about to share some juicy secret with us. Its not about size, silly. This one is all skill. Also, the rules from round one apply again. No cheating. No stealing. One three-day shot. Sounds easier than hell, I replied. Whats your twist? The fae held her hands up, doing her best wide-eyed impression of an innocent person. What do you mean? You know what a maze is. This is pretty straightforward for a challenge, to be honest. I remembered several mazes from the history books at the academy. From what I recall, most mazes have traps, illusions, and the occasional monster? See, I knew you knew. Like I said, its totally standard.  Great. Hopefully, we wouldnt run into any minotaurs along the way. From looking around at the guys grim and frowning faces, I could tell I wasnt the only one worried. Ive gone to the liberty of prepping some new travel bags for you. And oh yes, your missing companion! Taneisha snapped her fingers again, and Emrys appeared out of thin air, curled up in a ball at her feet. He really has missed you, but as you can see, hes fine. Emrys shuddered, taking deep breaths. Like hells, he was fine! What did you do to him? Franc demanded.  He was in a sensory deprivation chamber, getting some good quality time with himself. She smiled, but the faes eyes seethed with a vindictive glare. Now its free and ready
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a maze that is supposedly "all skill" and "standard" but includes traps, illusions, and monsters. The participants are worried about what they may encounter.

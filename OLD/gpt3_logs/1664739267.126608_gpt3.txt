@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: counter, his eyes drinking me in as he approached. I was suddenly very much aware of the coffee and chocolate sauce stains on my apron. Also, that I was wearing an apron. Not that Emrys seemed to notice any of that.  What if, instead of hitting the gym, I spent a quality hour or two with him? I let the idea roll around in my brain for a few seconds, relishing in the dopamine hit, before I dismissed the thought as foolhardy. I avoided the supernatural community for a reason, and the last thing I needed was a demi-god hanging around. Although, from what Id heard, Emrys was not the type to stick around. When he stopped at the counter, I waited a moment for him to speak. He seemed lost, almost as if Id enchanted him, which was so totally not even within the realm of possibility with my messed up magic. What was up with him? He seemed almost nervous, but surely that couldnt be right. I leaned against the counter. What brings you to my Charmed Brews, Emrys? He hitched that persuasive smile of his. This is quite the little establishment, Seraphina. Not at all what Id expected. Not at all actually magical must be what he was thinking. You didnt answer my question. Do you have a few minutes to talk? He arched his brow. Privately? I pursed my lips. Did I want to know? Maybe. Maybe not, I answered, hearing the lie on my lips. A thrill of excitement ran through me. Of course, I wanted to know why Emrys was here. Did you come all this way for a caramel latte? His eyes
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Emrys, a demi-god, visits Seraphina's coffee shop. He seems lost and nervous, and Seraphina wonders why he's there. He asks to speak with her privately, and she agrees.

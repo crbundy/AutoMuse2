@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: from Taneisha. I needed time to make sense of all this. Maybe if I pretended I was behaving normally, these versions of Sera and Franc would as well? Okay. Well, Im glad to be back in the real world, or whatever this place is. I hitched a smile, hoping for them to buy my act, and Sera smiled back reassuringly, but she still furrowed her brow with concern. We should keep moving, she said. She led us off at a fast walking pace in the opposite direction from where the pantry room had been located.  Just like that, wed all officially moved on. Except all I wanted was another taste of her lips, but that wasnt likely to happen soon. I also figured theyd both be keeping an eye on me, which was fine, because Id be watching them, too. We need to be very careful, Franc added. Since we have no idea when itll happen again, or why. I believe the illusions are connected to the mists, but time will tell. Agreed, Sera replied. Hopefully, the mist is a consistent signal. Any ideas on how we find the others? So eager to get back to them? The words slipped out before my filter kicked in, and it did not surprise me when Sera narrowed her gaze at me. Of course I am. Were stuck here in this maze until we find Liams legacy, which I assume will be easier to do with all of us working together. Dont you want that too? I knew the right answer was yes, so why was I digging in my proverbial emotional heels? I shook my head. On the outside chance this maze was real and Liams
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the characters' reactions after returning from an illusion, and their resolve to find the others and continue on.

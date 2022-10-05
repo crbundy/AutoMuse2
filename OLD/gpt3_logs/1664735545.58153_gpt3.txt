@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: welcome break from the relative hum-drum of my normal, magic-free life. What would be the harm? My family would never have to know, and its not like Id have to use my magic to talk to Taneisha. I let myself hold on to that thought for a moment. Then another.  Sorry, Emrys, I cant. If my family found out I was risking exposing our spotless reputation as the most esteemed and powerful mages around, Id have hell to pay.  Emrys took a step back, almost as if Id hit him. I could almost hear the gears spinning in his head. His expression turned pained, but then he flashed another of his gorgeous smiles. I could almost feel the proverbial Damocles sword hanging in the air. He stepped close, leaning against the pantry shelving behind me, effectively boxing me in. This close, I could feel the heat of his body, even though he wasnt touching me. My mind clouded, overrun with unbidden images. What would his stubble feel like against my neck? Or his hands against the small of my back, or gripping my hips? I dont want to strong-arm you, Sera, but Im really in a bind. I have to call in the favor owed. Emrys words brought me out of my reverie. What, for a simple conversation? Youd waste a favor in return for a chat? He shrugged. Im low on options and even shorter on time. All Im asking for is you to spend a short while talking with her, using your influence on my brotherhoods behalf. I ground my teeth. If I refused a favor owed, Emrys had every right to spread the word
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Emrys asks the protagonist to use her magic to talk to his sister, but the protagonist refuses because she doesn't want her family to find out. Emrys is disappointed but doesn't push the issue.

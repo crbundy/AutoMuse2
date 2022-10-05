@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: looked that way down the street either. The neon wine glass shining through the front window was definitely Francs siren song. Youve been such a help, maam. Thank you so much, Franc said.  The lady scurried off down the street, muttering winos under her breath. As she passed by, I caught a whiff of her scent. A wolf shifter? I didnt recall there being many here in my youth. Franc sauntered over to me, his game face on. Heres the plan, Marcos. Im going to get a street-view seat at the bar and ask some questions. Get a lay of the land. If Tink shows up or I find out anything useful, Ill ping you on your phone to let you know whats going on. I should have known Franc would pull this. He preferred to be the man behind the curtain, not the one out digging ditches. We should stick together, I replied. You never know what tricks a fae has up her sleeve. Franc nodded, his face masked with concern. Precisely. Which is exactly why we shouldnt all be together, or we could end up stuck with no one to call for backup. Its lucky were all here to each play the roles best suited to us. I could keep pushing, but trying to change Francs mind was like wrestling with an eel. Id bet money Franc saw this challenge as being too easy, and thus beneath him.  Fine. Whos with me to check out Pin Ticklers? I asked, looking around at the rest of them. These were my closest friends, even though some of us had drifted apart. Wed been such a tight team at the academy, but a lot
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes Franc's plan to case the bar from a street-view seat, and Marcos's objection that they should stick together. Franc prefers to work alone and sees this as an easy challenge. The rest of the group decides to go to Pin Ticklers.

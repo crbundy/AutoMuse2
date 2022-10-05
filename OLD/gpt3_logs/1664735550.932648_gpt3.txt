@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: because of the stone? Marcos asked, but it was a rhetorical question. I had the impression his panther was itching to pace out his tension, but Marcos feet remained firmly planted right where he stood. Well have to ask Tink, Franc replied. Youd do well to call her Taneisha, I said.  You always were the clever one, came a familiar voice from behind me. I turned to face Taneisha, whod appeared behind me. She was practically glowing in a golden gown that fit her like a glove, with blue butterfly wings covering it. No, scratch that. The dress was glowing, and the butterflies were living blue morphos.  Nice to know Taneisha hadnt lost her flair for the dramatic. Seraphina Lowe. You? Here? Now? Color me surprised! Well, I get out. Rarely, but it happens. Howve you been? Taneisha let out a melodious laugh. Never better. She clapped her hands, and the glowing stone disappeared in a puff of yellow and black swallowtail butterflies. Was I sensing a theme? We wont be needing that anymore. This place is amazing. Is it a pocket universe? I asked her.  Taneisha pursed her lips, and the barest of frowns creasing her brows. Youre not familiar? She narrowed her perceptive gaze on me as she sauntered closer.  I had to be careful. She couldnt learn about my screwy magic.  I keep plenty busy, but portals and fae magic are not within my area of expertise. There was the barest pause before Taneishas smile widened again. Pshaw. Why would they be for a mage of your
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Marcos and Franc are discussing the stone that Taneisha made disappear. Taneisha appears and tells them that the stone is no longer needed. When asked about her whereabouts, she says she's been busy but portals and fae magic are not within her area of expertise.

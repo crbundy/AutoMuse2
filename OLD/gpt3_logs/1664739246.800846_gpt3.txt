@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: him. Sometimes it was just fun to flex. Poop sounds like something a toddler would say. So yeah, Im gonna use other euphemisms. Perhaps we should get back? The others should catch up with us soon. I huffed. You know Franc and Caden will dawdle. Its good were here to get the paw work done. Well said, Liam replied. Still, were not finding much to go on. Perhaps the others will have ideas thatll pan out faster. I turned back toward the shed, and Liam fell into step beside me. Youre worried about Sera, arent you? Its silly, I know. Shes a powerful mage, but I cant shake this feeling that somethings going on with her. Something shes not saying. Like you said, Liam. Shes a mage. Theyre born harboring secrets. That shut Liam up, and we padded along for a minute in silence. So then, youre not interested in Seraphina? Liam asked, his tone nonchalant, but nonetheless it was a charged question. I never said that, I snapped back with more emotion than Id intended. A silence fell between us as we sidestepped a deeper, muddy section, giving me an opportunity to gather my thoughts. Although I loved letting my beast out to play, neither of us enjoyed trudging through sucking mud. Do you have any more thoughts on those marks on Seras shoulders? I asked, knowing he had to have been thinking it over. Lian looked me straight in the eyes. You mean the mating marks. Dont be cagey, I replied. What are we going to do? Are we supposed to fight over her?
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes two friends walking and talking. One of the friends is worried about the other's sister, who is a powerful mage. The friend asks if the other is interested in her, and they discuss the mating marks on her shoulders.

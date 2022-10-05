@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: mating. I bit my lip. I suppose thats what Liam and I should have been doing instead of fooling around? From Francs knowing look, he didnt have any illusions about what wed been up to. Whats the purpose of this library room, do you think? Transparent distraction tactics? He clucked his tongue. Not what I thought was your style, but fine, Ill play along. Franc turned and walked around me, his fingers playing across the neckline of my dress, and then the waistline. This rooms purpose? Hard to say. Could be something random Taneisha threw together. Could be something carefully crafted and integral to our mission. Perhaps both. Whichever, I dont think its real. No doubt our bodies are back in that garden lying there peacefully. He hummed in approval. You look breathtaking, although I know this isnt your typical choice. You can thank my tailor, our captor. After he finished circling and admiring my dress, Franc moved in closer. I took a half-step back, knocking over another stack of books. I reflexively jerked back from the falling tower, throwing my unsteady self right into his arms.  Franc had me off balance, in more ways than one. He seemed content to wrap his arms around me and keep me close. His eyes sparkled, and I swore he was holding back laughter. You know what I dont understand? Hard to say? It might fill this library. He chuckled and then cocked his head to the side. Do you miss Enchanted Grounds? Of course, I do! I love my shop. Love the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a meeting between two people, during which one of them (Franc) flirts with and teases the other (the narrator). The narrator is clearly uncomfortable with the situation, but Franc does not seem to notice or care. At one point, Franc asks the narrator if she misses her old job, and she responds that she does.

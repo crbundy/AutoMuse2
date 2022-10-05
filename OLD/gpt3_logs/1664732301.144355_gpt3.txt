@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: glimmer of amusement in Cadens eyes. Worried for me, little mage? Id hate to get stuck in the Netherworld without you, if thats what you mean. I thought I glimpsed a sad frown play across his features. There one moment and gone the next. Had I imagined it? Had I upset the bravado-filled demons feelings? Then youre in luck, he answered, but his usual witty snap wasnt there. The ferryman turned to face the other shore, basically ignoring us now that Caden had paid for our passage. A moment later, the earth shook under us as the entire platform of rock jolted into action.  The rock is the raft? Marcos blurted out, his voice higher pitched than Id heard it before. Dont worry, pussycat, Caden replied. Youll make it across dry. Marcos shot Caden a withering stare, silencing the demon. Seriously, maybe they needed to go at it and work their shit out? There was only so long you could hold that strained posturing before something broke. Take a deep breath, Liam said, his breath warm against my ear.  Like I was the one who needed to chill out?  Why? I asked. Im doing fine. Or so I thought.  Liam glanced down at my hands, which sparkled with power. I balled my hands into fists, tucking them against my body, but the light purple flares didnt let up. Youre safe, Liam said, his voice gentle. At least, as safe as you can be on the ferrymans raft in hell. I flashed him a forced smile. I know that. At least, I think I do. So why couldnt I keep my eyes
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the ferryman's raft in the Netherworld, and the protagonist's reaction to it. The protagonist is worried and the raft is shaking, but the ferryman assures them that they will make it across dry. The protagonist is still worried, but takes a deep breath and tries to relax.

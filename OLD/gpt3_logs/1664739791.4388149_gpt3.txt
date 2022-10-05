@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: alcove. Look how delicate the features are on this one. Its remarkable, Jax agreed. There was a loud hissing from the direction of the fountain, followed shortly thereafter by a high-pitched scream. What the hells? said one guard. Do you see that? she asked her companion. Looks like something came out of the fountain? Ill take a look. He pulled out his flashlight. The first guard moved towards the fountain to get a better look, while the second pulled out her radio. Weve got a situation in the gardens. Some kind of creature is loose. The initial scream had drawn in a crowd as people wanted to see what was going on. The guard had to push through as he tried to shine his light on whatever was in the fountain. Crap, my radio isnt working, the closer guard called out. How about yours? The other guard checked and then shook his head. Cmon people, clear out and let me see whats going on, he said to the growing crowd. Can you get someone with a working radio? he called back to the remaining guard. She glanced our way, but then took off in the direction of the dance hall. On it! A round of screams preceded a quick exodus of the area surrounding the fountain. Several enormous jet-black pythons emerged from the fountain, their eyes glowing a bright ruby red. The vampire guards jaw dropped, but then they jumped into action, scooping up the wily beasts to protect the club visitors. Instant snake marbles? Jax asked, but it felt like a rhetorical statement. I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Some kind of creature is loose in the gardens near a club, and it turns out to be several enormous black pythons. The vampire guards scoop them up to protect the club visitors.

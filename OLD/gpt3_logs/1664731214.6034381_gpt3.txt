@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: this point.  About your mates? Taneisha asked casually, as if having five mates was a perfectly normal turn of fate. Well, apparent mates.  Them, for sure, I replied. But I wasnt just thinking about my guys.   This quest had put my magic through the paces every time. At times, my power had been completely walled off and inaccessible to me, while at other times itd had been so hair trigger explosive Id feared hurting those around me. After having to quit school due to being branded a failed mage, I'd been living in hiding from supernatural society, only occasionally showing up for big family parties. My magic had never been manageable or reliable, even after years of training, leaving me a veritable outcast from my family and the larger mage community.  I held my palm up before me, effortlessly conjuring a single violet flame. I maintained it for a few seconds before allowing it to dissipate. There was no undercurrent of chaos. No sensation that I was about to burst open at the seams. The chaotic fire that had always driven me to hermitage from other supes now lay patient and at the ready. Waiting.  Something changed with my magic back at Velvet, I whispered to myself, but I knew the fae had heard me.  Taneisha nodded. Maybe you need to die and be reborn more often.   Being revived by Ems magic might have done it, I mused. Could that have rebooted my powers? I couldnt remember ever reading about such a thing in my studies back at the academy, but that didnt
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the speaker's experiences with their magic, and how their power has changed since being revived by a faerie's magic. The speaker wonders if this change is permanent, and if it could be the result of dying and being reborn more often.

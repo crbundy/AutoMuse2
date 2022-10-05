@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: first glance from just beyond the bouncers pink velvet rope, Velvet looked like a typical club scene. Through the dim lights and fog machines, I gawked at the people who filled the dance floor. They moved in time to the music, but something about their movements left me with a sense of unease. I couldnt put my finger on why, but something was off. The beat was thrumming, beckoning me to bounce and grind to the rhythm. Liam had wrapped an arm around me as wed walked into Velvet and now held me tight, no doubt worried Id run off onto the dance floor if he let me go.  Of course, I wanted to go dance, which wasnt like me at all. Id gotten used to living in the shadows of supe society, not living out loud where others might take notice of me. I spied areas with tables and couches at the far end of the spacious room which were also covered with people, some bumping and grinding to their own not so private beats.  Oh my. The revelers behavior might not be discreet, but so far, this just looked like a hopping nightclub without a lot of rules. Then again, I had no benchmark to compare this to beyond my own assumptions.  Liam moved into a huddle with the posse, dragging me along with him. What do you think? Liam asked, his raised voice just barely carrying over the music. Francs expression was dark. I dont recognize many of these people, but its not as bad as Id feared from what I can see here. Still, theres a feel to the club thats not quite right. Agreed. Ill do a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The club scene at Velvet looks typical at first glance, but something about the atmosphere makes the observer feel uneasy. People are dancing without seeming to care about who is watching, and this lack of discretion combined with the overall atmosphere of the club makes it seem like a place with few rules.

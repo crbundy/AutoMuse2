@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: passed. My dad is mortal, and my moms family had never accepted him or forgiven her for mating outside the supe community. He couldnt stomach staying in Golden after she died, not when they treated us like outsiders. So we left. We turned the corner, and I glanced back, seeing the others trailing behind us. Liam and Emrys were chatting, while Caden skulked along behind them.  Sera reached up with her free hand and absently scratched at her neck. Can you get a good look at that? Liam asked me. Sure, but why? I asked. Its just a hunch. It was unlike Liam to hold back, but his instincts were usually spot on, so I didnt press him for more. Thats a hell of a double trauma for you, Sera continued. Losing your mom and your community in one blow. Have you been back since?  Nope, I said, hearing the curt edge in my tone. My aunt and the rest of the family never so much as checked on me, came to visit, or invited me to stay with them. Ouch. How long after that until you spent time with other supes or shifters? I sighed. Not until my days at Goldenbriar.  Sera shuddered against me, as if shed caught a chill. I pulled her close, throwing an arm around her shoulders. Hey, are you okay? She nodded, and then another slight spasm shook her. Although if I hadnt been touching Sera, I might have missed it. You sure? You dont seem okay. Sera nodded again, but the anxious look in her eyes pulled at my heartstrings. It happens sometimes, but it passes. Its nothing
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker's dad is mortal and her mom's family never accepted him, so they left Golden after she died. The speaker has not been back since and her aunt and family never checked on her or invited her to stay with them.

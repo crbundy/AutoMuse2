@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: strategist and Id love the opportunity to meet rushes into fun headlong Sera, but not when theres a fae pulling those strings. I hated he had a point. Perhaps, having my powers back and swinging, I was just too eager to give them a whirl? I could admit to myself that they all had a point, but my heart was dead set on helping them. Im staying, Franc. Im going to see this through until the end. Fine, if I cant talk you into heading home, at least we need to consider what we might walk into, Frank replied. Dont you and Marcos know this club inside and out? I asked, looking back and forth between the two of them. How hard will it be to search it from top to bottom? Its big, Marcos replied, with lots of twists and turns and a few notable detours. But youre right, we know it inside and out. We do not know whos in there, Franc added. Thats what worries me. Or how long theyve been simmering. I tapped a finger on my chin, muddling over his cooking analogy. If this club were a gaming dungeon, Id advise we go through it room by room, clearing out the bad guys and then searching for treasure. That metaphor earned more than one arched brow from the guys. This is real life, not a game, Franc countered. Those are real people in there. Perhaps my normal patrons, or perhaps creatures from some fae dimension. Maybe some of each. With Taneisha involved, were guaranteed it wont be straightforward. Maybe not, but you were looking for a plan. I shrugged,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage discusses a disagreement between two people about how to proceed with a plan. One person wants to go into a club and search it room by room for bad guys and treasure, while the other person points out that this is real life and not a game.

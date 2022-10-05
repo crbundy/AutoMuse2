@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: quick round of recon, Marcos said. Come with me? he asked Liam. Liam hesitated before glancing down at me protectively. Franc nodded to Liam before reaching out and pulling me close, passing me around like a delicate flower they didnt want to break. I wanted to hate their protective behavior, but I knew it wasnt because they thought of me as fragile. Even though I kept railing against their mating claims, a part of me thrilled every time their territorial natures surfaced. With a glance back at me, Marcos and Liam disappeared into the crowd. Em and Caden crowded closer until I felt all three of them pressed up against me.  I tried not to think too long or too hard about what my feelings meant or where things might lead after the posses quests finished. I reminded myself that right now we had bigger fish to fry, and I could worry about tomorrow, tomorrow. I normally adore Velvet, Em said. But this crowd looks even more altered than usual. Franc nodded. I love a good ecstatic state, but this crowd looks downright glassy-eyed. Like theyve been here soaking up the energy and going on for way too long. Its like they cant stop, I added. Ecstasy junkies, Em confirmed. Not everyone can drink from this energy well in moderation if left to their own devices. By its very nature, Dionysian magic has addictive properties. Its why I send some people away and why I close every morning. People need a break from their break, even if they dont realize it. I nodded, even
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the crowd at a Dionysian magic event, and how they can become addicted to the ecstasy of the experience.

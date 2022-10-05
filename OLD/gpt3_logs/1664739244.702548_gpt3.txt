@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: us. I glanced at Liam, knowing I didnt need to tell him that all of them were wolf shifters. A fuming Greyson reached us a few seconds later. Youve stolen from me. Stolen what? I asked, a sinking feeling in the pit of my stomach. I gripped the Eye close to my side, fearing all the running around tonight wouldnt be enough to get my icon back. You know what! he yelled. The cleaning crew alerted the night guard, and they just called me. Said someone took my trash out, only I didnt do it. Jonesy said a swanky city boy had gone back into the back. I know it was you, he said, pointing at Emrys. Im Officer Bouchard. Is that true? said the lady wolf shifter with the badge. Emrys put on his charm, full of smiles for the woman, which she ignored. Okay, yes, officer, like Jonesy said, I went back and got my jacket, which Id left. On my way out I took the trash with me, as a favor. Whats your name? she asked him. He hesitated a moment. Our names had power, even more so the names of demi-gods. Emrys Tedros. You stole my trash! Greyson accused. Emrys held his hand to his chest. Okay, I get youre not grateful for my help, but I wasnt aware a person could steal trash? I mean, youd already thrown it out. Trash is the property of the owner until its removed from the property, Bouchard replied. Wheres it at now? We dont have it. I disposed of it in the dumpster, of course, Emrys said.  We all knew it was a lie, but no one argued about it. Greyson huffed.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a confrontation between two people, one of whom accuses the other of stealing his trash. The accused person denies the charge, but the accuser is not convinced.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: though. Emrys was dressed in black pants and a button-down shirt which all looked tailored and expensive. He would have fit in better at a wine bar or posh club downtown. Emrys doesnt end up anywhere by accident, I muttered.  She turned to me, doing a double-take. Oh, youre on a first-name basis with Emrys, is it? Arent you full of surprises with your supermodel friends? If hes your new thing, let me just say, yum-my, she replied, breaking the last word into two syllables.  I shook my head at her. Hes neither my new thing nor my old thing. Although there had been moments at academy when, based on his interest, it could have been more, but Id always kept a careful distance.  Yeah, Emrys was definitely a... something. Sure, he was crazy hot, even without that luscious long dark hair, often acting like he was a gift from the gods to all women. Then again, he was straight up a demi-god, so maybe he had it half right. Emrys hailed from the goddess Isis lineage, his beauty and charisma turning heads wherever he went. Peppers reaction didnt surprise me, but I couldnt forget how tiresome his overconfidence in his own prowess could be. I also couldnt forget that I owed him a favor.  The way hes looking at you, you might need to explain that to him. Here comes mister smoldering eyes now, Pepper whispered. I know when to bow out. She turned tail and headed around the counter, no doubt intent on busy work that would keep her within earshot. Emrys walked up to the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Emrys is a demi-god who is extremely confident and attractive. He is also Pepper's crush, who she talks to in this passage.

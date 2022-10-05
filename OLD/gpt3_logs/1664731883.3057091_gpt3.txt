@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: them back, if you can. Her smug smile implied this would be no small feat. I looked Marcos, who still had a protective arm around me, in the eye. He looked me over, and for a moment I felt so safe. I didnt want to go anywhere else. When I gave a slight shrug, he let go, but he didnt move away. A fire in his eyes, Emrys stepped forward. You had no right to steal our legacy from us. Taneisha turned to him. And you had no right to be so cruel to me, and yet you were. Its not my fault you brought all your priceless trinkets to Velvet and then partied so hard you didnt even notice me taking them. Perhaps you would have been wise to lock them up. I told you so, Caden murmured under his breath, but I think we all heard it. Your legacy, as you call it, will remain mine unless you can win them back. Youll have a single opportunity to regain each item. If you fail, it will be lost to you forever. What will you do with our legacies if we fail? Liam asked. Burn them. Shatter them. Crush them. Emulsify them with a nice avocado oil and feed them to my pets. What does it matter? Theyll be gone and you will each pay a hefty price for your folly. Once again, the air was thick with tension. The boys didnt argue with her or plead. Did they fear Taneisha would destroy their object if they argued? What were these precious items, anyway? Taneisha flicked her wrist towards the doorway, and it swung open, revealing a city street I didnt recognize. People were bustling about,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Taneisha has stolen something precious from each of the boys, and unless they can win it back, they will lose it forever. Tension is high as they wonder what will happen to their prized possessions.

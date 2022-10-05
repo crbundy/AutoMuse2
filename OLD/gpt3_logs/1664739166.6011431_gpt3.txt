@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: anyway? I wont tell anyone. I swear it. But tell us about whats going on. Im not supposed to tell anyone, she admitted, her voice a mere whisper. Liam and I shared a look, and we didnt need words to convey our shared anger. Says who? My family. Sera sagged back against the bench. My magic just does this. Most mages have to recharge their energy. The power just builds and builds until I discharge it. Is that typical for mages? I asked. Not to pry Youre fine. She waved away my concern, an arc of green flames fanning the air with her movement. No, its not typical, and its a colossal pain in the ass. Which is why your family makes you keep it a secret? Liam asked. Because they dont want anyone to know your magic is different? Sera rolled her eyes. Yes. Theyre ashamed of me, but mostly they dont want the familys reputation for magical prowess diminished. Its why I live on my own, separate from supe society. Yikes. I shook my head. I thought being away from my shifter family was bad. At least they didnt reject me, I replied. So, if you discharge the energy, youll regain control over the mage fire? Sera nodded. Thats why Im trying to let it just burn off. It always works. But its not working now. Id bet you can thank our trickster fae for that, Liam growled out.  Sera looked back and forth between the two of us, seeking confirmation. I nodded my agreement. Taneisha may not have caused the problem, but I wouldnt put it past her
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Sera, a mage, is trying to discharge her energy so that she can regain control over the mage fire. However, the fire is not cooperating. Liam suspects that the trickster fae is to blame.

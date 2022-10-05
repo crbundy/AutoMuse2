@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: surely is impressive, but its not for sale, Im afraid. As Jasper sat back down in his chair. It creaked a little under his weight.  Seras hopeful expression fled, and her shoulders sagged. No? Thats too bad. Are you sure theres nothing that might convince you to part with it? Stretching at his beard, Jasper looked her over, sniffing deeply. There is one thing, but its beyond your reach. No ones been able to crack that egg. Humor us? Emrys said. Were more resourceful than you think at egg cracking. Jaspers brows raised. Emrys looked so earnest, the old bear seemed to decide the demi-god was being genuine. Alrighty then. There is one thing, and one thing only, thatd Id trade my Eye for. The Altruscan orchid. I had a sinking feeling in the pit of my stomach. The what? I asked. You really arent from around here, are you? Jasper asked. I shook my head, as did the others. At the other end of main street theres a garden nursery run by Amber Watson called Ferns and Things. That doll can grow anything, you know what I mean? Well, she takes in strays sometimes. Stray... plants? Sera asked.  He nodded vigorously. Its not so weird. Sometimes plants just dont like certain homes. Or certain peoples. He winked at her. Amber rehabilitates them, gets them back up on their stalks, so to speak. Anyway, shes got an orchid Ive been trying to talk her out of for years. It was Jaspers turn to lean in, and he whispered. The blooms from that orchid guarantee
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a man's attempt to trade his "Eye" for an Altruscan orchid from a woman named Amber Watson.

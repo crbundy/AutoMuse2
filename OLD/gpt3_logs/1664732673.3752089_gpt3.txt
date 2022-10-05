@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: what did I care? I glanced at Sera, whose irritation was pouring off her in energetic waves as she watched Emrys try to flirt with Amber. I wasnt usually this sensitive to the emotional auras of those around me. Perhaps it was because of the fae magic which had thrust us into this quest together.  Amber stepped closer to Emrys. For a moment I thought he had her hooked. Sera must have too, because tendrils of green fire erupted from her hands, which she had fisted at her sides. Just how much are you willing to part with for my pretty flowers? Amber asked, snapping the shears open and closed just a little too close to Emryss groin.  Not that much! Emrys jumped backwards, knocking over some plants on the shelf behind him in his bid to avoid Ambers pruning shears, which she kept snapping shut in his direction. Amber, Sera said, interrupting them. Her hands were still aflame, but she held them, fingers threaded together behind her back. I mean Ms. Watson. Please forgive Emrys. Despite being a demi-god, hes got more looks than sense. Amber backed off of Emrys and walked back over to us. Youve got that right. And you are? Im Seraphina Lowe, mage. Youre right, we werent straight with you. Ambers chin raised. I have a nose for these things. Go on. Sera nodded. We are on a quest, of sorts, and need to get the Eye of the Tiger from Jasper. Hell part with it, but only for your Altruscan orchid. So, youre not friends of his? Nope, we just met him an hour
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A group of friends are on a quest to retrieve an item from a person named Jasper. In order to get the item, they need to trade him something of equal value. They have an Altruscan orchid that they hope to trade him.

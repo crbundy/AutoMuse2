@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: now. She could be in danger. Marcos spat on the ground. No. Shes not. Out of all of us, shes handled herself best so far with the faes challenges. Plus, Taneisha seems to like her. Plus, shes likely with Em. I can nearly guarantee you that our mage is better off than we are right now. What if youre wrong? Marcos arched his brow, but it was Franc who answered. Hes not wrong, Liam. Cant you see that Taneisha, or her maze, is distracting you from your legacy by keeping you apart from Sera? They had a point. Besides, the sooner I found my legacy, the sooner wed be back with Sera and Em. Maybe?  Dont you think if shes with Em that hed do whatever he can to protect her? Franc asked. Yeah. I barked out a laugh. But shes more likely to be the one protecting him. Lets all agree not to repeat that to Emrys? Caden added. Franc and Marcos nodded. So? Whats your plan? Marcos asked me. I dunno? Get out of this hedge box? Find my legacy and get out of this infernal maze? Caden stood up and stretched before he too checked out the wall. Any ideas on how to get out of this hedge holding cell? Burn it. Machete it. Brute force it. Now youre talking, Franc replied, rising to his feet. After that? Ideas on how to find your legacy? I scrubbed a hand across my stubble-covered jaw. We need to find the center. Thats where the prizes in mazes are always found in myths. Great idea, Caden replied. Except how the hell do we find the center when we cant
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses the various ways that the characters could escape their current predicament and find the center of the maze.

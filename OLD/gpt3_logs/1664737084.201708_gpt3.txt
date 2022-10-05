@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: You are the cleverest fox in town! Id been waiting for this opportunity for far too long, and this sly gal had delivered. How did you get the invitation? She shrugged, like it was nothing. My bear-shifter friend Dusk knows the bouncer, Marcos. He traded some specialty shifter hooch for this invite. I overheard him bragging about it at the supe bar last night, and not so gently reminded Dusk that he owed me one. Thus, now I also have my very own petal pink paper. I felt my left eye twitch at the mention of the panther-shifter Marcos name. He was on my list. One of the five whod wronged me. Youre one shrewd fox, Jax. She inclined her head slightly. And you love it. My fingers itched to snatch the paper out of Jaxs hands, but I knew better. She might not be fae, but the sly demon was every bit as diabolical and clever as one of us, which was part of the reason I respected her.  What will the invitation cost me? Jax golden eyes twinkled. For the low, low price of a favor, you can be my plus one tonight.  "I'll give you a favor, but only if you hand over the invitation. I'm going alone." I reached for the paper, but Jax pulled it back toward her chest, the corner of her mouth hiking up.  "No can do, my flighty fae friend. The invitation was issued to me and me alone, so I have to be the one to redeem it. Plus, theres a ban on using magic in the club. Youre going to need my help." I rankled at the thought of needing anyones help, but Jax had a point. Me going
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A woman tells her friend that she got an invitation to a club by trading a favor with a bear shifter. The friend, a fae, is interested in the invitation but is not allowed to use magic in the club. The woman tells her that she will need her help.

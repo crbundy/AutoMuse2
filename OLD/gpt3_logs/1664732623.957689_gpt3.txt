@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Taneishas faery realm had severed the moment it closed. Taneisha had us by the tails, including Seraphina, who didnt at all deserve to be here. I expected she could handle whatever Taneisha threw at us, but it was time away from her life and responsibilities she hadnt counted on. Id have to pin Em down later and find out what hell he was thinking by dragging her along. Not that I minded being around Sera. If anything, I was having a tough time keeping my eyes off the geeky mage. Watching Sera take on Taneisha on our behalf flipped some sort of switch in my head. I couldnt remember the last time anyone had worked to defend me, much less someone with such a glorious, curvaceous ass or such a cute pixie nose. I shook my head. I needed to keep my head in the game, not getting soft on a standoffish, brainy mage from my academy days, no matter how cute she was. That could have gone better, Franc said, scrubbing a hand through his hair. What gods-forsaken place are we at now? And when? I bet Marcos knows where we are, Sera said. Its his legacy item quest, after all. As for when? Based on the angle of the sun, its midmorning. Were we in faery that long? My name on Seras lips sent a thrill down my spine, and my panther purred in response. Well, that was different. Time runs differently there, Emrys replied. Hopefully we only lost one evening. I glanced up and down the street, which Id assumed was the main drag of this small town. Aware of everyones gaze on me, I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the characters' reactions to being transported to a new place by a faery. They are disoriented and trying to figure out where they are and what time it is. Sera suggests that Marcos might know what is going on since it is his quest. Emrys says that time runs differently in the faery realm, so they may have only lost one evening. The passage ends with the narrator looking around and being aware of everyone's gaze on him.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: willingness to tolerate Cadens less desirable attributes. I shrugged. Who was I to nay say their fun? Especially considering that I worked security for Francs club. Franc held up his hand in warning to Caden, who shrugged his shoulders and then settled down. Then Franc turned to me. Tell me more about Golden. I grew up here, but left with my dad when I was a teenager, I said, leaving out the dramatic backstory about my mom. I was a pretty private person, and its not like we had time for a trip down memory lane, anyway. This is a typical shifter Canadian mountain town. Mostly panthers, like me. Theres also a handful of bears and a sizable contingent of raptors who live further up the mountain. Hardly any humans, at least not that I remember. Any idea why Taneisha would have picked this place for your quest? Sera asked me. If we can understand her motivation, I think well have an easier time finding the Eye of the Tiger. Beyond wanting to make me miserable, I thought about saying, but I held my tongue. Id admired Seras shrewd ability to break down problems in class. Id trust her process now, too. The legacy Taneisha stole from me was a carved soapstone black panther passed down from my mother after she died.  My condolences. Losing a parent is tough, Sera said. Thank you. The panther is a symbol of the enduring spirit of our people, I explained. I used it for meditation, but its mostly sentimental. And now were here, in the town you grew up in,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the speaker's willingness to tolerate their friend's less desirable attributes. The friend, Franc, then asks the speaker to tell them more about the town they grew up in. The speaker obliges, explaining that it is a typical Canadian mountain town mostly populated by panthers, with a few bears and raptors. They finish by saying that the legacy their mother left them was a carved soapstone black panther, which is now the reason they are back in their hometown.

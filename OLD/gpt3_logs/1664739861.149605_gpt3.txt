@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Id find it, but was the moonstone unreachable? I knew it had to be far overhead, yet I reached out my fingertips toward it. I didnt dare look away, lest the image disappear. I willed the moonstone to me, my focus absolute. I would not leave here without it, especially not when I was so close! My fingers brushed the surface. I strained further and then caught the edge of the carving. Or was it the edge of the moon? My fingers grasped, closing around the cold moonstone, and I pulled it down out of the sky, pulling my hand back to my chest. When I opened my hand, there was my legacy, flashing with moonlight. I looked up, but there was no longer any moon hanging overhead. Itd been my legacy, hidden in plain sight the entire time. A murmur roused me from the shock of the feat Id just accomplished. I turned to my friends, triumphantly holding up the moonstone for all to see.  A scowling Taneisha materialized, her slow clapping punctuating the otherwise silent space.    Epilogue - A Reckless Path Sera I wasnt sure how Taneisha made her clapping sound so sarcastic. Shed appeared out of thin air with a sour smile plastered on her face. Just how long had she been standing there invisibly watching us? For once she wasnt in some complicated dress, but wore a simple black sleeveless jumpsuit with a vee neck and wide legs. It was such a difference from her norm that I couldnt help but wonder what it meant. I suppose I should congratulate you, wolf, except I doubt you would have
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist manages to retrieve a moonstone, their legacy, with the help of their friends. Taneisha, who has been watching them invisibly, appears and scowls at them.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: ever heard one. So, whats your plan? Sera asked, but she kept right on going. Was the plan seriously just to get the gang back together and then rush in there throwing magic, shifters, and siren songs around? Maybe the rest of us can hold back the tide of bloody cannibals while Franc solves the puzzle? Emrys had revived Liam, and the two moved closer to us, but didnt interrupt.  I mean, thats what I was thinking, I replied, but my words sounded dubious even as I uttered them.  And why do you believe you can solve the knots puzzle now, and not either of the two prior times? My thoughts focused with sudden clarity. Because its not about forcing my way through. Its about respecting the process, the pattern, so I can work with it and not against it. At least I think so? Sera leaned in and pressed her forehead against mine. Thats better than what you had before. Now I think you have a shot. Where does this leave us? I whispered. I cant lose you, Sera. Sera took a deep breath and then stepped away. I cant predict tomorrows problems, but right now, youve got a fae puzzle to solve. You best get to it. What are you going to do? Im gonna pied piper my bloodied revelers into a proper shindig somewhere other than the dance floor. Speaking of. Sera pounded her staff on the ground, and the revelers Ella had lulled to sleep awoke, groaning and moaning.  Quickly! she exclaimed, pointing her staff towards the exit. Flee while you can.    When the going
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is talking to Sera about their plan to stop the cannibals, and Sera says that they need to focus on solving the puzzle. The speaker says they think they can do it this time, and Sera says that they need to try.

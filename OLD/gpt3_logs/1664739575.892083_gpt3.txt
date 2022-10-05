@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: say, about an hour? I asked. That long? What will you be doing in the temple? Chadwick asked, not bothering to hide the sneer on his face.  This guy needed an attitude check.  Whatever it takes to win against the faes games, I answered without hesitation.  Good luck, Mikael said, turning to go with Ella at his side. He pushed Chadwicks shoulder, who grudgingly followed along, but not before casting a moody look back in Seras direction. I stepped close to Sera, slid my arm around her waist, and then steered her to walk with me. The others followed. Marcos was glowering, although I didnt know about what. Whats up with that Chad asshole? Caden asked once they were out of earshot. Ugh, Sera said, running her fingers roughly through her hair. Chads an ex-boyfriend. I broke things off with him when my magic went wild to hide things. Not that it matters now. As a group, we quieted. I hadnt quite been sure what the dynamic was between Chad and Sera, but I suppose I should have. Dibs on flattening Chad the next time we see him, Caden said. If I dont get to him first, Em added.  Sera barked out a laugh. You dont have to go all macho alpha on me. I can kick his ass myself whenever I want to. She swirled her finger through the air to demonstrate, leaving a trail of electric sparkles in its wake. We dont have to, my dear, I said, whispering into her ear. But we will go alpha on you whenever we feel its needed. Sera rolled her eyes, but she leaned into
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Chad is mad at Sera because she broke up with him, and the other characters don't like him either.

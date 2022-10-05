@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: refrained from declaring just how much Seras safety was my business, not theirs. I just need your help to distract the ravers while I get through to Sera. What did you have in mind? Mikael asked. Thank goodness one of them was level-headed. Theres a sound and video booth that covers the Den accessible from the far end of the hall. Caden and Marcos will get you there safely. Once you have control of the sound system, Ella can calm all the ravers using her sirens gifts with no risk to yourselves. You want me to sing cannibalistic ravers to sleep? Ella asked.  They were human first, I pointed out. Cant sirens enchant people, even when theyre experiencing altered states? Yeah. I can give it a shot, Ella replied. Mikael huffed out a breath. Whats our back-up plan if youre not able to get Sera out of there? Ill get her out. When they just stared, I shrugged. If I cant talk her out, then Ill grab her, and we run. You sure you want to go in there alone? Marcos asked me.  No, I didnt. But Id rather only have to drag Sera and myself past the revelers.  If I need you, youll hear me. Caden clapped me on the shoulder. Weve got your back. Now get in there and knock em dead! I trusted Caden and Marcos. I wasnt sure at all about Seras cousin and her friends, but we were low on options. We hadnt run into Liam or Emrys on the way here, so they couldnt help us now. I ran a hand through my curls and headed into the hallway. I hoped, as the lineage of
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is going to try to talk Sera out of the ravers, and if that doesn't work, they will grab her and run. Caden and Marcos will help them get to the sound booth safely. Ella will try to use her siren gifts to calm the ravers. If the speaker needs help, Caden and Marcos will be there.

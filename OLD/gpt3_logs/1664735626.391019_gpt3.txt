@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: exclude it as a possibility.  This could be the result of Francs mating claim. Taneisha gasped, and her brows shot up like shed been hit by a bolt of inspiration. Oh, you should let the others claim you and see what happens to your magic!  Emrys separated from the guys and came over to my side just in time to hear the faes last sentence. Mating isnt another one of your games, fae, he said to her. When his heated gaze fell on me, Emrys focus was absolute. He held out his hand. Lets get going. The sooner we get this done, the sooner we can make decisions without Taneisha meddling with our fates.  I slid my hand into his, an electric tingle rolling down my body at our contact. When our eyes met, I knew hed felt it too.   Lead on! I replied. Next time we see you, itll be to say goodbye, I said to Taneisha over my shoulder.  And good riddance, Emrys muttered under his breath.   We hurried hand in hand to the portal. I held Emrys back for a moment and called out to the others. "C'mon, the last one through is a soaked sprite!  Caden glanced up and nodded to the others, but Liam held them back.   Theyll catch up, Emrys said, pulling me through the portal into the desert sands.  No, wait! I heard Taneisha yell out behind us. The rest of you, you have to go now!  Cool it, fae, I heard Marcos reply. Were working something out. You may have us tied to your quests, but you cant force our timeline  I warned you that you had to stick together! Taneisha
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The faeries are trying to force the humans to hurry up and make decisions without them, but Emrys and the others are reluctant. Taneisha yells at them to hurry up and go through the portal, but they don't listen.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: much of a head start. He turned, grabbed two of the new backpacks, and he rushed off after Emrys. Caden and Liam grabbed the old and new backpacks, and then were hot on Francs heels, while Marcos waited at the portal for me carrying both of our backpacks. I sighed, turning back toward Taneisha. Im grateful Emrys is still alive, but seriously, are you trying to kill us? The fae had the grace to look shocked. Oh, of course I dont want you dead, dearest. She blew me a kiss. The rest of them, however she trailed off, leaving me to fear the worst.  I could have shrugged it off, but I needed to leverage what little I had. Taneisha, if you allow the posse to die, know youll have made an enemy of the Lowes. Taneisha rolled her eyes. What do I care if some mages dislike me? I moved closer to her, staring her down. Not just any mages. The Lowe lineage is one of, if not the, most powerful mages around. You sure you and your family want a war with ours? I didnt know if the rest of the Lowes would back me up on this, but mages were known for their wars between houses which sometimes lasted for decades. Taneishas ever present smug smile stiffened. War over a game? Of course not. How about this? If anyone gets hurt, have them call me and Ill pull them out of this round and give them a healing elixir. They wont be able to return to the maze and help find the wolfs heart, and your team will be down one, but they wont die. Hows that? Its acceptable. Thank you.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a discussion between two people in which one threatens to declare war on the other if anyone gets hurt in a game they are playing. The other person agrees to provide a healing elixir if anyone gets hurt, in order to avoid war.

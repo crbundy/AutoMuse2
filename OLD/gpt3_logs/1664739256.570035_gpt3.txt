@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Im sure that would give Taneisha no end of amusement to see us turn against each other, but I have no quarrel with you, brother. In fact, Ive always felt we shared a special connection within our alliance because of our shared shifter heritage. I feel the same. So, its bros before mages? If wolves could roll their eyes, Im sure Liam would have right then. Its bros and the mage, dont you think? I stopped in my tracks. The shed was in sight, but Liam and I needed to finish this conversation. What, you mean, wed share Sera? Assuming she wants either of us, which is no guarantee, despite fate marking her. If she was a shifter, it might be different. Were raised with such customs. But the mage will choose whom she will. The idea of sharing my mate rankled both my beast and me. Not that Id even been looking for someone. Sure, my job meant I had women throwing themselves all over me nightly to get into Velvet, but I never thought of their attraction as genuine.  Sera had been strong, kind, and flirty with all of us. I didnt like how that boded for my odds at claiming her. Especially considering that I had competition. Sure, in the end its up to Sera. But how are you taking this so calmly? I know how my panther feels. He wants to rush in there, pin her down, and sink his teeth into his claim. Id advise against rushing a mage, especially Sera, Liam replied. Im calm because I believe in love. Whatever fate has in store for me with her, Im gonna roll with
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses two men's reactions to the idea of sharing a woman. One is calm and accepting, while the other is not.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: ending only when Franc gave a brief bow to the crowd. I couldnt help but laugh at the incubus, which was a welcome change of pace, considering our history together. Since wed cleared the air and I knew hed been working undercover and wasnt an actual drug dealer, Id been able to let go of the anger Id held towards Caden for far too long. It was such a welcome change to our dynamic. I was so happy to have things back to how they used to be between us when we were younger. Franc reached the interior of the temple, which was surrounded by a reflective wall only he could open. The mirrored effect made the room feel endless, multiplying the vista of writhing bodies around us. Franc placed his hand on the wall, and a hidden lock let out a click before swinging open, motioning for us to go inside. I moved to go in, but Sera hung back, clinging to my jacket. Whats inside? She was skittish as a doe fresh to the world, and I supposed I couldnt blame her. This was all unfamiliar territory, not just for Sera, but for all of us. Its a private, secure space where we can be alone, away from the crowd, I explained. Itll just be us. Well, just us with a unique view. Sera nodded as I explained, her gaze landing on each of us. Fresh ruby sparks fell from her fingertips, dancing across the skin of my arm, leaving a tingling sensation in their wake. Id seen Seras magic turn ghouls into torches in the Netherworld, but I didnt fear her touch or the magic that flowed through her
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a room in a temple that is only accessible to Franc, who is surrounded by a crowd of people. Sera is hesitant to go into the room, but I explain that it is a private, secure space where we can be alone.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: nod. Did you do that? She shook her head. I cant claim credit for those mating marks, but boy, what a doozy of a reveal it was for you guys. Im not inclined to believe you. I mean, they showed up right after we crossed into faery. Surely the two events are related. Fae magic can have weird effects when it crosses the magic of other supes, Taneisha explained. Sometimes things speed up or reverse in action. Were mercurial. Why not take credit if she could? I frowned at her, tempted to believe her. Taneisha had engineered all of this just for us and seemed damned proud of herself. Youre saying your fae magic might have sparked something already there, under the surface? Maybe? she shrugged. Too bad youre stuck here while everyone else is figuring it out, huh? If youre so worried about me, you could send me back. Id never dream of depriving you of your experience. If you need anything, just say my name out loud, she said with a wink, and then stood up and smoothed her skirts. Id be happy to sit with you as often as youd like as you wait for your friends to bail you out for your inappropriate behavior. Ill keep that in mind. I swore right then that I wouldnt call her name. This fae would not get the best of me. Ta-ta for now, golden boy, Taneisha said, and then disappeared out of existence. She left me in the darkness, and I settled in for a long wait. I repeated a mantra to myself, over and over.  I can manage this. Ill survive.  I have to.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Taneisha tells the protagonist that the mating marks could be a result of faery magic, and offers to help him while he waits for his friends. The protagonist swears not to call her name, and is left in the darkness.

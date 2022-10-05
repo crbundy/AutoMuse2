@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: of my reverie. What I wouldnt give to see him knocked down to earth a few pegs.  My gaze lingered on Emrys as I wondered about his mental state. Hed brought me back from the edge of death in the Temple, cementing a connection between us. He wasnt the same cocky and overconfident person whod talked me into this saga of quests, but that was good because I liked this version of him a whole lot better.  You knocked him upside the head plenty with that penalty box stunt, Taneisha. Im still not sure hes completely back from that mind game. Scratch that. I was positive he wasnt entirely back to level, but I wasnt about to tell the fae that.  Agree to disagree? she asked, baiting me.  I glowered at her in response. I needed Taneisha to back off of Emrys, especially on this last and final quest. We just had to get through this and then we could all go home safe. Instead of snapping back, I held my tongue, mindful that if I pushed too far, Taneisha was likely to up the stakes on Emrys quest.  Fine, well just disagree then. This journey seems to be working out all right for you, however. " Taneisha pressed. Theres been more than a couple of moments that youve appeared quite, how should I put this, engaged?   Thinking back to the time Id spent with my posse back in the Temple brought a flush of heat to my cheeks, and Taneishas brow arched in triumph.  Im not going to deny thereve been some spectacular moments, but Im left with more questions than answers at
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The person writing this passage is reflecting on their time with Emrys, and how they have grown to like him better than when they first met him. They are also thinking about how Taneisha has been baiting them lately, and how they need to be careful not to push too far.

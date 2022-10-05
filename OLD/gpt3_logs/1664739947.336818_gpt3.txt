@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: were close? Is that why hed been giving me space? Liam leaned in close and whispered into my ear, his breath hot on my neck. You might not agree with me, but I notice youre not arguing either. Could it be that youre warming up to the idea? I knew he meant being his, well, their claimed mate, but all I could focus on was Liams musky scent. Memories of Liam inside me when we were at the nature preserve flooded my mind, bringing a warm flush to my cheeks. Well, I was certainly warming to something.  I glanced around, seeing how everyone elses attention was focused on our conversation, even Franc and Emrys, who appeared done with whatever theyd been doing. All staring at us. At me. Waiting to hear what Id say. I took a step back, shaking my head to clear my thoughts. Theres nothing to argue about, I shot back. Besides, we have more important things to worry about right now. Liams gaze turned stormy. We can agree to disagree, at least for now. I half expected hed continue to press the issue of my mating marks, but after a moment, he crossed his arms and sighed. What would you like to know about my legacy? The unspoken tension in the group dissipated as the conversation turned toward Liams legacy. Everything about it, I replied. What does it look like? What does it mean to you? And any ideas why Taneisha might have chosen a maze for your quest? Liams expression soured. My legacy is a wolf's head carved from moonstone, the size of a silver dollar. It fits
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Liam and the narrator are talking about the legacy, and Liam's expression sours when the conversation turns to the maze.

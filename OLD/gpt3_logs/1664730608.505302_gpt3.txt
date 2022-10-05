@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: announced, her voice raised for all of us to hear. You have twenty four hours to retrieve the golden scorpion, or youll have to explain to Isis herself just what happened to it.  Liam nodded our way, so I knew they could hear us, but their arguing continued unabated.  Ill advise you to travel together, lest the sands claim you, the fae warned.  Together, answered Marcos.  Sands, replied Caden.  Gotcha, Emrys said.  Their heads are stuck in the clouds today, I said. I wanted to know what they were so preoccupied with, but my irritation with Franc, whod claimed me as a mate with his Dionysian maenad-invoking magic, was smoldering in my belly. Not that Id complained at the time. His efforts had cleansed my magic of the faes geas, but I still wasnt sure how I felt about it.  Hells, I knew how I felt. I loved them all. I felt deeply connected to all five. But committing to mating? And then what would happen after wed finished Taneishas last quest? Get some big condo in the city?   I couldnt even imagine trying to explain this situation to my grandmother. Not only werent they mages, there were five of them. Dara Lowe would have a hearty laugh, at least until she realized I wasnt kidding.  Yet the choice of whether or not to mate had been taken away from me with Franc by fate, and as I looked the five over, I could feel the tipping point as viscerally as the grains of sand whipping in through the portal.   Especially Emrys, Taneisha replied, drawing me out
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The fae tells the group that they have 24 hours to retrieve a golden scorpion, or they will have to explain to Isis what happened to it. The group argues among themselves, and the fae tells them to travel together. The protagonist is thinking about how her grandmother would react to the situation if she knew. The protagonist feels a connection to all five of them, but is not sure if she wants to mate with them.

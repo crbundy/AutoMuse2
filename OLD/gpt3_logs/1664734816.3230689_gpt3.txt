@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: and toasted pecans.  That sounds delightful. I leaned in and took a bite from the spoon, the creamy, fudgy flavors blossoming on my tongue. The crunchy texture and nutty pecan flavor were a great pairing. Hmm, thats fantastic. Definite recommend. Cadens brows furrowed just a little. Its good? Youre sure? Its amazing, Caden. I mean, its even better than Harpers Frozen Custard. And I would know, theres a shop entirely too close to my work. For a mage, you have some curious occupational hazards, he teased. He grabbed the other bowl, spooning up a bit. What about this one? Its caramelized peach and bourbon vanilla ice cream. Are you trying to kill me? I asked and then went right in for a taste. The jammy peach flavor exploded in my mouth, followed by the smooth bourbon cream base. Oh, this ones even better. The bits of fresh peach are tangy and just enough to keep it from being cloyingly sweet. Cadens eyes sparkled. Youre not just saying that? Nuh uh. Why would I mess with you? I reached for the bowl on the counter, stealing it before he had time to stop me. I had no idea you were such an excellent cook. I dabble in my free time, which isnt much, but its something I really enjoy. I think it complements my incubus nature. I glanced around, and while there were plenty of empty bowls, spatulas, and measuring cups around, the only spoon I saw was in Cadens hand.  How so? I asked. I wear this necklace so I can operate relatively normally in
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker tries two different flavors of ice cream and likes them both. Caden, the ice cream's maker, is pleased. The speaker notes that Caden is a good cook and that cooking seems to complement his incubus nature.

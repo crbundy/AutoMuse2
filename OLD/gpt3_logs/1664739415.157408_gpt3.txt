@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: upon contact with the purple fire, exploded, sending mage fire streaming out in all directions. The other three, undeterred, rushed the river together, as if passing through it quickly might help them avoid exploding like the last one. One of them exploded, and then another. The last one passed through the barrier like the first, howling in triumph as it exited the wall of flame. The two flaming ghouls looked each other over and then turned their ravaged faces in our direction. The wall continued to emit fiery sparks and explosions, as the dead ghouls within fed the flames. The mage fire spread, and I worried how long and how far it would burn. Were almost to the cave, Marcos said. I could hear Liams wolf yipping just around the switchback.  So now, instead of fighting ghouls, we get to fight flaming ghouls? Franc said. This day just keeps getting better and better. At least theres only two, Marcos said.  We hit the second switchback, my legs burning with the intensity of our exertion as we pounded up the steep incline. Liams white fur gleamed in the moonlight, a beacon calling us to the protection of the cave. When we reached him, I realized he was a good ten feet up a sheer rock face. Liam shifted, regaining human form, and reached down, offering a hand up. Franc reached the rock wall first, offering a leg up to Caden with his hands clasped together. Caden tossed his backpack up the wall and onto the ledge, and then put his foot into Francs hands and jumped up,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A group of people are running from ghouls, and are almost to the safety of a cave, when they are unexpectedly attacked by two flaming ghouls. They manage to kill the ghouls and make it to the cave.

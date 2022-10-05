@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: expressions, shared my sentiments. So, just to clarify, youve still got all the other items? Franc asked.  Taneisha held up a hand, her thumb across her palm. Scouts honor. Franc cocked his head to the side. Youre a scout? Taneishas eyes widened with surprise. Well, no. Of course not. But I hear theyre quite honorable. Someone elses honor is not something you can swear on, Franc said. And yet I just did, Taneisha replied with a wink. But then the faes mercurial nature surfaced again, and her face contorted into a frown as she crossed her arms. I recommend you leave at once. I even prepared you some travel bags. Each of you get one. She pointed to an area near the oak door, and then the bags appeared, five in all. I did a quick recount in my head. Yup, only five. Theres only five, I said. Taneisha threaded her fingers together in front of her, her expression grave. Unfortunately, the one lacking honor wont be joining you on Cadens quest. Of course, all of us looked at Emrys, who at least had the grace not to pretend not to know what shed accused him of, although he rolled his eyes. You cant steal trash, he said. Taking a thing not freely given is, definitionally, stealing, Emrys. Even if it is someones trash. He planted his hands on his hips, holding his chin high. So what, Im just supposed to stay here with you and twiddle my thumbs by the river while the others head out? Nope. That would be tedious. Taneisha raised her right hand and
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Taneisha tells Franc that she is a scout, though she is not, and then tells him to leave. She gives the group bags for their quest, but says that Emrys cannot come because he stole from her. Emrys denies this, but Taneisha is adamant.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: already upset with me for not being around. It was a bit of a pile on. Shes said more than once that if Id been home, it wouldnt have happened. Even after my years at the Academy, it took years for them to see me as reliable again. Mom eventually forgave me for the barn, but shes never gotten over the loss of her goat, Gertrude. Poor goat, but you couldnt have helped the rest, even if youd been home. Why didnt you come back into the city? Marcos asked. Wed have helped you out. I know you would have. There were plenty of times I thought about asking for a place to stay, but its hard when you have a pack. Standard social pressures dont even compare to a shifters moms guilt trips. I took a moment to meet their gazes one by one, wanting to make sure they understood the sincerity of my words. I need you to know Ive missed you all terribly, but every time I leave home, Al is full of snide remarks about whats going to break while Im gone. Or what messes of mine hell have to clean up after me this time. An ear-piercing screech rang out behind us, so loud I reflexively covered my ears. The minotaur held the wraith-Sera aloft, his massive arms straining as he roared. The sound of metal shredding filled the air as the wraith ripped in two, black dust pouring out of it, coating the minotaur and a wide swath of area around them. The minotaur choked and spat, shuddered, and then fell to the ground. The wraith turned to dust in his hands. Huh, Em said. That
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker reflects on how their absence has affected their family, specifically their mother's relationship with them. They express regret and explain that social pressures (e.g. from a shifter's mom) make it hard for them to come back home. A loud screech interrupts their thoughts and they see a minotaur holding a wraith-Sera aloft, which then turns to dust.

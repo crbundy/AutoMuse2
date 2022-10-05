@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: respect. This is your club.  I inclined my head. At least this one knew who was in charge. It is, although I admit its seen better days. He smiled widely, as if Id made some sort of private joke. Im Mikael Stagsky. This is my companion Ella Asherah, and my friend Chadwick Macheret. We were looking for a way out. Do you know the way? His question confirmed my fears. Taneisha hadnt only locked us in here. Anyone else who wandered in would be stuck until we completed our quest. I assumed as Mikael called Sera his cousin, that meant he too was a mage. Perhaps, despite Seras obvious anxiety, these three could be useful to us.  Sadly, no. It appears theres some sort of magical barrier preventing our exit. How long have you been here? I asked, leaving out the obvious question of whod caused the barrier.  This time Chadwick answered. Its been some hours since we arrived. Maybe even overnight? Time flows differently since we got here, plus our phones and watches dont seem to work anymore. Do you know whats going on? His attitude rubbed me the wrong way, despite his question being reasonable.  Unfortunately, youre caught along with us in a faes vengeful trap. Shes deluded and trying to teach me a lesson, careless about who else might get caught up in the crossfire. Most likely, were all stuck here until I can free my mask, which you might have noticed on the dance floor. We need to step up our time frame, Marcos whispered in my direction. We cant draw this
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people who are stuck in a room together and cannot leave because of a magical barrier. They have been there for some time, and it is unclear how long they will be there.

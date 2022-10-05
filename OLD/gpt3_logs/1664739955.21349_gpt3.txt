@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: easily in the palm of my hand. I received it from my father after Id run in my first hunt as an adolescent. So its small enough it could be anywhere. Does the stone represent your coming of age within the pack? I asked. He nodded. Its also magical, holding moonlight within it. I kept it close to me while we were at Goldenbriar. It helped me control my wolf despite being away from my pack and the wilds of the forest. Ive kept it with me for years. Do you or your wolf depend upon it? I asked. I mean, what will happen if we cant get it back? No, we dont. But its a source of great comfort for my beast while Im away from my ancestral lands. He frowned and then ran a hand roughly through his hair. It represents a simpler time when I was closer to my family and pack. Back when I got along with my siblings. I nodded, wondering at what unspoken conflict had wedged between Liam and his pack, but I didnt press him on it. While Cadens and Marcos legacies were borrowed from family, yours wasnt. It doesnt sound like youd be in any trouble if your legacy went missing? Or am I missing something? No, not really, he said. Hmm, I hummed, unsure of how this new information helped us. Okay, what about the maze? Any gut reactions? Liam cast his gaze around us. Its curious to me that the moon is directly overhead while the suns at two oclock. It doesnt align with the positions Id expect. We could be in any faery dimension, Marcos added. The rules here
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a stone that is special to the speaker. The stone is small and easy to carry, and it has magical properties. It is a source of comfort for the speaker's wolf, and it represents a simpler time in the speaker's life. The speaker wonders if the stone could be used to help them find their way out of the maze they are in.

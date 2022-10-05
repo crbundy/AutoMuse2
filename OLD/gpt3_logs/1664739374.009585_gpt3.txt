@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: kept up, but Caden was falling behind. Cant you do something magicky? Franc yelled at me. Could I? Sure, if they got close enough, I could zap or burn them, but not while Marcos was carrying me. Id likely burn him, too. The chaotic spin to my magic meant I couldnt predict if it would work or what it would do, but could I leverage that now to my advantage? Not like this, I replied. Coming around a curve in the trail, moonlight illuminated a river ahead of us. Beyond it, the trail banked hard up the mountain. Liam says the waters fairly shallow, but the bottom is slick in places, so we have to slow down, Marcos said as we reached the waters edge. I could tell his attention was divided between our conversation and the one he was holding with Liam in his head. Theres a cave ahead that Liams checking out. Its a more defensible location than open ground.  Let me down, I demanded, and he did without argument. I forged ahead, the icy water soaking through my shoes. Luckily, the riverbed was a similar gravelly material as the trail, so it wasnt terribly slippery, despite the water coming up to my knees.  This is a dangerous plan, Franc replied, glancing back at the monsters. The three men followed me across the river, but it was slow going as the river was wide and none of us wanted to fall on our faces.  Will they follow us across the water? Franc asked. No clue, Caden replied. But lets assume, yes? I feel like thats something you should know, demon. How
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people fleeing from monsters, with one of the men carrying another. They come to a river and have to cross it, which is difficult because they don't want to fall. The person being carried asks to be put down, and goes ahead to cross the river. The others follow. It is unknown if the monsters will follow them across the river.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: anything amiss, if the naked oil wrestling match going on behind those ferns was any sign. She held up the glass. Thirsty? When I didnt answer, she shrugged and downed the rest of her beverage before tossing her cup to the floor, where it shattered into bits.  I reached out and tucked a wild lock of hair behind her ear. Youre magnificent. Its easy when youre awesome. I didnt know I could feel this comfortable with my magic. The power is endless. Sera puckered her wine-stained lips, and I longed to swoop her into my arms and have a taste, but I knew I had to handle this conversation delicately, or Sera might have me chained up to a cross next. The sound of Ellas lilting voice added to the Mozart, quiet enough that I couldnt quite make out the words, but the tune reminded me of a childrens lullaby. Even at low volume, I felt her sirens magic in the notes, calming me. The background noise of the room slowly diminished, so I knew it was influencing the revelers as well. I placed my hand at the crux of her neck and shoulder, pulling Sera close to me. Her eyes fluttered as Ellas music blunted the edge of Seras madness.  I let my magic flow out and over Sera, hooking into the madness flowing beneath her skin. I reined in her wine-drenched power, feeling it slowly diminish as I funneled it deep down into the earth. As I grounded out Seras energy, the rest of the room calmed as well, as if they were all feeding off her state. I wasnt sure if it would last with the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage describes a scene in which the narrator calms a wild Sera by using his magic to ground her energy. The background noise of the room slowly diminishes, so I knew it was influencing the revelers as well.

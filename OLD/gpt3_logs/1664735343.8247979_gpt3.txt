@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: explained to Sera and Caden. Marcos was still limping, which made them a slow pair. Well, its your legacy were after. You pick, just do it quickly. I could have pointed out that the wrong decision might lead us back into danger, but what would have been the point? We each knew there were risks, otherwise Taneisha wouldnt have sent us here. I took a last look down each row, spying a turn not far down the left path, and padded off in that direction. The others followed in silence, caution no doubt being on the top of all our minds. I led us down a series of turns intended to put some space between us and the beast in the mists, led purely by my wolfs sense of direction and scent. Hold up, Caden said, coming to a stop. Weve got some distance between us and whatever that was, but I dont want to get too far from the others, either. Whats our plan? I circled around them, coming to stand next to Sera, who reached down and scratched me between the ears. She still didnt seem quite herself, but at least she seemed more alert again. No doubt the fog had messed with her mind. I couldnt tell if our prior contact had been what forced me to shift, or the fog. Maybe a mixture of both? Whichever, nothing happened when she touched me now. We need to look around for clues while avoiding whatevers following us. I cant believe itd turn out well if we ran into it, I said to Marcos. Marcos relayed my thoughts to the others as he rubbed his leg, grimacing as he applied pressure.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage explains that the group is trying to find their way while avoiding whatever is following them. They are looking for clues and trying to stay safe.

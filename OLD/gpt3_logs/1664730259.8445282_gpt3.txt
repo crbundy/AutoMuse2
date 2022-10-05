@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: still talk my way out of this. The bird-man threw back his head, laughing up into the grey dawn sky of the Netherworld, before returning his attention to the jar of seeds I held in my hand. Those are not yours, incubus. Lilith is their rightful owner. Leave them, and I will let you live. Your Granny Lily is the Lilith? Sera asked, eyes wide with recognition. You call her Granny? Yeah. Family gets complicated, you know? Sera shot me a wry smile. Truer words How did the creature know the history of the seeds? Was it reading my mind or magically gifted in recognizing items? Whichever, I supposed it didnt matter. It had me dead to rights. Lilith is my grandmother. I borrowed the huppulu seeds from her and I need to return them. Then why dont I believe you, wretch? the Anzu said, advancing a step towards them. Why would you steal them, knowing how precious they are to our queen? Thats precisely why, although I wouldnt admit it to the beast. Sure, Francs legacy challenge had given me an excuse, but my fear of Lilys plans to use the seeds to bring a rebirth of demonic power on earth had driven my choice. Only now, facing the beast, could I accept the truth.  Id never planned to return the seeds.  The Anzu took another step forward. Give them to me, and Ill make sure they end up safe where they belong. I knew if I resisted, the Anzu would tear me apart to get the seeds back. I couldnt endanger Sera because of my impulsive behavior, nor could I allow my
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The creature knows the history of the seeds and demands that the protagonist return them. The protagonist admits that they had no intention of returning the seeds and the creature advances. The protagonist decides to give the seeds back in order to protect their friend.

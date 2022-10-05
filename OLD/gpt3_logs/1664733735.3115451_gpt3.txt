@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: bullied you, and you did nothing to earn their slights or escalate the situation? I bit on my lower lip. I might have goaded them on a time or two, especially when I thought it might get them caught. Well, when you put it like that, maybe I did? Just a little. He gave a slight nod, and his expression was understanding. I thought so. Youre telling me this situation was big enough to be more important than attending my moms charity gala with me? Ouch. Id forgotten about that. No, of course not. It was just bad timing. Setting everything up for this payback got a bit more time intensive than Id expected. Sounds like you let yourself get carried away. I started to explain myself, but Ray held up his hand to stop me. No, you definitely did. Tell me, Tany, do you remember how we met? My stomach fluttered at the memory of the first time wed met, which was at his retreat center.  My mother paid for me to attend a weekend retreat at The Chillax Center because I was dwelling on the past too much. There was an intensive on reframing anger to get to the deeper truths, which was all right, I suppose. What were your takeaways? I realized I needed to work out my past with these Goldenbriar guys, but in the present moment. It took some time to pull everything together, but thats what Im doing now. Paying them back one bully at a time. Ray ran a hand over his face. Im confident thats not what was intended by your reframing anger instructor, Tany. I frowned,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist reflects on their decision to take revenge on the bullies who wronged them in the past. They realize that this may not have been what their anger management instructor intended, but they feel confident in their decision.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: in the supe community that my word meant nothing. Personally, I couldnt care, as I lived apart, but the damage to my reputation would tarnish my family as well.  Alright, Em. Ill talk to Taneisha for you. I held up a finger in warning. But no guarantees, and you all will owe me a favor each in return for helping, even if I cant change her mind. He arched his brow. Youre not allowed to demand reciprocal favors. Thats against the rules of polite society. I arched a brow right back at him. Cant I? First, I only owe you a favor, not the others. Second, this is a last-minute emergency I have to drop everything for. Which wasnt anything besides my date with the elliptical, but he didnt need to know that. My time mattered, even if it wasnt magic-related. And third, its pretty clear you want this business kept quiet. He spread his hands wide and his smile melted the last trickle of resistance within me. Fair enough. Thats all I can ask. Emrys took my hand in his and headed for the door. Lets go. Wait. Now? Yes. No time like the present, right? I pulled away. Let me grab my purse. I ran back to the front, taking off my apron as I went.  Pepper looked up at my return, giving me the once-over. Was she checking to see if my clothes were out of place? I almost laughed. Are you taking off early? Pepper asked, a knowing smile on her face. Yeah. I felt a little embarrassed. But why should I? Besides, it wasnt what Pepper thought. Even if it was, so what?
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is talking to Emrys about helping a friend, and Emrys agrees to help. The speaker then says that they will owe him a favor in return. Emrys says that the speaker cannot demand a reciprocal favor, and the speaker agrees. The speaker then goes to grab their purse and tells Pepper that they are taking off early.

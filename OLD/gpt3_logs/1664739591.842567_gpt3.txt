@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: but the glow of the magic continued to grow, with the occasional ember catching in the breeze.  The three shared dubious glances. Chadwick cocked his head to the side, his expression doubtful. You took a job with the owner of Velvet and his friends? They werent buying Seras story, and I didnt blame them. Considering someone had reported her missing, I would have been suspicious in their shoes, too. Seras smile turned wooden, and she shrugged, as this wasnt anything important. As if we werent anything important. Yeah. We know each other from my days at Goldenbriar Academy. When they offered me this job, I felt I had to help them out. I must have forgotten to log my plans with the mage guild. Mikaels brow arched. So, this is just a job? Sera tossed her hair again. Exactly. Just a job. I clenched my jaw so hard I also expected to hear a tooth crack. Did Sera really just minimize all of us, as if nothing wed been through meant anything? Liam let out a low growl, and Cadens usual smirk was sour. My irritation rolled around my gut like a living thing, and it took all my focus to hold my tongue. Its not like I, or any of us, could claim her. Sera had allowed none of us to claim her, but now that she was publicly denying us, all I wanted to do was prove to her how wrong she was.  Sera needed us. Wanted us. Even if she couldnt admit it to herself.  Ella pulled away from Mikael and sidestepped around me. Are you sure youre alright? she asked Sera, her soothing,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Sera has taken a job with the owner of Velvet and his friends, and she insists that it is just a job. Chadwick, Mikael, and Liam are skeptical, as they know that Sera has been missing. Sera tries to downplay the importance of the job, but Ella is concerned for her well-being.

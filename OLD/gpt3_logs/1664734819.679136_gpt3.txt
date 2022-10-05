@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: us? Or Taneisha?  Doesnt matter. Whats done is done. Taneisha raised her hand and snapped her fingers. One eyebrow arched as she grinned at us. A thick fog rolled out from the hedge, faster than before.  Unavoidable.  I rushed toward Sera, terrified of losing track of my mate again. But in two steps I faltered, falling to my knees. The mists rose around us and I fell into blackness.    House of Mirrors Sera I woke up mid-stride, running down a tall corridor lined with pale gray marble. The stone was cold under my bare feet, and my off-shoulder neckline and gauzy sleeves did little to ward off the hint of chill in the air.  But what a dress! Layers of silk billowed around me as I came to a stop. The tight alabaster bodice fit snugly, yet it was butter soft against my skin. The ombre skirt transitioned from white into a brilliant midnight blue around my calves, making me look like Id waded through a lake, but classier.  Too bad I didnt like dresses. Come to think of it, Id feel more comfortable knee deep in a lake than in this girly frock, but trapped people cant be choosers. Wait, when did I change clothes? Oh, right. I remembered Taneisha fogging us. She must have knocked everyone out. Was I dreaming now or awake in some new fae universe? Did it matter? Sconces lining the walls radiated a muted candlelight. It was enough to make out the delicately carved molding around the doorways, but not enough to see far into the distance. The hallway Id been moving through had a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage describes a character's disorientation after being transported to an unknown place. She wakes up in a long corridor, wearing a dress she does not like. The character wonders if she is dreaming or if she has been taken to a new place. She does not know if it matters.

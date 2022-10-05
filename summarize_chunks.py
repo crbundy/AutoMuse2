@@ -46,14 +46,20 @@ def gpt3_completion(prompt, engine='text-davinci-002', temp=0.7, top_p=1.0, toke
 if __name__ == '__main__':
     books = os.listdir('books/')
     for book in books:
-        #if 'alice' in book:
+        #if 'looted' in book:
         #    continue
-        #if 'frankenstein' in book:
+        #if 'bonus' in book:
         #    continue
-        #if 'greatgatsby' in book:
+        if 'sworn' in book:
+            continue
+        #if 'entangled' in book:
         #    continue
-        #if 'pride' in book:
-        #    continue    
+        #if 'hidden' in book:
+        #    continue
+        #if 'reckless' in book:
+        #    continue
+        if 'smoke' in book:
+            continue
         name = book.replace('.txt', '')
         chunks = [i for i in os.listdir('chunks/') if name in i]
         count = 0
@@ -61,12 +67,16 @@ if __name__ == '__main__':
             count += 1
             #if count <= 11:
             #    continue
+            #added this section to check for an existing summary on a chunk before generating a new one. so only outstanding chunks are processed
+            if os.path.isfile('summaries/%s' % chunk):
+                continue
             prompt = open_file('prompt_summary.txt').replace('<<CHUNK>>', open_file('chunks/%s' % chunk))
             prompt = prompt.encode(encoding='ASCII',errors='ignore').decode()
             #print(prompt)
             response = gpt3_completion(prompt)
             print(name, chunk, response)
             save_file(response, 'summaries/%s' % chunk)
-            if count >= 40:
-                break
+            #when doing long books where more than 40 chunks rem this out
+            #if count >= 40:
+            #    break
         

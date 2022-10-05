@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: two? Possibly three. When he turned to us, Francs expression was a storm cloud. We need to hurry. All that power, all that madness, with no tempering force, is a powder keg waiting for a spark. Taneisha might give us three days, but Id be surprised if we have one day before my club descends into pandemonium. Assuming it hasnt already. I knew I wasnt the only one catching Francs panicky vibes, but before we could even move, Taneisha continued. Hold on.  She closed her eyes and rocked her head to the side before snapping her fingers once more. In an instant, all of our clothes changed. Well, all except Rays. Franc had on a deep burgundy suit, fitting for a demi-god of wine. Emrys looked like the suave, rich boy he was, with an expensive tailored button-down shirt that was just a little too small for his muscular frame, designer jeans, and gold chains encircling his neck. Shed dressed Caden in fancy jeans, but with more of a bad boy edge with a dark red tank top and loose-fitting jacket. Marcos wore a black shirt and jeans with a black leather jacket, no doubt a tribute to his typical bouncer attire. Liam wore a tight dark green tee shirt that hugged his frame and jeans. Everyones hair looked freshly washed, as if wed all come straight from the shower, too. Taneisha had put me in a skintight dress with a strappy, low cut vee bodice and a wrap skirt that barely covered my hips. The pink champagne-colored fabric sparkled with shiny sequins and stones. It was a look
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Taneisha has the power to change people's clothes, and she uses this power to give everyone new clothes except for Ray. Franc is panicking because he thinks Taneisha only has a few days before her club descends into chaos.

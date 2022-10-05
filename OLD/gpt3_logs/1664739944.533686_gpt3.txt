@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: formidable white wolf stood in his place.  Nows not the time to wolf out, my man, Marcos said. Caden stood at their side, expression sour and hands on his hips, as if his disapproval alone might correct the situation. Liam whined, pawed at the ground, and then shook his fluffy mane, causing the mist to scatter around him. I didnt know for sure, but I thought he looked frustrated. Marcos cocked his head to the side, frowning as the two shifters spoke telepathically. Liam says he cant change back. Marcos looked up at me. He thinks touching you forced his shift. Caden, Marcos, and Liam all stared at me. The maze walls shuddered and groaned, showering us with leaves. Mist continued to swirl around our feet and legs. An ominous weight settled in my stomach.  Me? I heard the panicked pitch in my voice. I know my magic is chaotic, but I did nothing. I tried to go to Liam, but Em held me back. Whether it was to prevent me from going near the wolf or a desire to keep me close, I didnt know.  Emrys gaze watched Liam, not me. I didnt know what to think of his uncharacteristically quiet, reserved state. When he spoke, it was in a whisper. His voice sounded raw and overused. Of all my waking dreams so far, this one is the most curious, Em muttered as if to himself, his breath hot on my neck.  Dreams? Emrys really had lost track of reality in Taneishas deprivation chamber. Just how far gone was he? I needed to shake him out of it. Quick. The hedge walls shuddered again,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A white wolf is standing in place of a man, who says that now is not the time to "wolf out." The man appears to be frustrated. Other people in the area are staring at the wolf and the man. The man says that the wolf thinks that touching the man caused him to shift. The hedge walls around them are shaking.

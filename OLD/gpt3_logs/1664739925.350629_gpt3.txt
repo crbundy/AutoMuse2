@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Watching Emrys twist and strain against Franc, a wholly inappropriate image filled my mind. I knew Franc and Caden played that way. Was it too much to wonder if Em and Franc did, too? I shook my head. I needed to keep my focus on the hunt, not wondering how much oil youd need to lubricate a round of naked wrestling between two demi-gods. Just as we reached the others, a deep-toned gong rang through the air, reverberating so powerfully I felt the vibration hit me like a gut-punch. I wobbled on my feet, and then stopped short of reaching the others, needing to wait until the sensation passed. Speaking of tricks; what the hell was that about? Marcos moved close, dropping our bags to the ground so he could slide his arms around me, steadying me on my feet. I leaned into his strength, resting my forehead on his chest as I gasped for breath.  A gong? I choked out, gasping my words as my chest ached. As if that isnt corny as hell. Might be corny, but as weve learned on these quests, that doesnt mean we shouldnt take it seriously. You okay? Marcos asked. I shrugged. I think so? It feels like something kicked me in the gut. I looked up, finding five sets of eyes focused squarely on me, including Emrys. As they looked at me, a frisson ran down my spine as I shivered under their attention. Trying to shake off the intensity of the sensation, I took a deep breath and pushed away from Marcos, but he resisted, holding me tight in his arms. You sure youre steady on your feet
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the feeling of being hit by a gong, and how the other characters are looking at the protagonist. The protagonist wonders if the gong is a trick, and Marcos (one of the other characters) asks if they're okay. The protagonist shrugs and says they think so, but they feel unsteady on their feet.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: melodic voice at odds with the slight frown pulling down the corners of her deep red lips. Sera nodded a bit too eagerly. Im totally fine. A breeze swept through, sweeping Seras hair across her face. She absentmindedly raised her hand, which was still sparkling with red and pink embers, and tucked her hair behind her ear. The casual, and now repeated, display of magic didnt go unnoticed. Mikaels brows shot up, and he and Chadwick shared a look of concern. Everyones focus shifted to Seras hand, which she tucked behind her back, hiding them away from Mikael, Ella, and Chadwick.  Sera looked down at her hands, finally seeming to understand that everyone could see her lack of control over her magic. I knew she was worried about her family and other mages discovering how chaotic her magic would be. Now there was no denying it. Unless we could manage these three and somehow convince them to keep Seras secret, that fear would become a reality.  You dont look fine, Ella replied. I could soothe you, she offered, holding up her hand. Youre a siren? I asked Ella. With her sirens gifts, Ella no doubt was reading us like a book. Forget about letting Seras magic secret out of the bag. How would she feel about whatever this was between all of us being revealed? I couldnt imagine Sera would welcome that, especially when she wasnt even willing to claim us as her own. Ella nodded, the brilliant green of her eyes fixing on me. I am, and Im happy to help calm the mage. It
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Everyone is concerned about Sera's magic being out of control. Ella offers to help calm her down, but I'm worried about what that will reveal about our relationship.

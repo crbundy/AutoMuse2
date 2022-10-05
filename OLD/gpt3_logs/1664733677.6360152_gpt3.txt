@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: toward me. Liam threw his head back and howled, his guttural roar empowered by wine-drenched madness. Ravers howled along in solidarity with Liam, but I kept my focus on my mate. Thank the gods you got here just in time, Emrys exclaimed, sagging against his chains in relief. Liam was about to bite Sera. He thinks claiming her will break her out of this madness. Well, timing is everything. I pondered Emrys words. Was Liam right? Would claiming Sera as our mate release her from the magics hold upon her? Sera stopped before me; her eyes lit with an inner fire. Or was it a tinge of insanity?  Wine god, she greeted me. Maenad, I replied. So you have marked me, lord of the frenzy.  The last thing I needed was to follow Sera down into this rabbit hole of madness. Ill pass for now. And I didnt mark you, Sera. I opened a door, but you were the one to run through it. She arched a brow and then leaned in close. Tell yourself whatever you like, god-born. You branded me with your power. This isnt just a door you can close and pretend nothing happened. Seras words sunk in, and I wondered at the consequences of our time in the temple together. Id wanted to free her. Release her from Taneishas magic. Had my push of magic marked her as well? Its not like there was a manual to god mates. At least, not one that Id been given. I heard the sound system click on, followed by a gradual fade in of a leisurely Mozart sonata. The ravers didnt give any sign of noticing
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Liam was about to bite Sera when Emrys intervened, asking if claiming her would break the spell she was under. Sera says that he has branded her with his power and that there is no going back now. I wonder at the consequences of our time in the temple together.

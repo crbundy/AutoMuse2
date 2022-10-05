@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: A few minutes later down the hill, it led me unerringly to a door in the hillside which hadnt been visible from the trail above. The plain, wooden door, shaped like a broad leaf and the color of dirt. was hidden behind a stand of bushes. I tried the handle, which was locked. The wisp, which had been floating around my head and shoulders, shot towards the handle after Id let go of it, disappearing into the locking mechanism. A distinctive click came from the lock, and when I retried the door, it opened to reveal a dark room beyond. I tried not to worry about what Taneisha would demand for this boon, but the thought itched at the back of my mind.  Would you like me to go in first? Liam, whod caught up with me, offered.  Marcos was slowly catching up, still favoring his right leg. Whatever boost Franc had given him earlier, it was fading fast. I saw Franc and Caden walking behind him, speaking to each other in low tones.  No. I dont imagine the fae would agree to a boon just to hide a monster inside. The warmth in Liams smile tugged at my heart. I agree. A surprise monster would be pedestrian by her standards. He placed a hand on my shoulder, and I melted into the comfort of his touch. Just to say it, whatever Taneisha extracts for her price, Ill be there to help. All of us will be.  You cant speak for all of them, Liam, but I appreciate you backing me up. Theyll come around. I frowned, but didnt feel like arguing with him. Liam and Marcos wild insistence
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person walking down a hill and finding a door hidden behind some bushes. The person tries to open the door, but it is locked. The wisp then goes into the locking mechanism and unlocks the door. The person enters the dark room beyond and wonders what the price will be for the boon. Liam then offers to help the person with whatever the price may be.

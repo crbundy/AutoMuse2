@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: me, no doubt weighing my determination over his desire to pull me away from here. Thats an enormous risk to take on a hunch, especially when your magic is on the fritz. I might defy death, but you dont have that protection. I just shrugged. We need to take risks if were going to win in this maze.  He huffed out a breath. Fine, but youre not going without me. The guys would kill me if I let something happen to you. I planted a kiss on his cheek. Ill be fine. Taneisha likes me, remember? He glowered, but slid his hand into mine. Im grabbing you and running at the first sign of trouble. I nodded. We walked side by side toward the wendigo in the center of the maze. The others stepped forward at our approach, but then the near one howled and they backed off. When we got within a few feet of it, the stench of the beast was near overpowering. It stank like the dead, and his labored breath was foul. Yet it just stood there watching us approach.  Not that scary for a depraved eater of human flesh. I slid off my backpack, not wanting to be encumbered if I was wrong. Now what? Emrys asked. He took my cue and dropped his bag as well. On instinct, I held up my free hand. I need to get closer. The beast raised its hand, mirroring my movements. My curiosity washed away my remaining worries. See? I said to Em. Instead of holding me back, he moved forward with me. When my hand and the wendigos touched, the sound of tearing paper filled the air and the space between us
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person approaching a wendigo, a creature that is said to eat human flesh. The person is not afraid of the creature and wants to get closer to it. When they touch, a sound like tearing paper is heard.

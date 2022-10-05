@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: rating?  The fae rolled her eyes at me, but the fabric transformed under my touch. I think youre taking this no harm pact a little far.  Even one serious sunburn drastically increases the risk of skin cancer," I replied, not at all sorry that I was pushing the boundaries of Taneishas promise to keep me safe. She was a flighty creature on the best of days, and if I reminded her a few extra times, I didnt see the problem. I nodded towards the guys. Can you give them all the same sunscreen-enhanced white fabric, too?  With a flourish of her fingers, all five of the guys' clothes changed, but they kept muttering to each other as if nothing had happened. What were they going on about?  How about some auto-filling canteens too? I asked. We dont want anyone to get dehydrated.  Taneisha sighed, but the canteens she had asked for showed up the next second, slung across bodies and over shoulders. Youre really reducing the joy these quests are intended to bring me, Sera.   I failed to hold back my grin. Did you expect theyd roll over and lose all of their legacies to you permanently?  Yes! she huffed. I blame you, Sera, for their sudden resourcefulness.  Ill take that credit any day, I replied.   Tanisha nodded deliberately as she focused on a spot across her glen, the slightest frown tugging at her brows. A moment later, a portal opened to a sunny, sandy locale, the hot, dry air blowing into the faes demesne.   Its time you all got a move on, Taneisha
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a conversation between two people. One person is asking the other for help with a quest, and the other person is reluctant but ultimately agrees. The quest involves protecting people from the sun, and the helper provides sunscreen and water for the people involved.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Sera. I hope it works out for you. I blinked slowly as I processed her words, realizing that the mercurial fae had no intention of letting me go. Whatever plans she had for the boys, I was along for the ride. However long that lasted. Could anyone blame me for launching myself at her? A sparkle lit Taneishas eyes, and she raised her hands, a swirl of grey mist forming between them. I didnt get far. Just two steps toward her and firm yet gentle hands came around my midsection, lifted me up, and gracefully moved me back to where the boys were gathered, despite my protests. Youre okay, Marcos whispered in my ear. His steady presence cooled the burn of my anger. Despite myself, I struggled against him. Id love to watch you take her down, but you cant win against a fae in their realm. Just breathe. I hated it, but he was right. I could never best a fae within her magical home base. I also couldnt muster enough magic, or control it long enough, to blast her socks off. But none of them needed to know that. What kind of mage are you, that you resort to blows? Franc asked.  I glowered at Franc, but didnt answer. Marcos ran his hand down my arm, a simple, yet both supportive and calming gesture, and I relaxed against him.  A fair question, wine-borne, but itll have to wait, Taneisha replied, allowing the mist between her hands to dissipate. Enough distractions. Its high time I outlined the rules of this game. I have your priceless heirlooms, and its on you to win
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The fae Taneisha has the boys' heirlooms and it's up to Sera to get them back. Taneisha outlines the rules of the game, and Sera is angry but can't do anything about it. Marcos calms her down.

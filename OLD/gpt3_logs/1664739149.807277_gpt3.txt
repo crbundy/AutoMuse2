@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: chaotic. All supes have their own trials and tribulations. Its the burden we have to bear for being extraordinary, I said. This time Seras laugh was full-throated, and her smile took my breath away. I sucked in a sigh of relief when her mage fire retreated another few inches. Good instincts, Liam said to me. The fire has diminished. Id still prefer a more full contact method, but glad this seems to help. Caught in a laughing fit, Sera brought her hands up to her head. This is so ridiculous. Racked by laughter, she leaned forward, gasping out phrases one by one. Ive been sucked through faery. Stuck with the five hottest guys from school. Hunting pixie poop. Setting a shed on fire. Revealing my deep dark secret. Wait, wait, the hottest guys from academy? I asked, shocked by her admission. You mean us? She glanced up at me, tears of amusement rolling down her cheeks. Duh. Have you even looked at yourselves? Sera waved at us.  Liam and I hadnt taken the time to put on anything but our pants. Now we sat here, shirtless and sweating from the heat of her remaining mage fire. I mean, youre a curious bunch, but damn. Id actually wondered if youd all made friends just to segregate the academys hotness into the most compact space possible and lord it over the rest of us. Like a supernova of hotness. Sera succumbed to another laughing fit, which was good, cause I needed a moment to pick my jaw up off of the floor.  Wow, Liam replied, chuckling. Let me
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage describes a chaotic scene in which a girl named Sera is laughing uncontrollably. Liam and the narrator are shirtless and sweating from the heat of her remaining mage fire. Sera admits that she thought the five hottest guys at school had become friends in order to lord their hotness over the rest of the student body.

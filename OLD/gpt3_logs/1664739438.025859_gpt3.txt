@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: reaching Liams outstretched hand easily. Youre next, Marcos told me.  I pulled off my backpack and tossed it up to Liam. I didnt hesitate, stepping into Francs hands, then jumping up and grabbing both Cadens and Liams hands. They hauled me up, and I rolled past them, needing to get out of the way. Another two backpacks landed on the rock beside me, and I pulled them away from the edge, tossing them against the cave wall. They pulled Franc up next, and I expected Marcos, but he didnt follow. When I looked down over the edge to the trail below, a golden-eyed black panther met my gaze.  Icy panic flooded my veins. No, you cant stay down there, I called out. Get up here, Marcos! Liam was right in front of me, his hands on my shoulders. Hes a scrapper and he can handle himself. We both can. I knew what Liam was getting at. He was about to join Marcos and fight off the ghouls. No, dont go. This is crazy. We can wait them out up here. The ghouls will burn up or get bored. His tender smile touched my heart. I wont have Marcos go this alone. We need to finish the ghouls off, or they might draw more. Liam looked at Franc and Caden. Protect her. Liam shifted, his wolf form still larger than I expected, and nuzzled my cheek and neck before he turned and leapt off the cliff to the trail below.  We cant let them do this, I begged Caden and Franc. Franc came to stand next to me at the cliff edge, but Caden held back. Ive seen both of them fight, Caden said,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Marcos, Franc, and Liam are fighting ghouls on a trail below. Icy panic floods the narrator's veins when she sees a black panther, but Liam reassures her that they can handle themselves. He then shifts into a wolf and leaps off the cliff to join the fight. The narrator begs Caden and Franc not to let Liam and Marcos fight alone, but Caden says he trusts them.

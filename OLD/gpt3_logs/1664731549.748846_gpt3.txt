@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: but the rock looks pocked, so handholds should be workable. But once were over to the other side, it should be easier to defend ourselves from whatever those wraith creatures are. Liam nodded at her, apparently sold on the idea. Thats clever. If were lucky, theyll fall when they try to follow us over. He turned to Marcos. Hand me the rope? Its a simple party strategy, but thanks, Sera smiled up at him. Liam took one end of the rope and knotted it around his waist. When he finished, he tied Sera in next, and then Marcos. Each of them had about eight to ten feet of slack between them. When he approached me, I balked, holding up my hands. Were just going to try this? No discussion of other alternatives? Its the path to the Anzu, so well need to go that way anyway, Caden replied. Unless we can find a way around, but I dont think any of us want to search for alternate routes with the wraiths closing in on us. Fine, then. Fine. I allowed Liam to tie the rope around my waist, wondering how things had gone south so quickly. Oh, right. Hell. Liam finished with Caden moments later and then led the way to the the traverse. Looking down into the ravine below, I felt less sure of this course of action.  How is this supposed to work again? I asked. Its simple, Liam replied. If one of us slips The others all follow them to their doom? I replied. No, Liam replied. We catch whomever falls and pull them back up. We work as a team. Together, as were meant
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The group is tied together with rope and is attempting to traverse a ravine using handholds on a rock face. If one person falls, the others will try to catch and pull them back up.

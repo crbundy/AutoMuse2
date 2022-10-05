@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: chuckled, despite the tense circumstances. I couldnt help but laugh along with him. Besides, were all back together now. But for how long? I kept the thought to myself, not wanting to voice it aloud. Ever present in my mind were the mating marks covering Seras shoulders. What did that mean for Sera and me? For the posse?  I needed a resolution. My wolf was howling in my mind. But how hard could I push this motley crew? Youre a mess, Franc said, brushing off Cadens shoulders.  Im surprised to hear you feel so strongly about the posse, Em said to me, his sedate demeanor belying the intensity I knew lived under the surface. Youve hardly been back since our academy days. Not since you moved back home with your pack. I tried not to take it personally, but I couldnt help feeling like you just had better things to do than keep in touch. His chastisement rang true, and for a moment, I couldnt find the words to respond. Uh, guys? Sera broke in as the minotaur howled in the background. I hate to break up this feel fest, but shouldnt we be focusing on the brawling beasts? Franc held up his hand. I disagree. The beasts are preoccupied with their battle and this is more important right now. Sera gaped, but Franc turned to me. Go on. I took a deep breath, but then kept on rolling. Youre right, I havent been back. Its hard to forge a life beyond pack territories. Were expected to stay on clan land. Find a trade to contribute to the pack. Even find our mate
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage is about a group of friends who have reunited, one of whom has just returned from living outside of their pack's territory. They discuss the implications of this and the possible consequences for the group. One of the friends is also struggling with their feelings for another friend who has mate marks on their shoulders.

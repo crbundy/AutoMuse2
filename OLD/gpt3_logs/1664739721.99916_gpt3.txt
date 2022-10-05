@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: dont. There were some awkward stares back and forth, but no one responded. Fine then, enough with the goodbyes. Were on a schedule. Taneisha pointed to her still-open portal. Last one throughs a wet noodle! We all hesitated.  Not literally, right? Franc asked. Taneisha laughed with abandon. No, silly, not literally. Or is that figuratively? Im never sure. I just mean, youre all dragging your heels and its killing my momentum. We let out a collective breath. Off we go, Marcos said, heading toward the portal. Weve had swamps, mazes, even hell. What is it this time? he asked over his shoulder. An ice planet? Im turning up the heat, baby! Taneisha replied. This time, in honor of Emrys heritage, were going to the desert! Oh joy, Caden said, following Marcos. At least demons can take the heat. Less so for shifters, Liam added, following on Cadens heels, but well make do. Emrys and Franc appeared to be waiting for me, but I motioned them through with my staff. They seemed dubious, especially Emrys, but went ahead. I walked up to Taneisha, facing off with her next to the portal.  You got a place where I can store this? I held up my staff. She winked. You know I do. Also, I know you usually have plans for our wardrobe, but I have some ideas, I said. Why didnt you say something sooner? Whatever you want, you know its no problem at all. Can I just say, this ensemble you have going on right now, its so goddess of destruction who isnt
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of friends preparing to travel to a new location. One of the friends, Taneisha, is excited about their destination and teases the others about their reluctance to leave. The group decides to go along with her plan and travel to the desert.

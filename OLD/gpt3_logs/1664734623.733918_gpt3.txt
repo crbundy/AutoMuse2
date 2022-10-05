@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Thats not much of an endorsement, Ella replied as Marcos set her down on her feet. Are you okay? Caden asked Mikael. I think I broke a rib or two. Mikael winced. But Ella twisted her ankle. Wheres Sera and your other friends?  Were finding them next. That caves headed the same direction we last saw her going, Marcos replied, his tone so full of bluster even I believed him. I think I know where we can find a medical kit with gear to stabilize Ellas ankle on the way, too. But we need to keep moving and stay ahead of the cannibals. Potential cannibals, Taneisha added, earning herself an eye roll from Ella. So, you dont know if Seras okay? Chadwick asked, his tone an indictment. Shes fine, I said. Em and Liam should be with her by now, too. Im not inclined to trust any of you, Chadwick replied. Youre welcome to stay here. Your choice, I said. Caden led the way down the tunnel. Seras friends followed, although Chadwick glowered my way before stepping into the tunnel. I grabbed Marcos shoulder before he followed, holding him back. For all the crazy nights weve seen at Velvet, Ive always relied on you to have my back, brother. I dont know how Id manage without you. He grinned. You wouldnt, so Im not about to leave you to figure it out on your own. Now come on. Marcos disappeared into the cave after the others. Taneisha stepped close to me, her shrewd gaze lingering on my bloodied knuckles. I can see what Sera likes about your cadre.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The group is trying to find their friend Sera, who is lost in a cave. They are worried about her safety, as there are potential cannibals in the area. However, they are determined to find her and have a plan to do so.

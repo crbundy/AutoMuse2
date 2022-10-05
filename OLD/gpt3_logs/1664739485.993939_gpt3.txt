@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: fifteen feet from the shore, but it might as well be a mile if we couldnt free Marcos from the undead demons.  Keep pulling! I cried. Franc and Caden seemed to understand the undead waters had no intention of giving up, and continued pulling Marcos up onto the ferry. The undead tentacles gave no appearance of relinquishing their prey. For every inch they pulled Marcos out, they lost half that distance as the river fought back. I raised my hands, which glowed with an electric charge fueled by my fear alone. Would my magic bend to my will in our time of need? Knowing Marcos was in the water because of me, his very life in the balance, I couldnt just stand by and do nothing.  Mojo, dont fail me now, I whispered. I let loose a series of lightning bursts aimed straight at the water near Marcos feet. On impact, my magic lit up white-hot veins across the surface of the water, covering the roiling black waves between us and the shore. An ethereal screech pierced the air, coming from nowhere and everywhere.  Marcos yelped in pain, but then a moment later the demonic tentacles retreated all at once, freeing his legs. Franc and Caden fell back on their butts as they gave one last heave, pulling Marcos fully up onto the safety of the ferry. The surface of the water shuddered and twitched, the fan-like pattern of my electric magic burning its way across the surface. The three men, brothers of choice, checked each other out. Franc pulled Marcos close, holding him tight for a brief
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Three men are trying to rescue one man from the water, which is full of undead demons. One of the men uses magic to fight the demons and free the man.

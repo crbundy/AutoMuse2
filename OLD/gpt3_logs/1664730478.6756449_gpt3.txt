@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: shimmered, dispelling the image of the wendigo. Instead of a wild, stinking beast, Liam stood before me, a look of triumph in his eyes. Emrys let go of my hand as Liam scooped me up into his arms, burying his face against my neck. I threw my arms around him, kicking my heels up as he lifted me into the air. Over his shoulder I saw the wendigo illusions had dropped on the others, leaving a relieved looking Franc, Caden, and Marcos, who were now walking over to join us. They held sticks in their hands and looked sweaty, like theyd been running or something. I knew you werent a naga, Liam growled against me, his whiskers tickling my neck. And I knew you werent a wendigo, I replied. I was less convinced, Em added, his smile more at ease than Id seen since wed reunited. But you know its not like you can stop Sera when shes convinced of something. Liam pulled back and let me back down, planting a kiss on my forehead as my feet touched the ground. Headstrong isnt a strong enough word for our mage. Im glad you were brave. Right back at cha, I said. I told Em we had to take some risks to win. Liam smirked. Im glad to hear youre open to taking risks, he murmured. I look forward to witnessing more of your bravery.  I knew Liam meant more than just seeing through the mazes illusions. His focus on mating was absolute, and to my surprise, my resolve was crumbling. Right at this moment, I was so glad to have us all back together. I wanted to keep Liam. All of
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The group is relieved to see each other and they all joke around. They talk about how headstrong Sera is and how it's a good thing. Liam is focused on mating and Sera's resolve is crumbling.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: your dress. I need one of those, too, simply for the storage. Fewer flowers, but all the magic pockets. Maybe in faux fur? Pockets are indeed a special magic, but I really need to get the hells out of here, I whispered. Are you ladies all right? came a deep voice from behind us, and I jumped at the interruption.  We spun around. The guard was no longer bound up with snakes and he had a bit of grass in his hair and a smear of blood on his face from where the snake had bitten him. Because of his constitution, hed already mostly healed, but I could still see where the fangs had broken his skin. Were fine, there are no snakes in here, Jax replied, flashing the guard a sultry smile. Oh my, are you all right? Im fine, just checking on the legacies, he pointed to the case, and then did a quick double take. What the hells? What happened to the legacies? What do you mean? I replied, plastering on what I thought was my most innocent face. Thats how it looked when we got here. The vampire looked us both over, suspicion suddenly wiping the concern from his features. He reached for his radio. Quick as a wink, a black-tipped auburn something snapped through the air, hitting the guard behind the head. He wobbled for a moment and then slumped to the ground, unconscious. When I looked around for the source, I couldnt find what Id just seen, and yet I knew what it had to have been. Was that your tail? A flush pinked Jaxs cheeks. One of them. I looked behind her, but
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker and Jax are talking to a guard who is suddenly knocked out by an unknown assailant. The speaker suspects that it was Jax's tail that hit the guard.

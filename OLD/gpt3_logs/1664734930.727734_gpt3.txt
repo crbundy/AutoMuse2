@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: paying no mind to the open door into faery before them. You have until noon tomorrow to find Marcos legacy, she said. Thats just over twenty-four hours from when Im re-inserting you. I looked up at him, but his focus was single-mindedly on Taneisha. How do I find it? Marcos asked.  Since its the first trial, and you were the least terrible to me, Marcos, Im making it easy for you. You get a scavenger hunt. Go through the door, find the Eye of the Tiger, and bring it to me. Marcos placed his right hands on his hip. Just one item? Yes. Caden let out a derisive snicker. You cant call one item a scavenger hunt. Oh, cant I? She rolled her eyes at him. Im sure I can call it whatever I want. How do we find you? Emrys asked. Thats easy. Get into a secluded location and say my name three times in a row. Oh, I almost forgot. Dont play this fast and loose and try to cheat your way out of this. You must negotiate in good faith to get the Eye. No cheating. No stealing. If you break the rules, there will be consequences. She turned her narrowed gaze at each of them, as if daring them to further challenge her. Now get a move on. Your countdown is already running out, boys. Or folks, I suppose, now that you have a one-plus. Taneisha said and then winked at me.   Scavenger Hunt Marcos The door to faery slammed shut behind us with an air of finality. The frame on this side was the front door to a nondescript shoe repair store. I was confident the link to
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a scavenger hunt that Marcos has been tasked with in order to find a legacy left by Taneisha. The rules are that he must negotiate in good faith to get the Eye, and that there can be no cheating or stealing. The door to faery slams shut behind them, and Marcos has until noon tomorrow to find the legacy.

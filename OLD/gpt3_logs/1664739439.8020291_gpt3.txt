@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: to get excited about, but at least we dont have to hunt down food. Lucky. This realm is low on grocery stores. Bars too? Franc asked. I chucked. Depends on what you like to drink? Liam gave us a nod and then headed to join Sera and Marcos. I leaned against the cave opening, determined not to think about what I might miss out on. Franc sauntered over and stood close to me. Whats up with your mood today? Nothings up with me. He rolled his eyes. I can tell when youre moping about something because your dimple shows. Plus, you passed up on a prime opportunity to feed back there. What gives? I dont have a dimple. You must be thinking of someone else. Franc reached up, brushed his thumb across my dimpled cheek, and then cupped the back of my neck with his hand. I hoped hed move in, crushing me beneath a passionate kiss with his need, but he maintained the space between us. We were on watch duty, after all. I needed to keep my head in the game. The saving Emrys from the fae dungeon game.  I know everything about you, demon. A glitter of intimate knowledge lit up Francs eyes, and for a moment my thoughts turned downright carnal. So why didnt you let that hot little witch mount you like the stallion you are? I raised my brows. Sera wasnt even fully awake. I bet she thought I was someone else. Someone shiftery. He tilted his head to the side, a smile playing over his lips. Are you not interested in the mage? I shrugged. What if Im not? Franc dropped
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a conversation between two people. Franc asks the other person why they are in a bad mood, and the person responds that they are not in a bad mood. Franc then asks if the person is interested in the mage, and the person responds that they do not know.

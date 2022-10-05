@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: exit, we stopped short to a familiar, if grouchy, face. The tall, dark, and ominous panther-shifter Marcos stood between us and freedom, holding the bowling pin Id left for him in his hands. Tiny legs had sprouted from the base and now flailed about wildly, looking for purchase to run away from Marcos. Hey Taneisha, he said to me. I got your gift. And you are? he asked Jax, his voice a deep purr.  Jax actually blushed! Or was that just a flush from running? Jax, and its so nice to meet you, she said, looking him over.  Sure, Marcos was built like a brick wall, but I didnt need Jax falling for his stoic strength. Im glad you found me before we left, I replied, pretending I was happy to see him. I found that in some old things. Figured it would give you a laugh or two. He grimaced. Im not sure I understand, but thanks, I guess? I see youre both leaving in a rush. I dont suppose you had anything to do with the snake commotion by the fountain? I saw them! Jax offered. Scary things. Big and black. But Im sure youre on top of the situation. Uh, huh. Why dont you ladies wait here with me while we sort things out? he asked. I can even get you more champagne while you wait? I heard the guards closing in, their radio chatter quickly growing in volume. Im afraid weve got to go, I said. He waved the bowling pin in the air. Funny, I dont believe in coincidences. Youre here. Snakes in the fountain. Plus a knocked out guard. Its got me wondering. Had
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Two women are trying to leave a party, but are stopped by a man named Marcos. He is holding a bowling pin that one of the women, Taneisha, left for him earlier. He asks them to wait with him while he sorts out the situation with the snakes in the fountain. Taneisha declines, saying they have to go.

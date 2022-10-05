@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: hefted the weight of it over his shoulder, and then turned to leave. I stepped out of the doorway as he turned off the lights and pulled the door shut behind us, testing the lever handle to make sure it was locked. I could only hope the tissue would do its job. Hopefully shell be back before you know it.  Thats kind of you to say. We passed through the facility, making it all the way to the front desk. It was good to meet you, Greyson. Im going to make a pit stop here. I motioned to the bathrooms. Assuming thats okay, considering youre closing? He frowned, but then looked up, seeing the security guard seated behind the ticket counter, and relaxed. Yes, you should be fine. Have a good evening. Same to you, I replied, ducking into the bathroom.  I waited a couple of minutes before emerging. Greyson had left, but the guard was still at the desk. I walked right up to him, doing my best to look anxious.  Everything okay? the man asked. The logo for Solid Security over a silver badge on his uniform. His name tag read Jonesy. Im sorry to bother you, Jonesy. I must have left my jacket in the exhibits. He frowned, pursing his lips. You sure you brought it in with you? I nodded. Definitely. Its got my car keys in it. I was mindful to be entirely honest, just in case the man had some ability to discern the truth. You could never tell, and in a town so full of supernatural beings, the risk was even higher.  Why dont you take a quick run back through and
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person going through a facility and meeting a security guard. The person then goes into the bathroom and waits a couple minutes before coming out and speaking to the security guard. The person is asking if they can go back and look for their jacket that they believe they left in the facility.

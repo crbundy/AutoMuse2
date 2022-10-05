@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: up and roll back through it for you slow like. I have an invitation to the most exclusive party in town where Ive heard the naughty gents youve been looking for will be in attendance. Its Club Velvets blow out party. Look at the title! The invitation had the words The Boys are Back emblazoned in gold leaf across the front in a large, scripted font. It also read by invitation only in the fine print. I immediately realized that boys were the five miscreants whod tormented me throughout our days at Goldenbriar Academy together. Itd been a few years since wed graduated and gone our separate ways, but Id sworn to plot, scheme, and deliver the perfect retribution, and I wasnt about to let that go for some dirty drinks and dancing. Or was that drinks and dirty dancing? Whichever. No dirty drinks nor dirty dancing. Not until they paid for what theyd done to me. I scowled in Jaxs general direction. Jax, I didnt ask you to take me to a party with those dastardly dudes. I asked you to help me plot the downfall of my enemies. Why would I want to go to a party with them? Because She slow-blinked at me. Theyll all be together and this fab five rarely ever hangs together, much less in public. This is a rare and valuable opportunity Ive delivered for you, fae. Appreciate me, Jax demanded, tossing her hair over her shoulder. I relented, not just because Jax was the smoothest kitsune I knew, but also because she was right. Youre right, its a perfect opportunity.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's reaction to an invitation to a party where their enemies will be in attendance. The person's friend points out that this is a rare opportunity to take revenge on them, and the person agrees.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: difficult terrain. As Liam reached the far side, he shucked his backpack to the ground. He braced his body against a boulder, wrapping the rope around it, before motioning for Marcos to start his crossing. But when Marcos stepped up and shuffled across the traverse, the slight wobble in his movements set off alarm bells in my mind. I couldnt remember a time that Marcos had looked shaken or weak. He must have been more badly hurt back at the river more badly than Id realized. You okay, Marcos? I asked. Ill be fine, he said. But if so, why was he shaky, with sweat running down his brow? You dont look fine. What could I do? If he fell, sure we could catch him, but preventing the fall would be preferable. Can I please boost you? Marcos gaze settled on me, a frown creasing his already perpetually serious expression. I knew he understood my euphemism for the gift of my power. Your boosts have consequences, Franc. I dont need to be drunk on your madness. Marcos had seen my gift in action plenty of times. The power of Dionysos could obliterate a mans fear, unleashing the animal within, giving them the strength of many men, or, in this case, many shifters. Nightly at my club Velvet, supplicants, worshippers of the divine madness, would seek me and my gifts. They sought a temporary release from the mundane and the exhaustion of the daily grind. With a quick blessing from my powers, those lucky few could dance all night, bound in an ecstatic trance. It didnt always
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a difficult terrain that Liam and Marcos have to cross. Liam is worried about Marcos because he seems shaken and weak. He offers to help Marcos by using his power to give him a boost.

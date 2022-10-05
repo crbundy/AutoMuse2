@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: padded forward, the grassy ground soft under my paws as I looked for Sera and the others. When the mist cleared, Sera emerged, but Em and Franc were nowhere to be found. The fog formed an opaque wall behind her. Weve got to find them, Caden said. He was carrying my bag, but his focus was on the mist before us.  I moved between Caden and the mist, issuing a low growl of warning. Like hell I was going to let anyone back into that mist. I sniffed Sera, who stood there rubbing her temples. She smelled off. I assumed that was likely either remnants of the mist clinging to her or my nose being wonky from the acrid mist. Another roar barreled out through the wall of mist. The scent of an unfamiliar creature raised my hackles. A low growl erupted from my throat as I moved forward between whatever was coming and Sera. Whatever it was, itd have to go through me to get to her. The demi-gods can handle themselves. Marcos rushed to Sera, who was staring into space as she shivered. Cmon, we have to move quickly, he said, pulling Sera close. We need to get some distance between us and whatever this is. I barked my assent. Lets go. Now. Liams in agreement, Marcos said, pulling an unusually pliant Sera along with him.  Our little mage remained quiet, which was enough to set off alarm bells in my mind. What had the mist, or the maze, done to her? It reaffirmed my instinct to not search for Em and Franc, at least not until Sera recovered. Of all of us, I had faith those two
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist is a dog, and he is searching for his human companions. When the mist clears, he finds one of them, but the other two are nowhere to be found. There is a creature in the mist, and it is coming towards them. The protagonist gets between the creature and his human companion, and they all start to run away.

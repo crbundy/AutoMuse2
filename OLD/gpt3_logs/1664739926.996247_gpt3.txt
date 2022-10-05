@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: simulation blurred, giving the background a weird, grainy texture? At least Seras image was crisp and clear, those brown eyes of hers pulling me into their depths. I felt the smile creeping across my face as I remembered the best times. The times Sera had demanded my kiss, and Id been ravenous for her. In those dreams, Id blazed a trail of kisses over every inch of her flesh. Buried myself inside her until shed cried out my name. In those moments of bliss, Id been covered with the sweet jasmine-laced smell of her sweat. A sparkle of amusement filled Seras eyes. What were you going to say, Em? I sighed. I wanted to taste her again, but banter it was. Whatever Sera wanted. I sighed and let it all out. My speech felt almost rehearsed by now, but its not like that mattered. I needed Sera to understand that I knew Id fucked up. I needed her to forgive me. Im sorry for getting you into this mess with Taneisha. I should never have asked for your help, Sera. It was selfish of me. I knew you owed me, and I hoped your status and power as a mage would give us an edge against the fae. I didnt realize, or even worry about, how much danger youd be in, and now its my fault youre stuck in this madhouse with us. Its driving me crazy, not even knowing if youre safe. Screw the legacies. I just want to get out of this dream and get you safely home. I ran a hand through my hair, feeling tension balling into a knot in my stomach. Assuming I can find you. Seras eyes went wide
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is apologizing to Sera for asking her to help with a problem involving the fae, and expressing worry about not knowing if she is safe.

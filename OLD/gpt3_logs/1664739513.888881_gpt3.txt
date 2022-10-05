@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: but heartfelt moment. Id witnessed plenty of their joking camaraderie, witty banter, and even heated arguments. This was the first opportunity Id had to see them be gentle with each other, and it was a relief to see, especially between Caden and Marcos.  I felt a spark of hope. Perhaps there was room for them to move past their distrust of each other, after all? Relieved to see Marcos safe and exhausted by my brief but intense effort, I stumbled backward, right into Liams steady arms.  Ive got you, he said, holding me tight. I slumped against his strength, more tired than I thought I had a right to be.  I looked at my hands, silently thanking my magic for behaving at such a critical moment. Were almost to the other side, Caden said. He rose to his feet, rubbing his shoulder, before offering Marcos a hand up. Lets clear out of here as quickly as we can. Marcos, his lips a thin line as his jaw twitched, accepted Cadens help, but he was unsteady on his feet, favoring his left leg. His black jeans and boots looked intact, but I worried what injuries he might have sustained in the encounter. Franc moved in close, stabilizing him. Im sorry I knocked you off. The tentacles were grabbing at my hand and I freaked out, I said to Marcos, feeling my heart in my throat. Franc flashed me a withering look, but held his tongue. Are you hurt? Ill be okay, Sera, Marcos said.  When he stretched out his leg, wincing from the movement, I wasnt so sure. Franc took a couple of
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a scene in which the characters are relieved to have made it to the other side safely, and notes that there may be hope for them to move past their distrust of each other.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: find it? Ive got to lock up, but I can give you five more minutes. Youre a lifesaver, I replied, smiling with genuine gratitude. That was more than enough time for me to get what I needed. Ill be quick! He waved at me to get moving, and I rushed back through the building, past the special supernatural only Staff Only door, and to the bench when Id left my jacket. I threw it back on as I walked over to the lab. I pushed lightly on the door, which swung open, and then I removed the tissue from the lock mechanism, shoving it into my pocket. I went to the refrigerator and checked the contents. There were several numbered vials, all likely logged in the system. Anything missing would raise an alarm with dear Greyson, which I definitely wanted to avoid. Plus, I couldnt steal them. I closed that door and opened the biohazard bin, eyeballing the contents. They filled the bin with vials and bags, just waiting for the cleaning crew to collect it.  Bingo! Discarded trash belonged to the dump, not the preserve. Wed be home free with these samples. Remembering Greysons warning about his co-workers injury, I grabbed a pair of purple latex gloves from a dispenser on the wall and slid them on. I pulled out the entire bag, carefully compressing it down. When it was flat enough, I slid inside my jacket and zipped it up.  I had a moment of hesitation. This was my favorite jacket, made of supple, hand-crafted leather, and Id hate to damage it with pixie crap, but I didnt have
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist is looking for vials in a lab and finds them in a biohazard bin. They grab a bag of them and put it in their jacket, zipping it up.

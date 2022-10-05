@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: about remodeling Velvet some other time. Right now, I just need to save all of us, I replied. And your mask. And your revelers, Caden replied. Simple. I stopped up short, bringing our line to a halt. No, Caden. The mask is secondary to liberating everyone here. Cadens expression softened. Of course, Im just giving you a ration of shit, Franc. Cmon, weve got partying cannibals depending on us. Right, I replied, shaking my head at his dark humor. Sorry, theres just so much on the line. So many people Taneisha hurt with her revenge. Caden nodded. I know, man. Were almost there and the club looks mostly cleared out. I led us into the club, using my now limited influence over Velvet to lower the blaring music as we entered. I strode to the center of the room where my mask remained locked inside the knot of magical vines. The others fanned out around me, forming a physical shield against the ravers who even now were filtering back into the room like moths to a flame. Taneisha had made it clear only I could solve this puzzle. The weight of this moment laid heavy on my shoulders, but I knew I was up to the challenge. I walked up to the box and took a deep breath to center myself before I started. The last time Id made some progress pulling apart the vines, but they were living things, and when one had loosened, another had tightened. Taneisha had designed this puzzle for me, so I had to imagine that it was possible for me to solve.  Was I going about this
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist is trying to save people and their masks from a revenge plot by Taneisha. He walks into the club and is met by a group of people. He then walks to the center of the room, where his mask is locked inside a knot of magical vines. He tries to loosen the vines, but they are living things and he has difficulty.

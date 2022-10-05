@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: obviously flow differently. Agreed, I said. Anything else about the maze stand out to you? I asked Liam. Not off the top of my head, other than what Ive read of in myths. There could be traps. Moving walls. Monsters? He shrugged. At the mention of monsters, I giggled nervously. Looking around at the others sober expressions, I reminded myself that Taneisha no doubt had packed plenty of trouble into this maze for us. Wed only just escaped the man-bird of the netherworld. What fresh hell awaits us in this misty maze? Which was when I really noticed mist curling up around Emrys legs, cresting in silent waves as it rolled down the row toward us. I sidestepped around Liam and walked up to Emrys and Franc, neither of which appeared to have taken notice of the mist. Franc had let go of Emrys, but hovered near his side. I assumed Franc was worried about his behavior. Emrys watched me approach, his expression enigmatic, while all of Francs focus was on Emrys.  Uh, guys? Is the mist new, or is it just me? I asked, pointing down at the roiling fog. As I stepped through it, curls of the mist lapped around my feet. A prickly sensation started in my toes, traveling up my legs. It reminded me of that sensation when a limb fell asleep, except I hadnt lost sensation or movement. I assumed it was magical. Em didnt respond. Had he realized Id asked them a question? His gaze remained trained on me, but he was so distant, I wasnt sure he really saw me.  Even though the mist was
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The mist in the maze is magical and makes people feel funny.

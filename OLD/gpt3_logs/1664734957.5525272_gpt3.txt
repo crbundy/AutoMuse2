@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: standing? Now, I know why the boys answered my summons, willingly coming into my dominion. I took their precious trinkets and threatened to destroy the items unless they arrived here at the appointed time. Thats how blackmail works. I wanted to ask what Taneisha had taken. Whatever it was, it was enough to drag all the posse here, submitting to her will. An age-old motivation, to be sure, I replied. Taneisha leaned in closer, eyes lit with curiosity, and spoke in low tones. But tell me, Sera. What brought you here? I debated playing coy, but who was I kidding? Its not like I could out-trick a fae. Ballsy and direct were my best bets. For the briefest of moments, I debated telling her I came along for the adventure alone or simply confessing the mediocrity of my day-to-day life. But Emrys had called in his favor, and it was incumbent on me to at least try to get the boys items back from Taneisha. Emrys asked me to act as mediator, hoping to resolve this situation. I understand theres an old grudge in play. I remember enough of our years at the academy together to know they no doubt earned every ounce of your ill will. I glanced back at the five men, who were wisely keeping their mouths shut. They assured me theyre repentant, at least they look like it now, and will swear vows to avoid you and your dominion. Name a price for them to pay, and youll never have to deal with them, or their poor behavior, again. Yeah, I was taking some liberties here, but I hadnt
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a woman's encounter with a group of men who she has blackmailed into meeting with her. She explains that she is there at the request of one of the men, who hopes she can help resolve a situation between him and the woman. The woman is willing to help, but only if the men agree to pay her a price.

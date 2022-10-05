@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Prologue - Float Tank Emrys Hello? I called out, but no one answered.  An oppressive darkness wrapped around me, sealing me off from the world. My body felt no different, but as I blinked my eyes, there was nothing to see. Nothing to touch past my skin. When I spoke, I could hear myself, but the sound was dampened, as if I was in a tiny space. The ground was flat, and the whole place felt like a mysterious blank canvas. I had yet to locate any walls. The last thing I remembered was the fae Taneisha proclaiming me a thief before she magically transported me into this void. My word, not hers. She was right, although Id never admit it. Shed given us a nearly impossible task, so I figured gaming the system was expected. Next time, Id have to be more careful.  It felt like minutes had passed. Or was it years? I knew shed keep me here as long as it satisfied her whims. If the time matched how long she could hold a grudge, I was in serious trouble. I knew Taneisha would do anything to exact more punishment for my years of perceived slights towards her from back during our Academy days.  I sat down. At least it felt like I did. Palms on my forehead, I sighed in exasperation. Taneisha flashed into existence in front of me. A nimbus of rosy light with no discernible source surrounded her. She sat down across from me, the layers of her rose petal covered skirt forming an aurora of color. Her sandy hair fell in waves, framing her face. My eyes greedily drank in the sight, eager for
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the protagonist's experience after being transported to a void by the fae Taneisha. The protagonist wonders how long they will be there, knowing that Taneisha is capable of holding a grudge for a long time. Taneisha then appears and sits down in front of the protagonist.

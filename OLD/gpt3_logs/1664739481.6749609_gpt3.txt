@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: hand on my shoulder. The proximity to the demi-god triggered images of me, half asleep, nestled between Caden and Franc. What I wouldnt give to be sleeping comfortably in a bed between, well, any of my Supernova of Hotness guys rather than trekking through the wilderness of the Netherworld.  Was it too much to ask Taneisha to give us a quest based in a coffee shop, followed by a spa, an ice cream parlor, a bookstore, and then ending in a wine bar? Perhaps the quest for the perfect cinnamon roll? Damn, I missed home. Tell me about it. Franc nodded. So whats the game to ride the ride? Does Mr. Tall, Dark, and Ominous charge a fare? Sort of, Caden replied, turning and walking towards the river. I was glad I still had my purse, which Id stowed in my backpack. Ive got a handful of coins jangling around the bottom of my purse, I offered. I could dig them out? Cadens expression knit with confusion, but then he smiled, his icy blue eyes glinting with amusement. Dont bother. The ferryman doesnt take earthly money. He prefers blood offerings. I shivered with revulsion. What did I expect in hell? You sure about that? Marcos pressed. Caden shrugged. Yeah, as far as I remember. Marcos frowned, clearly not happy with Cadens answer. Then arent we lucky all of our hearts are pumping? Lets just hope your memory is on point. Marcos turned and marched his way over to the ferryman. Lets get this over with. Marcos grumpy attitude grated on me. I knew he didnt
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a character's journey through the Netherworld, during which they encounter a ferryman who requires blood offerings. The character is accompanied by Franc and Marcos, who is grumpy throughout the journey.

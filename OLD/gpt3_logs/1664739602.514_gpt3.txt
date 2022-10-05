@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: caught us both before we fell over. Ow! I exclaimed, leaning against Caden as I rubbed my knee and elbow where Id hit the invisible wall. So much for sending me home. Magic pooled in my gut and shimmered around my hands in response to my growing frustration. Emrys tested the barrier, touching at first, and then pounding his fist against it. Caden was next, to no avail. Franc edged past them, testing out the barrier himself. Damn, Franc said. At least now we know why there are so many people in the club. No one can leave. Wrong. Theres still one way we can get Sera out of danger, Em said. Taneisha, Taneisha, Taneisha!    An Unprecedented Apology Franc I fumed at Emrys for invoking the vengeful fae. Not that I disagreed with his instinct to keep Sera safe, but that hed done it without consulting the rest of the posse. Our teamwork had flown out the window when wed arrived at Velvet, and wed need to rally in order to win my mask back. Of that, I was certain. This quest just kept getting better and better. And by better, I meant crappier. Id been eager to get my legacy back, but now that we were here, in Velvet, I wish Id tried harder to foil Taneisha before shed fouled my club. A shiver went down my spine thinking of the new club areas Marcos had mentioned. Velvet was perfect. At least it had been. What awful fae expansions did I have waiting for me to clean up? Taneisha messing with Velvet crossed a line. Fucking with my livelihood, my divine mission, and my
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The group tries to find a way to get Sera out of danger and discovers that the only way is to use the fae. However, they are unsuccessful in their attempts to get past the barrier.

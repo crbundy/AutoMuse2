@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: trust Caden, and he certainly had his reasons, but what choice did we have with Taneisha pulling our strings? Surely, the demon was more motivated to make it through this quest than any of us? I followed the others, my skin crawling whenever I looked at the water or the ghostly ferryman. I had to keep Marcos in the game, despite his frustration with Caden. The ferryman didnt move as we approached. His long, ephemeral robes floated as if ungoverned by gravity. Even as we approached, his face remained hidden within the deep cowl of his robe. The water, however, gained an uncomfortable level of definition. While from a distance Id been able to make out human-like forms undulating under the surface, now at the waters edge, I could count fingers. Teeth. Eyes. Horns. All flowing in and out of definition as the liquid rushed past us. Caden walked right up to the ferryman. How does this work again? The ferryman held out his hand, but didnt speak. Right. Here goes nothing.  Caden pulled out his folding knife, flicked it open, and then in a flash of steel drew the blade across his palm. As he raised his bleeding hand over the ferrymans, a stream of crimson blood fell. Id expected some would hit the stone he was standing upon or the water, but the demons blood defied gravity, flowing towards the cloaked figures open palm. When the blood reached the ferrymans open hand, it absorbed, leaving no trace. Here I thought things couldnt get any creepier, Franc said softly. I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Caden cuts his hand and offers his blood to the ferryman, who absorbs it. Franc is creeped out.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: replied. Unfamiliar voices filled the air, coming from the left, changing my mind in a heartbeat. Left. Toward the voices. I moved toward the sounds, Emrys staying close by my side. Do you recognize them? No, but its people. Perhaps they know the secrets of this place. Or know where things are. They might not be interested in helping us, Emrys replied. Or may be as lost as us. Liams running out of time, Em. Besides, we cant assume everything other than us in this maze is a threat. No, just the fae who created it, plus the minotaur. Thats all. Cmon, I said, eager to follow the voices before they got further away. I jogged along the row, taking a right when I heard the voices carrying. This way. Emrys kept up with me as I ran down the row. When the hedge walls opened up into another large open space, I skidded to a halt as the creatures Id been following finally came into view. The group of four beasts were each over seven feet tall, had broad antlers and long, claw-tipped hands. Wendigos! Emrys hissed.  They were across the way from us on the other side of a large Zen garden dotted with short, carved statues, including satyrs, fauns, and dryads. The white pebbles stood out from the rest of what wed seen in the maze, and I had to wonder what this place signified.  This is an oddly chill setting to find a group of monsters, I muttered.  Hearing my voice, the wendigos turning their attention fully toward us, red eyes glowing as they voiced deep-
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of wendigos that the speaker and Emrys encounter. The wendigos are across the way from them, on the other side of a large Zen garden. The garden is dotted with short, carved statues, including satyrs, fauns, and dryads. The speaker wonders aloud what the garden signifies.

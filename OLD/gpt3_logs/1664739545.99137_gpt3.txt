@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: because his legacy was on the line, but also because of his family history here. Hell, I worried about everyones welfare, even the little secretive mage with the luscious curves. My gaze drifted to Sera for a moment, drinking in the cadence of her steps and the sway of her hips. By the gods, did I love those curves. But that didnt mean I was going to let Sera get away with hiding something from the posse. My brothers of choice came first. Always. Caden swept his black hair back and out of his face, roughly tucking it behind his ear. It was such a simple gesture. One Id seen him do hundreds, if not thousands, of times. He looked wound up and in dire need of release. A bad idea for anyone, but even worse for our incubus. The last thing we needed was an explosion of his sexual energy at an inopportune moment. At least I knew how to help Caden pass that hurdle. After the delightful slog up this rocky, poorly maintained path, we cross through another pass and a traverse before heading, he glanced up at me, a glint of humor in his eyes. You guessed it. Up again. Delightful is not the word Id use for it, I muttered. Im more interested in the landmarks called out on the map. Is there any detail on the traverse? He referenced the map again, beads of sweat visible on his brow. Its named The Narrows, so I imagine its even less wide than this section. Dont worry, well find out soon enough. Were almost there. Are there any way stations noted on the maps? It would be
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The party is making their way up a difficult path, and the character Caden is looking rough. The protagonist notes that they need to find a way station soon.

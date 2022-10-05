@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: for the next member of the posse who violates the rules of the game. Wait, hes been in there the whole time? I asked, and her smile widened. But thats been days. I wasnt an expert, but I knew that long periods in sensory deprivation could drive a person mad. How had Emrys kept it together? Emrys bolted upright, a wild look in his eyes. He looked around, taking us all in, but I had the impression he was still in something of an altered state. His clothes looked rumpled, like hed been in them for days, which he likely had. I swore to myself. This was beyond the pale, even for the aggrieved fae.  Caden crouched low, getting down on Emrys level. Liam did the same. I hung back with Marcos, not wanting to overwhelm him. Franc looked so pissed, I expected him to explode at any second.  Hey man, its good to see youre all right, Caden said, his voice oozing calm.  I know youre not Caden, Emrys said, his voice hoarse, as if hed been screaming. He turned to Liam. Not really. And youre not the wolf. He looked around at each of us. I know better now. None of you can fool me anymore. Yeah Emrys hadnt kept it together. Oh boy. We exchanged glances, no one appearing sure what to say or do to reassure the addled demi-god. In that pause, Emrys shot to his feet and bolted, slipping his way between Liam and Caden and making it through the portal before any of us could react.  That could have gone better, Franc snapped. Lets get a move on. We cant let him get too
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Emrys has gone mad from being in sensory deprivation for too long, and he escapes before anyone can stop him.

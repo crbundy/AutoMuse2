@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: No, Marcos said. Were all in this together. Tell him he needs to be here helping, not sitting on his butt day drinking. I think he gets special dispensation? Caden replied. On the drinking, I mean. Wine god, and all that? Please, Caden, Emrys said. Take this seriously. Franc will listen to you. This time, Cadens smile was genuine, but his finger guns made me chuckle. True. Ill be back. Dont get rowdy without me. As if that was going to happen? But then, as I looked from Emrys to Liam to Marcos, I didnt think Id kick any of them out of bed for eating crackers. * * * LIAM Youre not making sense. I clenched my jaw. Describe the mark again, I demanded of Marcos telepathically. I told you. Theres a mating mark on her right shoulder, Im sure of it. After arriving at the garden nursery, the front staff directed us to the greenhouse at the far end of the lot. We walked between rows of saplings. Emrys and Sera were in the lead, while I walked side by side with Marcos, a few paces behind them.  It took an effort to draw my gaze away from Sera. Emrys kept touching her back or arm, and each time my wolf urged me forward, as if he wanted to separate them. Id felt similar when she was walking next to Marcos, but my wolfs reaction hadnt been as strong. Now? I couldnt imagine leaving her presence.  I wanted my hand on the small of her back. Wanted the heat of her body pressed against my own. Her scent on my skin. I shook my head, trying to stay focused. What
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage describes a conversation between Liam, Marcos, and Emrys. Marcos tells Liam that he needs to help them instead of sitting around drinking, and Liam replies that he thinks Marcos gets special dispensation because he is a wine god. Emrys tells them to take the situation seriously, and Liam agrees to talk to Franc. The group then arrives at the garden nursery and is directed to the greenhouse. On the way, Liam has difficulty keeping his focus on the conversation because he is attracted to Sera.

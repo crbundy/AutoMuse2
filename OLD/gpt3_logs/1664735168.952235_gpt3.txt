@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: clenched, his jaw grinding audibly. Cadens expression was dark and stormy. I didnt know about my brothers and I being fated mates with the mage, but I was sure none of us were willing to let her go. Not yet. Maybe not ever. For her part, Seras face was a blank canvas. Your offer to take me home is generous, Taneisha, but Im not ready to go quite yet. Thats why I asked for the boon. The faes nostrils flared, but otherwise she kept her composure. Taneisha stood up and walked over to Sera, reaching out to tuck the mages hair behind her ear in an overly familiar gesture. My pulse sped up, aware that at any moment, the fae might disappear with Sera or do any of a million unexpected or random things which were pretty much out of my control. You want to stay with them? Taneisha asked Sera. But you agree theyre insufferable, right? Seras easy smile was followed up by a happy laugh. They totally are. Impossible at times, even. Often also tedious. Taneisha chuckled. Yeah, right? Ill admit theyre hot. Maybe you just need more time to get this childhood attraction out of your system? Its cheaper than therapy. Taneisha burst into laughter, and Sera followed a second later. I didnt even know what I was witnessing or how to process it. Did Sera just imply flirting with us was her way of working out her sexual angst from our days at Goldenbriar Academy? So why was that admission somehow also a turn on? Ways I could help her work out that angst flashed through my
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+In the passage, Taneisha and Sera are discussing whether or not Sera should return home with Taneisha. Sera implies that she is attracted to the brothers and that is why she wants to stay, even though they are often insufferable. Taneisha finds this admission attractive and they both laugh.

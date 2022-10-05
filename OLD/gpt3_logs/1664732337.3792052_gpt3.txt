@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: something? Something important? And why was that person covered in blood? Or was it wine? Here, the fountains flowed with seemingly endless draughts. A raucous round of Huzzah! and Io! Evohe! shouts echoed through the hall and off the black-painted walls. I joined in, thumping the ground with my staff and hearing my voice rattle the legs of furniture against the concrete. These were my people. This was where I belonged. I looked around for a cup, and finding none, I picked up a chunk of loose concrete from the floor. I envisioned the shape of the cup inside the block and called forth my desires. Dust and chunks fell away, leaving me with a stone goblet, which I dunked into a fountain of wine and then raised to my lips. The rich liquid coated my tongue, its liquid heat soothing my spirit.  Hunt! Hunt! Hunt! The calls filtered through the crowd, captivating me. This was new. Celebratory cheers rang out, and I knew theyd captured their quarry. Bring it to me! I declared, eager to see what my people had captured. Multiple whoops answered my proclamation, and soon they deposited two bundles at my feet, each wrapped in pale pink silk and covered in dirt and blood. One of them groaned and moved, while the other did not.  We caught them nosing around at the doors, o powerful one, a raver announced, bowing low. I set aside my staff and wine and then bent down over the bundles. I pulled the fabric away, revealing the two men within. There was something familiar about them,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people celebrating and hunting. Two men are brought to the person in charge, who recognizes them as familiar.

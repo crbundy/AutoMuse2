@@ -36,7 +36,7 @@ def finetune_completion(prompt, temp=0.7, top_p=1.0, tokens=300, freq_pen=0.0, p
         try:
             response = openai.Completion.create(
                 #engine=engine,
-                model='davinci:ft-david-shapiro:novel-writer-2022-05-23-13-08-08',
+                model='davinci:ft-personal:candice-bundy-ff-2022-10-04-16-01-06',
                 prompt=prompt,
                 temperature=temp,
                 max_tokens=tokens,
@@ -105,7 +105,7 @@ if __name__ == '__main__':
     # prime the summary variable
     prompt = open_file('prompt_summary.txt').replace('<<CHUNK>>', last_chunk)
     summary_so_far = gpt3_completion(prompt)
-    for i in range(2,21):
+    for i in range(2,4):
         prompt = open_file('prompt_full.txt').replace('<<OUTLINE>>', outline).replace('<<SUMMARY>>', summary_so_far).replace('<<CHUNK>>', last_chunk)
         next_chunk = finetune_completion(prompt)
         print(next_chunk)

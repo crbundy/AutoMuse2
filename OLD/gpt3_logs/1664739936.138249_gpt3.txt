@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: asked. Sometimes mazes are houses for monsters, she replied. As in their hunting grounds. I ran faster.    Cornered Sera I probably, definitely, shouldnt have said that bit about mazes being monster hunting grounds, but I have a habit of blurting things out when my anxiety got to me. The sound of the minotaur stomping behind us wasnt helping anything. Em ran beside me, easily keeping to my pace. No doubt he and Franc could have gone faster, yet they stayed by my side. Ironically, if the minotaur caught up, I was the one with the mage abilities to defend us. Assuming my magic would behave itself. I knew the demi-gods were both more resilient than me, especially Em with his divine gift of resurrection from Isis, but I didnt think either of them could charm their way out of that behemoth of muscle bearing down on us. At least Em seemed to be shaking off his confusion. I couldnt tell if he was certain that he was in the real world yet, but at least he was taking things seriously. I knew I couldnt let Em out of my sight until I was certain hed returned to us mentally, and I sincerely doubted Franc would either. The last thing we needed was him wandering off on his own in this state.  The minotaur rumbled and lowed behind us, and I felt the reverberations in the air. Was he any closer? I feared to look back. Damn Taneisha and her games. I made a mental note to give her an even larger piece of my mind the next time she showed up. Unexpectedly, the row took a turn to the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of people being chased by a minotaur. They are worried that the minotaur will catch them and that their only hope is the one person in their group with magical abilities.

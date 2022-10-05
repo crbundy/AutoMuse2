@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the group I met in your maze and your hobbies are connected. Oh them? I knew those guys back at Goldenbriar Academy, and that payoff has been a long time coming. He arched his brow. Unlike me, they definitely have no problem holding your attention. Tell me more about this payoff. Okay, that stung, but he had a point. Those five guys teased and pranked me the entire time at the academy. They knew I couldnt use my magic without getting in trouble, so I guess they figured they were free to pick on me. Ive been planning how to repay their unacceptable behavior. When the opportunity sprung, I jumped on it. What opportunity? They had this big, public party at Velvet and brought a bunch of their priceless artifacts together, I started. I then explained how Id stolen the legacies, hidden them, and then lured the guys with my quests to get their stuff back. Youve gone to extremes over slights that happened so many years ago, Tany. Youve got to know how ridiculous that sounds. How could I make Ray understand my point of view? Look, Im not letting them get hurt. At least, not after Sera bargained for the groups safety with a threat of war with the mage house Lowe, I wasnt. Well, not much, at least. At the worst, those remorseless bullies lose some items. Maybe they even learn something about consequences. Besides, I deserve some sort of payback for the pain they paid me. Rays ear twitched, a clear tell of his irritation. Let me see if I get this right. They
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The person telling the story is explaining how they got revenge on some people who teased them in the past. They stole some valuable items from the people and then made them do quests to get the items back. The person thinks that what they did is not that bad, considering the pain that the people caused them in the past.

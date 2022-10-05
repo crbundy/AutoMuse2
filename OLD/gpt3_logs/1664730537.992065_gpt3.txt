@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: exactly received a detailed brief to strategize from. It wasnt the first time Id run a campaign with less than thirty minutes notice. This wasnt a game, yet strategy was strategy. It would have to be good enough. Thats fine, Sera, but were a little beyond the lets shake hands and move on stage now.  I held up my hands. I dont see why we have to be? Im sure the boys, I mean the men, can provide reparations much more suited to your needs than whatever trinkets you took from them. Im listening to you fairly because I always liked you, Sera. You make a fair argument. Understand, their trinkets hold no value for me. I have no need of earthly wealth. Years ago, I vowed these boys would pay when the time was right. The vow cannot be undone, and their time is now. I reject your offer. My shoulders slumped. I understand. Thanks for hearing me out. I turned to Emrys. Sorry, I tried. He nodded, a grave expression on his face. Can you use that door to send me back home? I asked Taneisha. She crossed her arms, lips pouting in disappointment. I guess youre not the clever one after all, even though you finished at the top of our class. Did you not pay attention in fae portals 101? A nagging anxiety crawled over my skin. There was no such class, but the fae loved to speak in metaphor. I couldnt help it. My gaze flicked to Caden, who was running a hand through his chin-length black hair. Then he looked up at me, his raised brows seeming to ask, Well, did you?
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a conversation between two people, in which one (Sera) tries to persuade the other (the speaker) to accept a truce. The speaker rejects the offer, saying that they have already sworn to take revenge on the people Sera is representing. Sera then asks to be sent home, and the speaker's tone turns scornful.

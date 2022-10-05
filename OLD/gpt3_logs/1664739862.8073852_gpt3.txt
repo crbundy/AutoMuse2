@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: promise to us both. Anyone, or anything, that stood in my way wouldnt be standing for long.    The Shortest Distance Between Two Points Liam I awoke with the scent of Seras hair lingering in my thoughts. I shot to my feet, surrounded by a groggy looking Marcos, a slumbering Caden, and a sullen Franc leaning up against the base of a stone fountain.  A quick circle around the group confirmed tall hedge walls locked us in on all sides, and Emrys and Sera were not with us.  How long have you been awake? I asked Franc, pacing the grassy length of our confines. Long enough to figure out what youve already noticed. Before you ask, no, I havent seen Sera or Em, and Ive only been awake for a short while longer than you. My beast wanted to pace, growl, and snap. Instead, I strode over to Caden and gave him a firm nudge. Time to get up. He groaned, then rolled over, swearing in what sounded like demonish. Whats your plan? Marcos asked me. By the look in the panther-shifters eyes, he knew exactly how on edge my beast was right now. My plan? I asked, trying to focus. I returned to my pacing. Yes, your plan, Franc added. Were in this maze to find your legacy, remember? Therefore, you need to be the one figuring out where and how Taneisha hid it. Look, right now I just need to find Sera. Then I can calm down and focus on the rest, I explained. Marcos pulled himself to his feet and blocked my path. No, you need to get a handle on your wolf and calm the fuck down
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The group wakes up to find themselves locked in a maze. They discuss their next steps and decide that the person who needs to find the legacy hidden in the maze is the one who is most on edge.

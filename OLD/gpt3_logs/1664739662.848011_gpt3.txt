@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: them. What else do you want? Oh right, its time for your last quest, Taneisha announced. Stay and help these flesh-eating revelers, and you refuse the call and lose the opportunity to rescue Emrys legacy forever.    Epilogue - A Claim Staked Sera Taneisha opened a portal before us, and I could see her familiar green fairy glen on the other side. From the unenthusiastic looks on my posses faces, no one was ready yet for another roll of the dice fae quest. Well go, but we cant leave these people to their own devices, I insisted. Theyre stumbling around like zombies. Flesh eaters, Ella whispered my way. Caden cracked up, and it was clear Id missed an inside joke.  Youre on the clock, my maenad with the mostest. My clock, Taneisha continued. No time to dawdle. Youve got another puzzle to solve. Although the maenad madness had faded when Taneisha had dropped the magic holding everyone trapped in the club, I still felt vestiges of the power imprinted upon me. Francs power. I glanced at Franc, still unsure of how to feel about what hed done. What hed pushed me into being. I didnt know how long the effects would last, but I found I liked the energy shift. It felt like the Dionysian energy complemented my mage powers, and I didnt know what to make of that. Then there was the scrap of silk Id made into a toga. I mean, I was practically walking around naked, and now that everyone had their wits about them again, including me, I wanted to find something more
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a character's reaction to a quest given to them by a faerie. The character is hesitant to accept the quest, but decides to go through with it anyway. They are also intrigued by the new, Dionysian energy they are feeling.

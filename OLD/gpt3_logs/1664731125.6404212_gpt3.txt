@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Youre right, he laughed. I admit were a little lost. My friend told us to find someone with the Eye of the Tiger. Do you know who she might have meant? Her face screwed up with irritation. Is your friend daft or do they intentionally speak in riddles? Franc imitated a pair of scales with his hands. Little of column A, little of column B Any possibility you could help us out? She shook her head, taking her empty hand out of her purse and perching it on her hip instead. Yeah, I think youre looking for Jasper Jeanneau. He can drone on about that Tiger Eye of his for as long as youll let him. Oh my gods, thank you so much! Franc turned to us. Hey guys, arent we lucky? The first person we met knows Jasper. See, this is going to be easy after all. He looked back at the lady, flashing her another smile. What a coincidence. Tell me, do you know where we can find old Jasper? He runs Pin Ticklers, she explained. The matron looked over our confused expressions and then continued. Its the bowling alley. One block south and three blocks west of here. Oh, Sera said, letting out a chuckle. That was not where my brain went at that name. Mine either. This was not the standoffish Sera Id remembered from our academy days. This Sera was saucy, and yeah, Id admit it, sexy. One more thing, Franc said. Wheres your nearest bar? The lady crossed her arms again. Are you blind or just not trying that hard? Turn around and walk a few feet. To be fair, I hadnt
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a conversation between three people. Franc asks a lady for directions to Pin Ticklers, and she tells them it is the bowling alley. He then asks for the nearest bar, and she tells them to turn around and walk a few feet.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: might have started off as a maze trick, but with the wraith, shes now something altogether different. My wolf howled within my chest, straining to break free. Urging me to run, to find Sera, to know that she was safe.  Where is she? I demand from Taneisha, hearing the edge of my wolfs hunger in my tone. Safe enough that shes not calling for me, she laughed. Now, if you dont mind, I must be off. Happy hunting.    Fumbling Through the Mists Emrys We walked and walked, row after row, always following the hedge on our right as Sera had suggested. Id fallen behind Sera and Franc, preferring to watch them talk like I was watching some sort of movie. Their body language, more than their words, spoke of how close theyd become. The lingering glances. The familiar, casual touches. The easy way the cadence of their conversation flowed from topic to topic. I wanted to believe this wasnt one of the faes tricks, but it was hard to trust myself to know the difference. I wanted to trust Franc and Sera, but that meant buying into this maze place being real. Id be no fool for Taneisha. Sera? Anytime. Sera glanced back at me over her shoulder. What do you think, Em? Huh? I asked. I suppose I should have been paying more attention, but after so long entertaining myself with my own thoughts, it was difficult to keep my focus on the present. Id rather wax poetic on the curve of Seras jeans, but I still had enough wits about me to know that would cross the bounds of acceptable
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the speaker's reaction to seeing two people (Sera and Franc) who appear to be close friends. The speaker reflects on how they would like to trust the two people, but is wary of being tricked by the faes.

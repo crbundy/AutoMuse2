@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: of wild revelers, followed by maniac cannibal dancers, with a mentally unstable and vindictive fae as our sidekick? My stomach clenched as Marcos and I stared at Caden for a moment, and then we all three turned to look at Taneisha, who we knew had heard every word.  Her eyes shone in the moonlight as the sweetest of smiles crept across her face. First, you dont know for sure that all the dancers are cannibals. Thats unfair labeling them all like that. Second, I appreciate being included as your sidekick. She leaned close and patted Caden on the cheek, and I swore I could feel the whoosh of wind as his balls retreated, but at least this time he held his tongue. This is a positive evolution in our group dynamic. Dont you think so? Definitionally, a kidnapper cant really be on the same team as their captives, I said. Taneisha sighed. Youll come around. There were more hoots and hollers as more people came out into the garden. Are we waiting for the maybe-cannibals to catch up, or what? Marcos motioned with his head. Follow me and stay in the shadows. Theres a hidden passage behind that tree. We crept along in a line with Marcos taking up the lead, Taneisha and Caden behind him, and then me following up the rear so I could keep an eye on the fae. Marcos moved through the shadows with a panther shifters grace. We rounded the tree and met with a wall of ivy. Marcos deftly pulled aside the vines, directing us into what looked like the mouth of a cave. Since when
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Three people discuss whether it's a good idea to follow a group of maybe-cannibal dancers. They decide to follow them anyway, using a hidden passage.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Despite feeling uncomfortably hypersensitive here, faery was an amazing, if weird place. One thing was for sure. Already this brief adventure was paying off so far in new experiences. I was reserving judgement for whether Id later classify these as fun. Emrys stood and then offered me his hand. He hauled me up for the second time tonight. My balance wasnt quite a hundred percent yet, so I leaned against him for a moment, watching the others stand up and get their bearings. This place is amazing. We must be in some sort of fae dimension, I said, scratching a sudden itch running along my right shoulder blade.  Caden rolled his eyes at me. Do you have more of that boundless fae 101 material to bless us with on our quest? I could hear the irritation in his tone, but I also felt an undercurrent of worry off of him. I pulled away from Emrys. The awareness of others emotions was new to me. I liked to think I read people fairly well, but I wasnt an empath. Could it be the fae magic of this place? Liam growled at him, and I could practically hear his wolf just underneath the surface, poised to defend me. But why? Thats uncalled for. Seras just remarking on how odd this place is, and shes right. Have you been to faery before? Caden shrugged. Why would I want to? This place looks boring and there arent enough women. Who says you need women to have fun? Franc said, hinting at a history that was certainly new territory since Id known them last. He breathed deep, seeming
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's experience in the faery realm. They are surprised by how strange it is and how they are able to sense other people's emotions.

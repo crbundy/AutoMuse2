@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: clapping as she walked across the dance floor toward us. Congratulations, Franc, youve won back your grandpas divine god mask. Huzzah! Too bad your revelers damaged your club just a wee bit before you solved the puzzle. Damaged? Its trashed. This is going to take months to set back to rights. Can we just call it collateral damage? Friendly fire? I didnt take the bait. Little would be accomplished by arguing semantics with Taneisha. Free everyone, I demanded. And heal them. Now. The fae arched a brow at my tone, but snapped her fingers, releasing her hold on Velvet. The sensation washed over me, and I breathed a sigh of relief knowing the nightmare was over. Sera strode into the dance hall, still clothed in her makeshift toga and carrying her staff. I wondered how long shed be carrying that around. The ravers inside the dance hall looked around in confusion, as if theyd just awoken from a deep sleep. I freed your revelers and healed them, but theyll remain in a fog until they get a good nights rest. They will remember this trial as a nightmare, she said, dramatically pouting her lips. Sadly, I doubt many will return to partake in future festivities. When Sera reached us, it was obvious shed heard Taneishas words. We need to stay and help these people, Sera said. Unless youre offering to manage healing them and getting them back to their homes? she asked the fae. Taneisha threw her hands in the air like she was helpless to assist further. I healed
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a scene in which the protagonist has freed some people who were under the control of a fae. The fae says that she has healed them but they will remain in a fog until they get a good night's rest. The protagonist and her friend decide to stay and help the people.
